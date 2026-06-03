@@ -1,6 +1,72 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "ef80b0b21dd5da09cf48aeb1acbb813048cfb63156d1b4319813ef957a1591fe": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a045aa41e393cd96f32321ed2d5a22d5496f60de426735a8d30be06a3083e915",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "JPEG XL 之旅：开源实验塑造了图像编码的未来",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:22.577Z"
+    },
+    "8f85c039cd2d68a56d0e296541737af76ba824462a8673f40392405557dab789": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "856cd5c221dc882ee594560187dc431bc5663d1935154dc7a0e540ba385c8ca1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "一个数学家的悲叹 – Paul Lockhart (2002) [pdf]",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:22.578Z"
+    },
+    "539a8680ec3d8c1660198abf8440520f016a00d19676aa98ad766fdff15d0bbb": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d9828c6b2aac4bef9ea48e979b781ad486d7b2b0bab89f61cf8e24366d0cf554",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Ableton Extensions SDK",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:22.578Z"
+    },
+    "9eb531732568d6318e572c7a08070f4683edc94148b9ceb15ae4a5f86c47b7c9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b4bffb35d7c5dc34abd4025151faa681f54aa9a5e4c90927e73f4ab5d73fc954",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN: Mnemo – 面向任何大语言模型的本地优先AI记忆层 (Rust, SQLite, petgraph)",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:22.578Z"
+    },
+    "120193d852fd1588e41854aeda57c927c3ee5f2542b4ec00ae76d0d5dd14c68d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a982392d0b29fb82df91eecfb7b04f395606dfcf08b7bb3013fe6377521f6ac4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "一个靠读书谋生的人（每两天读一本）",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:22.578Z"
+    },
+    "8caf718ee79c98ab36735bd200cde190831445ca6daccdc016f4689d0014538c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "84e6059d2e28be50ff6194feff40ad79fd06c31f3dc2f69384d5f4f84159577f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "自托管开发沙盒，带预览URL (Docker, Go, 无K8s)",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:22.578Z"
+    },
     "c81e396b85bd8a94552c4abacd84907842e769d2d2f2be158190a817ba120319": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -34,17 +100,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T20:34:01.265Z"
     },
-    "08f550d8d26f737380c30832898546b79336ffb9bc36334e347c0d3de4620788": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "403775116700d53faeae227459960d251ed58fd34123eef7d33875d2e66c767c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "人工智能并不具备意识——特德·姜",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:01.265Z"
-    },
     "282690d08501dcb8c6541d933cdf426faee79db82979ace69cbd59f90dd54047": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -53,17 +108,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "胚胎塑造肢体：“基因刹车”的关键发现",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:01.265Z"
-    },
-    "576c5d3d4f0c72c1eb2d595de1501196777d787f8a140bafb2b38a867a3d34aa": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bff7b056e149381db63b28a7ab0a3ef727a9325c54917cfe9a572d9010f6be5e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "机器人流量与人类流量对比",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T20:34:01.265Z"
     },
@@ -100,27 +144,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:06:39.671Z"
     },
-    "6d3abc3b3a8205ff2d8a40ae41923dff6ce826f5a9c27cb8ccb9e692abb88321": {
+    "233d5d4ea2f93e7936a77266c3f22d92ac8cbe7ed28e469c2f9999ae1c1baea5": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "fc8f8eb97c719939f2faedd336ca45c2c88c251f760660327315c52f3df3a303",
+      "sourceHash": "5a6fc26ff5cf933459b9441d83b63207c1ffd1013090382206f8b8db0fd563ed",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Angular v22",
+      "translated": "MacBook Neo 太受欢迎，苹果已加倍生产",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:01.265Z"
+      "createdAt": "2026-06-03T22:59:22.578Z"
     },
-    "68aa0864ce16a916ae516ccc5a329d1dccf147aab4fd27032fad42bd513d95ea": {
+    "f7afb3ed124851d922078de17214e3157b2185b6fd93269f0f5e688e5cab8ebc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "aa2cd4042894956b0d927e73ad91433148e957a04ad509cbea953d7924069f93",
+      "sourceHash": "aad820e649a64894faa130e3d3a58adf45584205b27995b1dceb9bdcff405e0b",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "德州仪器新型 5532 芯片并非我们使用数十年的 5532",
+      "translated": "新的德州仪器 5532 芯片并非我们使用了数十年的那些 5532",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:01.265Z"
+      "createdAt": "2026-06-03T22:59:22.578Z"
     },
     "5f370dee92a84a4fb4f2ccefc3ed019dc00770191a9570e6e48f530828de6a3b": {
       "targetLanguage": "zh-CN",
@@ -188,17 +232,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T20:34:01.265Z"
     },
-    "62f7f1e89a52f75653ecc8b162de69a0e01c33ab798a8b11a0fdf9dccd2d62f6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "07664db2449216496a3eb165c2c733665649543afe91f901f23fd3b2664ae314",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "32GB DDR5 现在售价 375 美元——AI 短缺继续挤压 PC 组装",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:06:17.356Z"
-    },
     "8f8dbd1506be647161a6f7f97318d1b2a9fd3c764ab9a32ab8344b972e17751a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -232,49 +265,104 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:06:17.356Z"
     },
-    "0bf5bc0d25910ca69e33adccb5b7e6008f9fc9c695aabb0e72ae8bb1b572503b": {
+    "394ec6263ebbef648793891a850f40ea9bdf6da329862f3053db6aba698ad419": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "fc89217cacc0da6842533c310db8ccb76e097136d2c5c339e8bf7aa7481de473",
+      "sourceHash": "43d639a211779a22552d3d63c67669215ddf2dc856ff28b4a571f0c576599352",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "利用你的扬声器入侵你的电脑，无需触碰",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:06:17.356Z"
-    },
-    "237003ffec317f0bbef6fb8791eddf35a114ca4a161eede38fe9f69154cc04c8": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "07bf477475c37a2a708d747fbebfdb0b9daa0a449fbc3a7f9726a63b3cbe720c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "关于长号我学到的东西",
+      "translated": "Pwnd Blaster: 无需触碰即可通过扬声器入侵你的电脑",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:01.265Z"
+      "createdAt": "2026-06-03T22:59:22.578Z"
     },
-    "228297f6458914665430a759a8cb032379ee36becfd3df2462b771366792d65a": {
+    "0f095de9610de1d806bf48f94ebde7be224f059f415d49a5c8c1d9a5d1fa4ec3": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "5d075906157559258fa7ca6ad31cc5651b0daf3c19bd7ade0778de268d6268b1",
+      "sourceHash": "35285cc8dc1ce11c2083b973d8fe3ecaa5e1276d30fa69eaf339ba55344053d9",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "PlayStation 架构",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:06:17.356Z"
-    },
-    "171e329df75e7d934586f3bc42d9916a821ab83c017d2220d3541ef024df86c9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6c1c405c592c1ace25a08770732cd2faaf965ab6947ad5911ba62a02bd6ba8b6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "随着人工智能迅速发展，数学家发出警告",
+      "translated": "曼城对安德森的首次报价被森林拒绝",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:01.265Z"
+      "createdAt": "2026-06-03T22:59:29.303Z"
+    },
+    "a3700f235d136973b7db592c0ebd824b7b1ef24a6be5fdde3f00a3edc6361d41": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8a0fa61c330302bc0c53a5fd77cf9099a4523d88d26516e060441b62ad93588f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "趁还能拿就赶紧拿：南海的新现实",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:29.303Z"
+    },
+    "d2f863558593bab5c095d0a9ff470de2557a2262881cbdcf046f1106f57b2d44": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a91a0d44aedb09cc8b05d584b2028e54116fe492a188b10f164ed0798a2065c7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "科博利使用纳达尔的淋浴间，为法网荣耀而战",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:29.303Z"
+    },
+    "33fe94cc0a5ef198244811d572a209c07e7ac3bc3045eaa0c5180b690819d881": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "55cf59dda4da5b03b27912069d2ab9309285a87903dc3810d0c941bf6f714297",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "科纳特透露若塔和父亲去世后自己患上抑郁症",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:29.303Z"
+    },
+    "bb02a3fedafcc623544b142f1c9ef571f3def5a440c8a1be3cc078692dfc99a9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8935f649ca44efee3e8712741fe5c398c159638bb2d7975153d4cd5420b9faf9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "军情五处警告中国间谍利用招聘网站瞄准政府工作人员",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:29.303Z"
+    },
+    "cd50e8389233e8a4ea50cc75c9c005de387f789394a81b1be0d2716de8a922d8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0559c7ddefeb7a0f82b00f315e1428cfaba649f6df539cc0f2735191c8c3c0ae",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列空袭致黎巴嫩九人死亡，真主党越境发射火箭弹",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T20:34:25.561Z"
+    },
+    "0a7155f8592056c1134e44f82936fac587f4ce3a3d2c0dc1586942601195fde9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "80dd403a3191b7ca5944d2bcbe07753befa3b6f93697f5bcc00cc6805ef5e0ba",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "亨利·诺瓦克谋杀案：我们对事件经过的了解",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:29.303Z"
+    },
+    "30af83360cf044a950af0e6cb1e7df58ebf0774ee9fbfc09e13b0ab217a30d00": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b996a348e0512060c5b25dba74b89dad5743989908abe95c3f488b6d19ce4d24",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普与内塔尼亚胡的“疯狂”通话使伊朗谈判复杂化",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:29.303Z"
     },
     "31a8f6f72301bac8406f632d73168a78a01f76c1d2f5ffbe7cf3c83cac71dd56": {
       "targetLanguage": "zh-CN",
@@ -297,17 +385,6 @@
       "translated": "皇家海军直升机训练演习中坠毁，三人死亡",
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:06:33.904Z"
-    },
-    "cd50e8389233e8a4ea50cc75c9c005de387f789394a81b1be0d2716de8a922d8": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0559c7ddefeb7a0f82b00f315e1428cfaba649f6df539cc0f2735191c8c3c0ae",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "以色列空袭致黎巴嫩九人死亡，真主党越境发射火箭弹",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:25.561Z"
     },
     "9de0e676427b1945e6d306f804cd17e9ab608b3047c197e9f6a516e9dab718b3": {
       "targetLanguage": "zh-CN",
@@ -375,17 +452,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T20:34:25.561Z"
     },
-    "ceb3e9454e3770fdb94cc1cecda215f15fe0637d4631bdc9191996da4bf60988": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "85447e3eb760afcd968b78137aa560009c871e812940dbf8e84b57cef44366e5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伊劳拉将让利物浦球迷再次兴奋——墨菲",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:25.561Z"
-    },
     "59a2ab1e9e20edd52a31b1c988d7613c091a70759a9793d3898528227d7ef701": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -418,6 +484,17 @@
       "translated": "'懒惰但方便'——威尔士四分之一的年轻人每周吃两份或更多外卖",
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:06:33.904Z"
+    },
+    "3062a2e7a2889f8f1c260005bd5a08d0e64fc4e80de1e7e5e61ecc04fa7de51d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e18033b66385e5bd2865eb29d1a0ec04bba74a3bee74ac7558436ce78c88ba2e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "汤姆·霍兰德因拒绝SNL角色后发出的关于阅读障碍的“有力”信息而受到赞扬",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-03T22:59:29.303Z"
     },
     "5851eba5dfa2468e546cecd416b21677a07e98b739c46fafbb77aa21924aef82": {
       "targetLanguage": "zh-CN",
@@ -473,72 +550,6 @@
       "translated": "首相指责法拉奇利用诺瓦克案，否认'双重标准执法'说法",
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:06:33.904Z"
-    },
-    "05329cc95af682c25d6d89026a1d49307405b8167ce57a79c07a23c80417b972": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "69b74ea86ff0d1bf312fc535b98b0bc4d64a57eae35faabe43b3df762f14bd92",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "CBS新闻解雇记者斯科特·佩利，其退出《60分钟》",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:06:49.919Z"
-    },
-    "cefb6bc73961585bc84efd44eaed05f69e46ae7b4ef236ec049961bdd408e6ae": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c75996f935ee7673bcdc100cc69d1be423f9391428cdddb1a1ff8f7336addce5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "'自私'的司机延误了对溺水女孩的救援",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:25.561Z"
-    },
-    "f1f1ba1079be015859bab109dc522e67bd39e92b41d3e85a7802763044fc4bcc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "57b604f085acad8ce9e07f250a3f6cefdea18ef4ec0789308313a18071663fe0",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "有多少世界杯球衣可能不会在比赛中被穿着？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:25.561Z"
-    },
-    "34e452275e5a7d8473e4bc2b802126468253e42cbe5e853245310ab38c2c6f06": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3f748f2fa316ae7f5eeb96d764739ce35551f28ec4051c30ff0105cd84e8066a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "环球影城正式命名，政府承诺投入13亿英镑",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:06:33.904Z"
-    },
-    "43329324d9f4e1016889447b57a5a40bef8b4c391f243fe3bff1db4e9b799699": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "858eff72c5075283b35e13b15173b642292e06778b61f34a463ae250768eb11c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "法庭获悉，挪威青少年在英国是为了'执行袭击'",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:06:33.904Z"
-    },
-    "ed0a49e2f16f605d2ebbd3bd091507a82d9f2bb6ba4d30bd98a68e15c1723663": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ac8dc8d496f38a4c65659d23b82d47005c961a73dbd219d489c25f7324555b7c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "社区对亨利·诺瓦克警方抗议中的暴力行为感到震惊",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:06:49.919Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
