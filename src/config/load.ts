@@ -4,12 +4,13 @@ import { z } from "zod";
 import { ITEM_FIELDS, type FeedConfig, type ItemField } from "../types.js";
 import { shortHash } from "../lib/hash.js";
 import { stateFilePath } from "../state/paths.js";
+import { expandEnvTokens } from "./secrets.js";
 
 const DEFAULT_FEED_LIMIT = 25;
 
 const rawFeedSchema = z.object({
   path: z.string(),
-  url: z.string().url(),
+  url: z.string().min(1),
   targetLanguage: z.string().min(1),
   limit: z.number().int().positive().optional(),
   fields: z.array(z.enum(ITEM_FIELDS)).nonempty(),
@@ -26,6 +27,7 @@ export async function loadConfig(path = stateFilePath("config/feeds.yaml")): Pro
 
   return parsed.feeds.map((feed) => {
     const pathKey = normalizePath(feed.path);
+    const url = normalizeUrl(expandEnvTokens(feed.url));
     if (seen.has(pathKey)) {
       throw new Error(`duplicate feed path: ${feed.path}`);
     }
@@ -34,13 +36,21 @@ export async function loadConfig(path = stateFilePath("config/feeds.yaml")): Pro
     return {
       path: `/${pathKey}`,
       pathKey,
-      feedId: shortHash(`${pathKey}|${feed.url}|${feed.targetLanguage}`),
-      url: feed.url,
+      feedId: shortHash(`${pathKey}|${url}|${feed.targetLanguage}`),
+      url,
       targetLanguage: feed.targetLanguage,
       limit: feed.limit ?? DEFAULT_FEED_LIMIT,
       fields: [...feed.fields] as ItemField[],
     };
   });
+}
+
+function normalizeUrl(input: string): string {
+  const url = new URL(input);
+  if (url.protocol !== "http:" && url.protocol !== "https:") {
+    throw new Error(`feed url must use http or https: ${input}`);
+  }
+  return url.toString();
 }
 
 async function readConfigFile(path: string): Promise<string> {

@@ -4,6 +4,7 @@ import { extractFeed } from "../pipeline/extract.js";
 import { writeTextFile, writeJsonFile } from "../lib/files.js";
 import { fetchText } from "../feed/fetch.js";
 import { parseFeedXml, windowFeed } from "../feed/normalize.js";
+import { redactUrl } from "../lib/url.js";
 import { reembedFeed } from "../output/reembed.js";
 import { renderRss } from "../output/rss.js";
 import { loadTranslationCache, pruneCache, saveTranslationCache } from "../state/cache.js";
@@ -46,7 +47,7 @@ async function main(): Promise<void> {
       issues.push(...feedIssues);
       feedReports.push({
         path: config.path,
-        sourceUrl: config.url,
+        sourceUrl: redactUrl(config.url),
         outputPath: rendered.outputPath,
         limit: config.limit,
         inputItems: normalized.channel.items.length,
@@ -69,7 +70,7 @@ async function main(): Promise<void> {
       issues.push(issue);
       feedReports.push({
         path: config.path,
-        sourceUrl: config.url,
+        sourceUrl: redactUrl(config.url),
         limit: config.limit,
         inputItems: 0,
         outputItems: 0,

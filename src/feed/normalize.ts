@@ -1,6 +1,7 @@
 import { XMLParser } from "fast-xml-parser";
 import type { FeedConfig, NormalizedFeed, NormalizedItem } from "../types.js";
 import { sha256 } from "../lib/hash.js";
+import { redactUrl } from "../lib/url.js";
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -135,8 +136,8 @@ function meta(config: FeedConfig, xml: string, sourceFormat: "rss" | "atom", fin
     path: config.path,
     pathKey: config.pathKey,
     feedId: config.feedId,
-    sourceUrl: config.url,
-    finalUrl,
+    sourceUrl: redactUrl(config.url),
+    finalUrl: finalUrl ? redactUrl(finalUrl) : undefined,
     targetLanguage: config.targetLanguage,
     sourceFormat,
     fetchedAt: new Date().toISOString(),

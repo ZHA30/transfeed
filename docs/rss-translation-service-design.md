@@ -43,12 +43,19 @@ feeds:
     targetLanguage: zh-CN
     fields:
       - title
+
+  - path: /private/rsshub
+    url: https://rsshub.app/abc?key=${RSSHUB_KEY}
+    targetLanguage: zh-CN
+    fields:
+      - title
 ```
 
 字段规则：
 
 - `path` 必填，必须以 `/` 开头，支持多段路径，例如 `/openai/blog`。
 - `url` 必填，必须是 `http` 或 `https` 绝对 URL。
+- `url` 支持 `${ENV_NAME}` 占位符，用于运行时注入 secret 参数。
 - `targetLanguage` 必填，例如 `zh-CN`、`zh-TW`、`ja`、`ko`。
 - `limit` 可选，必须是正整数，表示该 feed 的输入和输出窗口大小；未配置时使用代码默认值 `25`。
 - `fields` 必填，非空数组，只允许标准化后的 item 字段。
@@ -114,6 +121,16 @@ Repository Secrets：
 | `LLM_API_KEY` | LLM API key |
 
 抓取超时、抓取并发、LLM 并发和批次大小先作为代码常量，不进入配置文件。
+
+敏感 URL 参数不能直接写入 `state/config/feeds.yaml`。推荐在配置中使用 `${RSSHUB_KEY}` 这类占位符，并在 GitHub Secret `TRANSFEED_SECRET_ENV` 中保存 JSON 映射：
+
+```json
+{
+  "RSSHUB_KEY": "123"
+}
+```
+
+运行时先从同名环境变量读取，再从 `TRANSFEED_SECRET_ENV` 映射读取。缺少占位符对应值时构建失败。运行报告中的 `sourceUrl` 只保存脱敏 URL，query 参数值和 URL 用户认证信息会替换为 `***`。
 
 ## 4. 总体流水线
 
@@ -810,6 +827,7 @@ jobs:
           LLM_MODEL: ${{ vars.LLM_MODEL }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           TRANSFEED_STATE_DIR: state
+          TRANSFEED_SECRET_ENV: ${{ secrets.TRANSFEED_SECRET_ENV }}
       - uses: actions/upload-pages-artifact@v4
         with:
           path: dist
@@ -856,6 +874,7 @@ interface RunReport {
 
 interface FeedRunReport {
   path: string;
+  // Redacted source URL, never the raw fetch URL.
   sourceUrl: string;
   outputPath?: string;
   limit: number;

@@ -44,6 +44,7 @@ jobs:
           LLM_MODEL: ${{ vars.LLM_MODEL }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           TRANSFEED_STATE_DIR: state
+          TRANSFEED_SECRET_ENV: ${{ secrets.TRANSFEED_SECRET_ENV }}
       - uses: actions/upload-pages-artifact@v4
         with:
           path: dist
