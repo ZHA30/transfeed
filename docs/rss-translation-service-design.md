@@ -678,7 +678,7 @@ reports/
 
 `state` 分支不执行代码，只作为数据分支。状态只服务于增量翻译，不作为发布产物，也不代表线上 Pages 当前内容。状态中不保存最终 XML、双语 HTML 或完整 rendered item。构建时通过本地临时 worktree `state/` 读写该分支，主分支忽略这个目录。
 
-`README.md` 是订阅入口，列出每个 feed 的 GitHub Pages 绝对订阅链接。Pages artifact 不生成 `index.html`。
+`README.md` 是订阅入口，只包含每个 feed 的 GitHub Pages 绝对订阅链接列表。Pages artifact 不生成 `index.html`。
 
 ### 12.1 manifest
 
