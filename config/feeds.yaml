@@ -1,6 +1,20 @@
 feeds:
-  - path: /hn
-    url: https://hnrss.org/frontpage
+  - path: /ycombinator/news
+    url: https://news.ycombinator.com/rss
     targetLanguage: zh-CN
     fields:
       - title
+
+  - path: /bbc
+    url: https://feeds.bbci.co.uk/news/rss.xml
+    targetLanguage: zh-CN
+    fields:
+      - title
+
+  - path: /readwise
+    url: https://wise.readwise.io/feed
+    targetLanguage: zh-CN
+    fields:
+      - title
+      - content:encoded
+    limit: 10
