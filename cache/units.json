@@ -1,38 +1,71 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "4702ac50a72d69a5fc21d3687e95c57b21109f9471a74c007a1c31a25536dde0": {
+    "8d069dc78bc02ed890d4b429794b63ea8d3dd933f2175e60bf21ba2d6c5001ac": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "53dff665539786a192d4ecc4d64fcf8851e989ed1d44f493aa1c008bccaa1c0c",
+      "sourceHash": "0f991fa2fabc4a6d6cd28a05174ff29f791cb02455c735589d006f457bc226fe",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "谷歌员工内部流传调侃其AI表现糟糕的表情包",
+      "translated": "纽约时报的绝望",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:20:20.380Z"
+      "createdAt": "2026-06-04T18:12:42.669Z"
     },
-    "7bbe43cbf5f4ce593bfe5d9b1c5d5d498727e28c6e689e6fe447523b166f5c9e": {
+    "e37cf219960fd09ff37cca23f715b8e6640529f5cc98048be0428892171a2474": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "a715d9e2a4a54d28e38903b1e9aefb7e5df6aa69696f1899cf0c371d3260c119",
+      "sourceHash": "f408716be3408bb7c6a09fafa3ef94e84efcf49329d8c89895b89194ec4d69a4",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "波音787在法兰克福前起落架塌陷致多人受伤",
+      "translated": "Zettascale (YC S24) 正在招聘创始FPGA工程师",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:20:20.380Z"
+      "createdAt": "2026-06-04T18:12:42.669Z"
     },
-    "e540af569e25f0a5018c5a277d6fb50dd12cb8d6edd67f30448b736b6a76efe5": {
+    "ae002ce2a241d0f08f93479bac3ed80a21cbe4635ca94b6e70950137aff5bd55": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2074788120a38c6b4db56366be00f0b99e664de45c707277ed342068c511e5e8",
+      "sourceHash": "6f3186f378891f9f8b57f2ef8d6f34f1c2d92e5dadf0a0a4f2acade53a60be8d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "KVarN：华为推出的原生vLLM KV缓存量化后端",
+      "translated": "12,060块积木，$799.99，圣家堂是迄今为止最大的乐高建筑套装",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:20:20.380Z"
+      "createdAt": "2026-06-04T18:12:42.669Z"
+    },
+    "07ec87632d8bec7a3c007ef4c29c0b72ef4a822e0a86e1568aee89dbecdd9129": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "88a6a67cac420d1323bd3542277dc5f0e88d1d0dff8f7a4347419a2231189ecb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "当AI自我构建：我们在递归自我改进方面的进展",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:42.669Z"
+    },
+    "81ff578b4b8ae760b707aa49078b39093d0d6ea8799265bd20b40dd9628d4920": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cf0b181ae420a2d61308f54c5fe6ee7efa3ac5c78001283f299a5550422c0c26",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "复古科技育儿",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:42.669Z"
+    },
+    "a37ef843dac1b35665de08ba06f1cce6d98028b09bd9726213518753fa8cb87c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4a6233d3af10c1b4234ae846c072392092c1a59dd71496d39c250e62ca024c1e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "KVarN：华为为KV-cache量化提供的原生vLLM后端",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:42.669Z"
     },
     "1b87df08adc1f79153465037a3d9efa2808308acea2144e218d7a299f66a232c": {
       "targetLanguage": "zh-CN",
@@ -67,16 +100,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:20:20.380Z"
     },
-    "088c6ce44dcb491e8e29e3a673cec837bffc6c833e83ae6413fa5be192049238": {
+    "be6e93953206aa770287f389ba78c8c1d2846a370f8bbaf0b01b3d325bc1484c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "129e9fe5977ba440a58ff75c34d830867d9a315014bbafa8811bf55071c402a9",
+      "sourceHash": "074a90553aa76f09a9fe92e4f03550dfe82a58063040ceda4b39efb5d8eb6ee6",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "AccessOwl（YC S22）正招聘AI TypeScript工程师，连接300个SaaS工具",
+      "translated": "Ask HN：Facebook的\"localhost\"追踪到底发生了什么？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:20:20.380Z"
+      "createdAt": "2026-06-04T18:12:42.669Z"
     },
     "35650ce066ea57fe21ff86222038e230d34431b3f9c1fdf11c5df92244433a5e": {
       "targetLanguage": "zh-CN",
@@ -111,16 +144,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:20:20.380Z"
     },
-    "75f090d802966fea03a9e0ff55e98a689e3b1af386a16eac4038a49f1e233a2a": {
+    "4536370f056a9af046de8771f53db5b80efaf494947943fa60d1f0f9ac3b1289": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "26b3fb11f3d05df2ef6e98e4c5c0f8e4b9801a1d953650b9e5e395ce6e76af35",
+      "sourceHash": "cafb9c23191808cf9bf2ebc02ad25f71f076f7720038677fb52e185d3eeef1f8",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "英国媒体在近60%的情况下未能披露国防部门关联",
+      "translated": "Show HN：Uruky（基于欧盟的Kagi替代品）现在有图像搜索和URL重写",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T10:26:31.742Z"
+      "createdAt": "2026-06-04T18:12:42.669Z"
     },
     "31694373b52fe63ce119a3fc06b1e8682a2d126e0e3d4a5603222a703f3c848a": {
       "targetLanguage": "zh-CN",
@@ -177,27 +210,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T20:34:01.265Z"
     },
-    "1b99fc7b05f3fe0ac36941fd2880347b2378a5808f807e55def8aa86b691da72": {
+    "08f550d8d26f737380c30832898546b79336ffb9bc36334e347c0d3de4620788": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "a7dc5ae05c61ce95fa707902f725687c7f8150bf5d0701d8c2a7340abcfca740",
+      "sourceHash": "403775116700d53faeae227459960d251ed58fd34123eef7d33875d2e66c767c",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "人工智能没有意识",
+      "translated": "人工智能没有意识——Ted Chiang",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:20:20.380Z"
-    },
-    "1a9e7b44334c86c7ed346602e16aab3b87ef3f09ea60d1ed2b81c7c77cba6dc6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "cfd75194af35343e5452fe545a9f851caae2f42c3db1b1794c4984dd203b3bf4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "ESP32-S31",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:06:39.671Z"
+      "createdAt": "2026-06-04T18:12:42.669Z"
     },
     "60c8bbf2f8dfbd515f441f27c33f37e0e381e95382e4c4a9428370ad792caa44": {
       "targetLanguage": "zh-CN",
@@ -209,17 +231,6 @@
       "translated": "Gemma 4 12B：统一的、无编码器的多模态模型",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:06:39.671Z"
-    },
-    "605299cce606bee590208214f36ac0027a02eb5b13a1c72afaaad524eea66d9d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5d3da1eca0b9989d79e9edef043b01b0b451e893f0b21f946ff26f599e9e3486",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "达芬奇调色21",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:06:17.356Z"
     },
     "505bf76b7c884696704db183e5e61face499202e9566af95cc46551d41a24235": {
       "targetLanguage": "zh-CN",
@@ -254,17 +265,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:20:20.380Z"
     },
-    "08c7a8761ae7a4d9a6f8984e2d40db486c1314daa723ad3d36976764c1d11f18": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bca528f3ae05830e0f38245c5a94e1559cc59634f7c47497758628ceb40a643c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "thunderbolt-ibverbs：我们在家拥有InfiniBand",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T10:26:31.743Z"
-    },
     "e05e257c9f19263b3289fd09906406f62d0bd054b70bc7bbf2b9e2c61f3b6b02": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -275,6 +275,50 @@
       "translated": "3D打印书籍将其自身的G代码转化为凸起文字",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:20:20.380Z"
+    },
+    "4aa31ca8555936aaf58a747ea9394f55d4e1385b5c6884b5ee5791b50420ccff": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b8f5d72653c2b0b4095bb17ba65edce20a2e4b376787f581fdb4cd93d514d8a1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "今日于测试赛观看：首日测试",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:58.275Z"
+    },
+    "31dda213827748d935277bc1711549d6d47f682605988ef8c5b2cfcc32de7ed4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "986ad86a25546a26ad01feb7461440962e7d3916dffd869ee4a758b344a338e3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "预选赛选手赫瓦林斯卡晋级法网决赛，将战安德烈耶娃",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:58.276Z"
+    },
+    "3ced357a3b4bdaf1e4756cf941b3f276b0b8b8304b8ef34f953ef67eb625c814": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b583b375d08a0e7083b2a6431d1707fb7dcfbc2ea7e9c11fa1637e200903d46f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "总理称亨利·诺瓦克的遗产应超越悲剧",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:58.276Z"
+    },
+    "176a63839ff4f9415c7ce526b6af8490848689da6541a6a6de18276411db46ef": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "69b0c53d18cdf7640d8ab48c803d886733a61da84696949b505d0cf7f3271a7a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "律师称迪拜统治者侄子的前妻失踪",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:58.276Z"
     },
     "a5a33c71d95f0a4867a434d464545cb8f24d1abeb5a5117a4d5f5037e880f408": {
       "targetLanguage": "zh-CN",
@@ -287,27 +331,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:20:44.817Z"
     },
-    "3abf108c604a34d2231c2d59afa26930f1a3918a6aba4d262328226bb98611a4": {
+    "827cea153a1d2e1ad4e5c0f4f7283f32dd12e5415cb7ba676afc4d68bf0c611e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "247beec775194238772279a5bee4c6da02faf63401ec7555cee22aa31f88b805",
+      "sourceHash": "e4b230b13d2f14a9abd5f787cc2390cfcca13213995e35b4ca1e306076af94c1",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "俄罗斯少女米拉·安德烈耶娃击败玛尔塔·科斯秋克晋级法网决赛",
+      "translated": "真主党拒绝接受以色列和黎巴嫩达成的新的停火协议",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:20:51.477Z"
+      "createdAt": "2026-06-04T16:22:00.371Z"
     },
-    "29b788ed07d854b3fb3f7a4b5d59ce61e7c442409feb3040a96917db8ef6f1ee": {
+    "3c1ced732664fc9c19460f54c4c9f47e33036240d62dfdefcd4e55897a6779e3": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "66bd90e00e9ed02c89663d017c0d70e4b93e734c42f1f13f5b83af6a4dd6561b",
+      "sourceHash": "2821799421d297f8a9d4bf0113ed686734dda169c43dfa1a3856d0ddff142ffa",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "俄罗斯少女安德烈耶娃击败科斯秋克，晋级法网决赛。",
+      "translated": "荷兰警方调查多起涉嫌下药和性侵女性案件",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:20:56.613Z"
+      "createdAt": "2026-06-04T18:12:58.276Z"
     },
     "ea9d16f5ebc1a39406b13d96ccd4bd62fad4b7267038241128dfab264ed54b4d": {
       "targetLanguage": "zh-CN",
@@ -320,16 +364,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:21:01.500Z"
     },
-    "0b6dc79ea1e9c9f64e85905bbc097096bd769446b431c288fa7a0ec182489ca1": {
+    "c161d9f9522dd1db0825626750c1311e3197d324ac05051909fd60ee3e31c043": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "8cd3f3d34a7b6eef4e1b121458d638ba7f225f7b5e8044e3df3cf6df361390b6",
+      "sourceHash": "ad531cb1053e6bf1506de4eeb3d2f4a643d3be33e8b4b6bc5a8e02761f2e40ea",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "青少年因持刀谋杀被判终身监禁，而此前他因持刀伤人获保释",
+      "translated": "凯特拥抱按响“结束癌症治疗”铃的母亲",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:21:09.042Z"
+      "createdAt": "2026-06-04T18:12:58.276Z"
+    },
+    "1d991bef9bc2060d9326572715682c2ecf458a2679318cb71eb72f13d81f5e24": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "202692da72b70186a4c3670316d6b2069adae582737fd5ed18f35910dc91e50b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "斯塔默指责马斯克试图在亨利·诺瓦克谋杀案上煽动分裂",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T10:26:51.618Z"
     },
     "ed79ff16352e8e1441d5cb6230743aa04f622ec694443e3af00215d2eadf8199": {
       "targetLanguage": "zh-CN",
@@ -342,6 +397,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:21:27.548Z"
     },
+    "12adc047d4ce678341371ca7ebfe958487e45e2e01abf4c80c165669aba2868e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "425c3fdec4b0927cf23c3a74cfe05752e7e527dbcae7ebc235651a65d3a10ca8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "世界杯票价如何了？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:58.276Z"
+    },
     "0160bcc7f2c576318a8e763550641b8ca1d4591e17b7bf844f746955d13f62ce": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -352,17 +418,6 @@
       "translated": "在诺瓦克案中被误认为是警官的女性‘担心安全’",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:21:33.586Z"
-    },
-    "48c276b1957904c7e518658cc96d2ff6035ac16b36ce8bac629c0412300010ab": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2c7445943466b806cd6a8c380930fab363893d4074f93c9ab81ba3defbb9a837",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "漏接、四分和半个世纪——Brook的精彩局的最佳表现",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:21:48.501Z"
     },
     "ed5dd22ca38bdf21a6213cf5211297cd46377a6a4308480c1ce5da8b5b6d508c": {
       "targetLanguage": "zh-CN",
@@ -375,17 +430,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:21:52.394Z"
     },
-    "827cea153a1d2e1ad4e5c0f4f7283f32dd12e5415cb7ba676afc4d68bf0c611e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e4b230b13d2f14a9abd5f787cc2390cfcca13213995e35b4ca1e306076af94c1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "真主党拒绝接受以色列和黎巴嫩达成的新的停火协议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:22:00.371Z"
-    },
     "4307bb459ffc8dde19be0a141df5a9c2c647ca7ff01e2f9da702b27476dad175": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -396,17 +440,6 @@
       "translated": "在众议院就伊朗问题谴责他之后，特朗普反击称该投票'不爱国'。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:22:11.602Z"
-    },
-    "1d991bef9bc2060d9326572715682c2ecf458a2679318cb71eb72f13d81f5e24": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "202692da72b70186a4c3670316d6b2069adae582737fd5ed18f35910dc91e50b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "斯塔默指责马斯克试图在亨利·诺瓦克谋杀案上煽动分裂",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T10:26:51.618Z"
     },
     "6acd420a79f948b16e5fdda75d35e2e3348e8d0eb8d0a35db0e0b382d4b8e25c": {
       "targetLanguage": "zh-CN",
@@ -430,17 +463,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:22:24.651Z"
     },
-    "6f98391b003f5c66df5b6dee6632e7be299336f89d08a5902fc6e06c2f6f0a69": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "75499c50910ae1b4c9ef617a02363082bdfa9ebf489c95860f3fd1696d9596f7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "贝叶挂毯的伦敦之行‘万无一失’",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:22:34.677Z"
-    },
     "6e1bf3a50b31141a1be33b7b49973572b0e09b01e6d94a06194d28b58918b256": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -463,6 +485,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:22:48.003Z"
     },
+    "0ac8bdb828ce8e2d14bd52d6893794c1f4d600b072691b7b0fc29e5097e9b3a3": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c461183ca5d30512e4fa1321f935e92945661b6872a8e60837faf0fca049022d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "高温专家警告“鲁莽的”国际足联，禁瓶令存在健康风险",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T18:12:58.276Z"
+    },
     "b73703220565018b46af581a908bb96ec8acb5fe95f0c0671bb9498f0e467e95": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -473,17 +506,6 @@
       "translated": "失踪六天的夏尔巴向导被发现爬行至珠峰大本营",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:22:52.627Z"
-    },
-    "6ba9513367778beee5232d294c371dcdb20dda7333b80ffcfff65c52de0a424e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2f332b5a4300fbbc016fabfe976434cf4d8c0e8d8a2a319582721823b399dd31",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "调查将审议警方反应是否导致亨利·诺瓦克死亡",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:22:56.912Z"
     },
     "a5efe8c85c47ffe76f08cd49272133582eb15e3bc0adcc0cccc898653a053219": {
       "targetLanguage": "zh-CN",
@@ -507,17 +529,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:23:06.331Z"
     },
-    "e9ab12b6f2fce89e450d5aa41cd59e33e5fb62353c96c02e3986e143432655dc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "392e6c2dc5aa2eb17c8b0262021bb07c3d5e8174fb69803745c52c59eb075bcd",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "曼城考虑就皇马候选人承诺签下哈兰德采取法律行动",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T10:26:51.618Z"
-    },
     "b66bdd0764c018003d8383bf7fff9baaca171a3bc5a53b2b032fc98931f489a5": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -539,17 +550,6 @@
       "translated": "我们的社区在骚乱后被标记为战区——但现实情况截然不同。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-04T16:23:16.275Z"
-    },
-    "2e0c31c78db1fb4877bb02304e4e225cd4336a9196e12e4a1ce6974376b9ecc8": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9f816b2177d3691ee8481c0a10985cc31872ab3e1c320ccdf48142a48275acec",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "“我损失了数千储蓄”：受终身ISA罚款影响的购房者",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T16:23:23.353Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
