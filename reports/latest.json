@@ -1,7 +1,7 @@
 {
-  "runId": "26918359681",
-  "startedAt": "2026-06-03T22:59:14.026Z",
-  "finishedAt": "2026-06-03T22:59:29.958Z",
+  "runId": "26924783953",
+  "startedAt": "2026-06-04T01:43:50.506Z",
+  "finishedAt": "2026-06-04T01:44:16.808Z",
   "status": "success",
   "feeds": [
     {
@@ -12,8 +12,8 @@
       "inputItems": 25,
       "outputItems": 25,
       "units": 25,
-      "cacheHits": 16,
-      "translated": 9,
+      "cacheHits": 21,
+      "translated": 4,
       "failedUnits": 0,
       "issues": []
     },
@@ -50,8 +50,8 @@
     "inputItems": 60,
     "outputItems": 60,
     "units": 328,
-    "cacheHits": 311,
-    "translated": 17,
+    "cacheHits": 316,
+    "translated": 12,
     "failedUnits": 0
   },
   "issues": []

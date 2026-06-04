@@ -1,6 +1,39 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "31694373b52fe63ce119a3fc06b1e8682a2d126e0e3d4a5603222a703f3c848a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "39e1a802ffabf2be885437de1379b656d4f25329d98fb994d14f77677a67f51d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我构建了一个有漏洞的应用，并花费了1500美元来测试LLMs能否攻破它。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:04.536Z"
+    },
+    "71f3f02fe0f4b854f83692c0a4e81087114c27582981f564ab2d892beabd8dd4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "796372c5210e90df41f0c0e928d0627346b6ff1a42e726626139e8c290fc424c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我们在各个产品中管控Claude的方法。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:04.536Z"
+    },
+    "10917b0272806a1d113accf72226128b6fd5fe8d81b11b7eec9e254a398dc9b7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "19c7e2d82ef2ad983742ec49ad789e41c919e1770c39e11694c9bbe199f1d75b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Ü编程语言。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:04.536Z"
+    },
     "ef80b0b21dd5da09cf48aeb1acbb813048cfb63156d1b4319813ef957a1591fe": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -89,16 +122,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T20:34:01.265Z"
     },
-    "4cc63bb4175697d60b6814b720f16672cfdd646deae826fde72b34001556b5c9": {
+    "08f550d8d26f737380c30832898546b79336ffb9bc36334e347c0d3de4620788": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2b0fec2500d67bca3feb6d3ee566186c9e2a99def948d37be91f99b95b827edd",
+      "sourceHash": "403775116700d53faeae227459960d251ed58fd34123eef7d33875d2e66c767c",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Rootshell：冰岛托管的全新端到端加密电子邮件服务",
+      "translated": "人工智能没有意识——特德·姜。",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:01.265Z"
+      "createdAt": "2026-06-04T01:44:04.536Z"
     },
     "282690d08501dcb8c6541d933cdf426faee79db82979ace69cbd59f90dd54047": {
       "targetLanguage": "zh-CN",
@@ -143,39 +176,6 @@
       "translated": "Skyvern（YC S23）正在招聘热爱开源的DevRel工程师",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:06:39.671Z"
-    },
-    "233d5d4ea2f93e7936a77266c3f22d92ac8cbe7ed28e469c2f9999ae1c1baea5": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5a6fc26ff5cf933459b9441d83b63207c1ffd1013090382206f8b8db0fd563ed",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "MacBook Neo 太受欢迎，苹果已加倍生产",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T22:59:22.578Z"
-    },
-    "f7afb3ed124851d922078de17214e3157b2185b6fd93269f0f5e688e5cab8ebc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "aad820e649a64894faa130e3d3a58adf45584205b27995b1dceb9bdcff405e0b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "新的德州仪器 5532 芯片并非我们使用了数十年的那些 5532",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T22:59:22.578Z"
-    },
-    "5f370dee92a84a4fb4f2ccefc3ed019dc00770191a9570e6e48f530828de6a3b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7b0d1c96cdb32a2b8072bab6e168d8c0aefa2ce69dbfefd13ec41e8859885ea3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "HN 展示：Nutrepedia——使用 Clojure 和 Htmx 构建的涵盖 29 个地区的营养信息",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:01.265Z"
     },
     "1a9e7b44334c86c7ed346602e16aab3b87ef3f09ea60d1ed2b81c7c77cba6dc6": {
       "targetLanguage": "zh-CN",
@@ -276,6 +276,83 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T22:59:22.578Z"
     },
+    "378fdfaa27cdbbcbb2a5f7349c5e5620d9b2b29020420d7f97c1bf3a13a9bcca": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3891b9aa074203c08f8e44abc33a213715bb9ed96d23966fec24a3cf9d89961b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "报纸摘要：‘高级警官道歉’和‘酒吧王子’",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:16.028Z"
+    },
+    "9d4137573e9b55b4bb2fa6dbff83db5c91e5d304fdc3f52d8a9d0b925116d528": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4008406b253ff95c987e4783ddbe1f5a9f28f39cc04a881d3e325844e125d64a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国众议院投票阻止伊朗战争，以示对特朗普的谴责",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:16.028Z"
+    },
+    "2b010907e155265591d8283115c39ddfb9b29e7ab6df5ae0e6e0c737464c1e21": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4a62c806136118399fa396147347672a9ade820203783e99a605a94aca969ff3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列和黎巴嫩同意在真主党停止袭击后实施停火",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:16.028Z"
+    },
+    "a53464e4831afeb940d7adea056cbf2b56dc4f90673759bb0e468532357d6641": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0c56918d73655990e35f8f2068517ceb89c996c5d16da116cea11ad013959aef",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "脱发突破对像我这样的女性意味着什么？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:16.028Z"
+    },
+    "b638740c0a94f56d90163401dcc25b28534e07ac03e91380ffea2e71b7f8145f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b45ca07c271ba9e7991de506d308a663acc66b6cfdfde4e1120826789d1c0b0a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "突破性卵巢癌药物为患者提供更多时间和更高质量的生活",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:16.028Z"
+    },
+    "90785f75f3b1e4e874edf18354b1c382918cd6b01f4b4d9950d3f2b4a3028989": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "340ff946d6c0963baa635ea7225d923af8aa69720a11bd92485edd8606cfa415",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "SpaceX称估值达1.75万亿美元，接近股票市场首次亮相",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:16.028Z"
+    },
+    "428554c0ec146d266a86a6cf827c1b422d7b9def074cfb271435adb3402bbb60": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1a9cafe888b02624cb016ecc86fd9797dd5560b32869f65c036e00aaaed9e270",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "报告建议NHS工作人员应被禁止佩戴亲巴勒斯坦徽章",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:16.028Z"
+    },
     "0f095de9610de1d806bf48f94ebde7be224f059f415d49a5c8c1d9a5d1fa4ec3": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -331,17 +408,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T22:59:29.303Z"
     },
-    "cd50e8389233e8a4ea50cc75c9c005de387f789394a81b1be0d2716de8a922d8": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0559c7ddefeb7a0f82b00f315e1428cfaba649f6df539cc0f2735191c8c3c0ae",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "以色列空袭致黎巴嫩九人死亡，真主党越境发射火箭弹",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:25.561Z"
-    },
     "0a7155f8592056c1134e44f82936fac587f4ce3a3d2c0dc1586942601195fde9": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -374,6 +440,17 @@
       "translated": "伊朗无人机袭击科威特机场，致一人死亡数十人受伤",
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:06:33.904Z"
+    },
+    "976a53461e71d73a3c5904af908097d03628335b14b1402890e85f40fe5c8df4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "324489339ec5f09959c014e22f418e1d38ce775c04923dd26d64310343c7c391",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "议员因深度伪造比基尼照片起诉马斯克的xAI",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-04T01:44:16.028Z"
     },
     "4b71e337b2b478f7d1092073a368f3238dad7c172ae5bdb65e54626983809aaf": {
       "targetLanguage": "zh-CN",
@@ -473,83 +550,6 @@
       "translated": "'兼职'麦克罗伊将继续选择性参赛",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T20:34:25.561Z"
-    },
-    "be604a519938d3024a6abf31b2e43d78b93224cda5665085ec27783df3ebbb1f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "991468eb111fc45bb46f52b06934cd8a88a175875240abafb1fd94f4892352c6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "'懒惰但方便'——威尔士四分之一的年轻人每周吃两份或更多外卖",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:06:33.904Z"
-    },
-    "3062a2e7a2889f8f1c260005bd5a08d0e64fc4e80de1e7e5e61ecc04fa7de51d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e18033b66385e5bd2865eb29d1a0ec04bba74a3bee74ac7558436ce78c88ba2e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "汤姆·霍兰德因拒绝SNL角色后发出的关于阅读障碍的“有力”信息而受到赞扬",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T22:59:29.303Z"
-    },
-    "5851eba5dfa2468e546cecd416b21677a07e98b739c46fafbb77aa21924aef82": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "25b1c54f9fbf5326663330b1ab141e4a3f5a92beb458c9689b5e682e4cb685a4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Newscast",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T20:34:25.561Z"
-    },
-    "9d654a95c1e0e27bae7b1b7c0b3cb31805f98b02d84daaddcc87471c34f1cf49": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e73771375865ab87d62641c988800180359754eecc9e0e7b08f2faa2e1f7b7b2",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "PlayStation发布会公布会说话的方块、女版战神和金刚狼等",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:06:49.919Z"
-    },
-    "67731010e84cb7d3896afea5d06f660820dd2aad3be8540aa134dea8ce6db0fe": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "484df84d7888f80de744e1c7b864d6bb6fbb37731ee4e1501866d1990c23c557",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "男子在加州银行劫持人质后被FBI击毙",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:06:49.919Z"
-    },
-    "6f2023578390e07f4e1545252dc5822ccdac5a1a0426913b715bf30e0f7ba00e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fc9ff93e95cb5da8182c0470dc71b2f2037c6387bde18c3585d96d9def661063",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "BBC主持人因错误引用奈杰尔·法拉奇而道歉",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:06:49.919Z"
-    },
-    "45fe06a2fd40a3fd1068d9870228038cba0ca26f7170c32b6705fcade7a8d6dc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d2efa309fb83aaeeb98f91d42e215c0eaced27506b8866fa93bd8af947802d76",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "首相指责法拉奇利用诺瓦克案，否认'双重标准执法'说法",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:06:33.904Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
