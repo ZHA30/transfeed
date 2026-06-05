@@ -1,6 +1,83 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "869480f0e41148ac1f72a96e18bbeb97fb9619311621b7cf34765ef4f84d8083": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f92062087f9c00839926910e295146cfec72a3793f59e87d647fd71c7ddabfbb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "询问HN：你的（AI）开发技术栈/工作流程是什么？（2026年6月）",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:35.715Z"
+    },
+    "5c0b4724336569bd1753829fff9bfcae2725b497a395c0561cd9efdc4255f171": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2d187e160764dbd94026e6baa23e40193d45b726b4bd27f7696c4fa43c745304",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "国际空间站宇航员被告知避难，正在修理以修复空气泄漏",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:35.715Z"
+    },
+    "01ec926aa145f79d6d38d88be74abeb05cf82cd0bce354d5b52ff3e5a9f73fe1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1e51a778b531397ed84a684cccc674579a052f1e5b8c950cdae9931e1cb5ba61",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "纽约刚刚通过了为期一年的数据中心临时禁令",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:35.715Z"
+    },
+    "7f640506d30bb6cc6f60f5bbf5479392e16ab63190fc44b6a29a83cd8b1f4673": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fea41f55da228eaed250ad7bf03fa11dc8b0796a595b72af50905a4298d14991",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "荷兰政府只允许欧洲公司运营DigiD平台",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:35.715Z"
+    },
+    "1bcb44835663bb42ab2a52a0cc9880850c7e7a308cc002415110944c23d5ebd9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c1698f9a05b11468b527802ea7dd053e115d79f8327d1ef8c049308689bba552",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "技术面试拒绝了错误的工程师",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:35.715Z"
+    },
+    "e4e94712484d14e2570adb983ecadca4aa716555200d22a5723008094df7cfea": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9d81feb401d0732a169a5c52ff0aeff31edc8f024b099581e9933b59e47bc17b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我测试了家庭实验室中的每一个IP KVM",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:35.715Z"
+    },
+    "f73fa7601693603df427e9ca1d34e57690431e6149ad9037a3c56f7e36cbf649": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b0995e6089d2c7ee3480dfe639bc82ec975ba033444dac67dc4cec5ffebb2d82",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "程序员会为Claude编写文档，但不会为彼此编写",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:35.715Z"
+    },
     "dedd73742cc23033da56f1b2ea56a125cfeecd851a80d3f9a5df516b59e3bd2a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -9,17 +86,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Nango (YC W23, 开发基础设施) 正在招聘资深后端工程师",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
-    },
-    "4abb8b5e943aba70e356823c07826b947c1b184ed95e4b32ea4ef47109b523f3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3409a59ae2a2136c95171c33b9ec298259c4fede3021ffac29fdfa58789d18aa",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我们需要亿万富翁吗？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:25.301Z"
     },
@@ -34,16 +100,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:25.301Z"
     },
-    "0e6a95d70d30c3ca9ab7ab4c96e83ef3801aea9149e384bced018a01dca27dad": {
+    "b5da360833e23ac79847a620d32851d806c1bf191178dfa56ddcde92c7422cb1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "c68e48cd102b92baa2650a3edd3ab8f350ffa773eead02d87615291ba4b88035",
+      "sourceHash": "ec119623c9473c9096733c1d8ca093ecb66e9af94aa30742ab43a7a6182fc6e4",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "问HN：面向机器（/llm.txt）的网络是我们作为人类所希望拥有的吗？",
+      "translated": "展示HN：Lowfat – 可插拔的CLI过滤器，节省了我91.8%的LLM令牌",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
+      "createdAt": "2026-06-05T15:53:35.715Z"
     },
     "f1c0906d3e59c17949bf55e6ca527afa25b35dec86073cb0896d711a785fe30c": {
       "targetLanguage": "zh-CN",
@@ -78,27 +144,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:25.301Z"
     },
-    "2279dce78f84589c63c976a8b11d014af553495ecc1096f675a39ff518ed33b9": {
+    "3aaa120e989a57c19d32c2604eefcca68bb98f1da1efa42570f41d2fc156a87c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "20a0f2ccba233997df3f546d7bf0d6d933329d94686e4d5a9537b8a602f581df",
+      "sourceHash": "7cbad98259e106e3a2b92ca795acdf206f95736aee8c869b4c0f9dfbd4d2d1c9",
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "改变我们开发Ladybird的方式",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
+      "createdAt": "2026-06-05T15:53:35.715Z"
     },
-    "5e29884315f88d11acbb4dd2cbfda919f79522e53036332b1a9f7fe1d19ec988": {
+    "d691c68b02f663c9128cbe68bc371ca45782efb97885ad88d868c90f5bab8b70": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "f605c3eb556f73df9c7dd1f1e2d581654ba1512be21bd70841939eb2152f0c61",
+      "sourceHash": "d43ccc1e4ab35364f0ee845eb19f1da4a5ae439d1b1b83639950491fe4c5fa92",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "李光耀的新加坡故事",
+      "translated": "李光耀的新加坡故事（2023）",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
+      "createdAt": "2026-06-05T15:53:35.715Z"
     },
     "65a0b5276c590d7f63e49e99a19433f7f330c42014d2f7a224e5debf376c74aa": {
       "targetLanguage": "zh-CN",
@@ -133,38 +199,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T08:06:19.057Z"
     },
-    "7a3a2ccce5814994d403b6186a13435f50ceca51f44e93fca7f3f05fa4f33c14": {
+    "ba3915cbc1ce7192203401638545073f08d3ab31faf0c1f3d7f156162f251ca2": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "a1882b22e28d1e3ead2549cd17a0040e32f0d0d39c32ac7f118116196068739f",
+      "sourceHash": "ef261e4b95b7c1f18d65a9c9866127917cf977ca8ab8f613e99784bae61a47dc",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Magenta RealTime 2：开放与本地实时音乐模型",
+      "translated": "Azure Linux 4.0 是微软的第一个通用Linux",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T08:06:19.057Z"
-    },
-    "81f51f697c17b895d0c0077c8ba61050295b9d334e60acf69015b15b04bcf1e2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1c3fb1ff4d5e004eb7d44e08870f0060d563ccb433d5ba3263fb905e82c44751",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "线性余弦调色板(2025)",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T08:06:19.057Z"
-    },
-    "22220a911cb6c06f2e4f7698fc1b724433d128bea3e40662450cd1b323b88841": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "303ff2cf5084e33ca623dd14676834cc64f4b4ccc8d4fde54dc4c3f61f566647",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "德拉克洛瓦的《十字军进入君士坦丁堡》修复",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T08:06:19.057Z"
+      "createdAt": "2026-06-05T15:53:35.715Z"
     },
     "f717e5988647609af6281155d8b63dd39596cc3660bc43ceb5be264920b35742": {
       "targetLanguage": "zh-CN",
@@ -199,17 +243,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:39:43.287Z"
     },
-    "50b443d08a0032f8d39bd44629120834f9db7d8eef2a299271f9788eb683ba92": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5d06b55ff43dbb76dd337de6f1182778fc49a87f8a6e19034bc36fde68abb5c7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "SpaceX及其他大型IPO被标普拒绝快速纳入指数",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:39:43.287Z"
-    },
     "9a29cadd29e0c06dda7730505056e225a1f29af81aae75c3512ccb80f271c5b8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -232,104 +265,148 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T08:06:19.057Z"
     },
-    "80b5134a2b670d724ba31ed905ce6d39c5d5d2b6fb6150e10870684466bde335": {
+    "af544695c473e6f3dd98e7425da6eb4e9a7cff16888caffc54dedf652444f905": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "b44e7a376e8cdb0bc9ddb204d5f2ba2b326b0e711e4498bafd4d2c1686c081a6",
+      "sourceHash": "718835500ca8bbb9a22191daf1e8507a1daf4138bdd38272056e6df9eda6ac2f",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Redis 8.8：新的数组数据结构、速率限制器、性能改进",
+      "translated": "无鼠标 – 键盘驱动的控制macOS/Linux/Windows",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
+      "createdAt": "2026-06-05T15:53:35.715Z"
     },
-    "912e1103b9ec0880a07942ccde058ce8a489eff5cab2f85cc52c431ee4206f9c": {
+    "13c0dee39607e515777f1e5286bd7ea145c30ce1d401fee08e010ffd3c0991e4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "5bb53dad46b47f7aa5da32377ca21f7de2ffae577ba47b20fb20b13e96882d36",
+      "sourceHash": "1d98c963e56d33c9ceb71a6c4c2bd32d656c3df94c354ae21967e0887839623b",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "在签名展上",
+      "translated": "《吸血鬼猎人巴菲》与《泰德·拉索》主演安东尼·海德去世，享年72岁",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "af591455a6d04423a2e6d92816d266505d44d069b636c08642ba484da7fe50ae": {
+    "cf520ae87df89d1d27cd977118c13e8dde84b3bd37efaa0a7c9a8e8e2f71a198": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "0b7ead2180127819c3afd57f2ffbe64e0f5e290536b46016d0393a5b1ce11f2e",
+      "sourceHash": "b05887ddfa7ecb3e323d02a700bec838442908e045301d4ef43cad82891dd64a",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "databow：一个Rust CLI，使用ADBC驱动查询任何数据库",
+      "translated": "乌克兰袭击货船并承认罗马尼亚无人机爆炸事件",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "5835f6b0b26bd9bc34a231776d845dc2a0e66a113a5383b77c416755f000bb70": {
+    "811ae9bb82813424f8302d4071e12f18564e228c18519d7db3e0aeb63f7ca8fb": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "53c7469a31be188a6079f3fb8a598348f734cfcca30a7e2a507cd2c17da51dca",
+      "sourceHash": "78c97685631217259175ce23269a4b336a2b83ecf8f12f048a3ebbf822500abb",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "我对革新教育的努力持怀疑态度",
+      "translated": "青少年因在海滩袭击中谋杀16岁凯登·莫伊被判有罪",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T23:08:22.615Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "b66340f0f0757efd5946bf03e1ede7ebcae36042c663497d0b04ad7a5cbd99c8": {
+    "9b0475a3d800ae00c93ddf611db76beb1f19f81a64bce7a68f591c49103f1c22": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "c459b15ec13c9d3d03cc51727732e3101a116dcabbd14c95ee2d400d3d5398a7",
+      "sourceHash": "6fa5e83ee57e7a08e0138017393af3716c180ece02923bbd26f8365a11fa7c45",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "莫恩·阿里说有人建议他不要加入约克郡队",
+      "translated": "强奸犯保罗·奎因被判24年，该案曾导致安德鲁·马尔金森被错误定罪",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "ede91d77ebe5c10cb1092d507506a51493edf6e0a9e16dd439872879924c2f09": {
+    "e88fb30a8cdf12f62b4f5572d46aa9f2e2971aa98f3e31f82645406b42ab6030": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "02acae607e73ba72dee0ba9345d47973b0a0c61b80ea6064ccc2b85f2fbfe239",
+      "sourceHash": "9e9e2907d5381b20ea1a108403dafa95bd534bb5f4424727bd998e321e9f7d2c",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "直升机坠毁事件对皇家海军造成‘毁灭性’打击",
+      "translated": "英格兰队崩盘，五球内失去三个三柱门",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "323946f167a599eb28db4d6c6e9f95e0a94f073197edee507b0519fe20f32d6d": {
+    "763f48a90d0d61ba7e497444c0e2b401fba1b41a334069ea1010157337b58d3a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "0201eb0f7ebc754da384a42e3b431963b0cc55fd80391773bf0cd45bcea9be92",
+      "sourceHash": "f6ed39a43df4a9d1b97a7b880bea429fc4829c5defe3e7a04cdfa87cb9f8daf0",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "罗宾逊在测试赛回归中拿下五个三柱门",
+      "translated": "唐纳森案庭审：牧师称“显而易见”谁是指控的施虐者",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "00729afd0ec6aee3cb4918349b38432a971c4104c75f86b4fcc8821efc28bf44": {
+    "ff1919b5f30e0cc165876f8ce584ba006e66ea60570b4307d15ef017ae8acc08": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "9100c055db930f5d942eb35404980730eb8682d3795c2586f2da4f93852811f4",
+      "sourceHash": "e7cb6e2e5eb8f6ce519ffb09efaa9bbc141709eca199f51c69fd0343bc119513",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "明星们向‘有远见的’Mobo奖创始人坎亚·金致敬",
+      "translated": "挪威维京世界杯摄影的故事",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "11e20d1ed907a35bd2da8ea2d894837162540a4e7b660038fc5c78674426cd00": {
+    "1a829a374e80dab851d463741fba3a4b6e1dc66cdd999d643edff69f37fa678a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "0adc2e5c34b5ba40f05d589f0caae34f89d59c2f1e719c20ebc187038da580d1",
+      "sourceHash": "8b389c6a60b3f0f0a785995946b62f8f4802563b8a8c34974b5a7282fff30440",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "A-level数学考试评分将受到监管机构密切关注，此前学生感到‘不堪重负’",
+      "translated": "两名罗马尼亚人因刺伤伊朗反对派记者被判有罪",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
+    },
+    "08e4f0675c7af57b4bf44ed6f75b1c0b13a64aa2c297d327b8be9e0d8c44675c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "730a421315c4fabb6b6b87f195cbfebc53860c2cb7141f8e5f1827c84ffee593",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "三人在诺瓦克抗议后承认实施暴力骚乱",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:55.281Z"
+    },
+    "fa6e6ae09b7d0bab1efce00a0e1cf7b638f5d5372c905e42b6cd2672b70cbee9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "36d4dd1b657e9171d0c599b7fab1d16da84c47fef7e9d22bad317c956d9be772",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "国王对海军直升机死亡事件深感震惊",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:55.281Z"
+    },
+    "7fdf3fce6b275e36ef548d771d7aaf73f94d4a01a1ffd1f52852a9a46de0c6d4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c0759a6f12153fc3d40c4f0d5d8f0569cd2b9f075eb8b7dbbc78a11e99f95b86",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Primavera粉丝对头条表演者Doja Cat和Massive Attack因天气取消的反应",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:55.281Z"
+    },
+    "3b6114ba0b596699d065e2fe2252f9f1a41af4531681fc7a16a9eef09e0c714e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6a1677d6951ad6967c21fab1851efa1d4085488418fc3493692743687105d1f7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "A-level数学考试评分将受到监管机构密切关注，此前学生称试卷“不公平”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
     "a170ae81f41896e5e392b006aa474045d36d43ea1b0c2c150f6ea071142cfa65": {
       "targetLanguage": "zh-CN",
@@ -353,16 +430,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:39:55.177Z"
     },
-    "a52d66b8b7d78baeb9efda00f72157697c11fb1339c6d8cc47013f9dc1c1d93d": {
+    "2dbfd261353bd00ca2ac2bda2b3ee74954ca41353dd169192d5c6a182df8cd3d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "9ba4d071d5932f6077fb493844b7f9562f547d4a565f3e7c87c49b660ae26755",
+      "sourceHash": "a3be684f25e854d869064f1fe8d9b5298d2eebc6775970e9d91edeabe6a1041e",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "量刑评论显示，青少年强奸犯因智力限制而免于监禁",
+      "translated": "法官的完整评论显示，青少年强奸犯免于监禁部分原因是智力限制",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
     "d29dcbd0b9692987db2ba1d82d700e61fa54b2e850576fdf47cfd7319cbdc094": {
       "targetLanguage": "zh-CN",
@@ -375,38 +452,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:42.475Z"
     },
-    "e0ef8125b0c3fc0efdf859b21ff4e5e979adba23d85e58ed8945009af73cf8b6": {
+    "72fc464a50370d1fbb3e27dd423ebe5f48e1ffeeb9dd59e4cb37dea114e93a2b": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "23f9946cdc724021619f0488b9e51cf9d47d497a3f014c7ce4684c3ffcf3403c",
+      "sourceHash": "d21fc07fc5bc82bf28f106b0769edc4a2fec72259d21b3bd25d6132a97428c43",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "前学生因萨里大学弩箭袭击案被指控",
+      "translated": "距离关键的梅克菲尔德补选还有两周，以下是竞选形势",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
-    },
-    "6669ecf3e1ea22c35596201f4286d6052e7dc51d847d829315d5f7c6095c79c9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c3f13abdacddb0e85537e8117343df39dd46d25eb383860c432982408eb4e1bd",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "梅森：距离关键的梅克菲尔德补选还有两周，选战形势如何",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
-    },
-    "0769b39aeda42a59ab26d4efcfb49a402d854d8513e69e62d7700941cafc6357": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c794c06839e83bfbc4ed0d8f88a1e0b05a4091ce965223423ec1e59ebcc62df6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "军事首长称，英国正处于我所知道的最危险时期",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T08:06:31.333Z"
+      "createdAt": "2026-06-05T15:53:55.281Z"
     },
     "e2656ada6a2ee92c0ed25c48e707603adadd8918a83df861d57918e7765fe31e": {
       "targetLanguage": "zh-CN",
@@ -427,28 +482,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "美国演员詹姆斯·汉迪被刺身亡，女友儿子被捕",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
-    },
-    "29ca9a3b495324e4f97e6b22350a77b61d79805ad707d08e1bc0f6c63a48c646": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "84b3019f000d115e5423709a7c42d205e8eb9a9b46d33e650eb10b88198433dd",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "近50人在撒哈拉沙漠因卡车故障渴死",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
-    },
-    "021863f05ad29d2e4b37b0b94303eb7ba13c1597bea5b26c0efc74c0f0800dae": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "000ef49cff72c0685358c9514bae12913436b750d9af9b21b440a35d58678fef",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "肖和长谷川入选PFA女足奖项候选名单",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:42.475Z"
     },
@@ -474,28 +507,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:42.475Z"
     },
-    "55116ddd5bc56df11ed6e20534a551da18993ace5703e7d916af6a93effd6c1b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "88d67b9bae75c554cbcdbea54d2c5fb0999c028d639141cde1957bb9a5caa611",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "阿森纳三将和费尔南德斯入选PFA年度最佳男球员候选名单",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
-    },
-    "dbdce4dc4f833dc6bd3fb4ddfb93e89cffa0de6e719b472edfc847d890d98274": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4eb1aa5ec4698abb90148f84888232c2522cfae373d41489f6292f697cba4875",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "法雷尔与爱尔兰续约至2031年",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
-    },
     "98bb2efcf7c4f5a67ade4faa64b26d210e0515756ec9bc75d10462493ed3926f": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -517,17 +528,6 @@
       "translated": "加雷斯·索斯盖特：我们需要因材施教，区别对待男孩和女孩以发挥其最大潜能",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:42.475Z"
-    },
-    "a47505e0ed07f08e0ccb4d9029e6a7cebccfa8a88ec349b8327d4f33caf890e3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "69b3b2a637d32390100c42f677bff95ab23198ed6ce4d858a4269efdd199e7d5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "特朗普的白宫舞厅计划如何在一年内规模和成本翻番",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:39:55.177Z"
     },
     "e09d025413f69c2a0560a78ccfc5ce16b6390096aea7f3b245422cefc726725a": {
       "targetLanguage": "zh-CN",
@@ -2916,6 +2916,94 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "72b693edd1371916344a522ac800ecbafdb21facfb096b3efdb8c41b21ba1e52": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "94994c576e80beb5e9f6f9bb4191a3c882d5ad5dac5810ee4f4fe0811464bcb6",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "挪威王储妃梅特-玛丽特被列入肺移植名单",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:54:01.755Z"
+    },
+    "ed1014fed5cdd3c3cb7913afe5818d3dd5caacbc4011343557f746fdb7583413": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "615838847e4b4560457c5ccb582a2828e740422c64ba025d135e7eb46acd2bbf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "此次埃博拉疫情核心的金矿",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:54:01.755Z"
+    },
+    "466492f9072ee185d90a94cf19f6bc9e65c816f047b4ca6eea116418d77f4fe7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f62fba50c203d017147d124014eceeb7e21e079ab27df2c5457590e105231a1d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "随着以色列和真主党继续战斗，黎巴嫩停火的希望动摇",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:54:01.755Z"
+    },
+    "1e328eef7063c1a1ba225d6defcf7526c7f9a1a7b8d43915462cd747803bc68a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e4ae942a84c582b651db48ebd788913ac878b536cc6634c90d6160a4037f40d6",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "俄罗斯在选举前向亚美尼亚大量散布虚假信息",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T12:08:52.023Z"
+    },
+    "1bdc62fa798af8d6b95436f1e990ff6e2f3f819848d4c2d78b8bc0cb5cfccebd": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4014711d9950601405b222dd322fe017e01886aa7d34b74223321b3c63c13829",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "科学家称，俄罗斯卫星一直在干扰欧洲各地的GPS信号",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:54:01.755Z"
+    },
+    "44b1b466b5508ff6209786ac66c7308b89f0e8f0de14a03eb6e22a290001d0dd": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e609db37b4f35af4f8ea4d38e3ebf5c6eda17ff6af28e0aece55da9a53d5c836",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "玛丽亚·萨特拉皮，《波斯波利斯》的作者兼艺术家，去世，享年56岁",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T15:54:01.755Z"
+    },
+    "5ba439091e7e06820215fc520bd0099a5fe926f27f3b89f38e52ba426fabb47b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2f5b075a02607909ea5c6cfd03f6dc662ee9ab4b739f01d814fef82d82189b2d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "五性别之地备受尊崇的祭司们",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T08:06:53.708Z"
+    },
+    "8bef3aac8d754b00f016af6ac04f53ecd1e30edf164c614b308f232f976a0204": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0bbd6ba32d616893411eac49cd3a409bc4a5e13f19dc60c528736bb8ae7937f6",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "前安德鲁王子将皇室房产中的小屋转租，他曾免费居住",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T12:08:52.023Z"
+    },
     "54d44b6d31d3c58561611f52e78f306ff1eba30d9fbed64d8f9bf4a687ae1792": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2927,16 +3015,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:16.377Z"
     },
-    "aee3512cf5b1fe93adeec1f699cc7b74cbed171d5912f8df4b60b4023932c794": {
+    "9e9dd7e1b9ec217814c7628f693b9f960465d90023fe752232ffc05b375b3f96": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "02fe610380954a8af88ecd3c82899dc2a0cd2f0ec94280f42cbafd0cb5e5b86b",
+      "sourceHash": "ee2f4c4221483074a39950d07e1c073f6dc41aadf1d113cde077922d02e433c5",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "黎巴嫩停火希望渺茫，以色列与真主党激战",
+      "translated": "不信任随着埃博拉病毒在刚果蔓延",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
+      "createdAt": "2026-06-05T03:40:16.377Z"
     },
     "4f02431ef5861e5e8e9744f212510b15eb5edeb577754f5e043557764126207d": {
       "targetLanguage": "zh-CN",
@@ -2957,17 +3045,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Ye音乐会在欧洲多地取消，为何荷兰例外？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
-    },
-    "8bef3aac8d754b00f016af6ac04f53ecd1e30edf164c614b308f232f976a0204": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0bbd6ba32d616893411eac49cd3a409bc4a5e13f19dc60c528736bb8ae7937f6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "前安德鲁王子将皇室房产中的小屋转租，他曾免费居住",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:52.023Z"
     },
@@ -3004,28 +3081,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:52.023Z"
     },
-    "67d0c4fe6b0ac2fa7b71f4a07fd00ea022fba4f4bc41c931835ca526dd9c73af": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9c0163420def92931ad87f5f4bc1aaf18cac77f0517720ec2bb833415e3885a3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "黄金如何推动埃博拉传播",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
-    },
-    "1e328eef7063c1a1ba225d6defcf7526c7f9a1a7b8d43915462cd747803bc68a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e4ae942a84c582b651db48ebd788913ac878b536cc6634c90d6160a4037f40d6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "俄罗斯在选举前向亚美尼亚大量散布虚假信息",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
-    },
     "f71872117f90a9ff674bf0013e15bf0b20a2f01780f8a89d063cac1e3a51b624": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3058,17 +3113,6 @@
       "translated": "网球巨头跌落",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "5ba439091e7e06820215fc520bd0099a5fe926f27f3b89f38e52ba426fabb47b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2f5b075a02607909ea5c6cfd03f6dc662ee9ab4b739f01d814fef82d82189b2d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "五性别之地备受尊崇的祭司们",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T08:06:53.708Z"
     },
     "24c6e59c8ff1bf081c605c19990978c7d3dd6a11f5cf5371ab84dab5070631c6": {
       "targetLanguage": "zh-CN",
@@ -3114,17 +3158,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:16.377Z"
     },
-    "9e9dd7e1b9ec217814c7628f693b9f960465d90023fe752232ffc05b375b3f96": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ee2f4c4221483074a39950d07e1c073f6dc41aadf1d113cde077922d02e433c5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "不信任随着埃博拉病毒在刚果蔓延",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
     "fc873346d42be4fb003303d894726c5f88a1a7aab58e1c7c1bca43dee61d04c8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3155,39 +3188,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "波音787-9梦想客机前起落架坍塌，致多名工人受伤",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "fd3ee8b2a2dd41bee5fa11b513b89b47417919cf287b5e41b227657e9ba81630": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c1acea1fe3d1fb7d6e48be8d79eb87a5e6f3cd318b30b6231acd7029d8effd99",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "出于对美国警惕，卡尼押注加拿大的人工智能战略",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "32033e3861d925bbe06f4ddc1d9dd20e9add5858a1d8c1068cb5114f1040ba35": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7ff64a8411c8bd19f0a7397a5745471b9e5a7e973b4ca05caa6cdff47032600d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "一家公司计划如何开采海底",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "643ef2a4278e694e539eb2dff495d82eacf66c68a4b35d33faf50d8d0ef27259": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1897f08aee1c4997d0e28f832531efd95a809284ac9e417612550239625cda14",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "城市光污染可能加剧过敏",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:16.377Z"
     },
