@@ -1,6 +1,17 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "ddcef84991af7b87cbcbfb03096e7595b4e838e47b054f71b7af4abaa9fa49a4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "665572f2acaf5eb2eeb95b91a90b9e78a132111f2d437aaaa69319abf684a6df",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Hacker News，无AI",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T21:25:08.384Z"
+    },
     "9e1b8507b410546cf3ebde98f2e9825da58a89caa9f2f7fc401f2d8217fa5f7a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -31,17 +42,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Transformers 本质简洁",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:53:57.163Z"
-    },
-    "eec688bab98c1cb1c5a9e00ad2faf51dcef9b65ba443453e2dab322616f729c4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ea8b7a9b649fa987ababc4aee01245beeb7ef77a8a0b9bb6e77a29c0f4ab7f95",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Sakana AI 的递归自我改进 (RSI) 实验室",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
@@ -276,6 +276,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
+    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
     "13c0dee39607e515777f1e5286bd7ea145c30ce1d401fee08e010ffd3c0991e4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -287,16 +298,38 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
+    "793c5204a9895b2ac1883f37a91a9a1fcbb209dab98a548b6aee3b17bb5814e0": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
+      "sourceHash": "205d83a3d46a4c53bcd1c0c270655cfda91fd54f8f08badea6d0833dae4ab372",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
+      "translated": "图赫尔不会让坦帕的场地影响选人",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
+      "createdAt": "2026-06-05T21:25:22.398Z"
+    },
+    "b7f6288464aa0ea88d622ad02519951badcfa28fb3caf1db13ae8157619d4538": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "00134a77ef8cf1a0091859c8179a86f785f09e90c95f645cd3981859baec8899",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "沃恩为在糟糕的洛德球场的击球手感到遗憾",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T21:25:22.398Z"
+    },
+    "e523e163a46c8597874ad59c69a828ee7ce08ec0773c281a8324d355a6eef610": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4743678e1006f342c9a7ce9496a2bb3d2b6b915b5e4a6fdd7dbc971e521c988a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "珠峰向导通过吃巧克力和“嚼冰”在六天磨难中幸存",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T17:54:30.561Z"
     },
     "aa84e1042b1df4f423acd4e10f1a56175a651e0165acbccb11733bf95e891d5f": {
       "targetLanguage": "zh-CN",
@@ -328,17 +361,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "伊丽莎白二世前侍女帕梅拉·希克斯夫人去世，享年97岁",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
-    },
-    "9c07af7e802b0dc6103d0dce4eb18e6b5ef7e893919e2e5f34be59b0850b1bc5": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ca8ab3709eb59662ccb7e92cd8bca11e1d8fa7c331fa16f76db21dbffef4f608",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在洛德球场混乱中，英格兰队迎来巨大机会",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:54:15.544Z"
     },
@@ -441,17 +463,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "e523e163a46c8597874ad59c69a828ee7ce08ec0773c281a8324d355a6eef610": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4743678e1006f342c9a7ce9496a2bb3d2b6b915b5e4a6fdd7dbc971e521c988a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "珠峰向导通过吃巧克力和“嚼冰”在六天磨难中幸存",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
     "2dbfd261353bd00ca2ac2bda2b3ee74954ca41353dd169192d5c6a182df8cd3d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -539,17 +550,6 @@
       "translated": "A-level数学考试评分将受到监管机构密切关注，此前学生称试卷“不公平”",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "a170ae81f41896e5e392b006aa474045d36d43ea1b0c2c150f6ea071142cfa65": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "8732feb342ebf74903820e8ccd883474b97b1650d3781cb79361582520e01027",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "导致四人死亡的桨板公司老板减刑请求被拒",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
@@ -2916,16 +2916,16 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
-    "d005800e15b09d606a3efbc9553af453395eecc39436f126ced6f7a92d4d17f1": {
+    "c0d15d14802ea6f6d7a648222e98b3bd8e8be80055de6e8d6b1333d213384eaa": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "582fca8f0f542e20259efb77688acff31b9530d7a03f609d971a05d2b6c8032a",
+      "sourceHash": "00e87d6d3271a112fcf7667254405f3d3d0e997c55d57d92c2f0fab02bf185b1",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "波音787-9梦想飞机的前起落架倒塌，导致数名工人受伤。",
+      "translated": "网球巨头跌落",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:24.394Z"
+      "createdAt": "2026-06-05T03:40:16.377Z"
     },
     "d41ea315f69f39ae090f1a9a99455c8b5184f4d08efcca3ef29678519d4f7b7a": {
       "targetLanguage": "zh-CN",
@@ -2935,6 +2935,17 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "一名夏尔巴人在珠穆朗玛峰上独自生存了6天。他的家人称他被遗弃了。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:24.394Z"
+    },
+    "d005800e15b09d606a3efbc9553af453395eecc39436f126ced6f7a92d4d17f1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "582fca8f0f542e20259efb77688acff31b9530d7a03f609d971a05d2b6c8032a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "波音787-9梦想飞机的前起落架倒塌，导致数名工人受伤。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:54:24.394Z"
     },
@@ -3144,17 +3155,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "众议院无视共和党领袖通过乌克兰援助法案",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "c0d15d14802ea6f6d7a648222e98b3bd8e8be80055de6e8d6b1333d213384eaa": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "00e87d6d3271a112fcf7667254405f3d3d0e997c55d57d92c2f0fab02bf185b1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "网球巨头跌落",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:16.377Z"
     },
