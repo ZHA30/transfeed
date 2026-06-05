@@ -1,38 +1,60 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "dc92984283fd724a275d1a5292a04fbd469f7f2c0327bc7813cb5cd85640a1ea": {
+    "9e1b8507b410546cf3ebde98f2e9825da58a89caa9f2f7fc401f2d8217fa5f7a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "0e4de39aa04bcb65956a8fbed64dc3baa42fda23b81bc8ef6e2c1c427b47778a",
+      "sourceHash": "e3c384b74e21473d89fa38dd8110b36e13e613a9ec5be79302ffd535c6947c00",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "假币造就美国",
+      "translated": "意外删除了聊天集成的订阅（Slack 和 Microsoft Teams）",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "cd55f911f1d28dca7f7ded10f9daec3254babe9279879f01118160735125fca3": {
+    "7d55766052391ccf5ddf655b529dbba0bcecb825474b62e75c47b4c78d7507fc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "b11b1940fbd3a89bbf6d70f61cd14b207154125820d4175933fd12871045e4a0",
+      "sourceHash": "656105c39f7a15788509764912e581d9a85d686f57b571eb057824c4d02662f5",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Adyen被选为GOV.UK Pay的支付服务提供商",
+      "translated": "我们最糟糕的三个风险投资故事",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "9cfefdcb64fffa32df0ad806e4c894a5159d8ecbd4921f2729c37e79077f8afb": {
+    "a08463d15b3119b823e8d95320990f26280c2f6f928bd3689333ae256c189ce8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "e8da83c807fc57130450c9e9ae528efe5094c3ffd624b45f48559b23d9aea05b",
+      "sourceHash": "fab814dfaf23c2b3055b2a85ac0ecc4ae0db75606bdda866e1c058fb4359fba3",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Gov.uk在支付上转向荷兰，放弃Stripe",
+      "translated": "Transformers 本质简洁",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
+      "createdAt": "2026-06-05T19:53:57.163Z"
+    },
+    "eec688bab98c1cb1c5a9e00ad2faf51dcef9b65ba443453e2dab322616f729c4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ea8b7a9b649fa987ababc4aee01245beeb7ef77a8a0b9bb6e77a29c0f4ab7f95",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Sakana AI 的递归自我改进 (RSI) 实验室",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:53:57.163Z"
+    },
+    "3413357a0fa2e9febd80a010ddbd29db6d18c16b6ec101e3777646c98de23676": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "42989196eb4d2d9242486ca57556e57942c369da39824f0c0295f3cf96d3cf36",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Gov.uk 已用荷兰支付提供商 Adyen 取代 Stripe",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
     "1d7de7e34ccbfbe29187e6221dff4a7fcfb95d26a526175738513ada2a09f1a9": {
       "targetLanguage": "zh-CN",
@@ -67,17 +89,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:10.827Z"
     },
-    "e11ad5dd7a76676847a939f82afc8d266fcf170890ca40e5b4f419c806350d4c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e102977247ba11005bc796524f2bc193f6618e52d1a7513bc3feb4b2865ddb0f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国军方将GPS变成了全球“数字电台”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
-    },
     "bb727ac18c7f05045d56aea7bb33cb152218216fce5817ef8cfdb666774d5771": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -89,27 +100,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:10.827Z"
     },
-    "0754e13e50a2a5ff96f039344a16e3d545cc4989dd8e312683cffa189ed8465a": {
+    "71f98f351273b7f3d3b0f749b78934e5255595cc4bca1856b8a8e1ee63ccd8fc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "dae928ce9ad397021511ed09dad06c3a4b5af19d822bb3178002d132a20d7b11",
+      "sourceHash": "d46a895c0f1a61161832df32da812b435ad550e517e929573987474eb01edd4d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "停止使用常规提交",
+      "translated": "Conventional Commits 鼓励关注错误的事情",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
-    },
-    "31a4a2a325647c28aed523b4f25bf2fe479cd8da08d1a7802261d3747719d6c2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "65557feb6e584d087890f2cb88375344332f5088d8077ac6089a7952b5314749",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Ask HN：你（AI）的开发技术栈/工作流程是什么？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
     "0aa8552642fa0668ddaec58f771f24e4c817bd37803584d0260c21971266d952": {
       "targetLanguage": "zh-CN",
@@ -122,16 +122,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:10.827Z"
     },
-    "5c0b4724336569bd1753829fff9bfcae2725b497a395c0561cd9efdc4255f171": {
+    "dffbd7ad18d6d004bf9147880524c5a4dc6108b0064af49acaadbb4b93a417c4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2d187e160764dbd94026e6baa23e40193d45b726b4bd27f7696c4fa43c745304",
+      "sourceHash": "fbb98b9f4ef11df12237b9139ab40f9a571eb02ea5eef055e69c5a85e2369dde",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "国际空间站宇航员被告知避难，正在修理以修复空气泄漏",
+      "translated": "宇航员在因空气泄漏维修而躲避后，被要求返回国际空间站",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:35.715Z"
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
     "7f640506d30bb6cc6f60f5bbf5479392e16ab63190fc44b6a29a83cd8b1f4673": {
       "targetLanguage": "zh-CN",
@@ -144,6 +144,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:35.715Z"
     },
+    "cabd88512bc713686f84b15b1ea3aac90be6b6b444a11ee13f4b785ba4df22f8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6a56b54fbd5630e94499688880858880cff1bad7ea53afc89918681e0717ae15",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "印度意外的人口出生率下降",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:53:57.163Z"
+    },
     "e4e94712484d14e2570adb983ecadca4aa716555200d22a5723008094df7cfea": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -155,6 +166,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:35.715Z"
     },
+    "8cbd5d528ca4c6a8441e4201919f67ebf1e9a4c4fe481014a7636f845cb61c18": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3f262b334454696c207bd0c708acaa7d61ddd4cacea95162cdb80d46c6fc2573",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Claude 是否增加了 rsync 中的错误？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:53:57.163Z"
+    },
     "dedd73742cc23033da56f1b2ea56a125cfeecd851a80d3f9a5df516b59e3bd2a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -165,6 +187,17 @@
       "translated": "Nango (YC W23, 开发基础设施) 正在招聘资深后端工程师",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:25.301Z"
+    },
+    "b5da360833e23ac79847a620d32851d806c1bf191178dfa56ddcde92c7422cb1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ec119623c9473c9096733c1d8ca093ecb66e9af94aa30742ab43a7a6182fc6e4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN：Lowfat – 可插拔的 CLI 过滤器，节省了我 91.8% 的 LLM tokens",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
     "f1c0906d3e59c17949bf55e6ca527afa25b35dec86073cb0896d711a785fe30c": {
       "targetLanguage": "zh-CN",
@@ -188,17 +221,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:25.301Z"
     },
-    "b837a630e7b5fdab42263f7849013a8741fb7fc8e229f3a04090be39a3ac1ce9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "785ac611e877bde81c949e8f8fffacce464666de3bd91b451068bea57fb587d4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "ESP32 Bit Pirate，一个硬件黑客工具，带有WebCLI，支持所有协议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
-    },
     "3aaa120e989a57c19d32c2604eefcca68bb98f1da1efa42570f41d2fc156a87c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -209,28 +231,6 @@
       "translated": "改变我们开发Ladybird的方式",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:35.715Z"
-    },
-    "d691c68b02f663c9128cbe68bc371ca45782efb97885ad88d868c90f5bab8b70": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d43ccc1e4ab35364f0ee845eb19f1da4a5ae439d1b1b83639950491fe4c5fa92",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "李光耀的新加坡故事（2023）",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:35.715Z"
-    },
-    "65a0b5276c590d7f63e49e99a19433f7f330c42014d2f7a224e5debf376c74aa": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "8d46c02c5df68189c5b3bb58f619f644b180693553a22260c55e1388518cbb51",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "微调LLM以像1995年那样编写文档",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T08:06:19.057Z"
     },
     "42903fe4be54e139bb18a4c0eb7b275a8112b9c8d01651b5d1d702cca13bdaf1": {
       "targetLanguage": "zh-CN",
@@ -243,38 +243,38 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T08:06:19.057Z"
     },
-    "ba3915cbc1ce7192203401638545073f08d3ab31faf0c1f3d7f156162f251ca2": {
+    "a0d6aad355ded0bdc355afe8f2c59018e993e95e1a79e495090e7269eff28178": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "ef261e4b95b7c1f18d65a9c9866127917cf977ca8ab8f613e99784bae61a47dc",
+      "sourceHash": "9ecc3aa5e0ef5042dc0f0458a869d192946c1c5de418e95f907eec3260f91551",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Azure Linux 4.0 是微软的第一个通用Linux",
+      "translated": "Ask HN：你使用 GenAI 时有哪些“卧槽”时刻？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:35.715Z"
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "f717e5988647609af6281155d8b63dd39596cc3660bc43ceb5be264920b35742": {
+    "087d68f533eec916d29382116c30108a365d5cc9fc79297450a1f76cb2fb25b3": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "9f9cb6283b3c81b90eff9f5ac2c7f079d049ca936fd5f050fc5096fabc9b0a0f",
+      "sourceHash": "9728afa1e12b4c52e5feff5e91bf529cf5f267758d59bc098c519ad27dde6022",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Meta在已淘汰的Portal设备上启用了ADB功能[视频]",
+      "translated": "“也许以后”曾是一个功能",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:39:43.287Z"
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "9a29cadd29e0c06dda7730505056e225a1f29af81aae75c3512ccb80f271c5b8": {
+    "893f9b0cafbbcdc045a80679d0a372efd4e2c4ceb6a603ad0c14377ed3f7f86e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "b3554500f5a3a98020fc4abf2a79fa62f8cf6c45e09485c864daae7dcfc6a86d",
+      "sourceHash": "95a787843749ff9480e30d82c7e764bf5ffbd70c6f47869083cfceac5c11b2e4",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Anthropic 的开源框架，用于 AI 驱动的漏洞发现",
+      "translated": "做最难的事情",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-04T21:41:09.510Z"
+      "createdAt": "2026-06-05T19:53:57.163Z"
     },
     "13c0dee39607e515777f1e5286bd7ea145c30ce1d401fee08e010ffd3c0991e4": {
       "targetLanguage": "zh-CN",
@@ -287,6 +287,72 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
     },
+    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
+    "aa84e1042b1df4f423acd4e10f1a56175a651e0165acbccb11733bf95e891d5f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d7ec803b8b09449ea0c1642e812b7799e532f434c805157fb5904473248efb08",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "从雀巢咖啡到《泰德·拉索》：安东尼·海德的生活图片",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
+    "7618dcfa6e572a0751b1ef26e81381fb5ae65ac732594657dedf8f8af3235c88": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "eb685d430c761f3502931397ca5a1c0c97627f96e1d5681ad7c5071f73ce4380",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "英格兰队再迎激烈一天，17人出局掌控局面",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
+    "0ea466cc880ca94c2b11de37028c3e149cded14546b25e9ba0fd44fe3df3b204": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2df577281d1b85b3314615172287bd38bf6d2be3e4e824568b9ca33b237c6218",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "伊丽莎白二世前侍女帕梅拉·希克斯夫人去世，享年97岁",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
+    "9c07af7e802b0dc6103d0dce4eb18e6b5ef7e893919e2e5f34be59b0850b1bc5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ca8ab3709eb59662ccb7e92cd8bca11e1d8fa7c331fa16f76db21dbffef4f608",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在洛德球场混乱中，英格兰队迎来巨大机会",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
+    "8112dd9c0efd5618be684fe726800065168c34f8bd748c9c2698672eb4ac0244": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4fb4c72dd0a443d6d2c7888302b82fbf20f4140992bd8c15a4c9f9e9502bc698",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "普京表示会见泽连斯基探讨结束乌克兰战争“毫无意义”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
     "8a610daa0d2c4459e0c965ae667d5044c7ca4913b16412310c9553b1d00b1898": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -297,6 +363,17 @@
       "translated": "科博利晋级法网决赛，因阿纳尔迪因病毒退赛",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:30.561Z"
+    },
+    "624ba23f1962e2da7df2a70fa4c0a877195b42392d6b5fa67dbb8a3155bfe4d0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f02d305a269427e50aeea29e336769920643ef1decbfa04334a746ef2cf2334e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "汉密尔顿最快但勒克莱尔预计排位赛将“紧咬”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
     },
     "5769a6566d718a43815d26b8fce6cefe967ab0f780cbce1d68c440f5af8c8271": {
       "targetLanguage": "zh-CN",
@@ -339,17 +416,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "奥尼尔将继续担任凯尔特人主教练",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "b045fbceecd32ca0b296d7e1467de42bc1b8860fd59144fbf9037e6b68ea6397": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "50d270765347aa8c16d97df181f52c193fb81daa0502f6bff2a5acb4497d8f77",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "汉密尔顿最快，法拉利在摩纳哥练习赛中占主导",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:30.561Z"
     },
@@ -408,17 +474,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:30.561Z"
     },
-    "cf520ae87df89d1d27cd977118c13e8dde84b3bd37efaa0a7c9a8e8e2f71a198": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b05887ddfa7ecb3e323d02a700bec838442908e045301d4ef43cad82891dd64a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "乌克兰袭击货船并承认罗马尼亚无人机爆炸事件",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
     "811ae9bb82813424f8302d4071e12f18564e228c18519d7db3e0aeb63f7ca8fb": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -427,17 +482,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "青少年因在海滩袭击中谋杀16岁凯登·莫伊被判有罪",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "763f48a90d0d61ba7e497444c0e2b401fba1b41a334069ea1010157337b58d3a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f6ed39a43df4a9d1b97a7b880bea429fc4829c5defe3e7a04cdfa87cb9f8daf0",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "唐纳森案庭审：牧师称“显而易见”谁是指控的施虐者",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
     },
@@ -474,17 +518,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
     },
-    "fa6e6ae09b7d0bab1efce00a0e1cf7b638f5d5372c905e42b6cd2672b70cbee9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "36d4dd1b657e9171d0c599b7fab1d16da84c47fef7e9d22bad317c956d9be772",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "国王对海军直升机死亡事件深感震惊",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
     "7fdf3fce6b275e36ef548d771d7aaf73f94d4a01a1ffd1f52852a9a46de0c6d4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -515,39 +548,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "导致四人死亡的桨板公司老板减刑请求被拒",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:42.475Z"
-    },
-    "a555103d94aecca21fce602018cd634e01bb2fd024f00a69501423e1e2ea8fb6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bf510bc6ce9472baa9e3cfc37845130596d1969d1846483c43cfe799aefa6005",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "监管机构披露，安德鲁转租皇家小屋",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:39:55.177Z"
-    },
-    "83685ec14de01a361ddb7f49f8780378d583939fea252e6199200cfe96afd444": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fcbb2c9f6f9044f42a6e4aa52bbf33f770c6b283bae5d394b5b9c84a7074cb62",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "这会是唐纳德·特朗普世界杯吗？（与足球日报，第1部分）",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "e2656ada6a2ee92c0ed25c48e707603adadd8918a83df861d57918e7765fe31e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f415cafcede20f59239fbe91fc4a27f49eb86ce01e311b2866a82f9722390d07",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "谁可以购买埃隆·马斯克SpaceX的股票？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:42.475Z"
     },
@@ -2916,6 +2916,39 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "d005800e15b09d606a3efbc9553af453395eecc39436f126ced6f7a92d4d17f1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "582fca8f0f542e20259efb77688acff31b9530d7a03f609d971a05d2b6c8032a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "波音787-9梦想飞机的前起落架倒塌，导致数名工人受伤。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:24.394Z"
+    },
+    "d41ea315f69f39ae090f1a9a99455c8b5184f4d08efcca3ef29678519d4f7b7a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f8421285bd35c8d64c07b64c38c9600bb58277604f5a6ecd6b25a11c42bffd7c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "一名夏尔巴人在珠穆朗玛峰上独自生存了6天。他的家人称他被遗弃了。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:24.394Z"
+    },
+    "40de54a57a567e9ba5cf87faff4d731d39379a0a5fec80069094732100409565": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2e4a5fc926acd28bda4d8bcf3461f93f7a8043646d4fd48f2aa36f5e93667010",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "法国就以色列对待亲巴勒斯坦船队活动人士的方式展开调查。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:24.394Z"
+    },
     "54d44b6d31d3c58561611f52e78f306ff1eba30d9fbed64d8f9bf4a687ae1792": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3155,39 +3188,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "追踪美国船只撞击导致的死亡人数上升",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "f8db5b0d3a0e222f0949a739b2d9b39b1dcbdee9e8ca5c517dc036085abdfe04": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9ec9a6eacfa60a323c4ddc6fa67b468b0ef700cddca4371ac4b1d463e79225dc",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "被视为欧洲防务弱点的爱尔兰正试图壮大",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "fc873346d42be4fb003303d894726c5f88a1a7aab58e1c7c1bca43dee61d04c8": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "da06340da5288b7ed6d5af564f0c0de067324ab28ef80a858d05b03c6e45e622",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "索马里首都摩加迪沙的战斗：发生了什么及其重要性",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "以下是最新消息。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:16.377Z"
     },
