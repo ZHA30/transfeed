@@ -24,3 +24,15 @@ feeds:
     targetLanguage: zh-CN
     fields:
       - title
+
+  - path: /typesetinthefuture/feed
+    url: https://typesetinthefuture.com/feed/
+    targetLanguage: zh-CN
+    fields:
+      - title
+
+  - path: /construction-physics/feed
+    url: https://www.construction-physics.com/feed
+    targetLanguage: zh-CN
+    fields:
+      - title
