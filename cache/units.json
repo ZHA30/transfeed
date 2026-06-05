@@ -1,6 +1,39 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "5f88a3a1f34f2dcf02968d3ece2c7c81cb9096326dde2124d705615afef36893": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7f2778a355f126e4db7126c0bd13db1610557a8481a1e0696d63702d392748dc",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "微软希望用户沉迷于他们的AI个人助理Scout",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:35.682Z"
+    },
+    "5f947ce67b0cc89d38ccf1978d8df068f5ad80da653214d7d14bd16328abadee": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "14eb3e5db0216912a17fbc7221deb6eb16f64473a2a16373dabff9c9c356c4a9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "波音787梦想客机在偏远太平洋机场丢失舱门，令工程师困惑",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:35.682Z"
+    },
+    "f79475b115c890d48a2e5f2aa530f0999a1aa5f29dd5b2b93cf36d830721ddc7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "21bdb29a4c7b95467d1e9675821876f8b4fb9f331002c26ad8e5b5b1cf204b3f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Warren的抽象机：教程重建",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:35.682Z"
+    },
     "ddcef84991af7b87cbcbfb03096e7595b4e838e47b054f71b7af4abaa9fa49a4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -44,6 +77,17 @@
       "translated": "Transformers 本质简洁",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
+    },
+    "42bb0a146061496dde08e5880270536160d44be97cd7d47d2f69602e63ba9772": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "108df47ab89d65b00358ba5e122730deb10a4e643239b74d7361e98ff3bed6c9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "老龄化与眼部问题",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:35.682Z"
     },
     "3413357a0fa2e9febd80a010ddbd29db6d18c16b6ec101e3777646c98de23676": {
       "targetLanguage": "zh-CN",
@@ -133,17 +177,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "7f640506d30bb6cc6f60f5bbf5479392e16ab63190fc44b6a29a83cd8b1f4673": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fea41f55da228eaed250ad7bf03fa11dc8b0796a595b72af50905a4298d14991",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "荷兰政府只允许欧洲公司运营DigiD平台",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:35.715Z"
-    },
     "cabd88512bc713686f84b15b1ea3aac90be6b6b444a11ee13f4b785ba4df22f8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -165,6 +198,17 @@
       "translated": "我测试了家庭实验室中的每一个IP KVM",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:35.715Z"
+    },
+    "2ef96869c37059e5c0bdb66503eb5c215838b00c7aa578a300db1d57fc3da97a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "174d3d76a7799a2e835c7c106cbc34889d7cf581adb3be1eac75f40c27e0c2dc",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "不空虚的领域：GPS、OTAD与二十年的加密广播",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:35.682Z"
     },
     "8cbd5d528ca4c6a8441e4201919f67ebf1e9a4c4fe481014a7636f845cb61c18": {
       "targetLanguage": "zh-CN",
@@ -188,28 +232,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:25.301Z"
     },
-    "b5da360833e23ac79847a620d32851d806c1bf191178dfa56ddcde92c7422cb1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ec119623c9473c9096733c1d8ca093ecb66e9af94aa30742ab43a7a6182fc6e4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Show HN：Lowfat – 可插拔的 CLI 过滤器，节省了我 91.8% 的 LLM tokens",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:53:57.163Z"
-    },
-    "f1c0906d3e59c17949bf55e6ca527afa25b35dec86073cb0896d711a785fe30c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a4d14c054bdb2add29ee83421d62bdce3a7ab7b5551d9e7d61040b59f4f028fb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "纠缠构建了时空。现在，“魔法”赋予了它引力",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
-    },
     "01f0be9d393848b15bb80b0697d10e9881222092964fa57f7762df2b4f7b71b0": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -220,17 +242,6 @@
       "translated": "追踪欧洲上空一个强大的GNSS干扰源",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:25.301Z"
-    },
-    "3aaa120e989a57c19d32c2604eefcca68bb98f1da1efa42570f41d2fc156a87c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7cbad98259e106e3a2b92ca795acdf206f95736aee8c869b4c0f9dfbd4d2d1c9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "改变我们开发Ladybird的方式",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:35.715Z"
     },
     "42903fe4be54e139bb18a4c0eb7b275a8112b9c8d01651b5d1d702cca13bdaf1": {
       "targetLanguage": "zh-CN",
@@ -265,27 +276,38 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "893f9b0cafbbcdc045a80679d0a372efd4e2c4ceb6a603ad0c14377ed3f7f86e": {
+    "6bdbc29f5ba113900c5bb501bd2fa0b7070f723bd5ed7830fae8f7aa7d874e31": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "95a787843749ff9480e30d82c7e764bf5ffbd70c6f47869083cfceac5c11b2e4",
+      "sourceHash": "9547c9f7cdf90c9e2e6e4b96ebc06b2140b712b62c0a8e4440fb23c9cce7b027",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "做最难的事情",
+      "translated": "从城堡废墟到历史浴场——观看世界杯的不寻常地点",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:53:57.163Z"
+      "createdAt": "2026-06-05T23:08:42.771Z"
     },
-    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
+    "1366008a4baae971957e8a0fdc978d0ee58814638ff1a71e7afbe43047b7af7d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
+      "sourceHash": "1963eb4946140990ecce0448d5f0715fc2e1d83ead4a6f438b9c963e1f9c5718",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
+      "translated": "为什么澳大利亚会发生毁灭性的鼠灾？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
+      "createdAt": "2026-06-05T23:08:42.771Z"
+    },
+    "3c2c0d34fb87de054cec13c6d4c79da7fd2874fe5ea338009ae4e598f4e193be": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fa7c60e9fb5a313829e200851b99385c5df7a9a8d08d6a3d546648e9dfd0e0d7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "官方埃博拉病例数的下降似乎是好消息，但事情并没有那么简单",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:42.771Z"
     },
     "13c0dee39607e515777f1e5286bd7ea145c30ce1d401fee08e010ffd3c0991e4": {
       "targetLanguage": "zh-CN",
@@ -297,6 +319,39 @@
       "translated": "《吸血鬼猎人巴菲》与《泰德·拉索》主演安东尼·海德去世，享年72岁",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
+    },
+    "1ffe4ff2ca43c1f0044d97bce7dfa6cbb99db4a0d2d6753f7e5c07836de08c80": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "596db081541217a34fabaa96e956b6abd2164488a569575395b006392ba751cc",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国股市因对大型科技股的担忧而下跌，华尔街动荡",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:42.771Z"
+    },
+    "de7535d381a100d59f684e3fbcdbb054ab9d30389ff175774df1a55e7c0734c3": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c256e17fa51266073d703fb541841b3a3d3f319a469d7e22bbe963d38dc955fe",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "宇航员在修复空气泄漏尝试期间避难后返回国际空间站",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T17:54:30.561Z"
+    },
+    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
     },
     "793c5204a9895b2ac1883f37a91a9a1fcbb209dab98a548b6aee3b17bb5814e0": {
       "targetLanguage": "zh-CN",
@@ -352,6 +407,17 @@
       "translated": "英格兰队再迎激烈一天，17人出局掌控局面",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:54:15.544Z"
+    },
+    "879bd0cbe7d28e2dfc235a29aa94c6059e37cd36ae26e27fa0f55087ed107fc0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d054f458c7ffb9559131e998eb045e63e03183ceffa11abf656e50515e42fd2e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "被控藏匿4000万美元金条的前CIA官员是“操纵大师”，检方称",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:42.771Z"
     },
     "0ea466cc880ca94c2b11de37028c3e149cded14546b25e9ba0fd44fe3df3b204": {
       "targetLanguage": "zh-CN",
@@ -441,17 +507,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:30.561Z"
     },
-    "de7535d381a100d59f684e3fbcdbb054ab9d30389ff175774df1a55e7c0734c3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c256e17fa51266073d703fb541841b3a3d3f319a469d7e22bbe963d38dc955fe",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "宇航员在修复空气泄漏尝试期间避难后返回国际空间站",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
     "72fc464a50370d1fbb3e27dd423ebe5f48e1ffeeb9dd59e4cb37dea114e93a2b": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -493,61 +548,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "青少年因在海滩袭击中谋杀16岁凯登·莫伊被判有罪",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "ff1919b5f30e0cc165876f8ce584ba006e66ea60570b4307d15ef017ae8acc08": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e7cb6e2e5eb8f6ce519ffb09efaa9bbc141709eca199f51c69fd0343bc119513",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "挪威维京世界杯摄影的故事",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "c156427bc776f5a097878d2a926278fc10b5afde45139fce7a53207126ba30cd": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "82e6f806e239ca6328827ea5b72a83bf90ec134186a2f6f11e131cef72c92ad5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "两名罗马尼亚人因代表伊朗在英国刺伤记者被判有罪",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "08e4f0675c7af57b4bf44ed6f75b1c0b13a64aa2c297d327b8be9e0d8c44675c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "730a421315c4fabb6b6b87f195cbfebc53860c2cb7141f8e5f1827c84ffee593",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "三人在诺瓦克抗议后承认实施暴力骚乱",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "7fdf3fce6b275e36ef548d771d7aaf73f94d4a01a1ffd1f52852a9a46de0c6d4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c0759a6f12153fc3d40c4f0d5d8f0569cd2b9f075eb8b7dbbc78a11e99f95b86",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Primavera粉丝对头条表演者Doja Cat和Massive Attack因天气取消的反应",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "3b6114ba0b596699d065e2fe2252f9f1a41af4531681fc7a16a9eef09e0c714e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6a1677d6951ad6967c21fab1851efa1d4085488418fc3493692743687105d1f7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "A-level数学考试评分将受到监管机构密切关注，此前学生称试卷“不公平”",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
     },
@@ -2916,16 +2916,16 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
-    "c0d15d14802ea6f6d7a648222e98b3bd8e8be80055de6e8d6b1333d213384eaa": {
+    "d02d89ce4eb997d139964268f66e73b7f2c8fc38e10378591261c525218a3435": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "00e87d6d3271a112fcf7667254405f3d3d0e997c55d57d92c2f0fab02bf185b1",
+      "sourceHash": "88888acf0756105b3fbb33a34f5685fc54a5f16baedc24702d0f58dcb1068737",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "网球巨头跌落",
+      "translated": "伊朗足球队获准进入美国参加世界杯，但许多工作人员被拒",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
+      "createdAt": "2026-06-05T23:08:49.186Z"
     },
     "d41ea315f69f39ae090f1a9a99455c8b5184f4d08efcca3ef29678519d4f7b7a": {
       "targetLanguage": "zh-CN",
@@ -2937,6 +2937,28 @@
       "translated": "一名夏尔巴人在珠穆朗玛峰上独自生存了6天。他的家人称他被遗弃了。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:54:24.394Z"
+    },
+    "06544cba2a0d12181f350e09d8351beb6426d7f48be31b201fa7a21625d9961c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c974d48b2fad6026bb6b8bdb845b7f39324380befc55bf67f5e3bbc48ddc8a7d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "帕梅拉·希克斯，英国伊丽莎白二世的侍女，去世享年97岁",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T23:08:49.186Z"
+    },
+    "c0d15d14802ea6f6d7a648222e98b3bd8e8be80055de6e8d6b1333d213384eaa": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "00e87d6d3271a112fcf7667254405f3d3d0e997c55d57d92c2f0fab02bf185b1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "网球巨头跌落",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T03:40:16.377Z"
     },
     "d005800e15b09d606a3efbc9553af453395eecc39436f126ced6f7a92d4d17f1": {
       "targetLanguage": "zh-CN",
@@ -3168,28 +3190,6 @@
       "translated": "俄罗斯抨击西方但欢迎Candace Owens和Andrew Tate",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T08:06:53.708Z"
-    },
-    "74d251a7e839e999906e45e0cc736aad7010961ddd83c769dc3a9221891d43b3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f85466677e78435146e42184ee556a72651ac20f04a5cee0d221e3ba0ff1f83e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "中国习近平前往朝鲜前需知",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "7aaebad2049903abdeef761000ab6857e1b54b5b37685ea9b88173cd4c12e94b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c87accb582131103da89b8608a8c87b2850cd87ab637c9f357a0666433a69519",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "追踪美国船只撞击导致的死亡人数上升",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
