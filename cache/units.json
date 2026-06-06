@@ -1,6 +1,61 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "e58b46859b1c700d6ae55c4b92f161baf68833162eca5086949458a1ac8fc2ed": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ff03e73b3afec1140737c3887ac8dbef136fecc55c2a7a8bd2b6e982108a6cb3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "标普500拒绝SpaceX，同时也阻止OpenAI和Anthropic入场",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:13.150Z"
+    },
+    "a0180f87072e2d0bc7b07bd6dc066f2817c4b2294e8c9889f9c601f873c0b4a8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a4c0a9efd35f1e562e308ee106ea2cde362739acd87bc6310813332e7ec8b140",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "世界观构建者的前现代军队，第一部分：为何而战",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:13.150Z"
+    },
+    "a352c546a18702437302d3b1c893a15fe23c53bf44f1a60d6a729f37873b7bd7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4ae7bb8b0ea249e0f38edc83de88739c4ea89da2a94cd553a2fabd5b2474ca57",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "锁定模式",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:13.150Z"
+    },
+    "bfbf6ea20b2fd3b4f2dc5e82ef441dd1555c5218e58d7ddd425c0c273e76865a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0cacd87bf8147c6bbf9c4d22ddabc7e64cd26378c62648006e832f4f1c333b2b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "C++语言书籍封底提出了封面未解答的问题",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:13.150Z"
+    },
+    "6a71d509d1c6496b34390f6cb045c8a7636ba1f02cb8c7b3ab3a29d077b6526a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "48db17a1f8d35840302c969a139f118f5bdd064434fce57b95801fa9df2b711f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "问HN：为什么HN群体如此反AI？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:13.150Z"
+    },
     "86d7e07624f3d476c8ee45d99c3193d96e5e634fc2f3992c008c3595dcb68cbc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -23,16 +78,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:31.227Z"
     },
-    "7035a84a1366a53ccca878ea935fcabe3a4e69b067f47c31f7fddf44980e4cd9": {
+    "384ef61b45c3c7bf7cc5a0195229c022039bb24a0f63c75e811ced0fb2ec5d69": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "6b8d6a8d40463b7217315875a1afc1d007fcf2946641ee1030349f9aab630116",
+      "sourceHash": "31278e0df113379ba7211ea0a5eaa68ec8e174a795b708d61656ef1cf6a38a61",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Nordstjernen网页浏览器1.0.0发布",
+      "translated": "Nordstjernen 1.0",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:31.227Z"
+      "createdAt": "2026-06-06T06:52:13.150Z"
+    },
+    "776cb585370cd71b57436742f10a45435563835aabe51fcbc168b16001cbcd1d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a95178f883838e9761fbb85153f8642550c91ad63f1aadc28a72f24880674eb9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "SQLite中UUID主键的风险",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:13.150Z"
     },
     "7d55766052391ccf5ddf655b529dbba0bcecb825474b62e75c47b4c78d7507fc": {
       "targetLanguage": "zh-CN",
@@ -56,17 +122,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:31.227Z"
     },
-    "42bb0a146061496dde08e5880270536160d44be97cd7d47d2f69602e63ba9772": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "108df47ab89d65b00358ba5e122730deb10a4e643239b74d7361e98ff3bed6c9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "老龄化与眼部问题",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:35.682Z"
-    },
     "3413357a0fa2e9febd80a010ddbd29db6d18c16b6ec101e3777646c98de23676": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -77,17 +132,6 @@
       "translated": "Gov.uk 已用荷兰支付提供商 Adyen 取代 Stripe",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
-    },
-    "729ac0033ee3960aa58b434a7a8c2acbb2028858db7eaf5ccfcf2f065328caf9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3eb7e9d8778e57b49c64681df1511e019d67d15b44e48ce4636785947a11b0a9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Launch HN: General Instinct (YC P26) – 边缘设备上的前沿模型",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
     },
     "d331b1c1cb4b1b3e468c879559878f92af9425ab6e7c5755b479dc33282ee04b": {
       "targetLanguage": "zh-CN",
@@ -155,17 +199,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "e4e94712484d14e2570adb983ecadca4aa716555200d22a5723008094df7cfea": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9d81feb401d0732a169a5c52ff0aeff31edc8f024b099581e9933b59e47bc17b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我测试了家庭实验室中的每一个IP KVM",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:35.715Z"
-    },
     "650aadb3c62a6051d2bfd7421267d82ed4049fa60594ed9154c113679b90b59d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -199,28 +232,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:25.301Z"
     },
-    "42903fe4be54e139bb18a4c0eb7b275a8112b9c8d01651b5d1d702cca13bdaf1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "91115deb0ed59cde1e9c9db8f2d7b61ea7ccca87383ddb4acd1f5ca05095363d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "C++：纪录片",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T08:06:19.057Z"
-    },
-    "04e27c76ebcf71960892368a243c5e042b32c62f6b80a001d8e7d7bbb3f6c5dc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "349474317963ad7525a7f3f9bb119253b52d741ebec7dc0b287db44ef677e97a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "韩国论坛将需要使用AI审查工具扫描每张图片",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:31.227Z"
-    },
     "a0d6aad355ded0bdc355afe8f2c59018e993e95e1a79e495090e7269eff28178": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -229,28 +240,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Ask HN：你使用 GenAI 时有哪些“卧槽”时刻？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:53:57.163Z"
-    },
-    "be0e7fde435a40709bbdc431a7abb3e5bec1d1b5227e7667f65e74c09e385660": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ce55746dfc0eaaca01b1e801f3c8e8a998b49c554884e89be4e95b969894f7c1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Show HN：经过形式验证的多边形交集——Opus 4.8 oneshots，之前失败",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:31.227Z"
-    },
-    "087d68f533eec916d29382116c30108a365d5cc9fc79297450a1f76cb2fb25b3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9728afa1e12b4c52e5feff5e91bf529cf5f267758d59bc098c519ad27dde6022",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "“也许以后”曾是一个功能",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
@@ -265,16 +254,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:31.227Z"
     },
-    "2794b4eec13a750c8d9281dd1a4b9b4785a13b486ec67e665b15cff373ae84ee": {
+    "a8730c82653ec18b75f2f4924c6ce2422806d7ae4812954e784f1d213c687e15": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "a4bcc5283c9e42b4f7708ec6802dcad4f8543dcf84d260ec5a3ba12c65f1f91e",
+      "sourceHash": "4bcbced7596c53fa1372b636ad89cfc45b1e48c8ee086b2d09083863d6fe9053",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "FAISS内部：十亿级别相似性搜索",
+      "translated": "欧洲最大的铜器时代墓葬：儿童骨骼揭示古代健康危机",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:31.227Z"
+      "createdAt": "2026-06-06T06:52:13.150Z"
+    },
+    "ebb6af9c5242866070b2dcb8c71292b090b4bdce90289cb4fa3120728684b773": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "53dc5afec98859db05e8dfb9f0b3aa96784e5d7d91576a3eeb58edaa80dd3d72",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "LLM的工作原理",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:13.150Z"
     },
     "9b727b6b432233eb49488fa621cdd91f70d9df2ed7995032d3b6cdfe4c6aa779": {
       "targetLanguage": "zh-CN",
@@ -286,6 +286,72 @@
       "translated": "美国和伊朗在波斯湾互相发动袭击，考验停火协议",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "0be9de1afb7d01e40ed5d1bef8300bb116d015cbc62abefc50bea236e85e67c4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "315d302adc3634b07c392205c552512b87e567ccaac86e566685020a94ef5d99",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "青少年球星对阵500-1资格赛选手——一场反差鲜明的法网决赛",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:23.858Z"
+    },
+    "3415c17067cefdd8e740ef7f0b3d593024916b23258c0d6852b9890bd3baee85": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "107a8c73b1fadfc9f486ced019d21749d9adf8b2d01a2ea782c7035a5fe2ebf3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "不可替代先生与金球奖候选人——这是凯恩的时代吗？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:23.858Z"
+    },
+    "e2e56689754e7014fc74ba7de8a084c66632b972d69b4f6aa524a02312d46b9b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7e6a9365557d42e1c054af5fa8fd4fae170bfafca06b906de1660b56915367c8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "报纸头条：'旗舰抛锚'和'啤酒走起！'",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "6a0e88b98615175998a979672f6d7326f830263203efe2dcadbff50b40376644": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b1055fbeff5392b695f50149a4c733cfed7e17e32d3ce5e9ffd914d325035b10",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "加拿大因美国爆发食肉螺旋蝇疫情禁止进口得克萨斯州牛",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:23.858Z"
+    },
+    "e77294c5b1a15b1313dfd509eac9a19d2042103184ac6d1918a9688af3ddcec1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "53758131e642b45c21682db69327ddfc0019434dafb227c1b062ce87c7d7e981",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "大型宴会激怒法国激进左翼",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:23.858Z"
+    },
+    "b4781dff4f89ea72d5fa1d136bf60ddcccb4700224f9c2a18a62f82fb8206727": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c01e614c34c4b6de4efdbdd56435f1cd0aee97502ad2e7562964bbd58374db95",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "伊朗足球队获签进入美国参加世界杯，官员称",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:23.858Z"
     },
     "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
       "targetLanguage": "zh-CN",
@@ -320,38 +386,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:51.198Z"
     },
-    "67369583c3beaac3a506d94eb0e7db3d1bcaf5a738b3b0eb4aa39040c8fb783a": {
+    "ee99e961b931a717fe44f1952a4d8d116e0ccf29b29bb9cd9eada8c024647486": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "00c22db202e49afbaf2bdd58a36f6ff73823e66aff504b12a07ef206c14e555d",
+      "sourceHash": "34403c7a4a02aecd63a7ae684d8a4ae1928d485eee3b776654a6ada7673699a6",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "拜登内阁部长在加州州长竞选中取得进展",
+      "translated": "西班牙在痛苦失利中暴露英格兰的缺陷",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:51.198Z"
-    },
-    "e2e56689754e7014fc74ba7de8a084c66632b972d69b4f6aa524a02312d46b9b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7e6a9365557d42e1c054af5fa8fd4fae170bfafca06b906de1660b56915367c8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "报纸头条：'旗舰抛锚'和'啤酒走起！'",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:51.198Z"
-    },
-    "7efff4a4e41b54f71bec75460263f95be54734ba1754086373c3fc3e872a5e1a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "255831cb17e4e2f9e4e81245bb736acfee14252691f3739b22b95e364fd22d18",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "西班牙揭露英格兰弱点，惨败'很受伤'",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:51.198Z"
+      "createdAt": "2026-06-06T06:52:23.858Z"
     },
     "ff3e6792dfffac3f79e24db5ccaec3546ba17f4192a5155a75f224b0f5f3ff66": {
       "targetLanguage": "zh-CN",
@@ -430,17 +474,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T23:08:42.771Z"
     },
-    "3c2c0d34fb87de054cec13c6d4c79da7fd2874fe5ea338009ae4e598f4e193be": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fa7c60e9fb5a313829e200851b99385c5df7a9a8d08d6a3d546648e9dfd0e0d7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "官方埃博拉病例数的下降似乎是好消息，但事情并没有那么简单",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:42.771Z"
-    },
     "13c0dee39607e515777f1e5286bd7ea145c30ce1d401fee08e010ffd3c0991e4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -451,28 +484,6 @@
       "translated": "《吸血鬼猎人巴菲》与《泰德·拉索》主演安东尼·海德去世，享年72岁",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "1ffe4ff2ca43c1f0044d97bce7dfa6cbb99db4a0d2d6753f7e5c07836de08c80": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "596db081541217a34fabaa96e956b6abd2164488a569575395b006392ba751cc",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国股市因对大型科技股的担忧而下跌，华尔街动荡",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:42.771Z"
-    },
-    "de7535d381a100d59f684e3fbcdbb054ab9d30389ff175774df1a55e7c0734c3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c256e17fa51266073d703fb541841b3a3d3f319a469d7e22bbe963d38dc955fe",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "宇航员在修复空气泄漏尝试期间避难后返回国际空间站",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
     },
     "793c5204a9895b2ac1883f37a91a9a1fcbb209dab98a548b6aee3b17bb5814e0": {
       "targetLanguage": "zh-CN",
@@ -485,27 +496,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T21:25:22.398Z"
     },
-    "b7f6288464aa0ea88d622ad02519951badcfa28fb3caf1db13ae8157619d4538": {
+    "c38024b7eedbda58de8b7723b8536d6ea8f63ec0242aedb2d629df8c47f78c2e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "00134a77ef8cf1a0091859c8179a86f785f09e90c95f645cd3981859baec8899",
+      "sourceHash": "6b05eb7d71c387b10e6be7d35192404e4e413e95bef8496f383ab496f0d3a00c",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "沃恩为在糟糕的洛德球场的击球手感到遗憾",
+      "translated": "沃恩对在主球场糟糕场地上击球的球员表示遗憾",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T21:25:22.398Z"
-    },
-    "e523e163a46c8597874ad59c69a828ee7ce08ec0773c281a8324d355a6eef610": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4743678e1006f342c9a7ce9496a2bb3d2b6b915b5e4a6fdd7dbc971e521c988a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "珠峰向导通过吃巧克力和“嚼冰”在六天磨难中幸存",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
+      "createdAt": "2026-06-06T06:52:23.858Z"
     },
     "aa84e1042b1df4f423acd4e10f1a56175a651e0165acbccb11733bf95e891d5f": {
       "targetLanguage": "zh-CN",
@@ -529,27 +529,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:54:15.544Z"
     },
-    "879bd0cbe7d28e2dfc235a29aa94c6059e37cd36ae26e27fa0f55087ed107fc0": {
+    "8112dd9c0efd5618be684fe726800065168c34f8bd748c9c2698672eb4ac0244": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "d054f458c7ffb9559131e998eb045e63e03183ceffa11abf656e50515e42fd2e",
+      "sourceHash": "4fb4c72dd0a443d6d2c7888302b82fbf20f4140992bd8c15a4c9f9e9502bc698",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "被控藏匿4000万美元金条的前CIA官员是“操纵大师”，检方称",
+      "translated": "普京称与泽连斯基会面结束乌克兰战争“毫无意义”",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:42.771Z"
+      "createdAt": "2026-06-06T06:52:23.858Z"
     },
-    "0ea466cc880ca94c2b11de37028c3e149cded14546b25e9ba0fd44fe3df3b204": {
+    "acd7cbccefa64b99e3ec7990c402d844cbd80a7781a1e42c2d2fbe7abe326e9c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2df577281d1b85b3314615172287bd38bf6d2be3e4e824568b9ca33b237c6218",
+      "sourceHash": "aa8b4b2aaabbc332ae7d6d0f8cab8f0c54fae8ef8c9a87c97184382fba61031d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "伊丽莎白二世前侍女帕梅拉·希克斯夫人去世，享年97岁",
+      "translated": "前第四频道新闻主持人乔恩·斯诺透露患有阿尔茨海默症",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
+      "createdAt": "2026-06-06T06:52:23.858Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
@@ -2916,6 +2916,39 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "dea1dd2342f9d98106822b33cd9165eea71e0f19c5dacfe7753a15472a39b2b9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "51e446ff2a0f2732847a5b4f0818c648bd4f1ce2b7f0daca3473a5e9d24add92",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在德里酷热下劳作，工人必须在健康与工资之间做出选择",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:30.798Z"
+    },
+    "a11c8ea9ddbb33f3e075e037fbe67f7be926fbf5f4363e70d571e3b4121549d9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1db2621a3046e3ab083a3f091e63a94731a00b1c7d68b1d6301e47556498700c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "马里冲突升级，反叛联盟占领关键城市",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:30.798Z"
+    },
+    "fe19632f99f89153a145d5cdae328896fbd749a3f6548b3c3faa217900e9f80c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d1ae4187ec31ca41463719d4e92108ac00286a0a1c2fb5d6ba4fde5792e19cd8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "一位总统、他的总理以及分裂塞内加尔的严重分歧",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:30.798Z"
+    },
     "d02d89ce4eb997d139964268f66e73b7f2c8fc38e10378591261c525218a3435": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3157,39 +3190,6 @@
       "translated": "随东京新型垃圾警察巡逻",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T12:08:52.023Z"
-    },
-    "f71872117f90a9ff674bf0013e15bf0b20a2f01780f8a89d063cac1e3a51b624": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "475919ade7d9bc5b5ed6ac751a829e9983c03ce2e88588f5125b4ff16efc3fcc",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "泽连斯基在致普京的信中混杂嘲讽与和谈提议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "b32999c2e46af34105a30a70efa501dfd21040ac31488f067cc9effe9b5b806c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f474f03877b588d4239309cc159c7dd08af9b687ba08dafbb4f9d6980f438922",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "众议院无视共和党领袖通过乌克兰援助法案",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "24c6e59c8ff1bf081c605c19990978c7d3dd6a11f5cf5371ab84dab5070631c6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c0ca4e371ec0b57b9cb70abbe33aa2dfe6ff4ee1ac34218750e50f9064c23a9f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "俄罗斯抨击西方但欢迎Candace Owens和Andrew Tate",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T08:06:53.708Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
