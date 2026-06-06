@@ -1,27 +1,49 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "e2aad30ecab4705d0442b5b99a2dcda73ba6bf657b444b10de909503d72dbf10": {
+    "ab456ff448ea6ccf0e38e439504f027b23a8b3d52491213311e3520c5c7f934a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "e221d2469d2ff510d1168c9317af53f72194616445eef9958e037e2a4c27493b",
+      "sourceHash": "3a82abd4c3e3606a77529c2f4e87dbf9c8cc14b3081d29a9e46b4da5fc5f97b9",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "通用内存协议 – 代理内存的共享格式",
+      "translated": "美国新大学毕业生失业率高于普通工人",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T21:03:41.545Z"
+      "createdAt": "2026-06-06T23:03:05.291Z"
     },
-    "604bc83f3cc8757d1593b386586ec0348d5523c8765ce91de796e63851be6d39": {
+    "eb241a20b081733d8b299666b6272c3d255e2edd7405c401bc8c49f49fc770bd": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "aeb603b1eec271fa21189c6801c44e972c40b83ed902e6e5e9b8ce2a790c7e03",
+      "sourceHash": "282f027a74ee91c38a75daa750acbe06810e0aa5b213c646a662855fb31fec67",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Computex 2026：我们是否即将进入代理PC时代？ – EE Times",
+      "translated": "Computex 2026：我们是否即将进入智能体PC时代？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T21:03:41.545Z"
+      "createdAt": "2026-06-06T23:03:05.291Z"
+    },
+    "328ba7ed6d7b1be89b4089441fe6d179e149c38bb3618211214456c050563220": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f85ee185ec38012aef807badeab000335986d4b388be4c75b11792aa59eba7f2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Sem：代码理解的新原语——不是LSP，而是Git之上的实体",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T23:03:05.291Z"
+    },
+    "c37bb63917366e62d6db6aa95f58a97909579adcfa67cf334f248d59acddd0c9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "aea43dcf7779a7a2404455e9b557f43776e73e9dcd0325ff579610e4c1d18b8d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "独自在家：远程工作、隔离与心理健康",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T23:03:05.291Z"
     },
     "e9d583f1d2b432a5fc92e268c7c606d2fea98823d8d66efde2481b912b807425": {
       "targetLanguage": "zh-CN",
@@ -67,28 +89,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T17:13:24.163Z"
     },
-    "1e1f1f6c3b48b0cc0cb76b4d055a4154babbf7f8f784ef4fc9cb28d82d8cf222": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2591b7566be30842672717365db86a925f58f6b15e89c2ace71f9eec864eb127",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英格兰和威尔士警方被要求停止在法庭陈述中使用人工智能",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:24.163Z"
-    },
-    "3f937d0ad8666e433b3aad4e37478e0ce51b6308d5def4ad1c8a92ebe297cdef": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "356f2841b6a678baf00eaf624dde91d36ec9bfc0854ffa7d928ea52452da97b4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Python JIT项目被要求暂停开发",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:24.163Z"
-    },
     "e44175bc0649c4acf948bc3ccfd7cb086c22cf1516c3e913e5ad361d34957846": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -100,16 +100,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T17:13:24.163Z"
     },
-    "d94fc91376da7ee7d8543962acdc1830dc386a769e7b3277652827e1ce0a5c46": {
+    "73115e2e443e8187933684a63afc1ef5749a220f4f335e5a10f0a6dbd933211b": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "41d30e57c3e395eb3aa6709d6d889da11d7aab06220fb07c69fb5b2b9caff4c2",
+      "sourceHash": "464e96d5d95c9d444552d4d5f67f272fa5d71a578b815af0bd05ea89084c6315",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "超越fork() + exec()",
+      "translated": "摩托罗拉毫无解释地将其全线WiFi路由器变砖",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T15:14:50.562Z"
+      "createdAt": "2026-06-06T23:03:05.291Z"
     },
     "7cf01b917ef5c972dc85d4a1297b47dbcdf9a7e35385f9bda947ce2d62f76626": {
       "targetLanguage": "zh-CN",
@@ -232,17 +232,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T15:14:50.562Z"
     },
-    "0aa8552642fa0668ddaec58f771f24e4c817bd37803584d0260c21971266d952": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c4a34cec037166a3cec284b3fd4dd10c01750df7f3c4aba52747d7fe841b4814",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "新方法将海水转化为饮用水，无浪费",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
-    },
     "a0d6aad355ded0bdc355afe8f2c59018e993e95e1a79e495090e7269eff28178": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -253,6 +242,17 @@
       "translated": "Ask HN：你使用 GenAI 时有哪些“卧槽”时刻？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
+    },
+    "2066e560e06d6b8ba918bed94491cb7712218260883988b81a8a726a87480583": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c4fe0493e735930bf09f99c3310241496f05ad8941661890acae4c9073debeac",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "哥伦布用来替代北极星的东西",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T23:03:05.291Z"
     },
     "870c316baa0acb4213b4c6051a8d139bfcb46cef1d45116f39a153719a4bbc85": {
       "targetLanguage": "zh-CN",
@@ -276,16 +276,38 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T19:21:53.798Z"
     },
-    "cdd83d2ca7cfe9ce54308420052c054b2d8a6fa2ff7a2e02ef30ae62ed9b9e66": {
+    "9b1cc36fffceafa456c1e56800f0f746a6c19e1bce961634ca5c9097babf1952": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "16ddcf33469b8ba58137903316cdcfec20ec225a5fa259a874b158476fe782eb",
+      "sourceHash": "762c3cf7aa3945a28dec5d944e5319f51f9cd9f13d900323524d4c1c31c026fb",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "乌克兰无人机袭击圣彼得堡，俄罗斯称此为‘前所未有’",
+      "translated": "伊朗称球员获世界杯签证后工作人员被拒入境美国",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T11:26:38.466Z"
+      "createdAt": "2026-06-06T23:03:13.096Z"
+    },
+    "630d2e8c428d8cbdc12501f1c9b27f2eebbddffc6b0877d85d799816d21c1ca5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7c954853699dd5607ff4e8bce601e9e26e4ba3c60b141a9a0cd9810480af0ee7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "比拉姆-史密斯在Zuffa拳击英国首秀中击败罗齐基",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T23:03:13.096Z"
+    },
+    "217b32a66a46b2f3eb885b7fc2108aaeb9e10e32ea9ed86643101f67528ebe64": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "793f53f3e41de14728b3566b28c6e42274dd06893fff079ebe422fce4a4586ba",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "黎巴嫩将军在以色列对汽车袭击中与两名士兵一同遇害",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T23:03:13.096Z"
     },
     "03017285635d13ab7573f125bf59fe878b139b946e7d8dc804ebd6fd4164512a": {
       "targetLanguage": "zh-CN",
@@ -297,6 +319,28 @@
       "translated": "赫格塞斯在诺曼底登陆日演讲中抨击欧洲，称移民“入侵”其海滩。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T21:04:02.688Z"
+    },
+    "cdd83d2ca7cfe9ce54308420052c054b2d8a6fa2ff7a2e02ef30ae62ed9b9e66": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "16ddcf33469b8ba58137903316cdcfec20ec225a5fa259a874b158476fe782eb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "乌克兰无人机袭击圣彼得堡，俄罗斯称此为‘前所未有’",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T11:26:38.466Z"
+    },
+    "c57bcaaacbf7ee837b4fda98fbe71e71e2b81f8d08002051ec569bbf173c49ad": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "15e5aee7a3312015169d30dd67c721e52dca99f8d53ff75a307b081f63e34829",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "建筑商凭‘诡异’时间胶囊提示赢得埃普瑟姆德比赛马赌注",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T23:03:13.096Z"
     },
     "dcc0d272207853bb2dc72075e50e1919e9b2042f1c4cb2bf41c4556182b70e20": {
       "targetLanguage": "zh-CN",
@@ -342,6 +386,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:23.858Z"
     },
+    "82dc68e62898a136c027a215be640bf79fe3ab17a6bdb83014084faba3d9d281": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4e53972cb8edd992c174325586068a6227cc993c065ea6a2e7936f1112860114",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "视频：雨中的皇家婚礼——头纱、礼服和雨伞",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T23:03:13.096Z"
+    },
     "9c5c2e826c803238bd7dffbbcd136474798bbc639ba3dcc860fa7791d6860c85": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -361,17 +416,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "英格兰队在潮湿的罗德板球场更接近获胜",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:39.198Z"
-    },
-    "87c9676412097bb5e17e9812607aa1240253e02b9245ebac5334db9f3d849a9b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "43c46955fa20e0e3533b0cc07a906f709704ef70a986bd8753497d3f30e90f73",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "青少年选手安德烈耶娃在法网击败赫瓦林斯卡，获得首个大满贯冠军",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T17:13:39.198Z"
     },
@@ -452,17 +496,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:10.324Z"
     },
-    "09c4a4aa9f735602e23c978d67d5b59f5bd325097832063551ae70979d604a8c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "605433dfb99b6b7191dae5617042a012220d865151f8a554a224f39210867855",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "史蒂文·斯皮尔伯格意外现身伦敦酒吧问答比赛",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:41:10.324Z"
-    },
     "dfba4f94400cf6b34a5917d52e7f17d763a369e71cb273f22bff2dce8ce217ae": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -471,17 +504,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "诺瓦克谋杀案点燃了英国政治。这就是我们如何走到这一步的。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T11:26:38.466Z"
-    },
-    "8a073f942845f69d14714a4369d41c676ad686867c7e6d64d1810c6272b2503d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "341df4866eadf921ca64d68bfc09c5772b8b645bc880a8ebccbb47bad36e729b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "歌手达菲在性侵经历后15年来首次举办现场演唱会",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T11:26:38.466Z"
     },
@@ -507,17 +529,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:51.198Z"
     },
-    "21fde837b009be317ddfff3a3947128d115172de72d33f26c466bac31974d313": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f0f52475f5ddca0b8cf2caf77cfb993a85e3df9283fef9041db55a8ff762b7b3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "你中年朋友开始和你女儿约会：剧集探讨接下来会发生什么",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T09:25:28.761Z"
-    },
     "f5840164e2dca6d83e591c81013a4506df109f945b54fe7d0a124aa83f929b6d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -539,17 +550,6 @@
       "translated": "Anthropic：人工智能可能脱离人类控制",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T19:22:10.107Z"
-    },
-    "becd12c4b54076f91c30361755f34eae4120cb7201692ab4416b7f8d63f85b19": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c0f50285528debd99f6003603a1d191825ed51502b800c9719781543990045db",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "探索一个科学、政治与文化交汇的地方",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T21:04:02.688Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
@@ -2916,6 +2916,17 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "9e8a77bdf33c9ba8266aed70530308b612a106df5f8ce65e65c3025453d846d9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f17bd1a9cb3d7a5de5c69f9fea3f6ed35f994eedbb6a407cdfcae535487b062a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "乌克兰以远程无人机袭击圣彼得堡",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T23:03:17.443Z"
+    },
     "373fc1c99ef41ece6ae0bacf1ba3de4924a69706dd8314fbc90d4582429079b2": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3179,17 +3190,6 @@
       "translated": "法国就以色列对待亲巴勒斯坦船队活动人士的方式展开调查。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:54:24.394Z"
-    },
-    "54d44b6d31d3c58561611f52e78f306ff1eba30d9fbed64d8f9bf4a687ae1792": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "918d92ef005e4db82c16e7f01fce3326678f54b00e690c20a8d3895e2c0f9142",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "随着特朗普加强对古巴经济的规定，连锁酒店退出",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
