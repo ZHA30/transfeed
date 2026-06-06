@@ -1,6 +1,28 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "7797a82615ba2d16f2ce5828cbb24d5428b5cc456e7682736121d5903820179e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1ff23ac3f9544933e79751c68b7ed1328b04685023cc5082202da2a2d280e5ab",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "因使用GrapheneOS，GrapheneOS用户被报告给当局",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:15.131Z"
+    },
+    "b9ee035a290e47bb33c089844cbeb08f16401e5504164832cb1c17664b8bd900": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0277f71d3540a4851e29205fa92ec66caee01a0d7961be39f3daac9b44a87526",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Zig Zen 更新",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:15.131Z"
+    },
     "e58b46859b1c700d6ae55c4b92f161baf68833162eca5086949458a1ac8fc2ed": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -56,17 +78,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:13.150Z"
     },
-    "86d7e07624f3d476c8ee45d99c3193d96e5e634fc2f3992c008c3595dcb68cbc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6f7fd2995597abcc78ab18446342570abbf02074935af5bdf999df235c535b89",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Show HN：ABC经典100排名可视化",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:31.227Z"
-    },
     "55e40457c1ed84222b8b3f6092a12dda82abe3cf149b1c892542d63276475658": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -78,17 +89,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:31.227Z"
     },
-    "384ef61b45c3c7bf7cc5a0195229c022039bb24a0f63c75e811ced0fb2ec5d69": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "31278e0df113379ba7211ea0a5eaa68ec8e174a795b708d61656ef1cf6a38a61",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Nordstjernen 1.0",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T06:52:13.150Z"
-    },
     "776cb585370cd71b57436742f10a45435563835aabe51fcbc168b16001cbcd1d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -99,17 +99,6 @@
       "translated": "SQLite中UUID主键的风险",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:13.150Z"
-    },
-    "7d55766052391ccf5ddf655b529dbba0bcecb825474b62e75c47b4c78d7507fc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "656105c39f7a15788509764912e581d9a85d686f57b571eb057824c4d02662f5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我们最糟糕的三个风险投资故事",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:53:57.163Z"
     },
     "73860c91f07b94156ef3aac72a63cd171787c41911c86ae817efec54216786fd": {
       "targetLanguage": "zh-CN",
@@ -265,6 +254,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:13.150Z"
     },
+    "e25d11b8e496268e7bb2c92de58c2a1aebd27a438b4b436cf4ca336f7c3ab503": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "30dfb78eb8b40177ea589157c815b41c48c481a61eca065a8ff1aba1d595609c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我们将TimescaleDB块从30天缩小到7天",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:15.131Z"
+    },
     "ebb6af9c5242866070b2dcb8c71292b090b4bdce90289cb4fa3120728684b773": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -275,6 +275,94 @@
       "translated": "LLM的工作原理",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:13.150Z"
+    },
+    "cdabb5dd970e576b7f704af3ed3222c40719ba5f6cce0f006345db2aee0b8b2a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3c132f1be1ace8988a019c565e1b83842c9db01d1eb2aaacab7d07fdea1c9f2c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "诺曼底登陆老兵纪念周年，近100个英国名字被添加到纪念碑",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:28.761Z"
+    },
+    "64d70c5f780dbfa943ad20ea14edadf9828aedea271f8e95bef869d3079f723a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "18db88a36b8e2bcb1359cf82c3e216618c74e9713f781b8785e87bfa9607680b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "欧洲百万彩票得主因涉嫌肇事逃逸死亡",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:28.761Z"
+    },
+    "dc124a9ec4e0cdbfeb94514ef537630fc84734d36255f5a705938b93f745d75a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "684289e50ec146e4a2ce69ff1217e0a0a457d62a931063aaa7c8b96aa9563326",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "今年夏天值得关注的七个壮观夜空事件",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:28.761Z"
+    },
+    "842c862b908dab6086c2a55484c275d26cb32bb57379692198f3c99f5718dc6e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b26640a6b02d5475b06627929dc572ff3753a981b7808b26684133139ac8f981",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "歌手达菲将在15多年来首次举办现场演唱会",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:28.761Z"
+    },
+    "4041701a1462fc11fc432496c0dba39bc322c81bd0de954642a93e63cfa3b544": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "bb519302440536763c2dfb92f5b1f33a9f5674b763c108317c2c438c170bf516",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "向《吸血鬼猎人巴菲》和《足球教练》明星安东尼·海德致敬，享年72岁",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:28.761Z"
+    },
+    "08b975014bd7789c455f9f34288b053ecce4c1db3794af98d148bea324af0f73": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5bd961b23e81126d8eed7f14137ae6a1c89702ec692bb68047b65f11c570d245",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "亚美尼亚准备选举，俄罗斯向亲西方政府施压",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
+    "27d85ba4f2fe47582252bf146e8581b4ccbb8feb77239bb2c8fb0ee10a6ad68f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d6bd5174df4fc8eabd1440bc7ca5ef11b827c9c6738d9678e6ba91c285254faf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "男孩截肢后，男子因巴里岛持刀伤人案被指控",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:28.761Z"
     },
     "9b727b6b432233eb49488fa621cdd91f70d9df2ed7995032d3b6cdfe4c6aa779": {
       "targetLanguage": "zh-CN",
@@ -342,28 +430,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:23.858Z"
     },
-    "b4781dff4f89ea72d5fa1d136bf60ddcccb4700224f9c2a18a62f82fb8206727": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c01e614c34c4b6de4efdbdd56435f1cd0aee97502ad2e7562964bbd58374db95",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伊朗足球队获签进入美国参加世界杯，官员称",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T06:52:23.858Z"
-    },
-    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
-    },
     "79edd43772ea041f679e178b1b519b407f9a12228ed220ef7c48e2748aad8f53": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -375,16 +441,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:51.198Z"
     },
-    "63d2b101b9ec6872572687fde15d76216ac9d9069b0a3251a36fcafd725db9aa": {
+    "4343d6ed1d97ba6e9f749dd6692c5504578fcec0ebf9721b019bb055cee40e06": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "011d8439c197fafb6cbe755184302c7d431acb5bf1f5de13a9dd736718d66809",
+      "sourceHash": "68bc3ce4cef3e7b4a60dc080b0d01eca91960bf006e195371c368203ca89af76",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "'叛徒'——埃尔莫因尼克斯NBA总决赛惹怒纽约人",
+      "translated": "'叛徒'埃尔莫因尼克斯NBA总决赛与纽约人关系紧张",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:51.198Z"
+      "createdAt": "2026-06-06T09:25:28.761Z"
     },
     "ee99e961b931a717fe44f1952a4d8d116e0ccf29b29bb9cd9eada8c024647486": {
       "targetLanguage": "zh-CN",
@@ -397,28 +463,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:23.858Z"
     },
-    "ff3e6792dfffac3f79e24db5ccaec3546ba17f4192a5155a75f224b0f5f3ff66": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "cb2374a27dd3ca9ed7ccca90a120f435acc051b5225c166efd290ba6e3eb7aed",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Bangaranga歌手Dara称曾两次想退出欧洲歌唱大赛——结果却赢了",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:51.198Z"
-    },
-    "08b975014bd7789c455f9f34288b053ecce4c1db3794af98d148bea324af0f73": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5bd961b23e81126d8eed7f14137ae6a1c89702ec692bb68047b65f11c570d245",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "亚美尼亚准备选举，俄罗斯向亲西方政府施压",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:51.198Z"
-    },
     "e81a6dba6c87ae463968029ad78256179c6445f3fbc9ca81245ed45170253e84": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -430,38 +474,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:51.198Z"
     },
-    "b7cdb82bff74dc2d53ed87be40344456d2fec645c1b6c4c1ed2931d66e8efc22": {
+    "21fde837b009be317ddfff3a3947128d115172de72d33f26c466bac31974d313": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "48a4b1cefe2648f2d21bcd1980a9af41fb2f6b722a1a6973ec4dc5ae89a1d0fd",
+      "sourceHash": "f0f52475f5ddca0b8cf2caf77cfb993a85e3df9283fef9041db55a8ff762b7b3",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "巴勒斯坦卫生部称，一名巴勒斯坦婴儿在约旦河西岸被以色列炮火打死",
+      "translated": "你中年朋友开始和你女儿约会：剧集探讨接下来会发生什么",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:51.198Z"
+      "createdAt": "2026-06-06T09:25:28.761Z"
     },
-    "4185b6244c6a6ee5c50ea52c878372b4a327bc623b7b9c2a5e899455c3970581": {
+    "cfa9e5490a2b6a103d03f63c04c6b958460f6dd2bdc50a69e42bbb7638735e64": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "bb366f93a1101f40fc552642e4d3be0cc6b869cfafca7059510678b300f50ec3",
+      "sourceHash": "cec74f3b800eeb16b2758512ad7d2a876a091b1cabb05681f4e5f8daa68752b4",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "你的中年朋友开始和你女儿约会——戏剧探讨接下来会发生什么",
+      "translated": "深夜但'全速前进' - 英国公共观看本届世界杯全力以赴",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T03:23:51.198Z"
-    },
-    "6bdbc29f5ba113900c5bb501bd2fa0b7070f723bd5ed7830fae8f7aa7d874e31": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9547c9f7cdf90c9e2e6e4b96ebc06b2140b712b62c0a8e4440fb23c9cce7b027",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "从城堡废墟到历史浴场——观看世界杯的不寻常地点",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:42.771Z"
+      "createdAt": "2026-06-06T09:25:28.761Z"
     },
     "1366008a4baae971957e8a0fdc978d0ee58814638ff1a71e7afbe43047b7af7d": {
       "targetLanguage": "zh-CN",
@@ -473,17 +506,6 @@
       "translated": "为什么澳大利亚会发生毁灭性的鼠灾？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T23:08:42.771Z"
-    },
-    "13c0dee39607e515777f1e5286bd7ea145c30ce1d401fee08e010ffd3c0991e4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1d98c963e56d33c9ceb71a6c4c2bd32d656c3df94c354ae21967e0887839623b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "《吸血鬼猎人巴菲》与《泰德·拉索》主演安东尼·海德去世，享年72岁",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
     },
     "793c5204a9895b2ac1883f37a91a9a1fcbb209dab98a548b6aee3b17bb5814e0": {
       "targetLanguage": "zh-CN",
@@ -507,17 +529,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:23.858Z"
     },
-    "aa84e1042b1df4f423acd4e10f1a56175a651e0165acbccb11733bf95e891d5f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d7ec803b8b09449ea0c1642e812b7799e532f434c805157fb5904473248efb08",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "从雀巢咖啡到《泰德·拉索》：安东尼·海德的生活图片",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
-    },
     "7618dcfa6e572a0751b1ef26e81381fb5ae65ac732594657dedf8f8af3235c88": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -537,17 +548,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "普京称与泽连斯基会面结束乌克兰战争“毫无意义”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T06:52:23.858Z"
-    },
-    "acd7cbccefa64b99e3ec7990c402d844cbd80a7781a1e42c2d2fbe7abe326e9c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "aa8b4b2aaabbc332ae7d6d0f8cab8f0c54fae8ef8c9a87c97184382fba61031d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "前第四频道新闻主持人乔恩·斯诺透露患有阿尔茨海默症",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:23.858Z"
     },
@@ -2916,6 +2916,61 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "d832652a00c1249f7d64657b2b9d66d8f5a9d28ce06f0c6078c088cc46ee78e2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8b50531be265ce77484182f8fc83eb2d53680e2137c01f7bbb91e5fd72e61aea",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "教皇利奥在挑战特朗普和人工智能后，准备在西班牙进行新的对决",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:40.795Z"
+    },
+    "f3de0c830d735762caac59ff8b410b61c2937d98ca642a83535a50ee692f1d92": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4dec0728a5f5f844c6f5ba649fce63658625b5b9de42c25e8f818989a753f28d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "随着埃博拉在东非蔓延，中国会加大力度吗？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:40.795Z"
+    },
+    "dce6464039848f314d759d2530043295a21ea74303a029762a138c49323b7653": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b916362c7e25f7d2a1713440186cc6949e4958c673dad6cc6af4b88826bc4224",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在委内瑞拉，收债人是魔鬼",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:40.795Z"
+    },
+    "080ead59568512d731d36ce4b1bb2107087e464fa3eb605f46bb875a195a815e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fcf4fd32d55ba86f3da8890ce2b0f9bd12c2d3c0983aedec2b5cef3714d357b4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "世界从上次埃博拉疫情中吸取了教训，但差距依然存在",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:40.795Z"
+    },
+    "ca0362a7afd66d804c17986658b7d89b0a72bc191368b15979636621e3bb32e3": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ac08edb4b176fd62ec4aa740bd03bfa99fab8b57f22030cf296d80edee711e77",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "视觉证据揭示了以色列在黎巴嫩使用白磷的哪些情况",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:40.795Z"
+    },
     "dea1dd2342f9d98106822b33cd9165eea71e0f19c5dacfe7753a15472a39b2b9": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3135,61 +3190,6 @@
       "translated": "不信任随着埃博拉病毒在刚果蔓延",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "4f02431ef5861e5e8e9744f212510b15eb5edeb577754f5e043557764126207d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fdac3ae26b60e40455e38d2bf1bac229ee91d8f306a71850e46b89752088d9d8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "埃博拉如何通过金矿开采传播",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
-    },
-    "18d116ac75f5c447fa5fec7864d5ea52bfab34a528ec99549f3f76d4afdc3cbe": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b0fc1add123f4b707a2e38c310a22b29192acecc43fa8e42d8427b547370b389",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Ye音乐会在欧洲多地取消，为何荷兰例外？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
-    },
-    "8bf3efa1f5b7ef91923e10cafdf6a9f53da072cc94c09014ba3c27d71f67df71": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "83b76ac64c5bb6a8469674b3f534c7ec1a6bf0f72fd4c7512e542a6f18d4ed4a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "意大利称欧洲需建立新军事联盟以自卫",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
-    },
-    "0510ba2708e48c65bcc71af57570d2542dcb46043ae3d8db3b76f84c48564b1f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6eab199cf673138e0f4b6543b48cb4fd7a4cdc0d6ff811fe9671197d74b28f39",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "受特朗普支持、普京反对，为政治生命而战",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
-    },
-    "c7dcdd9cc1881b37850b5dc7863551aac5f8ed2c8911c4122c1cdf4829b7de48": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3de3cd4cb3a67f813a14efe0e76af57658640e6276643722f34442c16a179b30",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "随东京新型垃圾警察巡逻",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:52.023Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
