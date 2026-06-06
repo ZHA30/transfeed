@@ -1,16 +1,38 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "5d41101ce57bc0f36905fd482ce304e656dc26c02566d7662236e90d682bc473": {
+    "d94fc91376da7ee7d8543962acdc1830dc386a769e7b3277652827e1ce0a5c46": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "40e21130ea6fbff8e3cc6e2c069824ff7e5ddf661a786861243e263564d4d003",
+      "sourceHash": "41d30e57c3e395eb3aa6709d6d889da11d7aab06220fb07c69fb5b2b9caff4c2",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Nvidia为Windows PC推出一款强大的CPU系统",
+      "translated": "超越fork() + exec()",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:40:56.876Z"
+      "createdAt": "2026-06-06T15:14:50.562Z"
+    },
+    "4e0d41df8ed850d5749201079567fea203daf15873d3468b2458626a11580986": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0230eda20543a6048689a8b110f03655ca04f52bc0ad81fff36fb585541409f7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "莱比锡的基准测试",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:14:50.562Z"
+    },
+    "bc67dea8887c352a20058c22d936f15fffa08bc48efafb0f13e3bf71110a21ac": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "40bfbe5172be2710323c1ee7ed3451d4341c0d3e6089d20f01ededd8dfa9b9a1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国众议院议员发布草案禁止各州AI法规",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:14:50.562Z"
     },
     "e4ab602fa7553865e0a3aff983cbc437adb0408ab9fb20040e3ee7ee7d98c335": {
       "targetLanguage": "zh-CN",
@@ -45,17 +67,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:40:56.877Z"
     },
-    "19d9f5db4ff951ce3c54ca8094bb84354b63f1d8e36a75f1870227b2a2a74572": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7ae544cc127a18e1e801cf59a3a40febdc64f8fb2e0ef4c88e581cc27ad69fd1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "谷歌将每月向SpaceX支付9.2亿美元用于计算服务",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:40:56.877Z"
-    },
     "90627a47dfcf5927c0aab9ed9d395655d87668b6ec0c3f0d820d015f41612f97": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -78,17 +89,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:40:56.877Z"
     },
-    "8c90745aaefc2124c8605cd8306544659f02cd6f103169b99161f1e7a5c5d75d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7565ce85b32f132188f155143921f9bfe76f3e68d55b05a909ec3d0e07743665",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "女性的择偶偏好会随排卵周期变化吗？（2014年）[pdf]",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:40:56.877Z"
-    },
     "a5df5ffa6c7859370ba7039fb05cf6a140c4e904e16ff10fcd108eb9aa915ad8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -99,17 +99,6 @@
       "translated": "客厅里的智能电视是人工智能抓取经济中的一个节点",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T11:26:22.267Z"
-    },
-    "b9ee035a290e47bb33c089844cbeb08f16401e5504164832cb1c17664b8bd900": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0277f71d3540a4851e29205fa92ec66caee01a0d7961be39f3daac9b44a87526",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Zig Zen 更新",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T09:25:15.131Z"
     },
     "66e539d20ae961310178232b95581d90e1629d841b5733ec698baf76f1a73680": {
       "targetLanguage": "zh-CN",
@@ -144,17 +133,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:13.150Z"
     },
-    "a352c546a18702437302d3b1c893a15fe23c53bf44f1a60d6a729f37873b7bd7": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4ae7bb8b0ea249e0f38edc83de88739c4ea89da2a94cd553a2fabd5b2474ca57",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "锁定模式",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T06:52:13.150Z"
-    },
     "bfbf6ea20b2fd3b4f2dc5e82ef441dd1555c5218e58d7ddd425c0c273e76865a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -176,6 +154,17 @@
       "translated": "现代相机镜头维修的复杂性（2024）",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T03:23:31.227Z"
+    },
+    "a4a14a56e58a0b2130c094016ff71daa26f4f75cffc49d53a99a3a30a42901e0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f99ae525ef604090299e8972081ba18ec80007663821994e52cc7e97246d085c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "向汽车艺术家山田次郎致敬（1960-2025）[视频]",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:14:50.562Z"
     },
     "3413357a0fa2e9febd80a010ddbd29db6d18c16b6ec101e3777646c98de23676": {
       "targetLanguage": "zh-CN",
@@ -276,6 +265,83 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:40:56.877Z"
     },
+    "ebb6af9c5242866070b2dcb8c71292b090b4bdce90289cb4fa3120728684b773": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "53dc5afec98859db05e8dfb9f0b3aa96784e5d7d91576a3eeb58edaa80dd3d72",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "LLM如何工作",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:14:50.562Z"
+    },
+    "39bf785853c7ac593e181b9425b03c1eccd227a08dbac9147d75317af20d4104": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9d958921f2d9f5c4993365a81d4f61e10a9d370fe1cac2945f409ab1b28f06d2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "三名英国男子因'未付账单'纠纷承认在加拿大杀害餐厅老板",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T13:41:10.324Z"
+    },
+    "8f00792d1762e02a0c38d8484fa03bff22fc2c45b1b05766f3f6bfd17dae1637": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4d5a220bfa8cd441f46fbd6f8e63d05b6e81ab7f02eb28070ed7e428b7a5b1ec",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "安德烈娃赢得法国网球公开赛，赫瓦林斯卡的童话落幕",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:15:10.766Z"
+    },
+    "0f11b96bd32a27392e7270d8cb17c2a4e271a9600befd55ca9fe166864e858eb": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "77a81c07327616ae129e6064f86f4653f62b7a96eae33802202f7da4b4e5a9d4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "西汉姆联联席主席大卫·沙利文因'严重'历史指控辞职",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T13:41:10.324Z"
+    },
+    "7f91a3db8aae1238106fb617f91d34f81722535b42f339305080e50084e7136f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "28bc8156d4a1c9edf89885ae4e52331ce98db193f20be3c29e58c7508608cdcf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "沙利文在指控发生后从西汉姆联辞职",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T13:41:10.324Z"
+    },
+    "9568a6718a51ac2ea6cddc8ad8b603d9158a149408c62571506d84dbb980ad90": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "bc9a51eef91928b472d0200326ed2f1df274d8af7b266e96b6641cc3aba002cb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "国王外甥彼得·菲利普斯与NHS护士结婚，威廉与凯特出席",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:15:10.766Z"
+    },
+    "81d7d6f67e744999679f643df724c5aabaf50b404dc7ba6c833a4a4dea655e58": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f9b0e74211c45a84d6368eba838b9db7a8b61affb0c9907a33ef5ec4095215dd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在想下一次热浪？先准备好迎接更多降雨",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:15:10.766Z"
+    },
     "cdd83d2ca7cfe9ce54308420052c054b2d8a6fa2ff7a2e02ef30ae62ed9b9e66": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -295,17 +361,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "又有四人承认在诺瓦克抗议后实施暴力骚乱",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:41:10.324Z"
-    },
-    "39bf785853c7ac593e181b9425b03c1eccd227a08dbac9147d75317af20d4104": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9d958921f2d9f5c4993365a81d4f61e10a9d370fe1cac2945f409ab1b28f06d2",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "三名英国男子因'未付账单'纠纷承认在加拿大杀害餐厅老板",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:10.324Z"
     },
@@ -331,28 +386,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:10.324Z"
     },
-    "0f11b96bd32a27392e7270d8cb17c2a4e271a9600befd55ca9fe166864e858eb": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "77a81c07327616ae129e6064f86f4653f62b7a96eae33802202f7da4b4e5a9d4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "西汉姆联联席主席大卫·沙利文因'严重'历史指控辞职",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:41:10.324Z"
-    },
-    "7f91a3db8aae1238106fb617f91d34f81722535b42f339305080e50084e7136f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "28bc8156d4a1c9edf89885ae4e52331ce98db193f20be3c29e58c7508608cdcf",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "沙利文在指控发生后从西汉姆联辞职",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:41:10.324Z"
-    },
     "dfba4f94400cf6b34a5917d52e7f17d763a369e71cb273f22bff2dce8ce217ae": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -361,28 +394,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "诺瓦克谋杀案点燃了英国政治。这就是我们如何走到这一步的。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T11:26:38.466Z"
-    },
-    "cdabb5dd970e576b7f704af3ed3222c40719ba5f6cce0f006345db2aee0b8b2a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3c132f1be1ace8988a019c565e1b83842c9db01d1eb2aaacab7d07fdea1c9f2c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "诺曼底登陆老兵纪念周年，近100个英国名字被添加到纪念碑",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T09:25:28.761Z"
-    },
-    "3b48d42075ea9c8d5f9fff4d230fda60b167dbb22a54d9cdeeb176642e089364": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7f014b4ff19b884ce479916dfe60d5df42e233f7c9e93faead4817f8c3e1e876",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我们的母亲在癌症误诊中幸存下来，但父亲随后自杀身亡",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T11:26:38.466Z"
     },
@@ -418,17 +429,6 @@
       "translated": "我在约会应用上与四名男子配对——他们都是骗子",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:10.324Z"
-    },
-    "3415c17067cefdd8e740ef7f0b3d593024916b23258c0d6852b9890bd3baee85": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "107a8c73b1fadfc9f486ced019d21749d9adf8b2d01a2ea782c7035a5fe2ebf3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "不可替代先生与金球奖候选人——这是凯恩的时代吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T06:52:23.858Z"
     },
     "e77294c5b1a15b1313dfd509eac9a19d2042103184ac6d1918a9688af3ddcec1": {
       "targetLanguage": "zh-CN",
@@ -485,17 +485,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:10.324Z"
     },
-    "7618dcfa6e572a0751b1ef26e81381fb5ae65ac732594657dedf8f8af3235c88": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "eb685d430c761f3502931397ca5a1c0c97627f96e1d5681ad7c5071f73ce4380",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英格兰队再迎激烈一天，17人出局掌控局面",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
-    },
     "8f71caf18ce3d9f9392f61dd9b2623768c5a9434ea7c277f356256d1722f292e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -550,6 +539,17 @@
       "translated": "'他造成严重破坏'：因弗内斯一只逃脱的鹦鹉被指造成汽车损坏",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:10.324Z"
+    },
+    "fa41298a4f44e63c3a93517fa3914ee7ea60ef9dc2975bde027978311a8bcb3c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4227a49b535e95bcaf12ce0d57363479744276e6d2b12a407ec3b80971479e94",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "'这是个容易的决定'：男子捐赠部分大脑以帮助寻找痴呆症疗法",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:15:10.766Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
@@ -2916,6 +2916,17 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "373fc1c99ef41ece6ae0bacf1ba3de4924a69706dd8314fbc90d4582429079b2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0910f2494120ac49d085261649f0ca85ddb27260bd86fc9091c64b2642e855af",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "巴勒斯坦官员称以色列军队向约旦河西岸一辆汽车开火致一名婴儿死亡",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:15:18.806Z"
+    },
     "d832652a00c1249f7d64657b2b9d66d8f5a9d28ce06f0c6078c088cc46ee78e2": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2926,6 +2937,17 @@
       "translated": "教皇利奥在挑战特朗普和人工智能后，准备在西班牙进行新的对决",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T09:25:40.795Z"
+    },
+    "b5ac591b432fa005ede6c0053e7659f6ed14b1e6cdb7f46d30f1bb9cd9f7a746": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6241c696c25fa58c635439dc9b75c911e235cdbc8ee865f64fee71310b519826",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "停火协议签署数日后，以色列袭击造成3名黎巴嫩士兵死亡",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:15:18.807Z"
     },
     "4f02431ef5861e5e8e9744f212510b15eb5edeb577754f5e043557764126207d": {
       "targetLanguage": "zh-CN",
@@ -3166,28 +3188,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "科学家称，俄罗斯卫星一直在干扰欧洲各地的GPS信号",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:54:01.755Z"
-    },
-    "72b693edd1371916344a522ac800ecbafdb21facfb096b3efdb8c41b21ba1e52": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "94994c576e80beb5e9f6f9bb4191a3c882d5ad5dac5810ee4f4fe0811464bcb6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "挪威王储妃梅特-玛丽特被列入肺移植名单",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:54:01.755Z"
-    },
-    "ed1014fed5cdd3c3cb7913afe5818d3dd5caacbc4011343557f746fdb7583413": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "615838847e4b4560457c5ccb582a2828e740422c64ba025d135e7eb46acd2bbf",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "此次埃博拉疫情核心的金矿",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:54:01.755Z"
     },
