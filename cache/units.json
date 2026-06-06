@@ -1,6 +1,28 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "a7d354bc3ca85eaca019a816a5d0b0c0dbf0217ac027085e86ce0108b1db16be": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a41a87255f047a09b3d3fe65b1d73d8c1d923233daa6647fdf1faabe981389db",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Meta确认数千个Instagram账户因滥用其AI聊天机器人而被黑",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:21:53.798Z"
+    },
+    "ecd04891c27cdbf2652ca6745b2d45a15ff04a5e38dbfcfac0a1ea71d0f4f54c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7ad1c8b43e8b7a17afb3af23d60211814e23a4f33d30c0ce677f7fb1724c8a72",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "消息人士称，五角大楼将以色列对美间谍活动的威胁提升至最高级别",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:21:53.798Z"
+    },
     "c2a68ff746044f22e1e4c0f5793e2cdcbd37326529c25ffa08a8d68496aa1731": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -78,17 +100,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T15:14:50.562Z"
     },
-    "bc67dea8887c352a20058c22d936f15fffa08bc48efafb0f13e3bf71110a21ac": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "40bfbe5172be2710323c1ee7ed3451d4341c0d3e6089d20f01ededd8dfa9b9a1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国众议院议员发布草案禁止各州AI法规",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T15:14:50.562Z"
-    },
     "d1f15184ff30ff21ff951081c8ccf706f64c13c7dcf6029b0b32532e697822c4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -110,17 +121,6 @@
       "translated": "Nvidia提议为Windows PC推出一款强大的CPU系统",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T17:13:24.163Z"
-    },
-    "433aab454beb6fbe592fe6b9511dd8e67462ce70c7792f80d0172f73e5d8affd": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "43daa1090af9a9733227b720e9c49ba7c133f341e64ad773bf22aeaed4729900",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "新一代藏书狂",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:40:56.876Z"
     },
     "1fc6842d8a80f3948ef31c60ca60ec027bd86e33210ad44cd78aa4f8f995ba99": {
       "targetLanguage": "zh-CN",
@@ -177,6 +177,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T06:52:13.150Z"
     },
+    "6a71d509d1c6496b34390f6cb045c8a7636ba1f02cb8c7b3ab3a29d077b6526a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "48db17a1f8d35840302c969a139f118f5bdd064434fce57b95801fa9df2b711f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "提问HN：为什么HN群体如此反AI？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:21:53.798Z"
+    },
     "55e40457c1ed84222b8b3f6092a12dda82abe3cf149b1c892542d63276475658": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -210,17 +221,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T15:14:50.562Z"
     },
-    "d331b1c1cb4b1b3e468c879559878f92af9425ab6e7c5755b479dc33282ee04b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bd13dc242c3e0804b83e2f72a0c4e1c9b8e6f7b34855a1cfcb909ee2b38083e9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Gemma 4 QAT模型：优化压缩以提高移动和笔记本电脑效率",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
-    },
     "bb727ac18c7f05045d56aea7bb33cb152218216fce5817ef8cfdb666774d5771": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -243,17 +243,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:10.827Z"
     },
-    "dffbd7ad18d6d004bf9147880524c5a4dc6108b0064af49acaadbb4b93a417c4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fbb98b9f4ef11df12237b9139ab40f9a571eb02ea5eef055e69c5a85e2369dde",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "宇航员在因空气泄漏维修而躲避后，被要求返回国际空间站",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:53:57.163Z"
-    },
     "a0d6aad355ded0bdc355afe8f2c59018e993e95e1a79e495090e7269eff28178": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -265,16 +254,71 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "6a5117509f95934b549d28b4a31a7c1ea191f2f021b0712af4a54fd11bf05302": {
+    "870c316baa0acb4213b4c6051a8d139bfcb46cef1d45116f39a153719a4bbc85": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "cf53b4c12db9dfcb2a08ea69fbb48bfff1431778ef9e1c592adb8dd6aa308d37",
+      "sourceHash": "9e66fa7aeeb4c1e8ea0cebc8d2894f0f101135901ef944b39fd1dd4ff474443b",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Splash是一种颜色格式",
+      "translated": "85年之夏：DOSBOS被《ANALOG Computing》拒绝",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:24.163Z"
+      "createdAt": "2026-06-06T19:21:53.798Z"
+    },
+    "d388a33158d88020a031489bf100335c900a1ff540dbb76e5d69750d2a9d4b27": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c36b8cd7b46a744f0c7be901bc46e0cae9e21cc32ea9aa85939aa4b944379256",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "WoofWare.PawPrint，一个确定性的.NET运行时",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:21:53.798Z"
+    },
+    "75f3c8a1b5eb19cf1357af6cd764d788011a86560dcc320785969c9eae5f5fc6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "aff24bf456e2af0f79d507fd16f5bebd9226df7587403f0931bfefbbd5980c43",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "教皇利奥开始访问西班牙，赞扬政府",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:22:10.107Z"
+    },
+    "4980546151f84910b6105ed385757453e399e31eae9d2f60118f1edeab3dc160": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "eaa1d210b11ea9156ff3fb76a8d5e89da19a389777964e5756f8e652d75bd956",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "拉塞尔抵达摩纳哥后对困境感到困惑，玩心理游戏",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:22:10.107Z"
+    },
+    "e77294c5b1a15b1313dfd509eac9a19d2042103184ac6d1918a9688af3ddcec1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "53758131e642b45c21682db69327ddfc0019434dafb227c1b062ce87c7d7e981",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "大型宴会激怒法国激进左翼",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T06:52:23.858Z"
+    },
+    "cdd83d2ca7cfe9ce54308420052c054b2d8a6fa2ff7a2e02ef30ae62ed9b9e66": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "16ddcf33469b8ba58137903316cdcfec20ec225a5fa259a874b158476fe782eb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "乌克兰无人机袭击圣彼得堡，俄罗斯称此为‘前所未有’",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T11:26:38.466Z"
     },
     "9c5c2e826c803238bd7dffbbcd136474798bbc639ba3dcc860fa7791d6860c85": {
       "targetLanguage": "zh-CN",
@@ -306,17 +350,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "英格兰队在潮湿的罗德板球场更接近获胜",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:39.198Z"
-    },
-    "664398a8ef3cee2a91da65418670fafc7cc2f858c343b2875f28fbe67fccbf83": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4d1337c3b3c525770b1e765a6934ce63871b737c750eb4662b395d956ed73758",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "安东内利的'魔法圈'超越维斯塔潘获得摩纳哥杆位",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T17:13:39.198Z"
     },
@@ -408,17 +441,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T15:15:10.766Z"
     },
-    "cdd83d2ca7cfe9ce54308420052c054b2d8a6fa2ff7a2e02ef30ae62ed9b9e66": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "16ddcf33469b8ba58137903316cdcfec20ec225a5fa259a874b158476fe782eb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "乌克兰无人机袭击圣彼得堡，俄罗斯称此为‘前所未有’",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T11:26:38.466Z"
-    },
     "71c214e8c49b6d8287516c5ccf972426945d539ec728ef7282a0d8695a0515cf": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -463,50 +485,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T11:26:38.466Z"
     },
-    "714730941ec34068d70a6cfa9ebc3dd0011fa712ac8c0b942eea259c456972c0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "627ad687554eff31764cea0bbb1e41a95c59ac33a1ab6635a24e2c033289a81a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我在约会应用上与四名男子配对——他们都是骗子",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:41:10.324Z"
-    },
-    "6c50f495f607fbda35a976723eba8a9dd7609440ca9863a2456d081cdbc28f7a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b4e3778895d61c1a4504f7a55500bf71a80914cfa2cf3225c5af80901401454d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "一支出人意料的世界杯球队中的先驱",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:39.198Z"
-    },
-    "3415c17067cefdd8e740ef7f0b3d593024916b23258c0d6852b9890bd3baee85": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "107a8c73b1fadfc9f486ced019d21749d9adf8b2d01a2ea782c7035a5fe2ebf3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "不可替代先生与金球奖竞争者——这是凯恩的时刻吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:39.198Z"
-    },
-    "e77294c5b1a15b1313dfd509eac9a19d2042103184ac6d1918a9688af3ddcec1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "53758131e642b45c21682db69327ddfc0019434dafb227c1b062ce87c7d7e981",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "大型宴会激怒法国激进左翼",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T06:52:23.858Z"
-    },
     "79edd43772ea041f679e178b1b519b407f9a12228ed220ef7c48e2748aad8f53": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -550,6 +528,28 @@
       "translated": "深夜和'全力加速'——世界杯观赛派对全力以赴",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:10.324Z"
+    },
+    "8f71caf18ce3d9f9392f61dd9b2623768c5a9434ea7c277f356256d1722f292e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4093fb3939845be376d4464dbda6b35c587041636c7ec14ebcbb333f6e479647",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Anthropic：人工智能可能脱离人类控制",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:22:10.107Z"
+    },
+    "83685ec14de01a361ddb7f49f8780378d583939fea252e6199200cfe96afd444": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fcbb2c9f6f9044f42a6e4aa52bbf33f770c6b283bae5d394b5b9c84a7074cb62",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "这会是唐纳德·特朗普的世界杯吗？（与足球日报合作，第1部分）",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:22:10.107Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
@@ -2916,6 +2916,28 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "40793b8ac5571515c064d18670576f3f52daa28dee1be92fce6708102af31e05": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4d20dfab86969667b8e4d2417daceca2d2ccbe8d7d01c225fdf84342c988932a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "持有金条的CIA官员据称创建了虚假间谍项目。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T19:22:22.267Z"
+    },
+    "373fc1c99ef41ece6ae0bacf1ba3de4924a69706dd8314fbc90d4582429079b2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0910f2494120ac49d085261649f0ca85ddb27260bd86fc9091c64b2642e855af",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "巴勒斯坦官员称以色列军队向约旦河西岸一辆汽车开火致一名婴儿死亡",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T15:15:18.806Z"
+    },
     "afc86c0186325208b0438165ef1282cdc00f88831b50f9c131c933be1823f84d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2937,17 +2959,6 @@
       "translated": "世界从上次埃博拉疫情中吸取了教训，但差距依然存在",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T09:25:40.795Z"
-    },
-    "373fc1c99ef41ece6ae0bacf1ba3de4924a69706dd8314fbc90d4582429079b2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0910f2494120ac49d085261649f0ca85ddb27260bd86fc9091c64b2642e855af",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "巴勒斯坦官员称以色列军队向约旦河西岸一辆汽车开火致一名婴儿死亡",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T15:15:18.806Z"
     },
     "d832652a00c1249f7d64657b2b9d66d8f5a9d28ce06f0c6078c088cc46ee78e2": {
       "targetLanguage": "zh-CN",
@@ -3179,17 +3190,6 @@
       "translated": "随着特朗普加强对古巴经济的规定，连锁酒店退出",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:16.377Z"
-    },
-    "567d84e324ffdc19ea15de985371011e3b4293feaaa44cac01fa9e0387a0ebed": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "82a9bbbdbda8108694184447446f4d0e21010594d61f0a52a403376d573110e9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "围绕普京大型会议的一个问题：战争能否结束？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:36.081Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
