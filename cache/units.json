@@ -1,60 +1,38 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "5f88a3a1f34f2dcf02968d3ece2c7c81cb9096326dde2124d705615afef36893": {
+    "86d7e07624f3d476c8ee45d99c3193d96e5e634fc2f3992c008c3595dcb68cbc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7f2778a355f126e4db7126c0bd13db1610557a8481a1e0696d63702d392748dc",
+      "sourceHash": "6f7fd2995597abcc78ab18446342570abbf02074935af5bdf999df235c535b89",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "微软希望用户沉迷于他们的AI个人助理Scout",
+      "translated": "Show HN：ABC经典100排名可视化",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:35.682Z"
+      "createdAt": "2026-06-06T03:23:31.227Z"
     },
-    "5f947ce67b0cc89d38ccf1978d8df068f5ad80da653214d7d14bd16328abadee": {
+    "55e40457c1ed84222b8b3f6092a12dda82abe3cf149b1c892542d63276475658": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "14eb3e5db0216912a17fbc7221deb6eb16f64473a2a16373dabff9c9c356c4a9",
+      "sourceHash": "c7e6624ffb1b9fd78c715bcabb81b0dae5d82637dbab3854f2b0a681f1adc454",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "波音787梦想客机在偏远太平洋机场丢失舱门，令工程师困惑",
+      "translated": "现代相机镜头维修的复杂性（2024）",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:35.682Z"
+      "createdAt": "2026-06-06T03:23:31.227Z"
     },
-    "f79475b115c890d48a2e5f2aa530f0999a1aa5f29dd5b2b93cf36d830721ddc7": {
+    "7035a84a1366a53ccca878ea935fcabe3a4e69b067f47c31f7fddf44980e4cd9": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "21bdb29a4c7b95467d1e9675821876f8b4fb9f331002c26ad8e5b5b1cf204b3f",
+      "sourceHash": "6b8d6a8d40463b7217315875a1afc1d007fcf2946641ee1030349f9aab630116",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Warren的抽象机：教程重建",
+      "translated": "Nordstjernen网页浏览器1.0.0发布",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:35.682Z"
-    },
-    "ddcef84991af7b87cbcbfb03096e7595b4e838e47b054f71b7af4abaa9fa49a4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "665572f2acaf5eb2eeb95b91a90b9e78a132111f2d437aaaa69319abf684a6df",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Hacker News，无AI",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T21:25:08.384Z"
-    },
-    "9e1b8507b410546cf3ebde98f2e9825da58a89caa9f2f7fc401f2d8217fa5f7a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e3c384b74e21473d89fa38dd8110b36e13e613a9ec5be79302ffd535c6947c00",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "意外删除了聊天集成的订阅（Slack 和 Microsoft Teams）",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:53:57.163Z"
+      "createdAt": "2026-06-06T03:23:31.227Z"
     },
     "7d55766052391ccf5ddf655b529dbba0bcecb825474b62e75c47b4c78d7507fc": {
       "targetLanguage": "zh-CN",
@@ -67,16 +45,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
-    "a08463d15b3119b823e8d95320990f26280c2f6f928bd3689333ae256c189ce8": {
+    "73860c91f07b94156ef3aac72a63cd171787c41911c86ae817efec54216786fd": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "fab814dfaf23c2b3055b2a85ac0ecc4ae0db75606bdda866e1c058fb4359fba3",
+      "sourceHash": "6255f0cb0f728735667dfd41f3efba80d76f3e340e8005e19a868b06475b0542",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Transformers 本质简洁",
+      "translated": "Transformer本质上简洁",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:53:57.163Z"
+      "createdAt": "2026-06-06T03:23:31.227Z"
     },
     "42bb0a146061496dde08e5880270536160d44be97cd7d47d2f69602e63ba9772": {
       "targetLanguage": "zh-CN",
@@ -99,17 +77,6 @@
       "translated": "Gov.uk 已用荷兰支付提供商 Adyen 取代 Stripe",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
-    },
-    "1d7de7e34ccbfbe29187e6221dff4a7fcfb95d26a526175738513ada2a09f1a9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "dc578893a4bf18f3f8edb69351a1efa1e6c01374706a50880375afda53890aa8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Mantine-datatable（及其他）遭到入侵——所有者账户被暂停",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:10.827Z"
     },
     "729ac0033ee3960aa58b434a7a8c2acbb2028858db7eaf5ccfcf2f065328caf9": {
       "targetLanguage": "zh-CN",
@@ -199,16 +166,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T15:53:35.715Z"
     },
-    "2ef96869c37059e5c0bdb66503eb5c215838b00c7aa578a300db1d57fc3da97a": {
+    "650aadb3c62a6051d2bfd7421267d82ed4049fa60594ed9154c113679b90b59d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "174d3d76a7799a2e835c7c106cbc34889d7cf581adb3be1eac75f40c27e0c2dc",
+      "sourceHash": "8d61ac1f51e813e3ee1ab4058cbbbd543ad417df79af047616a7e0c06bd1a731",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "不空虚的领域：GPS、OTAD与二十年的加密广播",
+      "translated": "静默数字站：解码十九年的GPS密码学",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:35.682Z"
+      "createdAt": "2026-06-06T03:23:31.227Z"
     },
     "8cbd5d528ca4c6a8441e4201919f67ebf1e9a4c4fe481014a7636f845cb61c18": {
       "targetLanguage": "zh-CN",
@@ -220,17 +187,6 @@
       "translated": "Claude 是否增加了 rsync 中的错误？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
-    },
-    "dedd73742cc23033da56f1b2ea56a125cfeecd851a80d3f9a5df516b59e3bd2a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "dc7c4a017e24c4ef5a5670d777a624b34ad7dcbe521742fadc40e44c517eda9f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Nango (YC W23, 开发基础设施) 正在招聘资深后端工程师",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T12:08:25.301Z"
     },
     "01f0be9d393848b15bb80b0697d10e9881222092964fa57f7762df2b4f7b71b0": {
       "targetLanguage": "zh-CN",
@@ -254,6 +210,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T08:06:19.057Z"
     },
+    "04e27c76ebcf71960892368a243c5e042b32c62f6b80a001d8e7d7bbb3f6c5dc": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "349474317963ad7525a7f3f9bb119253b52d741ebec7dc0b287db44ef677e97a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "韩国论坛将需要使用AI审查工具扫描每张图片",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:31.227Z"
+    },
     "a0d6aad355ded0bdc355afe8f2c59018e993e95e1a79e495090e7269eff28178": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -265,6 +232,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
     },
+    "be0e7fde435a40709bbdc431a7abb3e5bec1d1b5227e7667f65e74c09e385660": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ce55746dfc0eaaca01b1e801f3c8e8a998b49c554884e89be4e95b969894f7c1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN：经过形式验证的多边形交集——Opus 4.8 oneshots，之前失败",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:31.227Z"
+    },
     "087d68f533eec916d29382116c30108a365d5cc9fc79297450a1f76cb2fb25b3": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -275,6 +253,160 @@
       "translated": "“也许以后”曾是一个功能",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:53:57.163Z"
+    },
+    "f0faa96e29f5c398e2c2933621de939d90f1eb9381d8aaf3c3f986f19f728699": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8ec7f50af3ccb3d89ea364996f1daa8890f42e06d05ad287882926f971fa79a7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我的测试驱动开发代理技能",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:31.227Z"
+    },
+    "2794b4eec13a750c8d9281dd1a4b9b4785a13b486ec67e665b15cff373ae84ee": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a4bcc5283c9e42b4f7708ec6802dcad4f8543dcf84d260ec5a3ba12c65f1f91e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "FAISS内部：十亿级别相似性搜索",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:31.227Z"
+    },
+    "9b727b6b432233eb49488fa621cdd91f70d9df2ed7995032d3b6cdfe4c6aa779": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fc8037a54fe8f5efd9859582e51a43733d15695b9d64e90ac44945c7c6f7f6d8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国和伊朗在波斯湾互相发动袭击，考验停火协议",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-05T19:54:15.544Z"
+    },
+    "79edd43772ea041f679e178b1b519b407f9a12228ed220ef7c48e2748aad8f53": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ab8faec7738749c8daeecdfc4682e496faf7117402445bbe7dcbe9f601e7f9f3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "粉丝预测泰勒·斯威夫特婚礼日期，传言四起",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "63d2b101b9ec6872572687fde15d76216ac9d9069b0a3251a36fcafd725db9aa": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "011d8439c197fafb6cbe755184302c7d431acb5bf1f5de13a9dd736718d66809",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "'叛徒'——埃尔莫因尼克斯NBA总决赛惹怒纽约人",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "67369583c3beaac3a506d94eb0e7db3d1bcaf5a738b3b0eb4aa39040c8fb783a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "00c22db202e49afbaf2bdd58a36f6ff73823e66aff504b12a07ef206c14e555d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "拜登内阁部长在加州州长竞选中取得进展",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "e2e56689754e7014fc74ba7de8a084c66632b972d69b4f6aa524a02312d46b9b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7e6a9365557d42e1c054af5fa8fd4fae170bfafca06b906de1660b56915367c8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "报纸头条：'旗舰抛锚'和'啤酒走起！'",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "7efff4a4e41b54f71bec75460263f95be54734ba1754086373c3fc3e872a5e1a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "255831cb17e4e2f9e4e81245bb736acfee14252691f3739b22b95e364fd22d18",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "西班牙揭露英格兰弱点，惨败'很受伤'",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "ff3e6792dfffac3f79e24db5ccaec3546ba17f4192a5155a75f224b0f5f3ff66": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cb2374a27dd3ca9ed7ccca90a120f435acc051b5225c166efd290ba6e3eb7aed",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Bangaranga歌手Dara称曾两次想退出欧洲歌唱大赛——结果却赢了",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "08b975014bd7789c455f9f34288b053ecce4c1db3794af98d148bea324af0f73": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5bd961b23e81126d8eed7f14137ae6a1c89702ec692bb68047b65f11c570d245",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "亚美尼亚准备选举，俄罗斯向亲西方政府施压",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "e81a6dba6c87ae463968029ad78256179c6445f3fbc9ca81245ed45170253e84": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "bd763ed8e830004af8538f58a9330e3315e5ce97adfce02174a95bce090805e8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "虚拟太空大战如何让玩家损失40万英镑",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "b7cdb82bff74dc2d53ed87be40344456d2fec645c1b6c4c1ed2931d66e8efc22": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "48a4b1cefe2648f2d21bcd1980a9af41fb2f6b722a1a6973ec4dc5ae89a1d0fd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "巴勒斯坦卫生部称，一名巴勒斯坦婴儿在约旦河西岸被以色列炮火打死",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
+    },
+    "4185b6244c6a6ee5c50ea52c878372b4a327bc623b7b9c2a5e899455c3970581": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "bb366f93a1101f40fc552642e4d3be0cc6b869cfafca7059510678b300f50ec3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "你的中年朋友开始和你女儿约会——戏剧探讨接下来会发生什么",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T03:23:51.198Z"
     },
     "6bdbc29f5ba113900c5bb501bd2fa0b7070f723bd5ed7830fae8f7aa7d874e31": {
       "targetLanguage": "zh-CN",
@@ -341,17 +473,6 @@
       "translated": "宇航员在修复空气泄漏尝试期间避难后返回国际空间站",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "f8e1cea93f075c8ef0cf6f40b254ab1c053f1bfde19bba6fa3493584742abf35": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "700d95a60c63e229632cad2ce94fd8bb5968b5aa57b66169baa163740e61b61f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "唐宁街抨击万斯诺瓦克帖子后“试图制造分裂的人”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
     },
     "793c5204a9895b2ac1883f37a91a9a1fcbb209dab98a548b6aee3b17bb5814e0": {
       "targetLanguage": "zh-CN",
@@ -429,127 +550,6 @@
       "translated": "伊丽莎白二世前侍女帕梅拉·希克斯夫人去世，享年97岁",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T19:54:15.544Z"
-    },
-    "8112dd9c0efd5618be684fe726800065168c34f8bd748c9c2698672eb4ac0244": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4fb4c72dd0a443d6d2c7888302b82fbf20f4140992bd8c15a4c9f9e9502bc698",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "普京表示会见泽连斯基探讨结束乌克兰战争“毫无意义”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
-    },
-    "8a610daa0d2c4459e0c965ae667d5044c7ca4913b16412310c9553b1d00b1898": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "00dc9d18174cf02853bd25ce4e07d791e19a5a8abe875f7ec4816a0cb9be8cca",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "科博利晋级法网决赛，因阿纳尔迪因病毒退赛",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "624ba23f1962e2da7df2a70fa4c0a877195b42392d6b5fa67dbb8a3155bfe4d0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f02d305a269427e50aeea29e336769920643ef1decbfa04334a746ef2cf2334e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "汉密尔顿最快但勒克莱尔预计排位赛将“紧咬”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:15.544Z"
-    },
-    "5769a6566d718a43815d26b8fce6cefe967ab0f780cbce1d68c440f5af8c8271": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3fcbcb5c3794a9c70e8213d7cf461a6cc46cf73ea28d024e90217e0266ec059c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "挪威王储妃在肺移植等待名单上，王宫表示",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "acd7cbccefa64b99e3ec7990c402d844cbd80a7781a1e42c2d2fbe7abe326e9c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "aa8b4b2aaabbc332ae7d6d0f8cab8f0c54fae8ef8c9a87c97184382fba61031d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "前第4频道新闻主持人乔恩·斯诺透露他患有阿尔茨海默症",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "042f730bc9351518cc01fee86f2f67355e32c29d3df01ca8e1d2a0a092f94831": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2e6a27753ac69a55a75a2541291839b0ccc7ec4b5a71c810fe0f25fe48195057",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "强奸犯保罗·奎因的24年刑期是一种侮辱，被错误定罪的安德鲁·马尔金森说",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "3bde1b9d258f790c352e78df00c103c3aee90900e4266abd431fdb01522f6a70": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1861b688c7278d128639f5956ef3e6e1408fceaa0708a67c7b153f4663cbca2b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "奥尼尔将继续担任凯尔特人主教练",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "72fc464a50370d1fbb3e27dd423ebe5f48e1ffeeb9dd59e4cb37dea114e93a2b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d21fc07fc5bc82bf28f106b0769edc4a2fec72259d21b3bd25d6132a97428c43",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "距离关键的梅克菲尔德补选还有两周，以下是竞选形势",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "2dbfd261353bd00ca2ac2bda2b3ee74954ca41353dd169192d5c6a182df8cd3d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a3be684f25e854d869064f1fe8d9b5298d2eebc6775970e9d91edeabe6a1041e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "法官的完整评论显示，青少年强奸犯免于监禁部分原因是智力限制",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
-    },
-    "8f71caf18ce3d9f9392f61dd9b2623768c5a9434ea7c277f356256d1722f292e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4093fb3939845be376d4464dbda6b35c587041636c7ec14ebcbb333f6e479647",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Anthropic：人工智能可能逃离人类控制",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T17:54:30.561Z"
-    },
-    "811ae9bb82813424f8302d4071e12f18564e228c18519d7db3e0aeb63f7ca8fb": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "78c97685631217259175ce23269a4b336a2b83ecf8f12f048a3ebbf822500abb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "青少年因在海滩袭击中谋杀16岁凯登·莫伊被判有罪",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T15:53:55.281Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
