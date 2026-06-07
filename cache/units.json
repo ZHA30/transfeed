@@ -1,6 +1,39 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "f861d70e58f743278ca1fa7e7fa03ce246f1e592625e000b0157e5f81b9b7b67": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f0a5121b48a50cb0ebece541639c3d76a8850a85291c1eb9908cd8fa679d5b3c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "第29届国际混淆C代码大赛（IOCCC）2025年获奖者",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:27.939Z"
+    },
+    "e3cbd38c0ef160f8e54ac33a79fa2794eeeebfec733185b3ebbde012a51a7f96": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d65d10c0a2a489d99f9be3cf5afaed9721a10e732bd03d38d7dc292360481154",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我现在用Claude设计比Figma多",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:27.939Z"
+    },
+    "b5f85fb38a0aa8959fbb7baf07a3ac31360be2e433cb80dfd85f7a1de6349587": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "96ef485731460af8b797abc4522b14603d68b4a45073b5a7493e7960607aca87",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "开源的马戏团怪胎",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:27.939Z"
+    },
     "273f9dc0b4126a86ea787f1ce285a0d442a85f477e108562cc4773a0244ceb08": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -9,17 +42,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Valve P2P网络中断超过两个月",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
-    },
-    "8504fb633acd086097d3afe9e4b1ad00fc43581a1f06e0742545e6c2591401e0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "73db98bea1b6ac63de9a7a7ebdd7b851225aec5cff5d465f6b46109049449c64",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "比美国早25年发明半导体的俄罗斯人",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:50:47.897Z"
     },
@@ -45,6 +67,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:50:47.897Z"
     },
+    "d52b9097ee0764b8b722264472caefd5ed2ddc6c361421ff9507dac82a212169": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4c97cedd298593b2a6e246e1e2bb78252c17ac531bd0837d179e0876cbcdb91c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "阈限主义如何成为我们这个时代定义性的美学",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:27.939Z"
+    },
     "01fa617e117ada0200876993c407f95cfd4f05bd2dcdf74e5b655621bf0399c8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -67,28 +100,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:50:47.897Z"
     },
-    "9e8cf54ee16a462fb25ace83ceec4ee8c1ba02d664422838ef17c16a459cd74c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "cb93ea89552b0f71d10046fef366f4e9e412d615de710d586a0ad08c5672f916",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "俄亥俄山谷10万千瓦FM信号在光天化日之下被切断 – 《广播世界》",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
-    },
-    "b66409e20fc544b40997ffec85c4c1f520ec7298547ccf094c7b8b1898a038bd": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1db8ec750045d6282f312d91058f7e70619b7b802100a18b450b83217bec515b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Show HN：DomainTasker – 避免丢失域名和意外续费",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
-    },
     "591572782b1697c02d2a803f5211cda96ff0692eb2520b8dada897c5db912ad4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -100,16 +111,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:50:47.897Z"
     },
-    "eb241a20b081733d8b299666b6272c3d255e2edd7405c401bc8c49f49fc770bd": {
+    "f5e309b2510dcf332f848c72b96c4e1e19e69bf984056d3710cab05731db2de9": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "282f027a74ee91c38a75daa750acbe06810e0aa5b213c646a662855fb31fec67",
+      "sourceHash": "8093fb34856708a56011c3f412ff21bf9fa26b7d236d9c49ff491b406d941388",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Computex 2026：我们是否即将进入智能体PC时代？",
+      "translated": "通过弹射实现类人神经网络",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T23:03:05.291Z"
+      "createdAt": "2026-06-07T07:54:27.939Z"
     },
     "328ba7ed6d7b1be89b4089441fe6d179e149c38bb3618211214456c050563220": {
       "targetLanguage": "zh-CN",
@@ -119,17 +130,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Sem：代码理解的新原语——不是LSP，而是Git之上的实体",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T23:03:05.291Z"
-    },
-    "c37bb63917366e62d6db6aa95f58a97909579adcfa67cf334f248d59acddd0c9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "aea43dcf7779a7a2404455e9b557f43776e73e9dcd0325ff579610e4c1d18b8d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "独自在家：远程工作、隔离与心理健康",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T23:03:05.291Z"
     },
@@ -154,28 +154,6 @@
       "translated": "Meta确认数千个Instagram账户因滥用其AI聊天机器人而被黑",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T19:21:53.798Z"
-    },
-    "ecd04891c27cdbf2652ca6745b2d45a15ff04a5e38dbfcfac0a1ea71d0f4f54c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7ad1c8b43e8b7a17afb3af23d60211814e23a4f33d30c0ce677f7fb1724c8a72",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "消息人士称，五角大楼将以色列对美间谍活动的威胁提升至最高级别",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T19:21:53.798Z"
-    },
-    "c2a68ff746044f22e1e4c0f5793e2cdcbd37326529c25ffa08a8d68496aa1731": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ff3daa4c341e3804459675d1b55d59225e3f93ed87d325a70241614ab1421eed",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "你可以跑",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:24.163Z"
     },
     "e44175bc0649c4acf948bc3ccfd7cb086c22cf1516c3e913e5ad361d34957846": {
       "targetLanguage": "zh-CN",
@@ -210,17 +188,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:50:47.897Z"
     },
-    "4e0d41df8ed850d5749201079567fea203daf15873d3468b2458626a11580986": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0230eda20543a6048689a8b110f03655ca04f52bc0ad81fff36fb585541409f7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "莱比锡的基准测试",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T15:14:50.562Z"
-    },
     "5d41101ce57bc0f36905fd482ce304e656dc26c02566d7662236e90d682bc473": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -231,17 +198,6 @@
       "translated": "Nvidia提议为Windows PC推出一款强大的CPU系统",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T17:13:24.163Z"
-    },
-    "433aab454beb6fbe592fe6b9511dd8e67462ce70c7792f80d0172f73e5d8affd": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "43daa1090af9a9733227b720e9c49ba7c133f341e64ad773bf22aeaed4729900",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "新的藏书狂人",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
     },
     "90627a47dfcf5927c0aab9ed9d395655d87668b6ec0c3f0d820d015f41612f97": {
       "targetLanguage": "zh-CN",
@@ -276,6 +232,72 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:50:47.897Z"
     },
+    "1f1b6aec3351de2575f7a60bc524c3994e9ef87849aff01a3e6a09fa91a202b1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2c0779767a0915a49362e05963ce9ca8594b5cda01718ca9d55cefbb91a3eac1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Symbolica 2.0：面向Python和Rust的可编程符号",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:27.939Z"
+    },
+    "fac9a5506a92454c7ddbd525ce15da9f63301c383004d1171879d6394b9d3a7a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d369602d6c6d0a5c953f60eb8a0f02f0717ef292bfaf1a051d99f4cece6d5536",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "无数字算术——大语言模型如何做数学",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:27.939Z"
+    },
+    "9252ce266b68d9e6641c4b66ea8deda90bb1e2d18e2faae3459698ac88b079c0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "df74f260eacad0ac65778743dabc1455c15bd6a7121da510f3d7292216b090c6",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "用于X11的Unicode字体和工具",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:27.939Z"
+    },
+    "a0d6aad355ded0bdc355afe8f2c59018e993e95e1a79e495090e7269eff28178": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9ecc3aa5e0ef5042dc0f0458a869d192946c1c5de418e95f907eec3260f91551",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "问HN：你使用生成式AI时的“卧槽”时刻是什么？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:27.939Z"
+    },
+    "5dc0a0cf52788a8c6974f4e8af8c216b7caadb6c3d4bda006d25c699e209ff55": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c0db7926babacc1974964ddfdeb2079d5ae1b81db1ea9347871a92b206b4d8c3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "烤肉串公司因出售主要含皮和脂肪的羊肉被罚50万英镑",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:41.085Z"
+    },
+    "68043d605811b95f55eaa40ba30d41601b87a66e090c6ec426bba6b1088710f0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "56a5afca80faf232cddd139f086720f032d42ae10c122917ac2b241abb07e70c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Steve Rosenberg：俄罗斯经济论坛因无人机袭击圣彼得堡而黯然失色",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:41.085Z"
+    },
     "e5160a89a9bf68f8458fd0e44fd66555a69932c87647de03d8bee926b8e45938": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -287,25 +309,25 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "cc1d6360b21ae7d25d6b9f4f10504802a199ec52d5530222f161fb39e3bc2282": {
+    "ab85f46c5218002b21aef24488adb0585cbb9e506fe49649e594a430a513a263": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "93b46f6bf8de987d894b8d09104dad071d82560bb17b1899d85c5071b329147a",
+      "sourceHash": "319587c09921256d78767a939779f7e3c3f618e9e69de701f10c874619ca278e",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "斯塔默告诉支持者他将在任何领导权竞争中抗争",
+      "translated": "'我的曾祖父救了你的命'——阿伯凡幸存者在学校访问时震惊",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "8826958eaaee4fc8c2ae10456a790ea159246b43316ac4402d5476df74f4799a": {
+    "bb1187ee09ca9c31d6d201e41196f4f345c69bf67cd298867cf2a9404b8a8e38": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "684e44bb9f5a4be7183e993cd14a8dee4288186ebc5c5976c1fd287303466582",
+      "sourceHash": "9aaa27ee312e00059b7a7f9e0445c0043216e90a482b3e2908a529deff162fb5",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "警方称俄亥俄州节日附近多人遭枪击，嫌疑人仍在逃",
+      "translated": "赫格塞斯用海滩'入侵'诺曼底登陆演讲抨击欧洲移民问题",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
@@ -320,27 +342,38 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "4fe7b406010b3a42db8b7ef308cc2e79cd5d239c32fca47e3d23a54c65e23ff0": {
+    "48199907bd79284aaa45ef7019cd56ff83c41f66e09c4568cad01db1bed29a4b": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "67e54919df77d804976470713a1db215aa9900823140c4d0c4c714e51b3247b6",
+      "sourceHash": "af7fc44fce12388804e8f49687884c031facfb78edba9d02612dd9bec4da8a25",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "为什么学生们在最后一天要穿定制的离校衬衫？",
+      "translated": "俄亥俄州节日附近12人遭枪击，警方追捕嫌疑人",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:41.085Z"
+    },
+    "cc1d6360b21ae7d25d6b9f4f10504802a199ec52d5530222f161fb39e3bc2282": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "93b46f6bf8de987d894b8d09104dad071d82560bb17b1899d85c5071b329147a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "斯塔默告诉支持者他将在任何领导权竞争中抗争",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "bb1187ee09ca9c31d6d201e41196f4f345c69bf67cd298867cf2a9404b8a8e38": {
+    "5f84c968fa110a5a32fba032184976d19e2f7ade7297eab40436f342083d1ed8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "9aaa27ee312e00059b7a7f9e0445c0043216e90a482b3e2908a529deff162fb5",
+      "sourceHash": "7309636970933bb8c274acd7b2df4083443faaa3ad0d8ed9ea2fca8647f8f6d6",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "赫格塞斯用海滩'入侵'诺曼底登陆演讲抨击欧洲移民问题",
+      "translated": "学生们为何在最后一天定制离校T恤",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
+      "createdAt": "2026-06-07T07:54:41.085Z"
     },
     "b7d59137ccc760aadeef3b0ba72e54383efdcfdf04c3453d9f9adea7e6b17a44": {
       "targetLanguage": "zh-CN",
@@ -397,16 +430,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "78352d64c2da0f9bf815a72beaba0705ec5fb69e1575082772292efa50b87e21": {
+    "fe78a15df1f14882e53b3f0ce3c117893045e70a0792a679380863aee249d296": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "5d40a5a45dc5be6ee5d81ba305f58614764860b505ef748eafbba379310d136d",
+      "sourceHash": "1b4dabcef009f6a4f18b98efed78d4d55e55df82768ba8165acd77cce32507ee",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "警察转行美国爱情岛选手面临家乡强烈反对",
+      "translated": "美国《爱情岛》节目中的警察面临家乡强烈反对",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
+      "createdAt": "2026-06-07T07:54:41.085Z"
     },
     "dc7eb84f598ded8e670dbbcb9be3d562b01e6317a3aacad77d8acbae59d92775": {
       "targetLanguage": "zh-CN",
@@ -452,49 +485,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "630d2e8c428d8cbdc12501f1c9b27f2eebbddffc6b0877d85d799816d21c1ca5": {
+    "9b1cc36fffceafa456c1e56800f0f746a6c19e1bce961634ca5c9097babf1952": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7c954853699dd5607ff4e8bce601e9e26e4ba3c60b141a9a0cd9810480af0ee7",
+      "sourceHash": "762c3cf7aa3945a28dec5d944e5319f51f9cd9f13d900323524d4c1c31c026fb",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "比拉姆-史密斯在Zuffa拳击英国首秀中击败罗齐基",
+      "translated": "伊朗称工作人员在球员获得世界杯签证后被禁止入境美国",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T23:03:13.096Z"
-    },
-    "217b32a66a46b2f3eb885b7fc2108aaeb9e10e32ea9ed86643101f67528ebe64": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "793f53f3e41de14728b3566b28c6e42274dd06893fff079ebe422fce4a4586ba",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "黎巴嫩将军在以色列对汽车袭击中与两名士兵一同遇害",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T23:03:13.096Z"
-    },
-    "ab85f46c5218002b21aef24488adb0585cbb9e506fe49649e594a430a513a263": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "319587c09921256d78767a939779f7e3c3f618e9e69de701f10c874619ca278e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "'我的曾祖父救了你的命'——阿伯凡幸存者在学校访问时震惊",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "c57bcaaacbf7ee837b4fda98fbe71e71e2b81f8d08002051ec569bbf173c49ad": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "15e5aee7a3312015169d30dd67c721e52dca99f8d53ff75a307b081f63e34829",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "建筑商凭‘诡异’时间胶囊提示赢得埃普瑟姆德比赛马赌注",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T23:03:13.096Z"
+      "createdAt": "2026-06-07T07:54:41.085Z"
     },
     "dcc0d272207853bb2dc72075e50e1919e9b2042f1c4cb2bf41c4556182b70e20": {
       "targetLanguage": "zh-CN",
@@ -506,6 +506,17 @@
       "translated": "“我想感谢自己”——安德烈耶娃的大满贯荣耀之路",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T21:04:02.688Z"
+    },
+    "6dc3dee53d45feb9bded9bea57d70f5ee93dd699fad4dc1b1c284d545311b7ce": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b176bfa68c0a56ff54876de4717642b3b05d6810212a7cdeba67d729150dd61f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "当法网悬而未决时，友谊将被遗忘",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:41.085Z"
     },
     "4980546151f84910b6105ed385757453e399e31eae9d2f60118f1edeab3dc160": {
       "targetLanguage": "zh-CN",
@@ -2905,6 +2916,39 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "f3de0c830d735762caac59ff8b410b61c2937d98ca642a83535a50ee692f1d92": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4dec0728a5f5f844c6f5ba649fce63658625b5b9de42c25e8f818989a753f28d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "随着埃博拉在东非蔓延，中国会加大力度吗？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-06T09:25:40.795Z"
+    },
+    "67d0f90405964bfe2aad25af883c50bfbcff60293a420c58b55111bdc099af36": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3b85137cb5d37c37fc1522c5104a93c4cb7b07bc248263618a693beb667c9433",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "新纳粹党成员在德国小镇进入市长决选",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:47.988Z"
+    },
+    "a1e5a0d718de1f8863044f1331518d02b629ad63d94142a9276d2fd0d96d78d1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8d6cf578e7e6415d55370cae172e87c2a77930357bf43cc861316508bbd76ba9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "NFL能否通过腰旗橄榄球赢得韩国粉丝？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:47.988Z"
+    },
     "fe19632f99f89153a145d5cdae328896fbd749a3f6548b3c3faa217900e9f80c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3026,17 +3070,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:28.133Z"
     },
-    "f3de0c830d735762caac59ff8b410b61c2937d98ca642a83535a50ee692f1d92": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4dec0728a5f5f844c6f5ba649fce63658625b5b9de42c25e8f818989a753f28d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "随着埃博拉在东非蔓延，中国会加大力度吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T09:25:40.795Z"
-    },
     "2eae7990c2431ce5fa4b17a2e14a7a4381c3318b74a64f13dbe203816b5052a8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3157,28 +3190,6 @@
       "translated": "伊朗足球队获准进入美国参加世界杯，但许多工作人员被拒",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T23:08:49.186Z"
-    },
-    "06544cba2a0d12181f350e09d8351beb6426d7f48be31b201fa7a21625d9961c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c974d48b2fad6026bb6b8bdb845b7f39324380befc55bf67f5e3bbc48ddc8a7d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "帕梅拉·希克斯，英国伊丽莎白二世的侍女，去世享年97岁",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:49.186Z"
-    },
-    "c0d15d14802ea6f6d7a648222e98b3bd8e8be80055de6e8d6b1333d213384eaa": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "00e87d6d3271a112fcf7667254405f3d3d0e997c55d57d92c2f0fab02bf185b1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "网球巨头跌落",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:40:16.377Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
