@@ -1,6 +1,17 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "4d4806587631b315985fec6dac1bd0cb0154808efa0e04bd58c50b0bfb8796c6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fd9dae96959794b80d2e3310d7eab1ecb0f43acf060eb4d447dc27cb3d44c9df",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "科学家因分发期刊重印本而被逐出糖尿病会议",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:38.873Z"
+    },
     "f861d70e58f743278ca1fa7e7fa03ce246f1e592625e000b0157e5f81b9b7b67": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -23,17 +34,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T07:54:27.939Z"
     },
-    "b5f85fb38a0aa8959fbb7baf07a3ac31360be2e433cb80dfd85f7a1de6349587": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "96ef485731460af8b797abc4522b14603d68b4a45073b5a7493e7960607aca87",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "开源的马戏团怪胎",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:27.939Z"
-    },
     "273f9dc0b4126a86ea787f1ce285a0d442a85f477e108562cc4773a0244ceb08": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -53,17 +53,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "克隆领域：马匹复制品如何主导马球运动",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
-    },
-    "400dfe0af775a254400e414fa34165635ef1b41a803acdba95c9c945ed379bc3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b229bfa6519c527bddf2a9628b309b2cb77f2abba3c9f695b099cfbf3bda2b68",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Show HN：TakoVM – 企业使用的隔离模型和工具执行",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:50:47.897Z"
     },
@@ -110,17 +99,6 @@
       "translated": "公有领域图像档案",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:50:47.897Z"
-    },
-    "f5e309b2510dcf332f848c72b96c4e1e19e69bf984056d3710cab05731db2de9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "8093fb34856708a56011c3f412ff21bf9fa26b7d236d9c49ff491b406d941388",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "通过弹射实现类人神经网络",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:27.939Z"
     },
     "328ba7ed6d7b1be89b4089441fe6d179e149c38bb3618211214456c050563220": {
       "targetLanguage": "zh-CN",
@@ -243,6 +221,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T07:54:27.939Z"
     },
+    "818b6208c58e7cbf7bdedfbb83d2964c62bb5bc8935edcf9577a51bff57146f6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5db0d3408125da1bceb9c54034a5e109bc833ba1661f4b39cc94ac77d2ffc43d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Win16内存管理",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:38.873Z"
+    },
     "fac9a5506a92454c7ddbd525ce15da9f63301c383004d1171879d6394b9d3a7a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -251,17 +240,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "无数字算术——大语言模型如何做数学",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:27.939Z"
-    },
-    "9252ce266b68d9e6641c4b66ea8deda90bb1e2d18e2faae3459698ac88b079c0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "df74f260eacad0ac65778743dabc1455c15bd6a7121da510f3d7292216b090c6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "用于X11的Unicode字体和工具",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T07:54:27.939Z"
     },
@@ -275,6 +253,94 @@
       "translated": "问HN：你使用生成式AI时的“卧槽”时刻是什么？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T07:54:27.939Z"
+    },
+    "d1896af622ed3cee03209103ecea4a4522d07aa6f538aa422f0940d287461646": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "77e3b12d0b39673a98d7e78d07e96bb8ff1bffb22e685ba5d8e2d9d7046b61f7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "介绍硼巴基球：B80笼子无法制造的理论被推翻",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:38.873Z"
+    },
+    "dea3277a8c240be37adad245df818e1b1fb9266c5191bd355515bae3a2430679": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "97d3501885c759fec58de19e9328638a90a82f38ca35aadde91507c402cd6ada",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "程序间的游戏：竞争规则学",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:38.873Z"
+    },
+    "c817c76ac6c3f694ec0113901a4c2a69048c25ac2be7e301f877d9b64ef86724": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0d5675059f272544fbffffc88ce36f810ae6e5f4729fd5c2fe1277cdf3c7729f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "大批人群涌向马德里街道参加教皇的露天弥撒",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:45.010Z"
+    },
+    "96ef119410d075b62e9ed2efeffe9356335cb8f03cd8c67ae0dc499b4a2907d2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f65a27477d3f77360a14647672e780b456163dd2c47019cf733ba19da7e847b2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "拉米说，他告诉JD·万斯，他对诺瓦克的评论是“错误的”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:45.010Z"
+    },
+    "e5160a89a9bf68f8458fd0e44fd66555a69932c87647de03d8bee926b8e45938": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fea46856a162e7b1b94d041b317852446218dd4ab6bb3bc887816b411eda1114",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "议员称国防计划延误损害英国信誉",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T03:51:01.466Z"
+    },
+    "48199907bd79284aaa45ef7019cd56ff83c41f66e09c4568cad01db1bed29a4b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "af7fc44fce12388804e8f49687884c031facfb78edba9d02612dd9bec4da8a25",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "俄亥俄州节日附近12人遭枪击，警方追捕嫌疑人",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T07:54:41.085Z"
+    },
+    "e74ca43c140a5ac6526d21537a4440eec21523e4561dfa405413beb703a56e3a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "11d6b7c5b2afd9f319ba8295182bb630c0c811fe19a5f11090ee2103d8842046",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "谁是NHS护士、最新王室成员哈里特·斯珀林？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:45.010Z"
+    },
+    "bb1187ee09ca9c31d6d201e41196f4f345c69bf67cd298867cf2a9404b8a8e38": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9aaa27ee312e00059b7a7f9e0445c0043216e90a482b3e2908a529deff162fb5",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "赫格塞斯用海滩'入侵'诺曼底登陆演讲抨击欧洲移民问题",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T03:51:01.466Z"
     },
     "5dc0a0cf52788a8c6974f4e8af8c216b7caadb6c3d4bda006d25c699e209ff55": {
       "targetLanguage": "zh-CN",
@@ -298,16 +364,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T07:54:41.085Z"
     },
-    "e5160a89a9bf68f8458fd0e44fd66555a69932c87647de03d8bee926b8e45938": {
+    "3f94741e7755a22a73f61c97cfcaa9b4cf24ab9eb2f454d5a8a8409b151f4ab7": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "fea46856a162e7b1b94d041b317852446218dd4ab6bb3bc887816b411eda1114",
+      "sourceHash": "c76bae519465d796fd4f1d0e88698ae2c7b11b0807a59b95bd5c27a8534a116c",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "议员称国防计划延误损害英国信誉",
+      "translated": "没有C罗的葡萄牙更好吗？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
+      "createdAt": "2026-06-07T10:28:45.010Z"
     },
     "ab85f46c5218002b21aef24488adb0585cbb9e506fe49649e594a430a513a263": {
       "targetLanguage": "zh-CN",
@@ -320,39 +386,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "bb1187ee09ca9c31d6d201e41196f4f345c69bf67cd298867cf2a9404b8a8e38": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9aaa27ee312e00059b7a7f9e0445c0043216e90a482b3e2908a529deff162fb5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "赫格塞斯用海滩'入侵'诺曼底登陆演讲抨击欧洲移民问题",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "ac7605e29b5e1641abfe23a4fd193fb7f3cecb8ad21cb4d10faddf02f60f4f26": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bc2d88e3fb90f90b3407da7552379093f38642c32cc4cab8f5688b4425bb3ca8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "报纸头条：'削减国防资金引发混乱'和'凯特心之精华'",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "48199907bd79284aaa45ef7019cd56ff83c41f66e09c4568cad01db1bed29a4b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "af7fc44fce12388804e8f49687884c031facfb78edba9d02612dd9bec4da8a25",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "俄亥俄州节日附近12人遭枪击，警方追捕嫌疑人",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:41.085Z"
-    },
     "cc1d6360b21ae7d25d6b9f4f10504802a199ec52d5530222f161fb39e3bc2282": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -364,27 +397,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "5f84c968fa110a5a32fba032184976d19e2f7ade7297eab40436f342083d1ed8": {
+    "880d06562f3ffa414c24efa1861a00d51b5557bafb62fbd0cb8b721eed7f92d1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7309636970933bb8c274acd7b2df4083443faaa3ad0d8ed9ea2fca8647f8f6d6",
+      "sourceHash": "d2ff8a1239ce41fbadc779156c07466f043b9b11a74f3474cd81190d5df79e06",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "学生们为何在最后一天定制离校T恤",
+      "translated": "蛋糕亭让烘焙师每周赚1000英镑，但梦想可能结束了",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:41.085Z"
-    },
-    "b7d59137ccc760aadeef3b0ba72e54383efdcfdf04c3453d9f9adea7e6b17a44": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7c0c2a027330f5167a1d696b390f1032cb6ca09576f926188dc1753ef70efbf8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "蛋糕小屋让面包师每周赚1000英镑，但梦想可能已结束",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
+      "createdAt": "2026-06-07T10:28:45.010Z"
     },
     "8244ac488e23613647010085ae34d0e04294d4695006c731ce980bf4b368614c": {
       "targetLanguage": "zh-CN",
@@ -452,16 +474,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
-    "66351ff579805375c29e172e674f4934b234592f51b238b4dd833eff77440f6e": {
+    "2acb70db52a9b2d7283d4a620e46960f0582f07e6047c9732582531a9f178531": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "0f48cb7f0e42a585db350110e46d42546f4fe4f621e33ad828b4da6d20e2b532",
+      "sourceHash": "21f164a1e519dec2fe0cddfea3a7700d6ff98c0f84e9c93dfc39c50d28695c5e",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "不安全和不稳定推动秘鲁激烈总统选举中的选民",
+      "translated": "秘鲁总统大选竞争激烈，选民担忧不安全和不稳定",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
+      "createdAt": "2026-06-07T10:28:45.010Z"
     },
     "956fbc062079bfcb22555d1b1f32940a35f311440603f4f3c391bd62e0f46fd4": {
       "targetLanguage": "zh-CN",
@@ -473,28 +495,6 @@
       "translated": "化妆品厌食症：女孩如何陷入护肤的兔子洞",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "1a3d3611165941e8095133a7ab0c12bb1f2f7a99050a987b955da6d2c460b52d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "502f65f218f0c51a68db8d16f11ad2367a7de210db5be2a3adcaf9265cb4cd28",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "苏格兰上半场连进四球击败玻利维亚",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "9b1cc36fffceafa456c1e56800f0f746a6c19e1bce961634ca5c9097babf1952": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "762c3cf7aa3945a28dec5d944e5319f51f9cd9f13d900323524d4c1c31c026fb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伊朗称工作人员在球员获得世界杯签证后被禁止入境美国",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:41.085Z"
     },
     "dcc0d272207853bb2dc72075e50e1919e9b2042f1c4cb2bf41c4556182b70e20": {
       "targetLanguage": "zh-CN",
@@ -540,16 +540,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T23:03:13.096Z"
     },
-    "0ea5643bb802c92fa7b809109c559b71342f876550bc7ff0926a03be98b67d2d": {
+    "3bc0802073d4216ad3216ff675c1e8e4382db341d93613703340e9fe41a1751a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "b56d3e3b3b609c9d67265045dec1d8211a98904d355b661a9684847dac18d524",
+      "sourceHash": "6a919b9369583c8947e8470b0be639b9529ecdc1de739f137e7b3208818b9aba",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "英格兰队在潮湿的罗德板球场更接近获胜",
+      "translated": "亨利·诺瓦克谋杀案会改变警务吗？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:39.198Z"
+      "createdAt": "2026-06-07T10:28:45.010Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
@@ -2916,6 +2916,61 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "926eca0c38f5cd12c1fe49e0d3e2ddd7ffe5d21a75e14a9e2964a71154bc21de": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8c8091b209c6cc3157dd4e665f658a9339b57823ea37c7448f88edecd35ba25b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "枪手在以色列中部袭击中造成至少一人死亡",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:55.961Z"
+    },
+    "4bd77a0a4957e27ac3d54d0180cee39d4bcfe98bd1db00464f438454f726564e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5fe13a0b9c1492ff74b675eef5351e3bbad800e84194156833c5ff1335aa8700",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "秘鲁总统决选可能使国家转向右翼：须知事项",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:55.961Z"
+    },
+    "e2820e90a19a84234c2a96b80d089848a9522b4361616c11a83805abb638d612": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cef3f53f957351372d02eb562e78c47345e0751fb93eb0fcc73c787aa9266bd0",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普称伊朗做出了“重大”核承诺。但这并非新事。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:55.961Z"
+    },
+    "534b6dc9a61c5e93325de1b2ef967dc869f9132b1eda030208c0acd66775b082": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "be826a7ae05e0038fa61ccd3ca48ea89dda54029720a5f923f83f0de05108d70",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "墨西哥城机场为2026年世界杯进行了5亿美元的翻新。这够了吗？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:55.961Z"
+    },
+    "9014131ac01c6ada51af4d8f573676c1ecd44643808ebefc1fc135c94b481b1d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ca4e2dc6226275197de3c9814e2bccaf9d01155a4a0117f02076bf0072fb141f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国人热爱非本国培养的足球明星",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:55.961Z"
+    },
     "f3de0c830d735762caac59ff8b410b61c2937d98ca642a83535a50ee692f1d92": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3114,17 +3169,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:28.133Z"
     },
-    "9edab3824c15fa8b0d2b64a70e1293d80831580cc772f085213ef590b4bb59de": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f44d0bfad367832b7cffbb67ef9742ce347977551c7c5a3ae65fac083a905ee5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "关于埃博拉疫情需要了解什么",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T11:26:46.750Z"
-    },
     "8a2ff91ca0db167f27c162f26c3a879693e6cf50625577c96215df858dff0795": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3146,50 +3190,6 @@
       "translated": "在委内瑞拉，收债人是魔鬼",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T09:25:40.795Z"
-    },
-    "ca0362a7afd66d804c17986658b7d89b0a72bc191368b15979636621e3bb32e3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ac08edb4b176fd62ec4aa740bd03bfa99fab8b57f22030cf296d80edee711e77",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "视觉证据揭示了以色列在黎巴嫩使用白磷的哪些情况",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T09:25:40.795Z"
-    },
-    "dea1dd2342f9d98106822b33cd9165eea71e0f19c5dacfe7753a15472a39b2b9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "51e446ff2a0f2732847a5b4f0818c648bd4f1ce2b7f0daca3473a5e9d24add92",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在德里酷热下劳作，工人必须在健康与工资之间做出选择",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T06:52:30.798Z"
-    },
-    "a11c8ea9ddbb33f3e075e037fbe67f7be926fbf5f4363e70d571e3b4121549d9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1db2621a3046e3ab083a3f091e63a94731a00b1c7d68b1d6301e47556498700c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "马里冲突升级，反叛联盟占领关键城市",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T06:52:30.798Z"
-    },
-    "d02d89ce4eb997d139964268f66e73b7f2c8fc38e10378591261c525218a3435": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "88888acf0756105b3fbb33a34f5685fc54a5f16baedc24702d0f58dcb1068737",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伊朗足球队获准进入美国参加世界杯，但许多工作人员被拒",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T23:08:49.186Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
