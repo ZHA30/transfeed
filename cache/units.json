@@ -1,16 +1,38 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "db6204e7fddf5d2f9aa60ac57436f5c6a3e3826193229d6f6839717748935912": {
+    "186d1321b5f3c549596cc02932efa292321d17f621f98b81478d1dc20a576ae7": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "25f37872fa57e6a2279f2b04d30a448607235e2a19972a14fad412534456c2d3",
+      "sourceHash": "ccac2847ced62b592efcbc29b34bc8e68d70369be3ad736b6078f5299a14a780",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Netlify CTO Dana Lawson：编写代码不再是工作",
+      "translated": "孕期维生素D3与10岁时的认知表现",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T14:51:33.009Z"
+      "createdAt": "2026-06-07T16:14:55.818Z"
+    },
+    "052ea9f953ae10359bcac002216aeecf077a9fdff96c62eb801db871b2d128a6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "bbb14c4c63a771f75761626ac6a021654fbfc64ae9ef58278ec82d1c173c0107",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国AI的OnlyFans经济",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:14:55.818Z"
+    },
+    "1b221b0b2fcd58e465aefda0f4c13ceb9c78b1dd390a31a05cb4a679ee8666e3": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3359ebe15fe64c2babd81dada1b1fe08de6f017551eba4587bc0751c62cfe247",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Podman 6：机器可用性改进",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:14:55.818Z"
     },
     "91b2407c9fd0320bbe3f56159b2be87d846d6ddb05113eb3c523307ed1852db2": {
       "targetLanguage": "zh-CN",
@@ -66,17 +88,6 @@
       "translated": "Show HN: Lathe – 使用LLM学习新领域，而不是绕过它",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:51:33.009Z"
-    },
-    "4d4806587631b315985fec6dac1bd0cb0154808efa0e04bd58c50b0bfb8796c6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fd9dae96959794b80d2e3310d7eab1ecb0f43acf060eb4d447dc27cb3d44c9df",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "科学家因分发期刊重印本而被逐出糖尿病会议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T10:28:38.873Z"
     },
     "425ac893641a628cfdc30ee7e4d6d4ceb301dbf14976990bdc5fc6f2099dafeb": {
       "targetLanguage": "zh-CN",
@@ -177,27 +188,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T21:03:41.545Z"
     },
-    "d94fc91376da7ee7d8543962acdc1830dc386a769e7b3277652827e1ce0a5c46": {
+    "7a261252bac0212419966b439f313928b464d2e17db18d165d6339b5766d7d9c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "41d30e57c3e395eb3aa6709d6d889da11d7aab06220fb07c69fb5b2b9caff4c2",
+      "sourceHash": "2e5739d7140419f37beba9ae02247f79c1db3e21bc8750d249a8401b367e99ab",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "超越fork() + exec()",
+      "translated": "克隆森海塞尔BA2015电池包",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
-    },
-    "5d41101ce57bc0f36905fd482ce304e656dc26c02566d7662236e90d682bc473": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "40e21130ea6fbff8e3cc6e2c069824ff7e5ddf661a786861243e263564d4d003",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Nvidia提议为Windows PC推出一款强大的CPU系统",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T17:13:24.163Z"
+      "createdAt": "2026-06-07T16:14:55.818Z"
     },
     "f79475b115c890d48a2e5f2aa530f0999a1aa5f29dd5b2b93cf36d830721ddc7": {
       "targetLanguage": "zh-CN",
@@ -254,6 +254,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T07:54:27.939Z"
     },
+    "cf09e313f6b45312367f84d28a49092536f3fed963e0d3dc40cf8b12ebcb0628": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "aa1343083ad002ec285e1a89da4e1df0d522c4eed7312c8cd325f7a8e4c20d2f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "无法逃避：ANSI代码探索",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:14:55.818Z"
+    },
     "3fe335d997b008e3505bb2c94fea4ca7ddf4abbb6c2918ee311eefd0bfa09b1a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -265,16 +276,71 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:51:33.009Z"
     },
-    "d1896af622ed3cee03209103ecea4a4522d07aa6f538aa422f0940d287461646": {
+    "71c4dadbb961a0465967dcd84387ce252da5de52b457ce67c415256a60e1413d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "77e3b12d0b39673a98d7e78d07e96bb8ff1bffb22e685ba5d8e2d9d7046b61f7",
+      "sourceHash": "359c43715c6340b55a9df05e0f4fa530ec784702af2f4744e7b6104c203b54a6",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "介绍硼巴基球：B80笼子无法制造的理论被推翻",
+      "translated": "安东内利在戏剧性结局后击败汉密尔顿赢得摩纳哥大奖赛",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T10:28:38.873Z"
+      "createdAt": "2026-06-07T16:15:16.382Z"
+    },
+    "dbf0ec4b1fcf7f1bbacd16a797e90495e6f047d92576422adac27b4b01c0dc5c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c42e5f223bd6b8b90f6fd1214d6a034178298436586e55a0daa875841bd74355",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "安东内利在戏剧性结局后击败汉密尔顿赢得摩纳哥站",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:16.382Z"
+    },
+    "72ca399bc09504fd2d7c21b8b0b5a501d53adec61d8d39b5df7f8d40c634c07e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "34e001a7a471ac590b4b70af301c7ca912f37253841ec96d94308efbc7a9498e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "泽连斯基在伦敦会谈前批评‘卑劣的’切尔诺贝利无人机袭击",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T14:52:21.722Z"
+    },
+    "a0fa68f9aae1df9b4f4c94ee9d757c7a038dc6048d1d962ff481972052055e46": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ab1183b6b254bf11c0a7154ccbdbce93e02caca223731b6ac4330df001635732",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "皇家邮政将新父母杂志迟了19年送到父亲手中",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:16.382Z"
+    },
+    "f6ebc71fecef6d8114e549d2b7ac62f82e9883f0343964515947b0449b2ecdf1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ad92660ef9d6d310399fb9155ee9bd4af765af517f4cec6ee582ee1066acf70b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "斯托克斯在英格兰战胜新西兰后表示，洛德球场并不有利于测试板球",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:16.382Z"
+    },
+    "feb4ac289db0f815193baac499572640e69b3e0fd77412a7423c04b4504efe4c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f6456be910de9a03a626e22c86430856ff49b0f236a5c4c1816a4bfa7db03c3b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "斯托克斯：洛德球场不利于测试赛制",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:16.382Z"
     },
     "48574dcac59d32649c2fefa802459bb62e271820863ea9b7f8ac2ccaa6d3d315": {
       "targetLanguage": "zh-CN",
@@ -286,6 +352,28 @@
       "translated": "Son 呼吁伊朗与英国二人进行囚犯交换",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:52:21.722Z"
+    },
+    "69a6b6cdf95b0042b3d9bcb16f6f35e1d18cb044a1748b8cc17ee17f8d9d9e12": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "12c99416d41420e8cf32a593ddc281c8af604145a6383c8ed77d7a6a95c9757f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "接受“世界首例”脑瘤治疗的澳大利亚医生去世",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:16.382Z"
+    },
+    "780c1ee034be7bb8f117318c0fca709cb1a7e71b171fa9a808667fd8e20c2c52": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "239b0e35743ce922987dad7a45e44e011ce3185efdcfa614cde06a5b00f8a1bf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "数百名被俘者从博科圣地的山区藏身处获释",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:16.382Z"
     },
     "b1d1bc7d3350550e7ac63e3bfc3b5bdee055bcd034acf1d33c68dfa15153d87f": {
       "targetLanguage": "zh-CN",
@@ -320,17 +408,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:52:21.722Z"
     },
-    "166a28860652021a97a9a1b6a1dacc87be57bfa3863df8927719299c76383955": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4e2fb50011ebf05c147330f24dfd3e2af4f7461a957aad1371efc01e7c1392bc",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "阿特金森拿下五记三柱门，英格兰击败新西兰赢得首场测试赛",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T14:52:21.722Z"
-    },
     "96a9b1a9101061ea0ad1436d5513e1d88d4397a0b701d08c7ce15eb32824aca8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -352,39 +429,6 @@
       "translated": "M&S 为1000名年轻人推出新实习计划",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:52:21.722Z"
-    },
-    "72ca399bc09504fd2d7c21b8b0b5a501d53adec61d8d39b5df7f8d40c634c07e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "34e001a7a471ac590b4b70af301c7ca912f37253841ec96d94308efbc7a9498e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "泽连斯基在伦敦会谈前批评‘卑劣的’切尔诺贝利无人机袭击",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T14:52:21.722Z"
-    },
-    "3e5d6a59d1bff96e80325e1bf8067514288377465fa1ead2933c2de634fee9b2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a6cace51211ba56bf68d4c59e70cc777f14a9d36e81e5873219d48647b8d6e31",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英格兰在首场测试赛中击败新西兰，开始灰烬重建",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T12:20:40.866Z"
-    },
-    "1ad2ba2f4a5e02b616e0ac6f900d1aaf06a42d8c75e0b6093a6204da184d1a82": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d66f26ad61beb9c980cc9fbff27923361a6c9acca71c45f76c68c753478d16c9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英格兰击败新西兰开始灰烬重建",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T12:20:40.866Z"
     },
     "9286b84b26ca1fb4d00e6aba707ff222960a4068d33e0c2fbe697f125203e267": {
       "targetLanguage": "zh-CN",
@@ -463,17 +507,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T10:28:45.010Z"
     },
-    "485dc6d79aba34bf2ab13a963d913e66c4c964e93accf0069b322e93142c50c0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "8c1263bc04ea85eca8b627af7f9396705ce40e6a87c21ff0d68d268a97a36c6b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "生于利兹，铸于挪威：哈兰德如何成为国家超级巨星",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T14:52:21.722Z"
-    },
     "880d06562f3ffa414c24efa1861a00d51b5557bafb62fbd0cb8b721eed7f92d1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -493,17 +526,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "我申请了数百份工作——这个技巧帮我得到了一个",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "b5705f53aed3eb8f40a92b0f40d248c200a6f7071a23b950ca863955b21c8fb3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "dadb0a2880e34226efb3a8a80491e9a826954a092fe65f2178cf75bc60ce6e24",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "玩家们对抗行业以阻止其关闭游戏",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
     },
@@ -528,28 +550,6 @@
       "translated": "不是足球迷？这里教你如何装得像世界杯专家",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "956fbc062079bfcb22555d1b1f32940a35f311440603f4f3c391bd62e0f46fd4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "32f20c3ea72ef24f2442abdf3d422fe13812163bc750110c6f805b5202188a8d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "化妆品厌食症：女孩如何陷入护肤的兔子洞",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "8f71caf18ce3d9f9392f61dd9b2623768c5a9434ea7c277f356256d1722f292e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4093fb3939845be376d4464dbda6b35c587041636c7ec14ebcbb333f6e479647",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Anthropic：AI可能脱离人类控制",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T12:20:40.866Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
@@ -2916,6 +2916,61 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "b3a8b7be1b9dfadc95a5102425f71dc80dd7e96c8b0dee0185269fe283dab3c4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7fa2ec8f47701a93fd59273e4a32b397a3e8f328765933ec349067fd1ebc4ac5",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "伊朗人面对战争死亡和飞涨的通货膨胀陷入绝望",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:31.475Z"
+    },
+    "e04564186712618ec700beee5c9b5a5e7e45cf8c1ae7c748dbe02c03c8d2ef34": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d227f9ec9de21602481496dd193420347b418aac2ab8ed39b7b985e606d6e734",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "法国前第一夫人贝尔纳黛特·希拉克去世，享年93岁",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T03:51:12.887Z"
+    },
+    "5b3c46dbbf3b90627708b1f79e47979856bca3025f6eba275486a4a5effca991": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d01d9512ea7ce7a3bd71c13149dd61822393f0995898a923f8b73b712da23cc4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列轰炸贝鲁特郊区，与真主党战斗升级",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:31.475Z"
+    },
+    "506433522dae361f6c0ab35048e6f8ef16200b767a76e02d1a81d3bd969c5b84": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "98813526edf4fb973c7b4a2bfdb552446f30d4e75607a018886247f9b5372524",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国退出和平谈判调解，乌克兰转向欧洲",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:31.475Z"
+    },
+    "534b6dc9a61c5e93325de1b2ef967dc869f9132b1eda030208c0acd66775b082": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "be826a7ae05e0038fa61ccd3ca48ea89dda54029720a5f923f83f0de05108d70",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "墨西哥城机场为2026年世界杯进行了5亿美元的翻新。这够了吗？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T10:28:55.961Z"
+    },
     "01303c4517c84460d06f36a239f51ee97319497171549e99f4658d185a4f9519": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2957,17 +3012,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "特朗普称伊朗做出了“重大”核承诺。但这并非新事。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T10:28:55.961Z"
-    },
-    "534b6dc9a61c5e93325de1b2ef967dc869f9132b1eda030208c0acd66775b082": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "be826a7ae05e0038fa61ccd3ca48ea89dda54029720a5f923f83f0de05108d70",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "墨西哥城机场为2026年世界杯进行了5亿美元的翻新。这够了吗？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T10:28:55.961Z"
     },
@@ -3036,17 +3080,6 @@
       "translated": "特朗普的国防部认为来自以色列的间谍威胁日益增长。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T17:13:44.185Z"
-    },
-    "e04564186712618ec700beee5c9b5a5e7e45cf8c1ae7c748dbe02c03c8d2ef34": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d227f9ec9de21602481496dd193420347b418aac2ab8ed39b7b985e606d6e734",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "法国前第一夫人贝尔纳黛特·希拉克去世，享年93岁",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:12.887Z"
     },
     "9e8a77bdf33c9ba8266aed70530308b612a106df5f8ce65e65c3025453d846d9": {
       "targetLanguage": "zh-CN",
@@ -3157,39 +3190,6 @@
       "translated": "世界杯来到加拿大，但有人关心吗？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T11:26:46.750Z"
-    },
-    "5ba439091e7e06820215fc520bd0099a5fe926f27f3b89f38e52ba426fabb47b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2f5b075a02607909ea5c6cfd03f6dc662ee9ab4b739f01d814fef82d82189b2d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在五性别之地备受尊崇的祭司",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T13:41:28.133Z"
-    },
-    "8a2ff91ca0db167f27c162f26c3a879693e6cf50625577c96215df858dff0795": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6e69bc3c6a41b31d282b23e07885847e9e4f037a5049eaee22ff42dabf044b32",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "平衡之举",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T11:26:46.750Z"
-    },
-    "dce6464039848f314d759d2530043295a21ea74303a029762a138c49323b7653": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b916362c7e25f7d2a1713440186cc6949e4958c673dad6cc6af4b88826bc4224",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在委内瑞拉，收债人是魔鬼",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T09:25:40.795Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
