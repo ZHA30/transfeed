@@ -1,6 +1,105 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "a57b0e8f9def8963ce666b271572492caaff13f36b52efbaee9fb729ad20ba8e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cc80c0ff3060257b58baec31f9fc81e8ac2afa72af6a231f42c7f1c1a9503110",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国为什么足球踢得不好？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
+    "58c8eee7b134286f48a119fa3096db1abf95de3746f3388a0fd51e0bfa0b1663": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "122474410b88777f598b05270343f1a482a72106144f7a2d923d37353000c4cb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Linear为何如此之快？技术剖析",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
+    "dc2817dad6f224dc16296674996730eabf6a4609fc8d42cb543caa4668e417d9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cde83f96c2ae4e9fc28c0c53bc1314953d46d7a10f0b862ce8d69a703b7ad50a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "低蛋白饮食的奇特案例",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
+    "35be4ef2fa8fc4cd984f94c238e0166ef07fd8fe33908e6ef049ad0d972a1781": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4126a7037899c7051ee2aee8516d407d08cea86f83f2f008703f5700478b9a2e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "莱顿人工智能与数学宣言",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
+    "f2b750de3fc24fcaa9bd32b578664db8a5d432a33d3fc1dba2623862c5a70310": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d1e417ff7a46c29a130670e2b6d3db8d6c618dda33dee5130eef87a97485be9f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "从零开始：成瘾、入狱和重罪之后的重建",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
+    "0032975051967bdd51e7117cdb2fce6b9b1821866e536a7c849c89ef6cf0c4af": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5f8a79d82dea36d98d7d1a43ec4eb91a11e211e5cf82d0ee5136c2ae16d7da3b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我的自动化质疑开发过程",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
+    "cfbb1a30386fb5cc51d9aabc4d255ae5ef5f59d749999100a8fefe1d23854332": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ac65dbcb1241204d59694f54ca81322b431d6ab24fa11d7ef83306da130b9080",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "与未实现的梦想和解",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
+    "633b02dda4bff3e37640672bb7564d52d073237d305a7b7c22fe79337fbb4bb6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9c99da350704086de63669961cca500e14a0e8f0f0cb16b8b783ba3c3f16d773",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "完整的IPv4地址空间映射",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
+    "23a9f6b10859adc43bfcc2667229e908fa679c13c39650be27e5f1c957659433": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cbfa6c5cf47c5d8c119db8e9f85269dd184bc28138b90b05a3a025507f2d85eb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Silurus/ooxml：在浏览器中渲染像素级精确的Office文档",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
     "68e125f74c4c7f07b0b1de70bcf0f8a72ceb8f92d106777c31d27dd31ec8cd7d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -20,17 +119,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Proliferate (YC S25) 正在招聘以构建开源 Codex",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T18:03:47.596Z"
-    },
-    "b5705f53aed3eb8f40a92b0f40d248c200a6f7071a23b950ca863955b21c8fb3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "dadb0a2880e34226efb3a8a80491e9a826954a092fe65f2178cf75bc60ce6e24",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "玩家们挑战行业，阻止其关闭游戏",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T18:03:47.596Z"
     },
@@ -56,6 +144,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T18:03:47.596Z"
     },
+    "1098e55418925999e1b7c2c75d520fa818ecb49249593cad163d0f02750ff3fb": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "82098e172833904a187bdf85a25aa82cf5b9f9006bae16f2d9738a897001a01f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "sqlite：SQLite/SQLite3的无CGo移植",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
+    },
     "91b2407c9fd0320bbe3f56159b2be87d846d6ddb05113eb3c523307ed1852db2": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -64,28 +163,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Anthropic，请为Linux发布官方的Claude Desktop",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T14:51:33.009Z"
-    },
-    "765c31a2be6036139cd0a3f6f3661038aa5453e103e350006d95fb855090d1c2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9519edde5f9d1bc92dcc1f7e01f75cd4891cd33b4cb49f07e4805ecf155a1ef3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "LLM正在侵蚀我的软件工程职业生涯，我不知道该怎么办",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T14:51:33.009Z"
-    },
-    "1ad1e0446144c69c491a9fe51f64a1e7feadb24451f07adf568863941ff2608f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3b1e14d0241930038814a70fb56f47ae89e70e2e5a06b109078d7220ef84ad2e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "最好的关系是包罗万象的。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:51:33.009Z"
     },
@@ -99,17 +176,6 @@
       "translated": "Show HN: Lathe – 使用LLM学习新领域，而不是绕过它",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:51:33.009Z"
-    },
-    "425ac893641a628cfdc30ee7e4d6d4ceb301dbf14976990bdc5fc6f2099dafeb": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9e0175a2dff013d5caac46b08d38ccac03d0a85b8230d0d7af7763a04903d4e3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "高效且无需训练的单图像扩散模型",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T12:20:32.841Z"
     },
     "9af85626eac92beb0fb18769b6b7a4314a6496fad7dcdba834383301f0cdcc85": {
       "targetLanguage": "zh-CN",
@@ -133,50 +199,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T07:54:27.939Z"
     },
-    "273f9dc0b4126a86ea787f1ce285a0d442a85f477e108562cc4773a0244ceb08": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0c1c62bc339484742c95609e5b272ce4ff0084efa72c94c34cd61dcded43f796",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Valve P2P网络中断超过两个月",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
-    },
-    "a72f4ec6ccb1012fed054e2d80079d5a1bfd0e0c5bf0efef9119c74dc4d53a4f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f33e0a6a9fb522329a433e351fdfc50266b241f06997ac7f6d9c5d59ae4a12ca",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "克隆领域：马匹复制品如何主导马球运动",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
-    },
-    "d52b9097ee0764b8b722264472caefd5ed2ddc6c361421ff9507dac82a212169": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4c97cedd298593b2a6e246e1e2bb78252c17ac531bd0837d179e0876cbcdb91c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "阈限主义如何成为我们这个时代定义性的美学",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:27.939Z"
-    },
-    "b064a28edd5c155347d6131e822f23ec81fbb17bb1bfd2251259657fb62eced4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "80f77624b476a59e99d4e69773e46991c8b32a501a734e2e700a20ba2463a5a0",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "代币经济学：量化代币在智能体软件工程中的使用位置",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:50:47.897Z"
-    },
     "591572782b1697c02d2a803f5211cda96ff0692eb2520b8dada897c5db912ad4": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -199,17 +221,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T16:14:55.818Z"
     },
-    "f79475b115c890d48a2e5f2aa530f0999a1aa5f29dd5b2b93cf36d830721ddc7": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "21bdb29a4c7b95467d1e9675821876f8b4fb9f331002c26ad8e5b5b1cf204b3f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Warren抽象机：教程重建",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T14:51:33.009Z"
-    },
     "1f1b6aec3351de2575f7a60bc524c3994e9ef87849aff01a3e6a09fa91a202b1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -220,6 +231,17 @@
       "translated": "Symbolica 2.0：面向Python和Rust的可编程符号",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T07:54:27.939Z"
+    },
+    "5760d191d13acceb3ecc6da7c4443e99ced9de0a1f5ad271e6e1009263cc236f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "75699e96132f431d924f9f0f2a2154ec8427f1ccd25dbf7a981f4b7a29f71642",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "核函数的可视化介绍",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:17.219Z"
     },
     "818b6208c58e7cbf7bdedfbb83d2964c62bb5bc8935edcf9577a51bff57146f6": {
       "targetLanguage": "zh-CN",
@@ -232,27 +254,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T10:28:38.873Z"
     },
-    "fac9a5506a92454c7ddbd525ce15da9f63301c383004d1171879d6394b9d3a7a": {
+    "2aa981a9bf857af9d4f516201289008690bddcd43d6d5951480a54fc8d354643": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "d369602d6c6d0a5c953f60eb8a0f02f0717ef292bfaf1a051d99f4cece6d5536",
+      "sourceHash": "7353bf103355b34b4f87dd85bd109d87c451eb026eec361da66f88f48a11f198",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "无数字算术——大语言模型如何做数学",
+      "translated": "Linux和Unix中lost+found文件夹的用途是什么？（2014）",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:27.939Z"
-    },
-    "8e137dbbf6d5420a5190985b31dc6f2c64da60e1e36eaaeb9a47d3de0b53e959": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "efb043e55592a997b213a4c930dac17f2c9cb9ea37c0983f6d36a27289fa86aa",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Linux 和 Unix 中 lost+found 文件夹的用途是什么？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T18:03:47.596Z"
+      "createdAt": "2026-06-07T20:11:17.219Z"
     },
     "cf09e313f6b45312367f84d28a49092536f3fed963e0d3dc40cf8b12ebcb0628": {
       "targetLanguage": "zh-CN",
@@ -265,60 +276,38 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T16:14:55.818Z"
     },
-    "58a9775bfcec0980ba582702feed234206a43b1c2dca464af83f4357f12fe226": {
+    "6f80809de1d2c5ee92512f3ae363f3bbd3d3e8e366a55b00fad6ebd64520d5fc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "9899cb6430190c1d99a24c91fa16b9c9b6c2dc6c5dd0c6b28dd1d2a04228d0b8",
+      "sourceHash": "ea50bf6857c2b2a0b403d0feef9d6cdf098583198e8f7dd24e33ee6294896b3d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "QQuickItem 变得可见需要多长时间？",
+      "translated": "特朗普在就“操纵选举”说法发生冲突后突然结束NBC采访",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T18:03:47.596Z"
+      "createdAt": "2026-06-07T20:11:32.977Z"
     },
-    "7422ba103e55678a7d4621b4599106cb7493f7aa1190a963b0517bde391034e7": {
+    "6911a0f61a2e7e9e8c16c3e43a633c0d6e3e3e807993908c1639c707e3cfc7ea": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "827da6f90e95716e62c2ccc2b3dbfc8d52c4e40b8ee33076125c65c3be266418",
+      "sourceHash": "f09d5694e88cb090ee1f779b9cc0ad0b619f11fbfcf06ffe14f669ba5768b25e",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "观看：今日测试第四天亮点",
+      "translated": "安东内利与拉塞尔的对比再鲜明不过了",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T18:03:57.996Z"
+      "createdAt": "2026-06-07T20:11:32.977Z"
     },
-    "71c4dadbb961a0465967dcd84387ce252da5de52b457ce67c415256a60e1413d": {
+    "3a937a1b2d907fe5b7946d6e4837bc253fab8763b4841c99f20b3cc76044966d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "359c43715c6340b55a9df05e0f4fa530ec784702af2f4744e7b6104c203b54a6",
+      "sourceHash": "fe8a77ac4519abbb3b4abab8b9feb8742497091a3d9d0d46ac0003296b29ab1a",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "安东内利在戏剧性结局后击败汉密尔顿赢得摩纳哥大奖赛",
+      "translated": "泽连斯基在唐宁街与欧洲领导人进行乌克兰战争会谈",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T16:15:16.382Z"
-    },
-    "dbf0ec4b1fcf7f1bbacd16a797e90495e6f047d92576422adac27b4b01c0dc5c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c42e5f223bd6b8b90f6fd1214d6a034178298436586e55a0daa875841bd74355",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "安东内利在戏剧性结局后击败汉密尔顿赢得摩纳哥站",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T16:15:16.382Z"
-    },
-    "47f0f09c13e403341eeef69e55c5ba30915ef5382de279000b38d9073429ece9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "de8f7e9fcf1a70b87deb452545ebf3756a482b13d364b35c9c5f7bf50ff8c3cb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "兹维列夫在紧张的法网决赛中击败科博利，夺得首个大满贯冠军",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T18:03:57.996Z"
+      "createdAt": "2026-06-07T20:11:32.977Z"
     },
     "6ae78b24ae69651df4ff76b1ef157ff69fbe0d0ca93c29a2ea780f566c6105fa": {
       "targetLanguage": "zh-CN",
@@ -331,27 +320,82 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T18:03:57.996Z"
     },
-    "75c971bfcfc11b107d012ac3a3daa50103a9bda039f799d0187356d945bf3bd9": {
+    "4dd7739eab7c51ce50bb329241ed0e7ae2179dd3cd2b781ec8a6c9973a635991": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "3a6c4c4062663f9888b066da13af574e4e80b064b1bd4af03fb4e4ce5b7cb80c",
+      "sourceHash": "195bb826449a82f4ecb02ef39b0a06122b30009770f1b6b05605fd46c2f2e578",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "泽连斯基抵达英国，与欧洲领导人在唐宁街会谈",
+      "translated": "男子因大雅茅斯青少年强奸案被起诉",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T18:03:57.996Z"
+      "createdAt": "2026-06-07T20:11:32.977Z"
     },
-    "5d4afee8f54d7aee4847e583f2102df4a96b3206b52a7ee5ae067dc48c7290ef": {
+    "2b1dd8dbf76e20e12e811ff96eb5578d296d17a3f0cd40ffd299af4765ceae79": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "c0cb76c5f0ea232dbe2e6e21bb075668872cce9ba976f1e002ea725c755efbd9",
+      "sourceHash": "daab9efee9ab0a4c3e25bf85b263cc956eaf20e1e398209318a7a9f12dbc078f",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "以色列在美斡旋停火数日后袭击贝鲁特郊区",
+      "translated": "克里斯蒂安·埃里克森在丹麦比赛中倒地后恢复意识",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T18:03:57.996Z"
+      "createdAt": "2026-06-07T20:11:32.977Z"
+    },
+    "8b4520349ba71f3cddec6c55f258b5a9118a27012ed610df4621b67f8ceb2e9c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "efc00c8ad589ca0de6b27d96343a5667b9351727d60646ff1ea24ea26ff81f96",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "埃里克森在丹麦比赛中倒地后恢复意识",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:32.977Z"
+    },
+    "ea54dbc224cb6a15b6e2de1c53418778086a576d694ff2928361ed07d1004f4f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c77d041ca108722597c874356d85948fc20cc0d364b7a9c2eaa866d6ab3f2e87",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "兹维列夫在紧张的法网决赛中击败科博利，夺得首个大满贯冠军",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:32.977Z"
+    },
+    "0d1d6c7e867381d38cab6dd078c2c78b1321a3f5b6c39874c53599f6a6c99dc9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8ea196d526134400ba7274b68a70accde2e4d30640a7b0d8a8860e7549a45251",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "汉密尔顿“感觉我在提醒人们我是谁”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:32.977Z"
+    },
+    "71c4dadbb961a0465967dcd84387ce252da5de52b457ce67c415256a60e1413d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "359c43715c6340b55a9df05e0f4fa530ec784702af2f4744e7b6104c203b54a6",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "安东内利在戏剧性结局后击败汉密尔顿赢得摩纳哥大奖赛",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:16.382Z"
+    },
+    "b11b0dd3d7398abf8e12546b0af64c6f5ec677147711bdaa7f798b36cf4bc79d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ae9c0243e56aa0dbaa14441b57dfcb5ef3aacd1998f75519698ac4a739d60edf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "霍奇金森在钻石联赛中创下个人最好成绩仍被韦罗击败",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:32.977Z"
     },
     "27c2cd98b879ec7bf622f7eb444024014dc09f9e52f5487b0c1d3146c48f6b24": {
       "targetLanguage": "zh-CN",
@@ -375,6 +419,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T16:15:16.382Z"
     },
+    "d60945a2b16307720d8192380f85b9ef8e53ca44c0fc6001ad41be5e055abc27": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "33fd43042d67823984d614bee22706a9212b0701c22b36abf43852ae85b064bf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "非凡的唐是英格兰首屈一指的投球手——阿格纽",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:32.977Z"
+    },
     "f6ebc71fecef6d8114e549d2b7ac62f82e9883f0343964515947b0449b2ecdf1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -383,17 +438,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "斯托克斯在英格兰战胜新西兰后表示，洛德球场并不有利于测试板球",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T16:15:16.382Z"
-    },
-    "feb4ac289db0f815193baac499572640e69b3e0fd77412a7423c04b4504efe4c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f6456be910de9a03a626e22c86430856ff49b0f236a5c4c1816a4bfa7db03c3b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "斯托克斯：洛德球场不利于测试赛制",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T16:15:16.382Z"
     },
@@ -408,27 +452,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:52:21.722Z"
     },
-    "69a6b6cdf95b0042b3d9bcb16f6f35e1d18cb044a1748b8cc17ee17f8d9d9e12": {
+    "cb6c013f4941197e198d750649f6db174adc44a1390e490e9bb28a04a78a7dd5": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "12c99416d41420e8cf32a593ddc281c8af604145a6383c8ed77d7a6a95c9757f",
+      "sourceHash": "6fc60250cbce57cba82e8fcf94326797068f89d9911e1a8b05b896f087c34ebd",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "接受“世界首例”脑瘤治疗的澳大利亚医生去世",
+      "translated": "接受世界首例脑肿瘤治疗的澳大利亚医生去世",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T16:15:16.382Z"
-    },
-    "780c1ee034be7bb8f117318c0fca709cb1a7e71b171fa9a808667fd8e20c2c52": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "239b0e35743ce922987dad7a45e44e011ce3185efdcfa614cde06a5b00f8a1bf",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "数百名被俘者从博科圣地的山区藏身处获释",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T16:15:16.382Z"
+      "createdAt": "2026-06-07T20:11:32.977Z"
     },
     "b1d1bc7d3350550e7ac63e3bfc3b5bdee055bcd034acf1d33c68dfa15153d87f": {
       "targetLanguage": "zh-CN",
@@ -449,17 +482,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "西蒙·拜尔斯在‘几乎死亡’后透露健康恐慌",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T14:52:21.722Z"
-    },
-    "73c76382b6f866f641a96fb836307695142b23d120ec9b7d2df62887e30cd09f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3588d7c68c039ae3dd73b16da3210298db5b096090ce0f19157333e44bee0340",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "拜尔斯在‘几乎死亡’后透露健康恐慌",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T14:52:21.722Z"
     },
@@ -528,28 +550,6 @@
       "translated": "大批人群涌上马德里街头参加教皇露天弥撒",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T12:20:40.866Z"
-    },
-    "e5160a89a9bf68f8458fd0e44fd66555a69932c87647de03d8bee926b8e45938": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fea46856a162e7b1b94d041b317852446218dd4ab6bb3bc887816b411eda1114",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "议员称国防计划延误损害英国信誉",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T03:51:01.466Z"
-    },
-    "68043d605811b95f55eaa40ba30d41601b87a66e090c6ec426bba6b1088710f0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "56a5afca80faf232cddd139f086720f032d42ae10c122917ac2b241abb07e70c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Steve Rosenberg：俄罗斯经济论坛因无人机袭击圣彼得堡而黯然失色",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:41.085Z"
     },
     "3c598d787fc59731b3548d7401c059ef427f7fb83acdc204ba7ed51c3c1235aa": {
       "targetLanguage": "zh-CN",
@@ -2916,6 +2916,61 @@
       "model": "deepseek-v4-flash",
       "createdAt": "2026-06-03T15:12:17.645Z"
     },
+    "27ac1be8fc51b6afe2fc934c3c63ecca301e49b2dcaf6e04acb0bdf18f6cb261": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "51dcc4fbfe6a42041103ddb3ef1e8b380f47c503b3acba2f075fafd24011908f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "实时更新：伊朗自四月份停火协议以来首次向以色列发射导弹",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:43.516Z"
+    },
+    "506433522dae361f6c0ab35048e6f8ef16200b767a76e02d1a81d3bd969c5b84": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "98813526edf4fb973c7b4a2bfdb552446f30d4e75607a018886247f9b5372524",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国退出和平谈判调解，乌克兰转向欧洲",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:31.475Z"
+    },
+    "c8c264909c47c2e42b618ff24468cce149f7ecf755a61d2b508235fd25310278": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1d52c10518802592ba2a0f9dcfd31443a26f5e34370ee3de22db30857ed47923",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "伊朗自四月份停火协议以来首次向以色列发射导弹",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:43.516Z"
+    },
+    "5b3c46dbbf3b90627708b1f79e47979856bca3025f6eba275486a4a5effca991": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d01d9512ea7ce7a3bd71c13149dd61822393f0995898a923f8b73b712da23cc4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列轰炸贝鲁特郊区，与真主党战斗升级",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T16:15:31.475Z"
+    },
+    "96bd2b9cb66d26107d08e837858d1f254aab7a68f1699b66d0ae3c981da9dc5a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b0c5a473e774755ffca9820ff343b73c2086e1364338887f81e2cef05981438e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "新纳粹政党成员在德国小镇市长选举中惜败",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T20:11:43.516Z"
+    },
     "01303c4517c84460d06f36a239f51ee97319497171549e99f4658d185a4f9519": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2948,28 +3003,6 @@
       "translated": "法国前第一夫人贝尔纳黛特·希拉克去世，享年93岁",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T03:51:12.887Z"
-    },
-    "5b3c46dbbf3b90627708b1f79e47979856bca3025f6eba275486a4a5effca991": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d01d9512ea7ce7a3bd71c13149dd61822393f0995898a923f8b73b712da23cc4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "以色列轰炸贝鲁特郊区，与真主党战斗升级",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T16:15:31.475Z"
-    },
-    "506433522dae361f6c0ab35048e6f8ef16200b767a76e02d1a81d3bd969c5b84": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "98813526edf4fb973c7b4a2bfdb552446f30d4e75607a018886247f9b5372524",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国退出和平谈判调解，乌克兰转向欧洲",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T16:15:31.475Z"
     },
     "534b6dc9a61c5e93325de1b2ef967dc869f9132b1eda030208c0acd66775b082": {
       "targetLanguage": "zh-CN",
@@ -3036,17 +3069,6 @@
       "translated": "随着埃博拉在东非蔓延，中国会加大力度吗？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T09:25:40.795Z"
-    },
-    "67d0f90405964bfe2aad25af883c50bfbcff60293a420c58b55111bdc099af36": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3b85137cb5d37c37fc1522c5104a93c4cb7b07bc248263618a693beb667c9433",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "新纳粹党成员在德国小镇进入市长决选",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T07:54:47.988Z"
     },
     "a1e5a0d718de1f8863044f1331518d02b629ad63d94142a9276d2fd0d96d78d1": {
       "targetLanguage": "zh-CN",
@@ -3168,28 +3190,6 @@
       "translated": "一场Z世代病毒式抗议运动吸引数千人前往印度首都",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-06T13:41:28.133Z"
-    },
-    "d41ea315f69f39ae090f1a9a99455c8b5184f4d08efcca3ef29678519d4f7b7a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f8421285bd35c8d64c07b64c38c9600bb58277604f5a6ecd6b25a11c42bffd7c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "一名夏尔巴人在珠穆朗玛峰上独自生存了6天。他的家人称他被遗弃了。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T19:54:24.394Z"
-    },
-    "9373abaed3f303a39bc1887c6f8cad5af15c20162013236953812345270ae082": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b10c53a45089e69973c1f587d7affc4adf1eade1788de25bbe69f08b489e92c5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "世界杯来到加拿大，但有人关心吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-06T11:26:46.750Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
