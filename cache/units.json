@@ -1,6 +1,50 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "5bf86a76e335376c51882424d44235c9289d22c4c4218ae83770d960651f3916": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d973d42dd4201f4502648dc77345df582753ce0c50a8a81eeefea7d79f31d98c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "OpenAI向SEC提交S-1草案",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
+    },
+    "433af9e1fb1be9b020864e3e2b17b4ba220a708add5dbb0c1ba71d1aeeb227c4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "402b0f6fc0a667357ca9596fd02f288b1f89dbc9280375470d1603e0e8297da1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "FrontierCode",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
+    },
+    "41b83e15f7fc1907fbba9e21618a7edcac39041bb3144135d6bf6c4710bdacaa": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ad3e12ba796a55478b3c85a347db23eb7e627755421dbada4133ff72e2dae802",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我正在构建一个平行互联网，它叫做Thinnernet",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
+    },
+    "21bdd8bb510b5c873ad96801cc2e0631569a8d822c0696af038c6594ba495bac": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "05d58974bc96e1bf28a6f098ffe8b97b567850a91b516b67109a0c753d798a15",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "监控不是安全：关于英国最新隐私威胁的声明[pdf]",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
+    },
     "650307f54100308eebdc99057d4b071807a8e30b4e8a22d512199bb1f6fd3403": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -34,6 +78,28 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T20:13:52.697Z"
     },
+    "92f2f9b80568e2d56a3d52ae1bb28f0bb9f5cfc5f17f6e5676d47ba64d2401df": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c6203359334906722ba5ad02cb823a03854111f95f5fa201bd52d1bec7e89e4b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Apple Core AI Framework",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
+    },
+    "943ca2f2cc9137f3baebef8f9d355f6d0bd47cdf5d89efc835b63c40dfd43e16": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "28f619ddcd5096a36a22bc81f261f6c0ff5a6a55b21b4943792d20244a23c24e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Ask HN: 自AI出现以来，你为自己制作了哪些工具？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
+    },
     "3eb561dc29f9bc7a36013f1922e46afa8a1d38b560424142c817a328137ccd04": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -45,49 +111,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T20:13:52.697Z"
     },
-    "7574f98599869590ff29d6a870c7282d77979eac6873b19e203bdc309abca416": {
+    "c5095e6452fda678234e595a2ba519b1fbfa55ed1d90e58f958f103858f9d1b6": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "09f3fe1f1d619690cf09bfb7ef2528cccc2a71c646085f11ca8a472a712d4251",
+      "sourceHash": "120d0a8359a969c8c714f51a5f2f7ac59b28280523ce3d7585c6c24226dad840",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "TI-84 Plus操作系统完全逆向工程",
+      "translated": "苹果WWDC 2026",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:24.312Z"
-    },
-    "11b268b396363f527903ca2d62fb9159ec8df0dd0a590c23e1769c18b17e0db3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1bee72e718307ea109b126652971040d4a7d5a62b17c1193c12bdcea6e1e4d49",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Thunderbird 在我的家中乱扔垃圾",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
-    },
-    "58af048f2434b016ad1ae9dbca2792ae4adc18306fa63cf4caffb90e4cc73831": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0abfe830b469878f6cd9f79aee3e0ea33fca4faf174929bf0f522790c046b8e1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Ask HN: 为什么还没有真正的Ticketmaster竞争对手？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
-    },
-    "11194d4a5e0594e099302d0dff477d2c422a682454e657663b4a5c7006f42d6f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d239478c3997daec600c583b23e0c8d55c6a3ad9410d4dcf9c5a6613ba656ab9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "苹果WWDC 2026直播",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:24.312Z"
+      "createdAt": "2026-06-08T22:26:14.445Z"
     },
     "c6d3e38ec9d7a377d4ddcc5e02c0e64d9762b982aad126b46a34caafa86c3262": {
       "targetLanguage": "zh-CN",
@@ -100,17 +133,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T17:52:24.312Z"
     },
-    "68eeb95ab09e472152307310632a7889d02b14aa17133ead0883bcf7153f6bad": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fa719fa5e358774edaee11d2ab76308d4e85c7a8b7d749d16d7d64764e0d7627",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Ask HN: 如何上报被拒绝的Google扩展？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
-    },
     "42c1727c0cc9a900a0c4ce01d52451dbd7f012a6ee55ac5f20f955df81565b59": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -121,6 +143,17 @@
       "translated": "阻止Apple Music应用启动",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T17:52:24.312Z"
+    },
+    "6408263f078cf68c432128781c5c0dd453d00967dc780f418ffe2f72b906b6a0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b4b9f10c53f2efba8ceef0d44e497f9142e44cfaa3ef21f967c38f2396028e57",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN: Gitdot——一个更好的GitHub。开源、反AI、用Rust编写",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
     },
     "4101551cec3a30f9c4db4b2e68e889778c2d1f2bce942468377fe1ea9ed50647": {
       "targetLanguage": "zh-CN",
@@ -133,16 +166,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T20:13:52.697Z"
     },
-    "9a62ec3fc63f489ac3c15076d7fcb0e90c79849cc75dc656950b8df10c0866d5": {
+    "c434538d38a14dd34a1e247389e92d124d52c8b0cf16b3184d8efb4d59a29a31": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2e0dd29f3d6a2033fc65f8939956d0044a18023e53f33a3afab88f5ef71bebb2",
+      "sourceHash": "212d1a835238b6cc71ddfbd11f2d740acddf2385da8368e97cc468a38a89794f",
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "AI正在放缓",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
+      "createdAt": "2026-06-08T22:26:14.445Z"
     },
     "9b4cf1cd0fbd5cdaf0d76914277a9b9ebac371a35a3da8d58086667510bc01b1": {
       "targetLanguage": "zh-CN",
@@ -166,27 +199,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T17:52:24.312Z"
     },
-    "1db20551c5d9dd5a96227be4879ff465dbd049685dd5b30b4fdd8e01d3160aaa": {
+    "dca6d8a3aaeee0cf8c0154ff573bfafa6aee560b9543cf16fa168eae38ee64b1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "e0b3c2bdab08be708c5c400d02f1a6251357a5e0d4800481a0a404ffcd32d409",
+      "sourceHash": "05a58c0ce637373912d97032648d91ad72757230744c1b4a012727253f407a37",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "意大利的Bending Spoons，AOL和Vimeo的所有者，申请纳斯达克IPO",
+      "translated": "Show HN: Performative-UI——一个设计惯用法的React组件库",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
-    },
-    "cd548370077413985d3334a974c1404d28d0051bf8767400a58a4e65745a7351": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "68bf72cd123582d6bf799c64e1f966e8c0a295f8c6f049d11e43a801ab3bbc41",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Show HN：Performative-UI——一个设计模式的React组件库",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T14:48:17.022Z"
+      "createdAt": "2026-06-08T22:26:14.445Z"
     },
     "8a6b9d5de9181575c231a041cf57c401f93ac6c16a393010974eb18bcd7924d8": {
       "targetLanguage": "zh-CN",
@@ -199,39 +221,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T14:48:17.022Z"
     },
-    "6b65841b2c406c797444357357f49aaddd6c5999e56ee7d8ad6adca942f95419": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d843c1340823e674c94f7b51f2f001f8f3962e112edccc053d11cca36176fe56",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Zig 示例",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T14:48:17.022Z"
-    },
-    "d1c9d947db4ece929d0b24cde7d042376909e0ce6dc40f4898eb976042d5d3e3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0cd946055b442cea9c2fee94b6264695c3970991088e22f3033f315298c75d55",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "西班牙交易者为GnuCash数据库设计设定了标准",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
-    },
-    "c8ac2d8ae9912e529b47d6d385b29aa0401b34c67d67c6268f0267ce6665ed17": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "de7a0c740afb0c29f9be6ae71493aedcaca4565189bed280506d5cb4eaa2e2f9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "你现在需要运行五个Python类型检查器吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
-    },
     "9d1ee1cc17f21b950589feef4f92cd1dfa1575a47e02919764eb84b233a23a24": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -242,17 +231,6 @@
       "translated": "反社交：如今主导社交媒体信息流的是潮流，而非朋友",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T14:48:17.023Z"
-    },
-    "42787477c1f1e8d5beb300ba32ed1c2593e27c09ae00d97e3c7f960972898a4f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f10c6a336b4255d9baaf33d97b8ec603d937682508e15784a04bf756eaa147ef",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "对我在\"LLMs正在侵蚀我的职业生涯\"帖子的评论的回复",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
     },
     "7a0238c0efcf2af8c09ce9b80fd22030ac5679fcb6d8199c9b45ab301e7cda60": {
       "targetLanguage": "zh-CN",
@@ -276,6 +254,83 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T10:52:16.311Z"
     },
+    "08ef97b82e8c6328acea7d44f3f885b2879e7e63e31b05961c4c36d13b0b9893": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "325d71f05b0059f8d03d0c60f7f9b771c80634d7213507c72ccb2d6b2a0f5180",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "1worldflag：透明背景上的一个蓝点",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
+    },
+    "68bcf50aa8ae8e35729a63c7835662d3fc1b7d7d4d8b6b8de9afb6be5e891a21": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "057a8bd86c37cc73d6fd0e61efb2f49201ef18c19677bd6e510d27ca12af9050",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "欺骗Go的X.509证书验证",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:14.445Z"
+    },
+    "8795dd1fd531cc064240f7c057a7e620a7abe7ff4ce0d0e5f69bbd8babb5a316": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a496fa1828ec4d79784afed6e0365d49a78840edcfa429c96fbb208afeb40d32",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "回收厂火灾导致铁路严重中断",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:23.197Z"
+    },
+    "5f842265b0b4600fba0cf1fb2af3be5f0314fba4051edd8bea3b843734d236c2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0f26cfdfb66312fd0e0124e48f6caf26d9338164b4d2e7ca4483d0a8d942a808",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "索马里裁判阿尔坦因被禁止进入美国而将错过世界杯",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:23.197Z"
+    },
+    "874a5e288c571caa69f0b19ae91933a347000e6cbad6b299417ffc80a66e9881": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "624aa2436c5db8283311d8f841246b6b79a76546ccedc7006d0325c934cc4a90",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "伊朗和以色列称将暂停打击，但警告若再次违反停火将进行报复",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:23.197Z"
+    },
+    "08d5741b723a930c4e3c771a02e6b24fd7873105888b7df187de820df40759e6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "78555637250e89677d8dc12a5360d2adfa8a242674fccfe67e100a31bbb13bbd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "麦金状态正佳，现在跟着苏格兰的节奏起舞",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:23.197Z"
+    },
+    "1e6868b165a5feed468510e7274a30349486b7f6af51910a0b08caa9dcb1590d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fa1b3f1a1b3b89d273c3957107429825d32e745cd3bdfed1498d3897db8d52d4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "锡克教团体呼吁调查Henry Nowak死亡事件",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T17:52:50.327Z"
+    },
     "f4d9f14befce67382af70274922c872b766b5ead2645b044b3b8d0c364b8e9ff": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -284,17 +339,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Americanswers… 在 5 Live 上！为什么特朗普退出了他与《与媒体见面》节目的电视采访？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:14:20.536Z"
-    },
-    "aada8b6ed187d37dc2df3e5bf01847d484d8887e944007371245baa59d13a64c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "84d02ce148d1f735711a9c1b1bc5b633ba8b014f1a9cbd6cf1014cae6b8a4827",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "“城市会疯狂”：尼克斯队的表现令纽约市沸腾，而特朗普的到场让球场戒备森严。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T20:14:20.536Z"
     },
@@ -419,17 +463,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T17:52:50.327Z"
     },
-    "1e6868b165a5feed468510e7274a30349486b7f6af51910a0b08caa9dcb1590d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fa1b3f1a1b3b89d273c3957107429825d32e745cd3bdfed1498d3897db8d52d4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "锡克教团体呼吁调查Henry Nowak死亡事件",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:50.327Z"
-    },
     "923878d70d5fbd5b197e73311ab7c07b90af7df0bd9a14797c66551ece8a0ab6": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -504,39 +537,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "西汉姆联亿万富翁联合老板被控滥用权力、以女性为性猎物",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:50.327Z"
-    },
-    "1e8583d7cd8485f0e06a8e9ac4b8f10f0dc5d2b63cbee4705d19aeb3e5b0dcb1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "8afaf0426721898130a5ed3d3ccd8fa13ec173e9767d9e41e1fbdbf478276299",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "唐纳森告诉警方性虐待指控“令人难以置信”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:14:20.536Z"
-    },
-    "3504f89a582c501fc5b020d32147ab7001c9078566329d779a38819b5ba39537": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bcd5731de94c5625e2616b75536605debd571641ec1cee2b62d6e8f31c12c577",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "斯塔默要求苹果和谷歌禁止儿童手机上的裸照",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T14:48:39.561Z"
-    },
-    "da931052f69cc60607ed0cc30f479cf4ce955d691a663f8fe7854e98f9e18e06": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "484593d7bc37c369f839103ac492dae3fe3688010558c5dd508c88bbcfdc2837",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "曼城和切尔西仍在就马雷斯卡进行谈判",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T17:52:50.327Z"
     },
@@ -2927,27 +2927,82 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
-    "18dfce028ae984447fcd8f2a68cc502bff652b1c9a7f5c2ae26a206f51b65337": {
+    "8297336b4659148f757780865904b0a8a854ef21703d37f5ee8b628a7fb15c6d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "e6fad7f382fbfb861698f5f624ec34cefee7e1bcf5ee8fd5a0c339c5a9392a9a",
+      "sourceHash": "694700efa3cb2bc5fea7a6eceb43dcbd5a0cfaad6694c37931109310d30b959c",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "万斯指责移民‘入侵’导致英国刺伤事件",
+      "translated": "实时更新：官员称，特朗普声称核谈判取得进展后，以色列暂停对伊朗的打击",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:14:32.544Z"
+      "createdAt": "2026-06-08T22:26:33.906Z"
     },
-    "06ebe75373bab4e587acbaed63eeacfa782c3f66935268f022924471264d0be0": {
+    "8be519a793f32990f3a8bb66a5d587c3f9983b9f4b63bd8fd4be9dc3299bbf03": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "0aa942e6e25b6b8e87d4d69290340a74f23647806643238a6f49bcb050646d46",
+      "sourceHash": "903560e4d08f2c973fce7095cd84cf235a419cedfd3fdafac752f7409b8f0b83",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "实时更新：伊朗和以色列在互相打击后撤退",
+      "translated": "美国拒绝索马里世界杯裁判入境",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:14:32.544Z"
+      "createdAt": "2026-06-08T22:26:33.906Z"
+    },
+    "a3ebdcf0636b5c55ab36d212ce874574dc7ce2ddb9ae2327184776ed78507e87": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b2d9c66b651eb0f82ba487a8b6860abddb891ec7cd7dea694324ab55aa6045b6",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国与以色列在中东战争中立场一致吗？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T17:53:04.606Z"
+    },
+    "6ead23408e9a3f45b8db0cf3e384fed2b1e066e8c3678b4e9b8703453e82af14": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c58d9d4e9f86c6a68478f8ed92cd6d7e08230467545ce3c4b5bea01169426240",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "金正恩的胜利",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:33.906Z"
+    },
+    "edbd9bb0bd44407d28616517027f0f007e51b91ec82324eedf61fe39efa78752": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ccc66ec8858dbb4c90b9ff93f723f79a6f0e2dd3248d66a85ccf72d2cdf4d565",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "激烈交火后，伊朗和以色列各自后撤",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:33.906Z"
+    },
+    "b097b81bb4bdfde0a17fc34385a2f3e0fcc582213b67d364377af36d3ebbabd5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5952e63324c6fe5adf0343492bfbcbbf6d577c553a70a5d7ed1700001dd434c7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "视频显示中国企业兜售朝鲜劳工",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:33.906Z"
+    },
+    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "这是最新消息。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T22:03:51.783Z"
     },
     "22d9ed0a6ce66f6415d96fd10a7327a80c6e75977f7a406b9c39a9a888a72b24": {
       "targetLanguage": "zh-CN",
@@ -2957,6 +3012,17 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "科学家被指控密谋将猴痘病毒走私到美国",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T20:14:32.544Z"
+    },
+    "18dfce028ae984447fcd8f2a68cc502bff652b1c9a7f5c2ae26a206f51b65337": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e6fad7f382fbfb861698f5f624ec34cefee7e1bcf5ee8fd5a0c339c5a9392a9a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "万斯指责移民‘入侵’导致英国刺伤事件",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T20:14:32.544Z"
     },
@@ -2992,17 +3058,6 @@
       "translated": "手工制作还是剥削？揭秘墨西哥世界杯球衣的故事",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T10:52:44.912Z"
-    },
-    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "这是最新消息。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T22:03:51.783Z"
     },
     "ed90b7208114be1cf82f64de6d78ece7095247b23a5ec38c1c35023dcba2a64a": {
       "targetLanguage": "zh-CN",
@@ -3067,28 +3122,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "伊朗-以色列局势在黎巴嫩升级，黎巴嫩陷入冲突困境",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:53:04.606Z"
-    },
-    "a3ebdcf0636b5c55ab36d212ce874574dc7ce2ddb9ae2327184776ed78507e87": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b2d9c66b651eb0f82ba487a8b6860abddb891ec7cd7dea694324ab55aa6045b6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国与以色列在中东战争中立场一致吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:53:04.606Z"
-    },
-    "06544cba2a0d12181f350e09d8351beb6426d7f48be31b201fa7a21625d9961c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c974d48b2fad6026bb6b8bdb845b7f39324380befc55bf67f5e3bbc48ddc8a7d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英国伊丽莎白二世女王前侍女帕梅拉·希克斯去世，享年97岁",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T17:53:04.606Z"
     },
@@ -3168,39 +3201,6 @@
       "translated": "在华氏125度下寻找阴凉",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T05:50:45.600Z"
-    },
-    "7868961fcec46ccc2d78dab8aa426e5963718753dd9be0026dd577ab2f9d4cee": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "77e731115cc305ef83306a99ad996afc44b3c71624bf1788cd16ec19a6cc658d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "菲律宾地震和山体滑坡后至少32人死亡",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T14:48:57.052Z"
-    },
-    "8a0437e8324d829440a0da125b5b2a7aa8ea3aebefc0448bfcc16a630ade39f7": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0e3160d72229d5b36eb992206962c7243e81d00d2e272624823674b6e129f376",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "关于马赫沙赫尔，以色列瞄准的伊朗石化综合体，你需要了解什么",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T14:48:57.052Z"
-    },
-    "7475a46429dd16f2c68e892027bac106ae5847cd7b5768c80e8686a2b26a9a61": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "20da1acde87961e2da375eb786983b502d17116aeff831624485066e6c4b8e21",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "尼科尔·帕希尼扬在亚美尼亚赢得连任",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T10:52:44.912Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
