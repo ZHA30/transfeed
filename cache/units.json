@@ -1,27 +1,60 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "9de57be08f5e7ea7ede1cdf2eab40a18b76501357cbcf39667d69db2fa7f0b39": {
+    "5e4cf819e9a0ea0391ca74fe6f05aea926dce7dd58ec841e6d57a93f3fd4f5a1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "a03649e2cd1a8fc7109bbe5c54249699ce2af0f36b74c2ba941c3b8157be01e4",
+      "sourceHash": "02bc3df31fac76872b30c54bbb1d894f3f32f9fd18d81055a467943ad0a9571a",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Show HN: Mach – 一个正在寻找贡献者的编译型系统语言",
+      "translated": "GoGoGrandparent (YC S16) 正在招聘后端工程师",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-09T00:05:09.969Z"
+      "createdAt": "2026-06-09T05:05:15.953Z"
     },
-    "5bf86a76e335376c51882424d44235c9289d22c4c4218ae83770d960651f3916": {
+    "74e281475fe5dfa6224cbe19953922969e0925dc47d75d21cc4d8fe9d6e3c38f": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "d973d42dd4201f4502648dc77345df582753ce0c50a8a81eeefea7d79f31d98c",
+      "sourceHash": "67f6b310ae2cee0ea179cdf662d210e6236217440f1d47743a709b21a8a39832",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "OpenAI向SEC提交S-1草案",
+      "translated": "职位：巨石阵主管",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T22:26:14.445Z"
+      "createdAt": "2026-06-09T05:05:15.953Z"
+    },
+    "3a93604c9fd44872418a851274cfb6cb41ad2080b70d182f37c6e213ab61447e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ab4efe4ee76b672888a5273746aec105a4a5c03d34cfbf1c3da5f83af8fea144",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "联邦法官阻止H1B签证10万美元费用",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:15.953Z"
+    },
+    "614556d083e5bad387b806e669202d6a1faee94de87b0bf9f455c271704110ec": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b685311a09fcf9f151ba90b8ee8bd666859b0652e4fdaad57e4a79138cb8b507",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "向SEC秘密提交S-1草案",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:15.953Z"
+    },
+    "8f03e7f5b07ab4c86b8bbbddf154c4f91a2e0739dd7c472bc1777b39dbdb9b2e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "901d2fef5197ce7abf205a91e0fe0e182d5cd9d861a8a8b8095ecdc88c7ccdd4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "苹果押注更便宜的AI将吸引小型开发者",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:15.953Z"
     },
     "433af9e1fb1be9b020864e3e2b17b4ba220a708add5dbb0c1ba71d1aeeb227c4": {
       "targetLanguage": "zh-CN",
@@ -34,16 +67,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T22:26:14.445Z"
     },
-    "21bdd8bb510b5c873ad96801cc2e0631569a8d822c0696af038c6594ba495bac": {
+    "41b83e15f7fc1907fbba9e21618a7edcac39041bb3144135d6bf6c4710bdacaa": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "05d58974bc96e1bf28a6f098ffe8b97b567850a91b516b67109a0c753d798a15",
+      "sourceHash": "ad3e12ba796a55478b3c85a347db23eb7e627755421dbada4133ff72e2dae802",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我正在构建一个平行互联网，名为The Thinnernet",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:15.953Z"
+    },
+    "5588e66641dfc95386bcab0c0c238b32f093e60cebebdf8711dd13e4ac7422a4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "dced47d7e1bcca36b09ef479e68cee2637ee47f5cbe899740303d811d0a42c4e",
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "监控不是安全：关于英国最新隐私威胁的声明[pdf]",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T22:26:14.445Z"
+      "createdAt": "2026-06-09T05:05:15.953Z"
     },
     "650307f54100308eebdc99057d4b071807a8e30b4e8a22d512199bb1f6fd3403": {
       "targetLanguage": "zh-CN",
@@ -64,17 +108,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "为什么细胞很小？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T20:13:52.697Z"
-    },
-    "73ad7d989ff5b90a17a6a70cc64904e7512970bc05edf18c5b1287e7b9516135": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "8751b9cd9c29a39aa874c21978d4620556caaf3e674e75b2c0e84069171813c1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "瑞士将举行公投以将人口上限设为1000万",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T20:13:52.697Z"
     },
@@ -111,27 +144,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T20:13:52.697Z"
     },
-    "c6d3e38ec9d7a377d4ddcc5e02c0e64d9762b982aad126b46a34caafa86c3262": {
+    "58af048f2434b016ad1ae9dbca2792ae4adc18306fa63cf4caffb90e4cc73831": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "cded361cb31bba0318304abdbfb1efa8e0e9820cd6cc0c3f7418439220f6d361",
+      "sourceHash": "0abfe830b469878f6cd9f79aee3e0ea33fca4faf174929bf0f522790c046b8e1",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "马萨诸塞州新隐私权法案禁止出售精确位置数据",
+      "translated": "Ask HN：为什么还没有真正的Ticketmaster竞争对手？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:24.312Z"
-    },
-    "42c1727c0cc9a900a0c4ce01d52451dbd7f012a6ee55ac5f20f955df81565b59": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9cd081094e7cf5896e86e31704c40a3c8d40aeb9c59ae10a838a278c9f59002a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "阻止Apple Music应用启动",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:24.312Z"
+      "createdAt": "2026-06-09T05:05:15.953Z"
     },
     "dfd4c5d02524f3d65fe3ea63882374f6afb3eb6db9a5a1f4e77244c65e633f58": {
       "targetLanguage": "zh-CN",
@@ -143,6 +165,17 @@
       "translated": "Show HN: Gitdot – 一个更好的 GitHub。开源，使用 Rust 编写",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-09T00:05:09.969Z"
+    },
+    "b1348b17a69317757b2490e98d0c0affef81d774447f52c5a5997c9bb4f2ba58": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "dc1b159700996542116c70c579382712325b12ab20d582f1517ccaede4bff02d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Old'aVista – 最强大的旧互联网指南",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:15.953Z"
     },
     "4101551cec3a30f9c4db4b2e68e889778c2d1f2bce942468377fe1ea9ed50647": {
       "targetLanguage": "zh-CN",
@@ -210,17 +243,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T14:48:17.022Z"
     },
-    "c8ac2d8ae9912e529b47d6d385b29aa0401b34c67d67c6268f0267ce6665ed17": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "de7a0c740afb0c29f9be6ae71493aedcaca4565189bed280506d5cb4eaa2e2f9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "你现在需要运行五个 Python 类型检查器吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-09T00:05:09.969Z"
-    },
     "9d1ee1cc17f21b950589feef4f92cd1dfa1575a47e02919764eb84b233a23a24": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -231,28 +253,6 @@
       "translated": "反社交：如今主导社交媒体信息流的是潮流，而非朋友",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T14:48:17.023Z"
-    },
-    "7a0238c0efcf2af8c09ce9b80fd22030ac5679fcb6d8199c9b45ab301e7cda60": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fec2e804b9b17418ad6d902c7672f49f5db1dd592234003b57c6981527700068",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "密码朋克图书馆",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T10:52:16.311Z"
-    },
-    "aed79dd6f1bf82fd2d2898594cb932ab46b6e38633830d78a16f95cccfd9f015": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f1990de15df44ca5d5504edaa975aab38ba65b73853b4d67b05ecc2d71bb72a7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "赛默飞世尔的抗体数据有多少被篡改？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T10:52:16.311Z"
     },
     "08ef97b82e8c6328acea7d44f3f885b2879e7e63e31b05961c4c36d13b0b9893": {
       "targetLanguage": "zh-CN",
@@ -265,27 +265,93 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T22:26:14.445Z"
     },
-    "68bcf50aa8ae8e35729a63c7835662d3fc1b7d7d4d8b6b8de9afb6be5e891a21": {
+    "b38b274e2e5cabbe61e631b77c6038fadea58fbbcbe38c0be8304bcdfbfeb606": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "057a8bd86c37cc73d6fd0e61efb2f49201ef18c19677bd6e510d27ca12af9050",
+      "sourceHash": "c7124d69318b0bc826103a2ce33fd9a3a08ed1b74c33ddbec91e1ace6b06bc5a",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "欺骗Go的X.509证书验证",
+      "translated": "amd64微架构级别在Go中有多大帮助？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T22:26:14.445Z"
+      "createdAt": "2026-06-09T05:05:15.953Z"
     },
-    "ce864f5fd0ef36b5d966231611d57f93ace8d21910e467bca7ed57f9f4a7f5e4": {
+    "acd93151bd2312528949ee3f9b95be03fbad94f759f732a7fd3f328ba4cf675e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "97e1002d82d5aac620e30d128e4eb934b25383bd7f73515d0b4c5226f5ddfa3d",
+      "sourceHash": "4434c87e123934b037423bf79ee5c97238ded33bd5146776d4df23d380af9df1",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "以色列和伊朗的紧张局势考验特朗普的控制力，并可能增强德黑兰的谈判筹码",
+      "translated": "'支付赎金否则失去肾脏'：前往英国的非法移民在利比亚遭绑架",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-09T00:05:24.780Z"
+      "createdAt": "2026-06-09T05:05:25.345Z"
+    },
+    "bc26aaaca6045704ae2034d87e16287d571512f0913cbbce0faa69317ab5c6d3": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e4aba10d4c1aaf9d7e15182604dd585fbaf1a5db0d7bc845c087ed3264b70976",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "足球监管机构就沙利文问题与西汉姆联保持联系",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:25.345Z"
+    },
+    "cc3fe30a614a89766964d89a20fcdcaa747a5d76d975d5d531736f9507e56a25": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "930f905aaeb73d62d98ba8b8f3f7ea00ffa09bf4e015052cfb01bf0f04e99cff",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国将比亚迪列入涉嫌与中国军方有联系的企业名单",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:25.345Z"
+    },
+    "820f43411ef10b1c95fd2d26411bc45653a624ad46ef19d31acb70e50def7e52": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ae2155fd0f53b279145385325bed252723c5bbf9dca8b0ab1d20a8b7d67ed526",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普在纽约被嘘，成为首位出席NBA总决赛的美国总统",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:25.345Z"
+    },
+    "8795dd1fd531cc064240f7c057a7e620a7abe7ff4ce0d0e5f69bbd8babb5a316": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a496fa1828ec4d79784afed6e0365d49a78840edcfa429c96fbb208afeb40d32",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "回收厂火灾导致铁路严重中断",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-08T22:26:23.197Z"
+    },
+    "529568b87d51b0cb85c840290e5443c524a722fdee4175daa6815133759e9105": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7747c7d39d0075dc8940896b32c629c8bf7f03132d4830c8f459297983de42e4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "报纸摘要：‘以色列和伊朗后退一步’以及‘上大学是浪费钱吗？’",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:25.345Z"
+    },
+    "b515177bdce58abc92523e4855de89673054c4f98f6bd02f7ab9030cb05d4c18": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1e18cee7da8c10a04af4512010e16e8703554dc2bb70b81132fbe1768b6231f2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列与伊朗的紧张局势可能增强德黑兰的谈判筹码",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:25.345Z"
     },
     "1bb4a8f0401d3ad9c98e9cb73e0f30aa5f7327e1797db2fcab999fbf304f7e7f": {
       "targetLanguage": "zh-CN",
@@ -397,27 +463,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-09T00:05:24.780Z"
     },
-    "8795dd1fd531cc064240f7c057a7e620a7abe7ff4ce0d0e5f69bbd8babb5a316": {
+    "72b4277c8dc64d2c947bed96bef9719468b45d56ce2f319b7096f3fed7a4c86a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "a496fa1828ec4d79784afed6e0365d49a78840edcfa429c96fbb208afeb40d32",
+      "sourceHash": "fe8ac718866e27c52828e69e150da51e76192931011f8698a73cfd991f0f9c5e",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "回收厂火灾导致铁路严重中断",
+      "translated": "索马里裁判阿尔坦在世界杯前被禁止进入美国",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T22:26:23.197Z"
-    },
-    "d2f630f9e9cbfa921ba677dd2cc83b2e65ee8bc6b4a9afdd2ca06be8b627f67c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b2c501e32fac1109f972efc1b2612fa992f64caa916bcf1b38ee774a37d08567",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "索马里裁判阿尔坦被禁止入境美国",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-09T00:05:24.780Z"
+      "createdAt": "2026-06-09T05:05:25.345Z"
     },
     "5f842265b0b4600fba0cf1fb2af3be5f0314fba4051edd8bea3b843734d236c2": {
       "targetLanguage": "zh-CN",
@@ -495,61 +550,6 @@
       "translated": "斯托克斯和阿特金森因夜店事件接受调查",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T20:14:20.536Z"
-    },
-    "bc38e6a7b480f66e76271d88ae4269cc01b657dfdc847ca311e3b9e62142d6af": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "cc034f9b9438086c1ba5c39a4c32e5c0ecb8942dccd259b1f38614c08e162576",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "斯托克斯和阿特金森因夜店事件接受调查",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:50.327Z"
-    },
-    "7a5c2e7a495df2b09e34e2c6a15b50a64aeac1a5fb6c12a7a0988599bd6f8b21": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e80253f44a13356c4be2ce4e9cc3b71e3b7d35fb57b903dc267e73d48afab230",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "爱泼斯坦受害者称她在安德鲁的宫殿公寓共进晚餐",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:50.327Z"
-    },
-    "923878d70d5fbd5b197e73311ab7c07b90af7df0bd9a14797c66551ece8a0ab6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a1aed285f2da10c81b3281b9a85d9f8eb283978c3231dce46bc1abe6e9589714",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "克里斯蒂安·埃里克森的心脏装置如何发挥作用",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:50.327Z"
-    },
-    "50b50212d6fe2126e2cf4a2eb4ab45528e8c0be6aa1a3a634f97ad1f6784e9bd": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e22ef9587270b1711acd84fafa6967585c1b9e92d4973ff26a128350680e8634",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "埃里克森在家中，倒地后“情况良好”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:50.327Z"
-    },
-    "ceae1ab4df13ec6929a5f0009b30f564ff0673c969ed34fe4c41e8bcee84dcb0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3028a0370018802d21c3f35256f7c1bde05a5c455b03e043b7df0fe0d3520d76",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "拉什福德“肯定是我首发” - 沃尔科特",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T17:52:50.327Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2938,16 +2938,60 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
-    "8297336b4659148f757780865904b0a8a854ef21703d37f5ee8b628a7fb15c6d": {
+    "6ead23408e9a3f45b8db0cf3e384fed2b1e066e8c3678b4e9b8703453e82af14": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "694700efa3cb2bc5fea7a6eceb43dcbd5a0cfaad6694c37931109310d30b959c",
+      "sourceHash": "c58d9d4e9f86c6a68478f8ed92cd6d7e08230467545ce3c4b5bea01169426240",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "实时更新：官员称，特朗普声称核谈判取得进展后，以色列暂停对伊朗的打击",
+      "translated": "金正恩的胜利",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T22:26:33.906Z"
+    },
+    "e7b57c5c1d1527f71ef7d45ee3053e20006218b32095270b32833ce985f1dcef": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d64fd52669529b96562d6debd56781535cd7a7e08394d9b7a649daa960ac6995",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列暂停对伊朗打击，此前特朗普声称核谈取得进展，官员称",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:36.860Z"
+    },
+    "70de3d1bfe1d1599ad5106f9dda02650fb2064d8f8c4482c5c0effa70d7c7d44": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0726665cb2b1ef4d57f4f8313952ab2a9abb6c7022e349628cd06c4c0e3a97bb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "为什么英国梅克菲尔德的一场补选可能推翻首相基尔·斯塔默",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:36.860Z"
+    },
+    "ed11cedb12a213b954c82f0d2f489f07e67fc6a0d5fb119ed8e1ce610428e765": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9f990ccf6ff4b32bce77c7d4610b865a078dc11262d3f20abbdd60ceb3d97039",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国直升机在霍尔木兹海峡附近坠毁后，机组人员获救",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:36.860Z"
+    },
+    "ee88dedaf860649787a2ece872224d20ce2cc6289c6b2cc1d18809931379f7da": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f1adc6e65637e85ce9d6ab33ee25d28c271e7112ab4ea7856d56a034c30a0b3c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "国际刑事法院检察官卡里姆·汗因性骚扰指控被停职",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-09T05:05:36.860Z"
     },
     "8be519a793f32990f3a8bb66a5d587c3f9983b9f4b63bd8fd4be9dc3299bbf03": {
       "targetLanguage": "zh-CN",
@@ -2970,17 +3014,6 @@
       "translated": "美国与以色列在中东战争中立场一致吗？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T17:53:04.606Z"
-    },
-    "6ead23408e9a3f45b8db0cf3e384fed2b1e066e8c3678b4e9b8703453e82af14": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c58d9d4e9f86c6a68478f8ed92cd6d7e08230467545ce3c4b5bea01169426240",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "金正恩的胜利",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T22:26:33.906Z"
     },
     "edbd9bb0bd44407d28616517027f0f007e51b91ec82324eedf61fe39efa78752": {
       "targetLanguage": "zh-CN",
@@ -3179,39 +3212,6 @@
       "translated": "墨西哥城机场为2026年世界杯进行了5亿美元的翻新。这够了吗？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T10:28:55.961Z"
-    },
-    "3d551a0b64cceae7f1ab41ade650b195006a2c81a7bc45b9b8eb791bf8669636": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ddbddfa469cbd6f7d86235a90e12c23a14b34e28c11016f9cd58dc680a8bfb27",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在新一轮袭击后，以色列人哀叹“无休止的战争循环”。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T14:48:57.052Z"
-    },
-    "506433522dae361f6c0ab35048e6f8ef16200b767a76e02d1a81d3bd969c5b84": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "98813526edf4fb973c7b4a2bfdb552446f30d4e75607a018886247f9b5372524",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国退出和平谈判调解，乌克兰转向欧洲",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T16:15:31.475Z"
-    },
-    "479af906528a5ecadcac298add4129add727e8296d153003fc9c1b478ecb4f71": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "cd060c166c1fe073b97419c30914fc577a9d442c0b19b135e474cc61dd31d15a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在华氏125度下寻找阴凉",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-08T05:50:45.600Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
