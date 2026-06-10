@@ -1,16 +1,115 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "aa190f64592e63627176c95240df097cf3ef738d96db83cb3acd08e219f25686": {
+    "50f38620a8a1e2439f21fcf971114327fbbd60737d82dd23f55b057833c7540d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "dc9770e055c6f9ad8190a2c09184009a13fdd67311b9997cd92ea6cb176c0cc9",
+      "sourceHash": "181b747669457b87e90244e25f76bcc1c5a2e9ad11a304445024e5fc7732ab51",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "教科书应该免费",
+      "translated": "富足幻觉",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:20:38.576Z"
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "a756bd8f29855f8a71a144ce74899e60cb45a47d631140f9e8659220b229a89c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "de3fa1303a54cf03ae7d25c415f07609f6626a3ba448d647a3cdc024706da5b7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "农民捐赠土地用于建公园，城市却将其作为数据中心用地以1000万美元出售",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "8d69f2b8a3df1b8e46ae200358dcbeef9fc58250d7f4aa3c9e264daf6156d8ff": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3c9c6eb526ac03852ec37434a34cb35ad0cecb2b6014e87552d080652a97ff0b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "ΠFS",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "a45080c7a7f78d9adc1416933807a8e0c789e7db3ec960c27aa8f20e877155b4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "097e8e9549b78d52b63d2382b5cd5dc872aa5108d05b68cbb58878768fdad299",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Anthropic的模型命名，外推至极限",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "59ac1e2baa2bb7146c036517a718301f8b7298711441380789686a4636561f80": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d6e09bbda1fd3a911d198ef69ef3a881112ffcf823d482f9b15cfcea61ea66ff",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "发电机与计算机：现代生产力悖论(1989)[PDF]",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "4324590eef8469650703e319f660c11d04e9a9b9b19a296b19b9511845dfdcc7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e94eac44965bb2238444fcdce0c3b9734f5a7d1faa057ee8c986ba54d15c6569",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "为什么SpaceX 2040年收入预测4.3万亿美元极不可能",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "8da0d5135b8dee5a6a616f30ebcfa06f2d381a6606c7b7276ee0b194b1acc764": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7e29bde1770343ede8a61a03e3f5c8e13ef1a2c2fb64686bf038dac7d3c3bd93",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "GeoLibre 1.0",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "30b2851b54397f87e0fbc5da5030888ec781cf0258eb0c53f18d38c17c9959db": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "99468396fdcd0501a3f0eafcd7efa46aea290b425859f75637cdb7cbaee6d26b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "JPL如何让服役13年的好奇号火星车持续进行科学研究",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "844cf172ccccb3be21aa3f79e6a6c06803595538ce9d9fde13a22f0f930b8b55": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "098586f922453b9f6402023551369f80b76eb639826d5923ba88d32f2359baae",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Meta效仿特斯拉策略，在帐篷中建造数据中心",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.388Z"
+    },
+    "53b5478d06d20d422a5b53ff9674f800f8814141fcf0e55ab5c11c7efb03e57c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "95e0fbd2dc04eefa539d8f8e0c87d4b5d919d8d4a74ab6c028c54e7caaec5213",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Claude Desktop启动虚拟机却无法停止",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.389Z"
     },
     "ae223d168c6b88bec0a0787cc24051cf717245c557f6056dec46efa99cfbcc99": {
       "targetLanguage": "zh-CN",
@@ -23,16 +122,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:20:38.576Z"
     },
-    "5b1955982fcc2bffa30ee12c18540fd2bb912077b43d592cd71bb128f81b0375": {
+    "8eae5a137b49bca8595099cb7b7dd7158df310fbf74df30879ed7b69d8a09cc1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "6ce46ae04808586db43c86538535855b80cd2f170c45c7838cc40088f32662fe",
+      "sourceHash": "2b11d7826119e29edf65fb934f0c62ce7fa0e9336909a9b83aa15d63965df94a",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Postgres 示例教程",
+      "translated": "Show HN：Extend UI – 面向现代文档应用的开源UI工具包",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:20:38.576Z"
+      "createdAt": "2026-06-10T20:29:26.389Z"
     },
     "f96b51f7be33bb55bd199478010852b39be9335990285e4c9a2854012e77dd1e": {
       "targetLanguage": "zh-CN",
@@ -44,6 +143,17 @@
       "translated": "最后的进化，作者：小约翰·W·坎贝尔（1932年）",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:20:38.576Z"
+    },
+    "eb93362df8c80e8a7e4f93905ad84728c93dd90b8b5d30afa6e647180d79c879": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "979d6391ac0e11b52567d41d96b2a49009c036a1b4abf6409a147f92611d94af",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN：HelixDB – 基于对象存储构建的图数据库",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:26.389Z"
     },
     "f3c1ebc5feebd73564147e5c27ca7eda97670c9fe3a4aafbb46e0a1207d0d3b7": {
       "targetLanguage": "zh-CN",
@@ -67,17 +177,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:20:38.576Z"
     },
-    "78e9b3e6323cf29649d5a7fb208d261ed766f4547b6529b8dbf1429d70587190": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "70bf638c1d5f599fe6d5179f3fd67c305e99fab5507813f40f6da167fee187ba",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国消费者价格指数上涨4.2%",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:20:38.576Z"
-    },
     "fea0aca79453b2ef16a7f014d52200835bce7bc4dbbfa03781914ad2bebc0dfc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -89,16 +188,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:20:38.576Z"
     },
-    "23579f8fdd3a36495f15073539c739d90cf5fa066ed0832fecac4987721e89e4": {
+    "e46fd373755626fe9b39150515a2220affd91d80c592fabcdf08579824d90675": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "aec251d983b02969159541c91b49f6220a264327ae1eb8fc286df38375b8a730",
+      "sourceHash": "44b25a5e5f5189a6bb18f00abfe410a02e4559ef163eac0b7e4487cf95e6c4c8",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "我是Eric Ries（《精益创业》作者）新书《Incorruptible》的作者 - 问我任何事",
+      "translated": "我是Eric Ries，《精益创业》作者，新书《Incorruptible》— 有问必答",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:20:38.576Z"
+      "createdAt": "2026-06-10T20:29:26.389Z"
     },
     "dc1682090c7e68843a480756696415b7674b95aa1900bc0e603f7975f419a575": {
       "targetLanguage": "zh-CN",
@@ -119,28 +218,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "一笔0.01欧元的银行转账可能危及银行AI代理的安全",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:20:38.576Z"
-    },
-    "3849afb1c0ac796d46e462a2a3f5789b321250702bd13a6a8629550aa621e410": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "050c2c2fa5b84bfc8a96aefd240a5ef45940552156d298fdc4860d8685086f9d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我讨厌（大多数）键盘上的“Fn”键",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:28.157Z"
-    },
-    "51685be579a7f6a10dec3bc65df9fed3894ade19825f370bf1b7f9875e8f4b95": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "be346939d02ffe0ed7b500bfd914a62d3aa6ce27eda048dc8e481db98ea66069",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "问HN：大多数公司软件工程师的职位是否只是表演性的？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:20:38.576Z"
     },
@@ -166,17 +243,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T13:38:28.157Z"
     },
-    "3a4c9ea0b98918686abb47e9cba5612033941156ddd0c5a1e3ee76649cf9c894": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a32319c70a7de0f594103bd65ddeab4e5a22651af586669bb062553f2c66a0d0",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "AWS Bedrock将要求与Anthropic共享数据，用于Mythos和未来模型",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T09:58:31.326Z"
-    },
     "914390fb08daecd685a6480b2628175d78e5f7d54ad4611059db308bb547efc3": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -188,16 +254,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T09:58:31.326Z"
     },
-    "1b5e9a12c4666aa2bb5c4b40e9763eebf37980c54d4f01b14578c6b14da3cc7e": {
+    "141ad72cb7d980d11f6728c3e7d7e0b215e6e39d8e1afcd8b1390b5a02648d90": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7d030d87c02fd6a98e153b1824654a0da0a71553192eba74fb594ea4e7a0cef8",
+      "sourceHash": "7ad9e56c68bce635afdd1642e96b140a29b443c33b00252cdffa85168754d6cd",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Chrome 计划永久移除 MV2 扩展",
+      "translated": "Show HN：Artie – 实时数据复制到你的数据仓库，现已支持自助服务",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:20:38.576Z"
+      "createdAt": "2026-06-10T20:29:26.389Z"
     },
     "8c96758cef1ec75c44316c255f3fa76b13e9563345f41dd4cae4de92a92463b3": {
       "targetLanguage": "zh-CN",
@@ -210,82 +276,148 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:20:38.576Z"
     },
-    "13a3e0378675939227c5452a88cbcc238527ea800e2c97d26f097f3395e6c43f": {
+    "da1dc11f22c91b08e1385ec618e6ed66541e100ca62d67f59e5c8bbbf83431b7": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "5c3bde23ceffba4d76e4f5fac30b47b5d2e369c8cbd9ec0bf4dc3f7604fcfa05",
+      "sourceHash": "e4cc7e8185c36e6202ad9496589ef285187e44c192beb58375b07d81ff232dc2",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "德国裁决宣布 Google 对 AI Overviews 中的虚假答案负有责任",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T05:17:48.696Z"
-    },
-    "70494d0ce7946a12675abeaad11b8db0a2dfeeb6bc8e42628d1f0510e9bd3980": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "76b635e865cf3ce31c36590eefdf979260e1b5e41fc6565103f4d7ea7a492c02",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "macOS 容器机器",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T05:17:48.696Z"
-    },
-    "014f59664448f1e00d0557094b040ea38262b692b964af1c2e76e3b549b3d755": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bf65f6145322cbb74dafc42def6618d62f217b78cc33d7683bf6100543ee65f4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "安息吧，软件黑客马拉松。硬件黑客马拉松万岁！",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T00:12:50.585Z"
-    },
-    "7c3c20fd2c141ed3b27fa38a6e0eeac9033f7c15e38fe1ea930bfdcc24e50ade": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "79ecdedfb104cac997dd31611b0087b9e70526ad10205d6c91cb309518c880fa",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "npm v12 即将到来的重大变更",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T05:17:48.696Z"
-    },
-    "ec429a31199785d66ea0102588d4893c8670905f103464dde5c1fbaee01689ea": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3456ef96946f535ff821d4265318b37989d21cd39d657401b2a84dae6122865f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Claude Fable 5",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-09T18:04:39.020Z"
-    },
-    "ca37940a9c78f90fc1556a5838397983d256990e26451ad32a313f4c9ba2f33d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f4283b15d7e9869f8d4cd5005206dc443fe931dd9f4efaee2b4f5db171a4fe7c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "为国防而黑客 斯坦福2026 – 经验教训演讲",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:28.158Z"
-    },
-    "1e76bce983652ce461f46b3559ce1fb83f9fccdb215b86faf33adfc0c3d0db55": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "970bb02d6811f59d29e82a8bee3d741ff7a63375a4a877a79531a143315751a4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "麦肯纳卸任伊普斯维奇主帅",
+      "translated": "我们对刺伤和暴力事件所了解的情况",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:12.756Z"
+    },
+    "1b466071d1c4189cb13fe5a5b6b6a42615840e3f7d987e09426213abe4da81a4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "72cd5cee32a04b8b0bae376668a894b858eddf865763b43997cac804f4356516",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "比尔·盖茨称爱泼斯坦想要私人关系，但自己“从未回应”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "dbc8030e9278492d0249f121a01e247cd7b33333984f7b9fa123369e845e9b30": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d32a7e4749d6a1dee5ab6301b22d5783ca86a031650cb208f704c92d81d22ab9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "埃塞克斯警方收到关于西汉姆联共同所有者大卫·苏利文的新信息",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "c967a0c457bef4e6c87c728e44400017e34be9680facd2f260a52672a7808d85": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4eaf63d516d2e6d4a35289fc9ded0d32d28162c0adfeec0fd2fe404635d11012",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "埃塞克斯警方收到关于大卫·苏利文的新信息",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "de6888a39dfb0139e6ab160ace1166c10458d2db41946f0da9a05a125861bcd7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "dedf1eef48dff26357dcd1993247b15a228cb28ba4fde58678ffbdf8029172e3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "发现距今五百万年的鲸鱼墓地",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "2b44c288f5e7e7e5bf0721a49dad3d3731927f2abeeb8442aba2393545134a33": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7981b43ea3a40636f04eadc9dbf8634cd15f130d2b386047b8f1e5071b669faf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "'我永远无法释怀看着家园燃烧'：贝尔法斯特居民在骚乱之夜后震撼不已",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T13:38:49.136Z"
+    },
+    "59c833000bd53fd221d25e8cbde805b43618561ecba2abbd6ca97d28f6a90638": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "84afac375844ac92727b4cce887be334e2e9c98f8b4e47ae55f6f8c9078a52f9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普称他“喜欢通胀”，美国物价以三年来最快速度上涨",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "b762e9577f4f2e4d25602551c44c4d6d5fe0b422f794c39eef357c4137b9cd17": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "006b8b5132f7f7beee6a2eebb44fcdc08622a5cbde1525c740768879b30dbb0d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "雷纳称改变护理人员签证规定是错误的",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "845411f2892695a0e854fde7d6c5b9d5851680371d415f8f994e305dcf8b1fce": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "20dbba90374f9a7cad8463d9e5ea043e6ff12c4648d411c851247668ee4fff87",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普称美国今天将再次“严厉”打击伊朗",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "b8d59925be42ec69789d685bfdeb355f473da4ed28f929e73acf4fe5549b9cea": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4b3e90c3b6da596d03b812721f3eed5f8f4415c11d4cdce3fc2ad3a6ab0b4200",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "一起持刀袭击如何引发一夜暴力",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "04dc13c75f621dd63381614e3b2120ebaa0ffc2b66c01354b70b7335b47c688f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "31f13569e8687132eefad27875d2b405d8260c61ee58655e61eeeaab5710e20b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "萨拉·沙里夫的兄弟姐妹将留在巴基斯坦",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T17:21:12.756Z"
+    },
+    "f28a117f7fe11f09500168aa30214210bbc7ec9c0b473b4fe52cc0b67db1c4b0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2030a12a4da49d09af448adcdc338ee526c38ed343c3d2d38f7229cf758fb4c2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "“紧急情况下，打碎玻璃”——英格兰队在鲁特身上寻求稳定",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "eac22f681f548eb5e3db12e77283b1572cbb932e8ae621e1fd79d5a330d6f170": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c485157382d8beea2c4a1703adf8a685f061d1902c6ddad610bab8118425afd5",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "主教练麦肯纳离开升级的伊普斯维奇",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
     },
     "fa92304bbaa2755b69317fe2d856a4c68f74bc1ba44385252e3829f01b21265a": {
       "targetLanguage": "zh-CN",
@@ -298,16 +430,38 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:12.756Z"
     },
-    "d8649c0f309dc1b341678c3866de65821fdbb975cdb466e2682b165c7f05069e": {
+    "afcf88bbbe2965db3a6804163c62c4a9e5f2c90b70607c06ad903f9a1c09db67": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "1e50c23a483796854cf81539e00cd5a3debd6bf4c351d68d085394289d6e3af4",
+      "sourceHash": "c250e0f91e3e190a0551c36f61ae3fd603f3142dea5a1915f02e78062b75991d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "贝尔法斯特骚乱后的破坏景象显示被烧毁的房屋和车辆",
+      "translated": "兽医建议禁止非处方宠物跳蚤治疗药物",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:12.756Z"
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "23349b1d506caa20255d865b033c6bac8bebe4e2e11553a9c615f76250b607d8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f7352281f9d03265874d3fc1c6119619fa4a5dfcac9e1465ba654624d51bfc19",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "威廉姆斯的女王杯征程因姆博科受伤而存疑",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
+    },
+    "c4858dab7dea5fd4f80e262ee27b7c716f0fac16d519dac2bc6cb7e714237d7d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "00dc390e212a25b9b680ea0ccd769c909d7682c0265232d9d4bca867aea79d94",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "破坏景象显示被烧毁的房屋和车辆",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:39.161Z"
     },
     "110439833c3217222d3adce92cf8b47c6e360dcee7d0a7057f6b54d9235dd697": {
       "targetLanguage": "zh-CN",
@@ -320,28 +474,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:12.756Z"
     },
-    "69aa5f97237f9a1e1576cda16b3735866b514105a182f18ab768e935c2bb7f37": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a3af777496783a3b259a95891627c431aa0c6b346f0e01de8aaac9325cc1e772",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "特朗普称美国将在周三再次'狠狠'打击伊朗",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:12.756Z"
-    },
-    "7c3da9992a6004f546844f05cb6a9f917557f9a7b15b46bdb5cf2b28c55e9088": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "494118bea5ba3c1ab861dc6cda61af2716224dfcfce82a4930175774e893ce10",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "贝尔法斯特持刀袭击后格拉斯哥发生骚乱和种族袭击，三人被捕",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:49.136Z"
-    },
     "ad7b8976cd61146a218d33803603aa5455b811963b250ade324d12e27b9be390": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -350,17 +482,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "五人因在亨利·诺瓦克警察抗议活动中实施暴力被判入狱",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:12.756Z"
-    },
-    "04dc13c75f621dd63381614e3b2120ebaa0ffc2b66c01354b70b7335b47c688f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "31f13569e8687132eefad27875d2b405d8260c61ee58655e61eeeaab5710e20b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "萨拉·沙里夫的兄弟姐妹将留在巴基斯坦",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:12.756Z"
     },
@@ -374,17 +495,6 @@
       "translated": "数据告诉我们和不告诉我们的关于北爱尔兰寻求庇护者的信息",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:12.756Z"
-    },
-    "2b44c288f5e7e7e5bf0721a49dad3d3731927f2abeeb8442aba2393545134a33": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7981b43ea3a40636f04eadc9dbf8634cd15f130d2b386047b8f1e5071b669faf",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "'我永远无法释怀看着家园燃烧'：贝尔法斯特居民在骚乱之夜后震撼不已",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:49.136Z"
     },
     "36b06dabdd451100899754ba192df027ce2487ab935a5d0d69249219112659ab": {
       "targetLanguage": "zh-CN",
@@ -408,49 +518,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:12.756Z"
     },
-    "da1dc11f22c91b08e1385ec618e6ed66541e100ca62d67f59e5c8bbbf83431b7": {
+    "e486d376a3b9e622f8b21ab06bbed90fcda0ba4fae38ec6d348565db0c22b99f": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "e4cc7e8185c36e6202ad9496589ef285187e44c192beb58375b07d81ff232dc2",
+      "sourceHash": "7041ff08bdf9ce51cb09419bf4198156d1ff17b1274e62067eadf2f17cbedb98",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "我们对刺伤和暴力事件所了解的情况",
+      "translated": "美国官员声称被禁赛的索马里裁判与“恐怖组织”有联系",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:12.756Z"
-    },
-    "ea19d78320a2452c5d2aa0f4633090afd25f6363fa97184e90b089abfe068845": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5268c4d6baa55121c30ac7c4c007d31ae25101db92b2a6840e02f6f2117dff70",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "埃弗顿被告知因违反PSR需向伯恩利支付3500万英镑",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:12.756Z"
-    },
-    "1f07c6734efa5b375ab2822e73873cf3e1736ec0fabf7d13cb56165d06640ebf": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3167f2da7683a1c250943d65df0fa3c9ca8f0140cb775730dd6587ff03721f1c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "比尔·盖茨就爱泼斯坦事件向国会作证时可能面临的三个问题",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:49.136Z"
-    },
-    "98032aae1c336a695274ef741d6dae401a2b1b46a178eec39827a41d47f7597e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "679f2107db561acc61c274a2bec055b00338db7d1e22eae9fc6e518ec212d45a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伍尔维奇囚犯逃离囚车后展开追捕",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:12.756Z"
+      "createdAt": "2026-06-10T20:29:39.161Z"
     },
     "842f824e51aed5212db9de84fbc14f2d791338ccd33873aa2dff32f2e317b069": {
       "targetLanguage": "zh-CN",
@@ -473,72 +550,6 @@
       "translated": "两名移民根据新小船法被判入狱",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:12.756Z"
-    },
-    "d22c575b892786aaf38ba918ee7dc4b84eddb786560ba338a93c7ff515fe68ae": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a4c8aa9836ff0f92106e0e383d4df6b110dd8486c492c34c6708c510d27ed219",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "日本对特朗普使用动漫角色表达反弹日益强烈",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:49.136Z"
-    },
-    "a20cd93b3137e397753e0902a0279071cc0954fcdbcb09ccf6ebc727edbf7a6b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0026d0c177242a2b605ac202c78c07e52ed683b962ac91870863dd989ed9c4b0",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我们花了一整年时间观察这一个坑洼——以下是发生的情况",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:12.756Z"
-    },
-    "7b8e7e848774c83b362497a90688ee4b7bf5282b1fd9c9461d27cfe6cc8c91a3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0effea9cea3814848838271d5f5ad95435b94f83a2e7f502bbaf926da74f2aa9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "前沃里克郡守门员派珀去世，享年56岁",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:49.136Z"
-    },
-    "46d9b52bcd9e377dfb464a3b6d4ba5c1914eb4659f8d4d6a562dd946cdf41e1a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "80c36364461524947cc26af3088a53dc775bc5c63488defdee9e7832d7c4bcf9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "乌克兰称导弹击中俄罗斯纵深军事工厂",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:49.136Z"
-    },
-    "4988565c6e0dcc98337259b8a65556857df87bcb219f8ef9e261d98a5dc467e3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6570a32b9e3dec6c4934a68f49e9ef4995faf282e4ab0148fcc4cc1abe61d0b7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "BBC取消《神秘博士》圣诞特辑，拉塞尔·T·戴维斯宣布退出",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:49.136Z"
-    },
-    "d83dee711abd106c6a2002b7a38429568c83c55196cbd6f3cca148a6c19058bb": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c9c40d2f2fdb838f4fabe51455f7abc664ed33bac5145c5a9041c0045ecbed26",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "另一场热浪就要来了吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:38:49.136Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2927,6 +2938,94 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
+    "01337c2196029fe328188d9a490c460ce4bacdae39fe2d2088f927ad62b888c4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d58d7ba27d84caed4cd8a7e1f037fe8c43539cf717c68a4b4d4ed090cda42d30",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "伊朗战争实时更新：在预测和平一天后，特朗普称美国将再次打击伊朗",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T17:21:22.665Z"
+    },
+    "ad2c24abfdb88d590029daac407cb09fb84022c530d3cf95c4da5a23e2857963": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "94721c230b01124ef9a50a55d2f7fa663f4fe8a3e129b353eec17697e0b88a5e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "教皇利奥正在巴塞罗那祝福圣家堂。对一些人来说，这座教堂是一种诅咒。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T13:39:10.009Z"
+    },
+    "c5075caaa80d28ae42f7656841f55e37c54041ac5d95c052cdd0e539cf766487": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c1a6cd8417fa663ba650904ebfac8b55a5c7cbf369bf0f9a77e847a3d90986cb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "香港就致命公寓火灾起诉7人和2家公司",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T17:21:22.665Z"
+    },
+    "b501af1da763886aa172d0fd99448923c26552620b4958ba1174aaa18146c1a6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a6dbd1bdf3683a1468a98b5a3e196b06da8fe93147cabe44f7479244e0d55c62",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普威胁对伊朗进行更多打击，称和平谈判陷入僵局",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:55.063Z"
+    },
+    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "这是最新消息。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T22:03:51.783Z"
+    },
+    "bd871f3017d9772ea5aaa6cbdb22566fd8d812ea0a9526a6b61a2a35938c14df": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2d16e4913e06da65c9b9f04a893125f1cf5a3a438f263aa781a85244d4ab93de",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国埃博拉医疗队在肯尼亚引发愤怒、抗议和政治危机",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T17:21:22.665Z"
+    },
+    "9e0b5ce9f2ebed1648fe83afa77b3b6fba656b5dece4e641b3dc0f9cb518fad8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "15dee8024f79f69d2208e3779f9cdfe05abfcf25fb06b5f3387a4709776632b2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普称其‘不打算续签’加拿大-墨西哥贸易协定",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:55.063Z"
+    },
+    "317142420dbfebc1d857a278b8b59aa093d81d41516da90ddf112ddfcbc4d82e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c0069c0ec10454c09e864e775c097bf6811735aacc060a6fd4abfaf62e81433d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "俄罗斯高级军官在莫斯科附近汽车爆炸中身亡",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T17:21:22.665Z"
+    },
     "5d730b1d8853422385eb4a481655cfb8da138586f1faeea092f1482fc969f572": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2938,14 +3037,47 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T13:39:10.009Z"
     },
-    "01337c2196029fe328188d9a490c460ce4bacdae39fe2d2088f927ad62b888c4": {
+    "07873b9af56fbfc7b1f5760c32bf34f8b7d385c85de656528fe3519fd3dd906f": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "d58d7ba27d84caed4cd8a7e1f037fe8c43539cf717c68a4b4d4ed090cda42d30",
+      "sourceHash": "eb2083fd28cab8c29855b4a34d2c6e14c7cf9f223d9df51ef256c1e0d45bc5ad",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "伊朗战争实时更新：在预测和平一天后，特朗普称美国将再次打击伊朗",
+      "translated": "印尼军事法庭判处四名酸液袭击维权人士案被告",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:55.063Z"
+    },
+    "152f0caf08bb50c70bf670d3397e5c8196eed9a91070dfef4f46b15517ad99e4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d78997db1359bdedb0c0a6e58e26107506d9158b8f4ef0ff5975ecd3c2a154e2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "加拿大航空一飞行员被指控无适当执照飞行17年",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:29:55.063Z"
+    },
+    "42aa7dcc477bfcb696873d113006bbea0cd1cc4e0870f38c4d619401d9e0c04b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0fe0718398a729b72f7c644e7a14078f80ed74a1adf308a787034708019f25f4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "刺伤事件后，暴力之夜笼罩贝尔法斯特",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T09:59:11.058Z"
+    },
+    "c202fb6e9d9a2d8f42bff55402ecfaca550e0e30b045861019657edf30c45e36": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3a128215a9f8d336aa7d26a194e297adf703d5ac464ca41bf8fa9ab06ed14493",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "研究称印度尼西亚山体滑坡摧毁濒危猩猩",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:22.665Z"
     },
@@ -2959,50 +3091,6 @@
       "translated": "低调的阿曼如何成为特朗普的目标",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T09:59:11.058Z"
-    },
-    "42aa7dcc477bfcb696873d113006bbea0cd1cc4e0870f38c4d619401d9e0c04b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0fe0718398a729b72f7c644e7a14078f80ed74a1adf308a787034708019f25f4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "刺伤事件后，暴力之夜笼罩贝尔法斯特",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T09:59:11.058Z"
-    },
-    "31e9499c423fbbc75d995785cdf856fb9fabe9b6fe45951fc5d5273e689aa007": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b22338cb65a4a91a5645dae287a8ebab3eab4b4ae938abc7f303b4c638a010ac",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "特朗普称可能不会续签加拿大-墨西哥贸易协定",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:22.665Z"
-    },
-    "bd871f3017d9772ea5aaa6cbdb22566fd8d812ea0a9526a6b61a2a35938c14df": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2d16e4913e06da65c9b9f04a893125f1cf5a3a438f263aa781a85244d4ab93de",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国埃博拉医疗队在肯尼亚引发愤怒、抗议和政治危机",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:22.665Z"
-    },
-    "c5075caaa80d28ae42f7656841f55e37c54041ac5d95c052cdd0e539cf766487": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c1a6cd8417fa663ba650904ebfac8b55a5c7cbf369bf0f9a77e847a3d90986cb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "香港就致命公寓火灾起诉7人和2家公司",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:22.665Z"
     },
     "b5d0422c7ce7a9d9fad52a58172d142b507271836be7953ffddd974e3aa8f52f": {
       "targetLanguage": "zh-CN",
@@ -3026,17 +3114,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:22.665Z"
     },
-    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "这是最新消息。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T22:03:51.783Z"
-    },
     "4bf8f6644ab75eaaf32eb98ddc7bc13df90604ba06cb6ab72a2686aad31b51c5": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3056,17 +3133,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "海湾阿拉伯国家谴责伊朗对巴林和科威特的新攻击",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:22.665Z"
-    },
-    "c202fb6e9d9a2d8f42bff55402ecfaca550e0e30b045861019657edf30c45e36": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3a128215a9f8d336aa7d26a194e297adf703d5ac464ca41bf8fa9ab06ed14493",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "研究称印度尼西亚山体滑坡摧毁濒危猩猩",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T17:21:22.665Z"
     },
@@ -3092,17 +3158,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T13:39:10.009Z"
     },
-    "317142420dbfebc1d857a278b8b59aa093d81d41516da90ddf112ddfcbc4d82e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c0069c0ec10454c09e864e775c097bf6811735aacc060a6fd4abfaf62e81433d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "俄罗斯高级军官在莫斯科附近汽车爆炸中身亡",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T17:21:22.665Z"
-    },
     "8746271825bd32b2d4bf5bcd0590fdee4deb45c90250c0dfc35eab5d2ec0a2ae": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3122,17 +3177,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "被拒绝入境美国的索马里世界杯裁判回国受英雄般欢迎",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T13:39:10.009Z"
-    },
-    "ad2c24abfdb88d590029daac407cb09fb84022c530d3cf95c4da5a23e2857963": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "94721c230b01124ef9a50a55d2f7fa663f4fe8a3e129b353eec17697e0b88a5e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "教皇利奥正在巴塞罗那祝福圣家堂。对一些人来说，这座教堂是一种诅咒。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T13:39:10.009Z"
     },
@@ -3168,28 +3212,6 @@
       "translated": "阿根廷世界杯贴纸册：数字革命无法冲击的低科技热潮",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T09:59:11.058Z"
-    },
-    "d82d171b97a8138959325ea982bf90c6ec70b35606eff3c675ed3436d88785d5": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "16d229a6e4de723d8df772004cf021ed8e9b6b83437a0a79a592210286210f8d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "乌克兰无人机行动的新变化“真正让俄罗斯人受伤”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T09:59:11.058Z"
-    },
-    "68267c016b4ef3af6675d162a52d8145c29fbf6a7ac17f4c1bc5f4854707c64b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "29a758f50cafd35690107ec19d4b92d9536e8ecb284757f3bc3bc376d1ed2cac",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "AI政治",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-09T20:57:23.059Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
@@ -3510,6 +3532,28 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:41:15.849Z"
     },
+    "5fe595b74c0f3f66eeadda1fbb5e6911acc1fc3a879642a30a40e622715e6523": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "36ab918bdb3e1c7f59e6e5f8cc34dd118416e9007a30fbfe0c7b4a83d9da65f9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "七部适合改编成优秀音乐剧的现代小说。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:30:24.000Z"
+    },
+    "cbb5a318ea24e67565f28d630b7ddd9afb6b232ee36edc67ca21963fdcc271f7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "74f3c503a3eccffb28d35bfd64b7d116ef60b352ef7e21e2dd5be0d526d56112",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "好吧，听我说。我们文学界的一些人这个周末也庆祝了托尼奖，其中《拉格泰姆》获得了最佳复排奖。改编自E.L.多克托罗的史诗小说，《拉格泰姆》加入了一系列悠久而自豪的大型百老汇音乐剧之列。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-10T20:30:24.000Z"
+    },
     "cb37e76798d8d7691bf151df04e79f59cd31957c57709bdb405f8906720590ee": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3705,28 +3749,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "狗长期占据着人类动物与造物其余部分交汇的边界。伟大的维多利亚时代批评家约翰·罗斯金认为，文艺复兴时期威尼斯的艺术家——提香、委罗内塞、丁托列托——画狗“是为了与…形成最充分的对比",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T10:00:28.240Z"
-    },
-    "eaac2a59ace857b55c78309c8a0004167ef4af6447399207db1f162894801b45": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "41f5327b8f4f0ea8f67afec6902c85146cbe2d9a9d0a350eddef6f787a4f9a25",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我来接火",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-10T10:00:28.240Z"
-    },
-    "c06eb427613d5bd81797fd864ee357eb223e81213a966835c032419ce63a1cfa": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "fa9355d3ffaf1e0750fe0f6469b8fa520126cccd57a65c0167a9b205c522acbd",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "2021年11月的一个夜晚，我失去了味觉和嗅觉。有个女人睡在我的床上。我舔了她的肩膀，把鼻子埋进她的脖子。我把脸移到她两腿之间。我",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-10T10:00:28.240Z"
     }
