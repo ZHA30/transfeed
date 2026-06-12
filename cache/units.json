@@ -1,6 +1,39 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "104642055b038d61a9a0f58987986610239094ba3bfd2581e738f9c8f9708230": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a32c1a6cce48007f42dda37e5aa86231677ffa8a8dff1002d07cb9c3bde1e499",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN: Putt.day 一个每日迷你高尔夫游戏",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:23.375Z"
+    },
+    "6154384f3c01e1a358ef2231d6c607ac23fb7b58ba181d5f878583b068f180ed": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "32ec390f485f43c0b1858dea948a3a8fe92094019798ae3a20d7272e0fc5e198",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "FFmpeg 中的二十一个零日漏洞",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:23.376Z"
+    },
+    "8902975bcb5b63b6ccec6cec6423556b42e0bc50aac64d2b73678d56589e2705": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "69ee5ded7c3de1784dc98a96fde8015f591fb8e57c7ee9b64b9b7d27c2044e3a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Renault：不含稀土材料的电机",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:23.376Z"
+    },
     "0339110ac1684bec4416829799909879848058cbfd8931ba387f283fd000d11f": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -23,6 +56,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T21:43:43.696Z"
     },
+    "4e9853a93296f2343f9d4452159b596b5a1b372653aa6b973e5aabc7422cbd0c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6b02c197f703f85219fdaae9b78e184ddd5dd5af5889f912127fd577ce1901a7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "/architect：将Fable代币减少80%，Fable编排/审查，Codex构建",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:23.376Z"
+    },
     "e1349fc58ad13b2c76880e05dc43a584c60e7bf2f7919760bf250534fa94fca7": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -34,27 +78,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T21:43:43.696Z"
     },
-    "bea5e0530f817712705084b7507bc198fd0bf02fc88ea1dd46abdd510f9dddd7": {
+    "0ccd5a23d23f8586b0cf9589cd926753812c5438088dac21679fca0fa1b356d7": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "533deba3353c4d21d32f69414c626630f5926d24293b14eb097b728c17ea835a",
+      "sourceHash": "f5d59c572ea4cc79e4e75708446a7718710de5e9f62cb4ea9730afbe4cb3c584",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Apple的Swift：迁移TrueType提示解释器",
+      "translated": "Apple 的 Swift：迁移TrueType提示解释器",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:43.696Z"
-    },
-    "ee075e4d5024f07a22ae62d06c947b433bca95e84913366838c8e7a2d32bfb81": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3a88af7c218270d66d0d02835f0325cd6c7ebd6fe1cbd0eb166b5dd35a544852",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伊朗战争以来，法国和德国的电动汽车需求增长50%",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:43.696Z"
+      "createdAt": "2026-06-12T23:16:23.376Z"
     },
     "fda569ebae987cb515f962316053420a21310adcaa788993f6e5d2fa938f074a": {
       "targetLanguage": "zh-CN",
@@ -133,27 +166,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T19:04:32.055Z"
     },
-    "a5072af998243cf7a5d1c2477eb9dc64979c03cef6f4da8fa7fd22445ef71643": {
+    "5c75d5d841c54e642392f9d80a50210cf32b336060a63770542da4f808fbfc72": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "16ec7938d5e8bb0894fdc668d88ca1d015d9ab6bdf53b3136aa87346f8213f55",
+      "sourceHash": "4f53403bfca973b2f2059a3fcfb7e6c13df1f408342b73d90c3c5e9cf1fcb990",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "期待Postgres 19：正是时候",
+      "translated": "自适应PDF",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T19:04:32.055Z"
-    },
-    "ab9a06cdfb19c7bb702c5ae0461ec8da61930a83876504ad21a57d09504d0272": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7dfde071d429d6b9ddf20efe73c6c4893fa3ea1f5eed43e11df13850953d3398",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "根据阅读方式变化的PDF",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T19:04:32.055Z"
+      "createdAt": "2026-06-12T23:16:23.376Z"
     },
     "9dd64268433b2ba7e3e9fe0b47824fb009a8fb5d548b0ce44ea4b576f3f9ed9d": {
       "targetLanguage": "zh-CN",
@@ -165,17 +187,6 @@
       "translated": "地球的海洋从哪里来？也许是自己形成的",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T16:17:27.110Z"
-    },
-    "879a83a1de01858a512c21412ebf645f5b0e95adafb6e534fd8f35dcfb28a9d3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4fa9affdfe9862e120c5ed1e73d43ef4ab24b49d83deb9541f2439b9ba3a13a5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "你可以远程开启Mac",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:43.696Z"
     },
     "b1dd4c179004fcece20ff3a1138b90dfc7f1cd115d1fb758dfa26b13a2fd131a": {
       "targetLanguage": "zh-CN",
@@ -221,17 +232,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T16:17:27.110Z"
     },
-    "e018e7eb165ef5bbb993cbd17ca6d779ba129ae2dfb832e8b5b2489a096cceb0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7c936ad817eea8c7c3804ab8d33d376ac5e75e79270d2b86cde7b3b169855429",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "行动呼吁：停止FCC的KYC制度",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:27.110Z"
-    },
     "a9294875d8f9d863eefb792a96409bd1812b56a796375918067f0993fd595821": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -265,16 +265,60 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T16:17:27.110Z"
     },
-    "d52acc1ba13c434e0e3a78c038d92bce9c617d808bff98a61a382baacf8bc072": {
+    "3c4d7adfe098c2377c76ff771cc07a78a5a532c47e8992d6c9c31ec82d8ffa3e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7e8449ad33432b53a8b22515226981070c0ed8ccc95ac7fd140ff8ccdd8d221c",
+      "sourceHash": "886ab6d6194218731dcfbb0858e9cd1a827345406980782f850fe7fb3350dc19",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "加密空间：协作应用的架构",
+      "translated": "Maxproof",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:27.110Z"
+      "createdAt": "2026-06-12T23:16:23.376Z"
+    },
+    "0e2a0545cce5288cba5bbf21477a36565c4271376d05bd3f27286f06df52e53f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "72e549625be205af1a3e35fd875fb80991e7366901429dcabe23b22ed926ef6a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "'明显红牌'对波斯尼亚还是'赢得球权'？BBC评论员意见不一",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:42.190Z"
+    },
+    "b3132c83046187d870d59b73ff100c8c366fd0cbdf5ac29729b48ad59d9ab91c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3c7e3a6777b7a5b20c857f5cbec5095ac58b213ce03ab767b71c570bc0882324",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "瑞士将就限制人口至1000万的计划进行投票",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:42.190Z"
+    },
+    "98804fad50015308ce56bb8cd52d3978a1bbfaab081bb9956020c96d66a12bfa": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "35400bbf02b234e7507f36b50f0d34f96b2da2e4cab5d9ea0a60e2ea1736c38c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "艾德·希兰在一家二手店发现了这张唱片——现在它终于受到关注",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:42.190Z"
+    },
+    "79e41a2b401c661886b96ffd3e68e093fb01365385bcab14cc99533114786c2c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fa30f37b2135859ed879e838f16c1861df1cb32c43dc1584f8d6aa022e11dc18",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "俱乐部因指控撤销米克尔森会员资格",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:42.190Z"
     },
     "209f2028827b1b36e40da4d37a0ddc2fc2060fa3d55884abfd00a4a5d8a22397": {
       "targetLanguage": "zh-CN",
@@ -287,38 +331,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T21:43:57.689Z"
     },
-    "46d3c23705a5df1fe7a23fba9299c16e8daaab1243319499882dd6c2faa89e7f": {
+    "c842ce367bee24ac14e6b44a020ed535763bec07e46c4a4c63ecce9b7602cecc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "35eeb36f02cf8a10d02054eccfc71064675ffb3c29f2cbbf7d053f1d553a17ab",
+      "sourceHash": "305cd6d3165d447acfa78ff816db82cb6e5006a94c6c138a91da095ad7c930ed",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "前阿森纳中场托马斯·帕尔特伊被拒绝入境加拿大，无缘加纳世界杯揭幕战",
+      "translated": "'我们会为进球而疯狂'——在美国世界杯比赛前，兴奋情绪高涨",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T19:04:53.597Z"
+      "createdAt": "2026-06-12T23:16:42.190Z"
     },
-    "1ee58e8da1565ca97cc567af5f683e16887eb5d70a8b1767db02126518053f5a": {
+    "ef990f2e7ed2e380faf829f2d7dc038aa6bcc679372c461095e345eb04cb0175": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "6058c1f854c62ea64fc99d427f56142c39d82edcfebdccca342da5c0da65393f",
+      "sourceHash": "cec586bcfb34a33f22d5ef9ec667b1fec51e55cfe35a428382aa710670073ff1",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "辛菲尔受封爵士，六名雌狮获授MBE",
+      "translated": "拉林的扳平球为加拿大赢得首个世界杯积分",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:57.689Z"
-    },
-    "e9c4d85951176d9b1ecfb62c9d452645f6a378a719ac8d1be0c21fd4ae194946": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "cbced55cfd34939ac881516edc48fc79b08d35aa8ec52cdbf78e160143060d7f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "橄榄球明星辛菲尔与作家布莱克曼、唐纳森领衔荣誉名单",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:57.689Z"
+      "createdAt": "2026-06-12T23:16:42.190Z"
     },
     "b4124d63ab6f98961ce816b315542e66c54ebf06a6c0302052215d8808a0f16b": {
       "targetLanguage": "zh-CN",
@@ -328,6 +361,39 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "埃隆·马斯克成为世界首位万亿富翁，SpaceX上市首日股价飙升",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T21:43:57.689Z"
+    },
+    "226d8f8137425c760a44227699dd7fe609f3b4c56039fb717e72ffc85e8c42a7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f28840c181737c55265aeaa98cc611d7634891113d04f1e4084973ab53fc17d1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "'这是他们谈论的全部话题'：苏格兰陷入世界杯热潮",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:42.190Z"
+    },
+    "b09e30091b759c1619fef58829e679ac87d5c97071349fc37dbba6eb7368d1a0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f4358905721e431b21a414eed769ee134f3be60d8bafbe0ae482e6e4cb95effe",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "卡伦·布雷迪明知沙利文女队禁令仍留在西汉姆联",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:42.190Z"
+    },
+    "e9c4d85951176d9b1ecfb62c9d452645f6a378a719ac8d1be0c21fd4ae194946": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cbced55cfd34939ac881516edc48fc79b08d35aa8ec52cdbf78e160143060d7f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "橄榄球明星辛菲尔与作家布莱克曼、唐纳森领衔荣誉名单",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T21:43:57.689Z"
     },
@@ -364,28 +430,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T21:43:57.689Z"
     },
-    "b37b0decc02d0458baaf3d6448269125f11e19bd5461a8813ac2e775526e61e2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "eb040806bc34f9af05f9d7499c9fa4b3ea15ae776c8ef48bcb5ecfe941a3a08a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "'多伦多沸腾'——拉林为加拿大扳平比分",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:57.689Z"
-    },
-    "67b1ee3a7c2c03946bbdec5aa09cd325ef9d4c291b28c3f09e527e9a40f78965": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7f5343a3a8c88d7cfabaf008f925869c02f3ad89f88b7ba058269d0123c76b70",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "世界杯在加拿大开幕，艾拉妮丝·莫莉塞特和迈克尔·布布莱在开幕式上表演",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:57.689Z"
-    },
     "3478fa3800b06d647ead80718a79fa86b965a2d5ba7bbef6a1817407a8f4c4fd": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -416,17 +460,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "观看：大卫·贝克汉姆在好莱坞星光大道留星",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:57.689Z"
-    },
-    "98a15c19268857a5dc6def76fe419181b3251af36b690724d3da92671d24b225": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "33cebaa7a55d32ecb7ea058731d4d8eb0ca98bae5adbe5935fefa37be6a5a9ef",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "国际足联称球迷聚集在通道而非座位上",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T21:43:57.689Z"
     },
@@ -515,39 +548,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "价值120万欧元的珠宝被发现引发对西班牙前首相的新调查",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:44.316Z"
-    },
-    "718707181c75409cfeb2be76e3a73d461a970de87487a5b5d81eda73fc405e5b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "52af5a137a0a472d20194ffc289aa29f137fbbcb5a3bf918894b6079923f7183",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我们对北爱尔兰骚乱组织方式了解多少",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:44.316Z"
-    },
-    "41220f651783a629db741282ffa89b22454c6aabe630d59a60086458dfde3ff3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b576609f515f73760886019d0e7e75e105a9d5f6a3a4140704796823cefdd9ba",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "基尔·斯塔默访谈：分析",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:44.316Z"
-    },
-    "bb7ed198ef2fd54c997c8463f2117cde311eed7e9c451d792bd453f427a5c17e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4545785061f6877530caef40e7de3b76d2ab2820b7d65590228bbc894ec4fde8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "又有三名男子因亨利·诺瓦克抗议暴力被判入狱",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T16:17:44.316Z"
     },
@@ -2938,6 +2938,28 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
+    "f941f24849909a78b9f5f2bff5dd066ebc7d64ac354d97a165fb2c1d6382bf50": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "12e8351f08f7f3415cba28299404f2cf8cd36dc26ef1a9d86da269914337884a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "墨西哥城世界杯门票价格对大多数球迷来说太贵",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:33.131Z"
+    },
+    "e31d018621bb62178f2af7074d376353684de342a05ba5fe0c0e5f8755d0bdca": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e14bba4e22121527839bbf0b6ba86458707136cb6b64aadd9c3e002dd2a1844a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "阿富汗人举行罕见公开抗议反对塔利班统治",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:54.987Z"
+    },
     "84ed632fa28b4a5ee78621db25ab7d400b52a68a229d1afee2acb77fca364a06": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2949,6 +2971,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T21:44:04.664Z"
     },
+    "2e174db8f4c1ad49ed7392ead4354d80df12a2e224eac84d64fdf7e34546b39e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e2ce18b732609f0ce0a88cfa1c571f59ce5d242d1ce9d5fd01f25527a6bd0d7d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国称伊朗停火协议“非常接近”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:54.987Z"
+    },
     "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2959,6 +2992,28 @@
       "translated": "这是最新消息。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T22:03:51.783Z"
+    },
+    "93f20e2396dbd671e61b9f0d06f5ae319b6080b792781d9106dbb3f95ff712b1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6733c69fe4aea013d51f34a9d717e4d8cc8d5f83f52b6ebdb39f968097d3de9a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "加拿大在世界杯上肘部上抬，张开双臂",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T21:44:04.664Z"
+    },
+    "9e0319a0e06e5594b7d376908e24cb94bf2b13828dd7cef3fa960d22153e72ec": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "bf37135364b50262130aa07ae7e4b38fb9950b6abe9bff3494e717357f3decf4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "中国以间谍罪逮捕美国学者",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T16:17:59.449Z"
     },
     "382af652da544704acd8423586d810341db6ad837c3a70a6892b87fa8a309147": {
       "targetLanguage": "zh-CN",
@@ -2992,17 +3047,6 @@
       "translated": "科学家争相测试治疗方法，埃博拉疫情持续扩大",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T19:05:05.900Z"
-    },
-    "93f20e2396dbd671e61b9f0d06f5ae319b6080b792781d9106dbb3f95ff712b1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6733c69fe4aea013d51f34a9d717e4d8cc8d5f83f52b6ebdb39f968097d3de9a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "加拿大在世界杯上肘部上抬，张开双臂",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:44:04.664Z"
     },
     "eb299f9be524f353a680d85ad78a39a849f6d971d2446dea6d68a610a21e3eaf": {
       "targetLanguage": "zh-CN",
@@ -3114,17 +3158,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T16:17:59.449Z"
     },
-    "f941f24849909a78b9f5f2bff5dd066ebc7d64ac354d97a165fb2c1d6382bf50": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "12e8351f08f7f3415cba28299404f2cf8cd36dc26ef1a9d86da269914337884a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "墨西哥城世界杯门票价格对大多数球迷来说太贵",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T12:19:33.131Z"
-    },
     "12724300fce3f94df1fbf952834af2f54d7bc8648dc74df3ec78f124185ff18c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3133,17 +3166,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "日本反驳特朗普的动漫帖子",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:59.449Z"
-    },
-    "9e0319a0e06e5594b7d376908e24cb94bf2b13828dd7cef3fa960d22153e72ec": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bf37135364b50262130aa07ae7e4b38fb9950b6abe9bff3494e717357f3decf4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "中国以间谍罪逮捕美国学者",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T16:17:59.449Z"
     },
@@ -3190,28 +3212,6 @@
       "translated": "NOAA发布厄尔尼诺警报",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-11T18:13:15.574Z"
-    },
-    "1e322f0ca412b07823585711c36a8bb621f6e24af0659b4d81b8c7e21a716a73": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "762f74e14892ace4ca046b7eceb55c883299832053579daf1a788d32e1b99da8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "SpaceX的IPO火箭",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T21:20:30.163Z"
-    },
-    "8e30d5193d8eb3311d23a595bf7124a2632044c128628d1ee483d45b49d9d183": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c6e825ee6f02e6234826d94e728699de15a40ca8bcab784da79a5ed978d36001",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国官员要求哥伦比亚取消总统与马姆达尼的会晤",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T05:28:47.042Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
