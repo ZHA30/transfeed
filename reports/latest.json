@@ -1,7 +1,7 @@
 {
-  "runId": "27415177042",
-  "startedAt": "2026-06-12T12:18:52.117Z",
-  "finishedAt": "2026-06-12T12:20:03.665Z",
+  "runId": "27428198666",
+  "startedAt": "2026-06-12T16:17:11.027Z",
+  "finishedAt": "2026-06-12T16:18:00.882Z",
   "status": "success",
   "feeds": [
     {
@@ -12,8 +12,8 @@
       "inputItems": 25,
       "outputItems": 25,
       "units": 25,
-      "cacheHits": 17,
-      "translated": 8,
+      "cacheHits": 7,
+      "translated": 18,
       "failedUnits": 0,
       "issues": []
     },
@@ -51,8 +51,8 @@
       "inputItems": 25,
       "outputItems": 25,
       "units": 25,
-      "cacheHits": 19,
-      "translated": 6,
+      "cacheHits": 17,
+      "translated": 8,
       "failedUnits": 0,
       "issues": []
     },
@@ -90,8 +90,8 @@
       "inputItems": 10,
       "outputItems": 10,
       "units": 20,
-      "cacheHits": 2,
-      "translated": 18,
+      "cacheHits": 20,
+      "translated": 0,
       "failedUnits": 0,
       "issues": []
     }
@@ -102,8 +102,8 @@
     "inputItems": 124,
     "outputItems": 124,
     "units": 404,
-    "cacheHits": 354,
-    "translated": 50,
+    "cacheHits": 360,
+    "translated": 44,
     "failedUnits": 0
   },
   "issues": []
