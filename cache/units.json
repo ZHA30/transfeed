@@ -1,16 +1,71 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "5ab1f29dfff234e564235bf15c43912ec6079e2c82aa2e5e134c39a0b24c1c39": {
+    "2aebd31843181dfad7c898d365cfbef97bf00fc81a75048580f8bfca2122fe7c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "d907d2bed8183fe911ecc71c3eb03e20bf9ff12af912d7232d1cabbdd7190745",
+      "sourceHash": "c1fd49f512b37beab5733f05dc90343397a8f64b50b2701a8e7e86ea7aeae573",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "数字主权成为当务之急：美国读取荷兰电子邮件",
+      "translated": "大卫·霍克尼，将人体形态回归艺术的大师，享年88岁逝世",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:25:28.836Z"
+      "createdAt": "2026-06-12T12:19:05.847Z"
+    },
+    "c8b0795071174112781154e2916b4dc0aa575b8aad6d947a686d849d6c641e20": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "42908b0a90065b1a5231c13f88fef15784235267f7aa58065e8577ef11b1bfe1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "瑞安航空黑暗UX模式2026夏季更新",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:05.847Z"
+    },
+    "64b225a60317aa2c78d9f9df3da6d9b3962954a677cdd6bd10eed410ce47bca9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "909be6aba7d653f61967f749c317f457f628da614f3576dcaa37038a105ff6ce",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Kimi K2.7-Code：开源编程模型，具有更好的token效率",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:05.847Z"
+    },
+    "348fc178c314d12e1586e3e80031714bf69364c182b66fca6c23754df72a8823": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5e9432103d90c94e9fb7228b88c3ad1cba80424739b1b676bfb54e6b9123daac",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "电子邮件的未来",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:05.847Z"
+    },
+    "630065d6f6614cf1584dc622d3fd042fd9e6b32e4085e36e7d61cf9de9e66036": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "25c9853db5a22074eb11939a49166d75263233b469df8f0945083986871d15ac",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "关于不明空间站的报告",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:05.847Z"
+    },
+    "c8f6403a631275a64baacdb17b888bb0d9155ff508fdc7f04b8370a02c992a6c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "eff25fa965b0b083c8ed4d021fbb785edfb02b73992825d8ebd07edbdcb03679",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "AUR软件包被信息窃取器和Rootkit入侵",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:05.847Z"
     },
     "8dce7570f31ec24e898e5d3f245d657a498b22023b1f6755b31647e055de09f6": {
       "targetLanguage": "zh-CN",
@@ -20,17 +75,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "AI代理在尝试扫描DN42时使其操作者破产",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:25:28.836Z"
-    },
-    "eb3de89bb6893764c145d5b8a760ce05c68749950174464d1315b646ca666c62": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7fc8f2e35a0e138d31ab9c4d4099a3f7486f25ddc3752d7de193c80fbddd5524",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "设备时钟生成（2025年）",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T08:25:28.836Z"
     },
@@ -78,17 +122,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T03:53:08.974Z"
     },
-    "6fd8806e2d8569f0f10dcb11d4abf29187699393f3c68583049496861212182a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ecd3b7fb5f9cdb33fb833cdf74802cc049f7df9b449e08ebc0f17eb400c5bd48",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "一种从空气中收集饮用水的夹克",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:08.974Z"
-    },
     "a6f7c64a2a6b18855b2a6297f585d531d569c533a120b4c4a5c532b16fe295bd": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -100,38 +133,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-11T23:21:11.391Z"
     },
-    "e74ac931456c490be2de864d83783ca3ddc56c5779a5773213af315d80c8236c": {
+    "beae002bfe61f2c6315e74ce041356e550a1bc245ce4929f19b6c505b9a5abdd": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "3f315936d0131acca3c0c154e47a9651beef55ca68a94c7930a191ae4ffc1c09",
+      "sourceHash": "4cdc9222a752b3333ff021c6df7d1ab3f9dfcc6ed015632b2c43be7a4c83e72e",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "寻找最佳分词器",
+      "translated": "尝试解决复杂问题",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:25:28.836Z"
-    },
-    "121d0321c62f1b587aa8f05f1dd845e3962a7fadbd1a4123b8c74b9887423c5d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b81422b14d4e7cb431d9b76b0fdd897198c6016006635bfe2644cbbf1b71ea05",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "苹果没有革新电源供应，新晶体管做到了（2012）",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T23:21:11.391Z"
-    },
-    "01644eb51d7c8fce5f9ce4c7a71f0b235390c319f650681d8b83f139fbf60045": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f2c61224de7ae3740d6bd472643ee31d1d97c470e800c26a372cd41cdc3d7b67",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "WikiLambda 终极版",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:08.974Z"
+      "createdAt": "2026-06-12T12:19:05.847Z"
     },
     "0a3e798afaae0341f55048da38e4796f86f29f23aa13155717c3c60a7e98c2ce": {
       "targetLanguage": "zh-CN",
@@ -143,17 +154,6 @@
       "translated": "软件是由提交之间的工作构成的",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T03:53:08.974Z"
-    },
-    "d33b6ab0494ab082e51b9a201b03c2aad4699eb0a9fa39301e530d740d32d883": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a7ac54cd8bd9aa89305bc53fbc28f0c24cd3d436e7225a06f3f4a630dc0b551e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Waymo Premier",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T18:12:48.253Z"
     },
     "723046a453f9817e940fa167730c5c13f064623f84dce9a34cd3442615b42de9": {
       "targetLanguage": "zh-CN",
@@ -232,16 +232,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T03:53:08.974Z"
     },
-    "e7ff2acda6297a88c3516e7ab4eea957bba3a14efab38f2bd3c9de54b2f26492": {
+    "1aee54e49bfc062ddfc61d596a9265baecaf7c980d8e01161392c5ce207e3194": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "910f9dd4211234698d43e6f9a499265c114600054a18d05d420e3d5e4a435218",
+      "sourceHash": "15dceb662de1ddda2bd085ce2284d74988ebdb7bc7440413cb863cb5fb816a49",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "软件生产性基础设施的公共资源，由资本并为了资本",
+      "translated": "从零开始制作一个复古LLM",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:25:28.836Z"
+      "createdAt": "2026-06-12T12:19:05.847Z"
     },
     "ceafd1ef286d7fc0bd09bc0fe7b0d44998fad970dec0b19c09c9d1569cf97512": {
       "targetLanguage": "zh-CN",
@@ -276,16 +276,148 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T08:25:28.836Z"
     },
-    "df6d4f51291e42cb06f6da5593d429ec496e73dba6420aecca81f6d0cf7a016a": {
+    "138940c4b3d4997c634dcb2a89e41117321430687b9f7cd0ad8f6ae1b6f46da8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "26d246a103df3593cc6fc75aa5fc2b0ab054abb80f48a7611707265e162e16f3",
+      "sourceHash": "33960c0216b509f596a348ed6db9deafd0d208bf881122931d7a6b2da2954cee",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "德黑兰表示“尚未最终确定”，此前特朗普声称结束伊朗战争的协议即将达成",
+      "translated": "加斯利在摩纳哥站第三名因上诉后恢复",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:26:00.662Z"
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "25903fb7b53037718695461a8aee6fe5b4b61d47dac976b0588d47a7c4d75bce": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2585f6199603c00e5de452164d409a2094cf6328e838545824aab52774fbe384",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "北爱尔兰骚乱中已有19人被捕，房屋遭纵火袭击",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "a426cf72cca8565a657b65ca4311a25c42f7f6d296ba6b78fe467c195738d7f2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4e6acfc5998e8e9dab1dd5d2b49e4ca3fd4d441130377869f1441ede0103687a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "唐纳森否认会见性侵指控者以'扼杀'指控",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "e00524a983e5121e0af3a45ae42b7e0956b7b75c68f55332d467aadd3d473e6f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "773a1e331d982e43e28bf9d3a325fbbdeed0945340560ca3780ac52a1bcffa99",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "威廉姆森在与英格兰的系列赛中结束新西兰生涯",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "d13bc0f4482cb83626a4e66311adbbb084dba81306cb865ed04a6831d1369428": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2c142e9d38087d15d1c37305303ddba502f97d4e68b1c906dd1c483eeeaeb04b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "部长们希望到2035年60%的儿童步行或骑自行车上学",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "3784fb3ea9d03506743b48a3e8ea5b14c8daab215e2624ed1bf3ff10acf43535": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f810ae035a85a077d47f18549288707f1ce9d2b3c437b53e63eab8acc5253794",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "泰勒·斯威夫特含泪发表21分钟演讲，入选歌曲作者名人堂",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "bc46c714d0a51ed642c2eb86d7beb2257c9a9b9de521cd31288c3350c438c329": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "99b2bcba7f1cecd0a5934e9fc989e786fb025a67e5dd03c34f21297b33392f93",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "埃隆·马斯克的SpaceX在创纪录的股市首秀前筹集750亿美元",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T03:53:22.190Z"
+    },
+    "b1b51ac92b96da86393227aefd8d06de61726fed743852f87e42ad3047367899": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6973d9c31abf4ad2a440d361f01c6b2a05ff02a57096515bca27207c10ebf7c2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "英国表示可能阻止向英国钢铁所有者支付款项",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "da02127fd62a34d63397f775ffd45708e7964c962a6c9a7e05af3ada79aecf48": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9dc5f07c2962b0fd54f1a1023c03114689d6b9456a475d86b2a83926ab064c53",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "南非因世界杯失利遭非洲球迷嘲讽",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "bd46e393f521f2f75a52c9565b3b5148b64b62a15124d88df537914d26881605": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1f017142098258a4b5340dc8c2c91445f8ec0f45bea922933b8ab690571c89fd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "沃特福德名宿杰基特去世，享年64岁",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "d0be10f5ad85143dcd9178c9bbe047852a88183893a86e195f76490e830da773": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f36f3bfd60cad2cca2b8debab6d42820295b07e8f24fb64505b3f2a9cf439da5",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "艺术界的伟大创新者，其生动画作使他家喻户晓",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "fb4692f0f094f00a31c9b6777d5ea68c89029e236c12e1352cdb791b0eed060b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "43ec39250d9da0e323acb5f113112d5698c229d560736a3a890f3c4afdbc8fb4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "体验世界杯的新方式——仅在BBC体育",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
+    },
+    "f917a9fca121fdf478a0dadb139f214d2304d27dbe79b082533bb54994d74e99": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "35734e1b2e5e532119acd618f3c0d5e12a1a777b1009bfc774711acb167a3a3c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "观看：关于SpaceX股市首秀需要了解的三件事",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:23.810Z"
     },
     "f3cb5dfed957106a11edc08b95dd6b7566a25965a1372ca5faf24845432b6f50": {
       "targetLanguage": "zh-CN",
@@ -298,49 +430,49 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T08:26:00.662Z"
     },
-    "bac9d953d64497cc67a2cc0fb1424010c8901eeaff66b17bc2db08adf1f45d5f": {
+    "4779c54c03148c447fcbce0f653661bfeb1f54525b93917fd7ff16f069c549b5": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "9255b0a1b9b4a807c7417cfc91947873b3bcede649299c9072914ee97137ae07",
+      "sourceHash": "0a2fe6cba14803b72bc40e8cb20cfaedb1aa1bd71bfb261b3e66b22c5cde575e",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "诺瓦克抗议活动发生暴力事件后，又有一名男子被指控",
+      "translated": "温暖天气周末回归但热浪可能性减小",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:26:00.662Z"
+      "createdAt": "2026-06-12T12:19:23.810Z"
     },
-    "d6af9d1c7e4376aed2aca22cdda3f3fdb70da548b7e17004707cc540daf7db0e": {
+    "985a1e5dffb5fb08e2010c3e9b5a972cca566dd2e80295649083c69f92c7a0b1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "1bb0503f3655a7c5706cad7dc3f9b875687fea047c90459746d838a84a1733e3",
+      "sourceHash": "763910bd4a8bcf3fadbd16ab99f46affee1d5a2ecb0421520ea10ca1712a3179",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "英国经济萎缩，伊朗战争影响显现",
+      "translated": "波多黎各人如何看待关于他们故乡的爆红歌曲？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:26:00.662Z"
+      "createdAt": "2026-06-12T12:19:23.810Z"
     },
-    "6f962069ff18ca5c3b0c9ffa1186f7b12cdaca0bdde15e4203da0f629c82cc70": {
+    "784865af711628e22567f864471de2ebd32dd204e77ee0758f964b99e4008ea8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "76ad3370ae274a3be30a0d55a219bd4ce88b1daa852a3beb11438963d4350557",
+      "sourceHash": "97cb534b0961aa054a49f8dc227116bba413d98b6fdaa47a925321d6d0871e86",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "我们需要感受到为英格兰踢球的爱——贝林厄姆",
+      "translated": "我们的儿子在世界杯上代表两个不同国家出战",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:26:00.662Z"
+      "createdAt": "2026-06-12T12:19:23.810Z"
     },
-    "58666a10afa57c2a4dc608b166eb9bc042e58d7852890cbec91a01ba9d0f672d": {
+    "698b87e95e0de5ffdbfe9316bd36b9270bf3ce7ac78730201c92ca0f1a303105": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "8efacd8ca761a99968b20bb40203d2c7afc6bad9707576baae3b0741b8192021",
+      "sourceHash": "8e976eede115131c092489dc6b3faf7ae4109bab2ca0698fc5ed5dfac68c0845",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "凯西男爵夫人告诉BBC，性诱骗受害者被起诉，而儿童仍未被充分保护",
+      "translated": "BBC被告知，遭遇诱骗的幸存者留下犯罪记录仍未得到妥善处理",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:26:00.662Z"
+      "createdAt": "2026-06-12T12:19:23.810Z"
     },
     "10f61bd77f893597cbb44b01f12dbe1faf1191acb7f742f6f383b7acf27139ed": {
       "targetLanguage": "zh-CN",
@@ -364,17 +496,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T08:26:00.662Z"
     },
-    "42625c0d9e8445ae2825fa741c1e4027a9ed95b2b9eb5740990af8807b016e44": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e068e6d6775eb3d6b79d2d503d5c6aa7e5f6049f4d62825e2be4df2414a3bfeb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "报纸：'希利炸掉斯塔默'和'比赛开始！'",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
     "8b847f4ddbd8ed383999d9919de19fc02d383c1894812c9fe9ef2a5e02bdb143": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -386,49 +507,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T08:26:00.662Z"
     },
-    "8fc01e79f6c8f6cf2b0d17951b5437d8a0b68face54e3aeb77a5e18b08db5241": {
+    "86a2082d5e0fd992af26531573b25d1af213723837269cc159c18a2fae703269": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "06129983ce930666933dcbd63214a475ecc2109d4638c5365ad8cd2b3fa84aff",
+      "sourceHash": "ca8c6bf69f578ecb9ba01b4f803c09e125ac6f9f9fd5b2b1692aa350f556c817",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "'有世界杯在举行？'美国人对此赛事感到兴奋吗？",
+      "translated": "'没人知道比赛在进行'——NBA总决赛助长美国对世界杯的冷漠态度",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:26:00.662Z"
-    },
-    "0458fb1163fc5db5978fe2d92a81a5c056bf46cb1b215749579f5cbe283b2e8c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "cda9eea7df1f8ce412bfb35fe1a9572257087f3539b3e1c1ceda411bc858254e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "“没人知道它在进行”——NBA总决赛加剧美国对世界杯的冷漠",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:26:00.662Z"
-    },
-    "2149228c146d7270a75996c72b13fe21a900d247edd7328ef38bf079dc21e43b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e9cc8f7399fd0a1488711b3236d6ec0ff04258577431b2d5b1290fa52252bff4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "爱莉安娜·格兰德告诉白宫：不要使用我的音乐",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
-    "12133ce34f7ac5e31ea4535b1c909a3d99607f0aca3a4e823625912ee9096fb1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1fdf43385861c6845dc83ee3c98c6f6b01aac28ac72b583b930469806f0f45b7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "克里斯·梅森：工党高层再次暗流涌动",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
+      "createdAt": "2026-06-12T12:19:23.810Z"
     },
     "50e5ae1da5edef9e07dd91f97bbe7e1a6ed40b8b41d218b5b3e624dc426121aa": {
       "targetLanguage": "zh-CN",
@@ -452,104 +540,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T08:26:00.662Z"
     },
-    "1320ab44e9d9d178b6105da3ba9b2a99cbfd9f327d2c8ffd5c16c32b1d749630": {
+    "f7e96848a6cf37ba6e3d9f49443ec8c4daea2b20e0ed49d07143752b84d58929": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "ede8f22873af6ce04474bcc21e92927d7a7d43d2309ca610bd23933067a15722",
+      "sourceHash": "800904160b75062f7ccc333ee2fe526ad32f99094000069b782529939020ad9d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "从濒临死亡到世界杯英雄——希门尼斯为墨西哥流泪",
+      "translated": "母亲棺材里的陌生男子：印度航空坠机一年后，家属仍在等待答案",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
-    "b16a2112bb0e51a27f34c4c4a567787a635309d3732b25a4db8c94da0c18a549": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "094f0838262503bed35b6ecbb405638936147e635514c2e89c598bd2b23d38b4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "世界杯在墨西哥开幕，有夏奇拉、舞蹈和抗议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
-    "420a90e622f20164cdefd119039a98a20c88a58d7fb1e64dcb7caf0808e439a8": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f3a4be4ff3bba24c55098c1406f93ef3a1daa0b5be861c1c694c9cc0f7b05808",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "麦克托米奈作为预防措施在波士顿单独旅行",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T08:26:00.662Z"
-    },
-    "3a200b5fe7bcb5740ed444b3325a095a7807c8d0211f7a7399088cf1854db1ea": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "25b69e3a64a51ba15786b0771f457cd841ff571076f53f75023566cae5ac5510",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "卫星图像显示，自战争开始以来，已有超过50个伊朗军事基地在美国袭击中受损",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
-    "7ddcb425488ae03b46f934458bc0e3a1f970286f58aea9190f639a0398e9df78": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e89c169ca6771c708b3a4c5ffa636a1ef7aeec2783b83ff66a419522b232231c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "印度航空空难家属长达一年的受害者遗体辨认斗争",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
-    "c8d1c28c39b94125c01e7a73cba41ac442dc1c4f9c38bfe9da3d3c5bf6369b93": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "8028c42825dfb69d1ab114b1f75b7472cf7b0828e7b9af43704b28add8510a56",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "“我从未这么好过”——革命性的免疫重置使红斑狼疮缓解",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
-    "bc46c714d0a51ed642c2eb86d7beb2257c9a9b9de521cd31288c3350c438c329": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "99b2bcba7f1cecd0a5934e9fc989e786fb025a67e5dd03c34f21297b33392f93",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "埃隆·马斯克的SpaceX在创纪录的股市首秀前筹集750亿美元",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
-    "3b1d6e19159e9c670f1b7090195826610080d7d41289ef2ac40be031e799a8ab": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "cb63f5ab57b05055353cca9069f0808b917c389260db59c9629461dd0694d41e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "为什么经济因素使其成为有史以来最疯狂的世界杯",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:22.190Z"
-    },
-    "d108d53120ac93c55cd3ef812bcc003a8adefcae3f22ec078c0d60f44c8194ed": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f0112128a0745213519d715a4a705c04e37f065bf9e7e4a4fe5007b3b15ad0b9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "“我花大学储蓄修牙”——NHS牙医短缺代价高昂",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T23:21:46.782Z"
+      "createdAt": "2026-06-12T12:19:23.810Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2938,6 +2938,105 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
+    "91ca726b604a3dbfd16f9131719898517facc4f13889289f19a7413a9fb7c886": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ae1b09091128badd752a3e2fb0aae33c4c560d8a9ae231a461f5584144a98522",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "伊朗战争实时更新：紧张平静笼罩中东，特朗普再次声称协议接近达成",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:33.131Z"
+    },
+    "eb299f9be524f353a680d85ad78a39a849f6d971d2446dea6d68a610a21e3eaf": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c5574ec360db72844b780142fc4cadce62a9a45a8d567902d4e0446d43eefaac",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "泰国公主、王位第二顺位继承人帕公主去世，享年47岁",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T03:53:36.184Z"
+    },
+    "e385256357e6882f85c18975ad65873486e1ee7fb1ed91b9da00db51a3c735eb": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d9f96140b2c6e454a220d826956a94528b036470216bd981a70690ed630e4303",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "用iPhone和传真机，大卫·霍克尼拥抱科技",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:33.131Z"
+    },
+    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "这是最新消息。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T22:03:51.783Z"
+    },
+    "ca041a4810cb07244b6c949d241ea91eaefc9975455588f6b3f47b146caeb00a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2db67dda7219194c0b86d8f932ea4f46976ff1fc82fb42e6b2396790da321a7f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "带上孩子吃点烧烤：乌克兰无人机比赛的一天",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:33.131Z"
+    },
+    "f941f24849909a78b9f5f2bff5dd066ebc7d64ac354d97a165fb2c1d6382bf50": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "12e8351f08f7f3415cba28299404f2cf8cd36dc26ef1a9d86da269914337884a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "墨西哥城世界杯门票价格对大多数球迷来说太贵",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:33.131Z"
+    },
+    "5ea9d1d45bd06bc1fd4ab0c4a9c7788665b27d6746d9c25d38e46d970b112ee6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8129026b04a871db46c215f0896e5d2f698286417822a31e435c626012540c8b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "既非和平也非战争：伊朗冲突让世界陷入危险僵局",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:33.131Z"
+    },
+    "71737f3c4df816dcb5381cc7a353a2b05a17a940210dce5e5b000026a9db5c05": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8091f2174c039ebb72bad517b007a41e7ff715d6f4cedcac5b766ba141cec69a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "全球儿童艺术收藏可能失去其场馆",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:19:33.131Z"
+    },
+    "c6fd78ff900a4a0c7b2de5d43867561c2d7cdfc252274b54295ff83a8cf90a03": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "516c975c33404717f78f1af8801371845ce186d17a7ccf9c3b35f2a6333fceb6",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "中国逮捕了一位研究缅甸政治的美国学者",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T03:53:36.184Z"
+    },
     "11ab770f6c99f02050276f2b74fadcc1bd1d4d799e92e87118ef679ea054f591": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2971,28 +3070,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-11T05:28:47.042Z"
     },
-    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "这是最新消息。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T22:03:51.783Z"
-    },
-    "c6fd78ff900a4a0c7b2de5d43867561c2d7cdfc252274b54295ff83a8cf90a03": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "516c975c33404717f78f1af8801371845ce186d17a7ccf9c3b35f2a6333fceb6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "中国逮捕了一位研究缅甸政治的美国学者",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:36.184Z"
-    },
     "af7dc0e4f6435b8b1f5f57b121ec56b323d714a09ebbe564823b22861e65806b": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3023,17 +3100,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "无人机飞越朝鲜是前韩国总统戒严阴谋的一部分",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:36.184Z"
-    },
-    "eb299f9be524f353a680d85ad78a39a849f6d971d2446dea6d68a610a21e3eaf": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c5574ec360db72844b780142fc4cadce62a9a45a8d567902d4e0446d43eefaac",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "泰国公主、王位第二顺位继承人帕公主去世，享年47岁",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T03:53:36.184Z"
     },
@@ -3135,83 +3201,6 @@
       "translated": "美国阻止佛罗里达州Vanguard Energy向古巴供应燃料的交易",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-11T21:20:30.163Z"
-    },
-    "560a528d152feff6b777aaa366652176537bb0f9f882b9fd0f815301d093cb2c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "28c07d5ea08b57728184656cce617d8fb78377aef0ac92e79c6b815376204c90",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "数千人在墨西哥城世界杯开幕式外抗议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T23:22:03.826Z"
-    },
-    "f4e900c21e7acaf974eb0181ed261f6da0947e7cc7dc589f0f6bc5556b7a5c3f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fcb9658387b7aad721c00a899ca1d49e71524477c2cb2026bf3b38f73f8a8a2a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伊朗对海湾国家的攻击凸显了目标国家对美国的依赖",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T18:13:15.574Z"
-    },
-    "525d9453bd24eb9e7739f2eb6e2a3dd6407b53ce881d5921bcafa2dfb08f430d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6d1249fe5a98b8d12b82fa10ba4814c7f18ac2a2db454607836fefc185d5ed1d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英国：仇恨攻击、右翼煽动和骚乱形成暴力循环",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T18:13:15.574Z"
-    },
-    "616ca71aeca0dfcd265c1e20895aec8e6ee9b9e9c6343c1e08887353463f8cad": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b78575562a907e4754c584c3c9d806b760c53fd43c02048c842d81a488b226a2",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "联合国称，巴基斯坦边境空袭造成13名阿富汗平民死亡",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T21:20:30.163Z"
-    },
-    "6b45ffb174242e33fcdef91159056ccd4739cfadf41e9a731d4ba29b68c27172": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6a8c50d5589542600002ed54bc4cafa2bb44f7d49d41161e04bfb05e5cd90c51",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "以色列将迅速扩大西岸定居点",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T18:13:15.574Z"
-    },
-    "9e72f4fef808edbfe01f07a9dbd91b130c0bef803ecd19e0ef05c436deba767d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3f26a9ed286461735aa15c926c78985b8ae819475cf5ae9193715d71d76654de",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "科学家测量地球庞大的地下真菌网络",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T18:13:15.574Z"
-    },
-    "d8b83b78e05d2149e87aec53a86ff1700121e80e1d9f7198c5e6243deb25b3fc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9c5f9ee09d679ab676b6010c0fab8467bd4edc17810d7ae20202f0ccc08f6ff7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "内塔尼亚胡助手因文件泄露被指控危害以色列安全",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T18:13:15.574Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
@@ -3532,6 +3521,204 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:41:15.849Z"
     },
+    "5db8b8289498c3179165ceaffaecd9a13121f736b499689b2fc744f2e5850acd": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "bea77aca242f8fa73e8008883dbf8dab34c12f4e9c0aee2178c54849d06e847d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Lit Hub每日：2026年6月12日",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "7e3fc60ba519345b9159047fd4ca4e1367457d561a606175929b2e4273150242": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "83b592f5bdf15ef2fa291c9a8155beb3dd253b88d6b6ffb1f6b4066e9d122de1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "如果识字率在下降，为什么书店却在蓬勃发展？“书店正在填补一个社会空白。”｜ Lit Hub书店 韩国诗人及其译者将诗集与K-pop专辑配对。｜ Lit Hub翻译 你知道吗，“五月花”清教徒",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "fc0ca7ab9133f534f46f3d25e5c051d6bce69709b956bf4defc085db43e34881": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a8f355e1e2c50f7382472889368acba18924ad61d36d04a10150c2421ce4a6a3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "谁是“五月花”清教徒？（你知道吗，他们来自一个叫“斯库比”的小镇？）",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "1caa5f01f3a66daea22f39686b4e24b9861b31fe69b80a19796b55b2cff5932c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "9d4c131ff10a3b8f57a3420a88f2bd9efbf9852a57a4e5e7aace4689cba66f46",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "“五月花”朝圣者相信他们是寻求自由的人，摆脱了数个世纪的束缚。威廉·布拉德福德，一位“五月花”乘客，曾长期担任普利茅斯总督，他在《普利茅斯种植园史》中描述了宗教不宽容所造成的压迫，这种压迫已经持续了",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "c76daf3f97e7cdfb6b4f9350c0dc907f0b8c1916baec7d59fdf9770562860ea1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "613b4e525e434b1d91e02726909ff80621027719928b20eaa3b550c4f6c5d095",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "识字率下降时期的书店繁荣",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "40a499c182d703c6c33d0768247cfba3d1ce6adb8b2aee1460c1add18a6f596a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "52316d6d2dd3ca37accfcdf39b0221e403508b58951eae4133c1974aac4147c9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我当时正在当地独立书店Chaucer's Books排队，突然意识到队伍比平时长。这种情况已经频繁到让我不再惊讶——Chaucer's书店的生意简直势不可挡。但刚刚",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "7135f62b2348177715aa41eae14479a92467ae5e3e7a8468837f9ac5585ebca5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "18eaf1bdda22cb69daf34d6f920d2627daa6b644979b36dd9211c5907a9024fd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "古代作家对蜜蜂的理解",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "8a45177105c6cefe0fae1f0e013563beb7ba9b2ebe82ed933d89659777db4a84": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "092b326229132bb5492c25344e780d0e9d53aacc11d7a9ce87ff436d737a1922",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "布拉格正值春天，我写作时书桌上铺满了花粉。早晨的蜜蜂在我的窗前徘徊，寻找材料。我最近正在翻译维吉尔的《农事诗》第四卷，该卷几乎完全致力于",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "3ab476071a11556e8a9acedebe635cd61ad62221cb7afd8c9d13e19ba4fe4e04": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b3cb4b7a4224c5110d064da9f82fdc28c2c12ca6b7c12b05700e5507c92720d2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "接下来读什么？以下是本周评价最好的书籍",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "55f306fffa3f0bda9c8bc0887bbd2e00244bbf2d7c42a729c8a3d528c9b0ea35": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "8da0cc373650331b76b54b32c0277c375414e8ba6cf1d902b022bcda07bb4916",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "德布·奥林·昂弗斯的《地球7》、安德烈亚·武尔夫的《旅行者》和戴夫·艾格斯的《Contrapposto》都位列本周评价最好的书籍。由Book Marks（Lit Hub的书评平台）提供。* 小说 1.《地球7》德布·奥林·昂弗斯著（Graywolf）6",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "275cab264f8db38d86e8a48d89ea14e4ae708cfc9445e208842990bc81c25104": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6d7ea661732dca2f06e7422b9e4464e6d04657835dc9a83f09b6eaf19d667941",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "通过音乐阅读韩国诗歌",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "37120af19320167fb20a629f63a919f513bb472211c7bed1c6a05cf77737fda9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "195d1f1a0e0303d98299e1a78df5ef6cb75f4054bc139d38c7503928fafbf44a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "阅读翻译诗歌常常会增强对难以言说之处的感知，如节奏、语调、氛围，诗歌给人的感觉和它所说的内容同等重要。这些是我们用身体感知到的东西，在我们",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "49135de09202d732ffcbdb833c2e6db7edfe05f121985f1bf45f8a8629706dff": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8a4ea963b5869cc4bb6a0b5e55dc387fc2931bca50ade90644be85611dfcee27",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在判决和声音之间，从法官到作家",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "2153eade0e407b0edb73ef46d0d268e5bef3a79504c628766bcddae6c11c7835": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "a78302cbae212e1f93541e6b939f2f36e9e1667c934e17ef56876cd87f2e89b2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "1989年，我在丹佛县法院任职的第二年，开始晚上写作关于父亲生命最后一周的事——试图理解在我跨种族婚姻后他缺席的原因。他怎么能让我离开",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "89122b88c19c9e34c9ed0c45568e22d6c10113d2588da96ab0d4de82c4afafd1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "505fc589765605ac1eef2a9a75a8a0fdc539452a499dd444c72442e3c7affdba",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "克莱尔·富勒谈从雕塑中汲取写作经验",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "2126394adaa73072dc8c6c1fddf49179188272ce1bcbbea0b7a20cbcafd02b4d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "b82e86570f0197850df1ff64c65f9479ef63bce01cf0c975a7bcb55c2e516f16",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "本文最初发表于Lit Hub的《写作技巧》通讯——点击此处订阅。我从十六岁开始就从事雕塑和绘画，但四十岁时开始写短篇小说和长篇小说后，我所有的雕塑欲望都消失了。我仍然保留着我的凿子，",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "f984edaf8b711463b6b16826d0ec150c00b3689c4f22c45042f4fc36fb48a8fd": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b72ade94f177c8a358ab97b8e0ab0d3e3f112aba977fa505c874bb21081f8ee1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "“权威”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
+    "cce2d0553697d57ede6fefd16b9cfb86fc37f0280a13814c72c0b580f1915bb0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "f64064129e048c5624c624d96344347b74e6ad00ed8fc70ec5652f6e9e734e32",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "自从他带走他的爱人以来，已经过去了七小时零三十五天。约瑟芬知道世界上挤满了像她一样的人，她的处境从根本上说是平凡的，但她仍然感到一种令人疲惫的、新奇的孤独。什么",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T12:20:03.661Z"
+    },
     "44f5f6dbc473cb1022b56dfc74dd50ced3f5f2b29f61c4c098fa7be6fcfed005": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3553,204 +3740,6 @@
       "translated": "今天，英国女性奖信托基金宣布了2026年女性小说奖的得主，该奖项“倡导女性写作中的卓越、原创性和可读性”，每年颁发给用英文撰写并出版的最佳小说。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-11T21:20:38.668Z"
-    },
-    "83ec1bef9478aff1efd409c61437235c567748bef2bc27455f287a87e4fb640e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "236e6931668a0684d8443f1c92e12c031d132f2c400af21db563a3ee95cba5bb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Lit Hub 每日: 2026年6月11日",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T14:36:50.983Z"
-    },
-    "ad9c570d9ca8205a9977981ee856d3e52fd1ee270e4f26854ae54d17164a93e9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "89b814b9a72c76795ee332600ca9998c37a1357f6fb4dc971dd022df93819fd4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我们的 Best of the Best Books Reading Challenge 第二轮今天开始，包含有史以来最棒的50部夏季小说！​&#124; Lit Hub Thomas Levenson 反驳反疫苗者的论点：&#8220;微生物病原体不参与人类的哲学辩论——一旦它们",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T14:36:50.983Z"
-    },
-    "3ff86d87e025f402fb25777f6eb133819b34afab93534a78c9467a07c5690c34": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6d309b568c935d751d8eccaf40dace32c4025b8ffe8a0873042baf3584554f25",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Maris Kreizman的2026年迄今最佳书籍",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "e0e3ef635b758ec62f8790c6ef55563ecd9cc43ccc94edae9927c21a3d74300e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "bdca65b4578be7e1156b6d6b11cfbef1ec95028daeed8d2bb9c80a6f8c3ec0d4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我不是傻瓜。我知道书单并非最严谨的书籍批评形式，但也知道它们能吸引大量点击。考虑到我在这专栏里花大量时间抱怨",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "52b2d307b78dc4c5069a6f59cc174047dd946af161e23e00b2739053db2ac63a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "745e901fb415aa8e8eea425f3f76262d63d3d2f72dc1033cb4508cd9d17fa1a9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "多物种地图的时代终于到来了吗？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "6de1de2ee0a837d9bfe272edf2107fd6e243278ba0fb059de02582794611ccef": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "8f67bbcd4b201d9bc2570eed60eec90873f91ff4007da14a0d55bb5000d9adca",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "想象一下，一名大学生暑假结束返校，开始新学期。去上第一节课时，她打开手机上的校园地图，好奇地发现",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "d8c17c661e41679c1d1044dab7b74dcd76a98dfb1f726b52a531f356c15876d0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "52ddb8fe0f46db4bfe834dbcfe400c76ed7b56001bcd90ddd5c39570a51cb23c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Andrea Wulf 思考一位18世纪博物学家的罕见人性",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "4209825f6c7805819571d7870e916ed409889e1f92ad6157b5f3da28d228b7fc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "bc291ada4e314ee0c76d417f973d59178b8460684760dcd9062677465e229974",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "一声枪响划破了宁静。随后是沉默，接着是一阵骚动。一名男子朝他们跑来，但一看到乔治·福斯特和他的同伴就转身躲进了灌木丛。其他岛民他们",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "5a3b75278078cbb58c3266047cb810c8b9c2d2a7696fef6b0dafbd29b8258e16": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0088b5c294058aa36482ac34ff2101d916e6d028271d089fce7ab8dc06d4394e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "如何反驳反疫苗者（以及为什么小罗伯特·肯尼迪对我们所有人都是危险）",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "c94426d942ac48e593d831af45bae0b92cb3cfc64079b465cf61f8d2df36ebf1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "f24278617bf7e383bdd0cb2e55d11535879d17223e61b13983db3dc2985d4c32",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我们不知道他们的名字。而且几乎可以肯定永远不会知道。但从2022年2月11日开始，来自美国各地的108名健康成年人做出了一项无私的慷慨之举。12人率先行动。他们是自愿的试验品",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "46ec8ff84bffb8dd2684dfccbac5d4a979af403ef2b19d52c3b348808808a4dc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d936bc9bfd6a632b81c34ff0bdb91bd6768891085009eaf1551082d7d57f3247",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "史上最伟大的50部夏季小说",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "99f5b6bb9ab64fd148b9429b3ddc4c987a6ce8f372f9b588c3c266d10ad33eef": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "f3b1a3475c644c6f0f7e34714f24776588b96e304906dc97ff870e45c4efbf83",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我们更新了这个列表，作为“最佳中的最佳书籍阅读挑战”的一部分！立即加入挑战！什么是夏季小说？它可能设定在某个夏天（一个命运的夏天或其他），也可能",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "d7dbdd15b1ec562804c09e100c28eca8c2bd8df545111dfddb0c91e0a0be509a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1f7725918f2a7e5e3a3d048f4a7f599ae0a1920933c4efd300095d167fa56843",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本周你需要阅读的5篇书评",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "1cb9741c3f798f0108de4104c69c223eef366f8eb1410ff7975e3078472a5901": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "c4d3bfc89b77003754223ab61941ff4108cadb86cdfba8211764952f0aa780e4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本周我们精彩纷呈的评论包括：Scaachi Khol评Jill Biden的《东翼视角》、Lincoln Michel评Deb Olin Unferth的《地球7》、Michael Faber评M. John Harrison的《万物终结》、William T. Vollmann评",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "289168793ce9c300980b98c0ab7fa2122833980b62d2516c8338105493c10592": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "8074191201da405e00ecaecd3d4a4c131a15bdf825cb2efcc307e222cc13804f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我以为我没什么可写的。然后我养了一条狗。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "96877a09fedcaa6737adf9c0fa30bf4cd9621c3d47ce76d0682d24cfb8188b6e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "dc3ab487b54487931c723fd867ac18df38325cd7b78e5f6394fdb28fbf25b192",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在胁迫下接受的合同通常被视为可撤销的。我的妻子海伦是一名律师，所以她比任何人都更明白这一点，然而当她说服我在多年的坚决拒绝后同意养一只小狗时",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "131f8b18d0303717754e23aca84412649a5935c6efab79beea73215ec8670ad2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "83b310d558c1b01eb1c4b5a315441de35531b5a92dd3ec36dcfde2ac332f058b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "介绍Lost Kite Editions，这家独立出版社将“反叛”作品带到明尼阿波利斯。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
-    },
-    "68f68058f48df7d4b81f31111dbca96356e87500a55806e0a8833f64a2a02a08": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "1a8633c99a93e16520c1fc7a66396a85fb03968e9fb810d55ae96dd2cf1df85b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "欢呼吧，朋友们！伟大的明尼阿波利斯市将迎来一家新的独立出版社。Lost Kite Editions（LKE）是一家新的非营利出版商，专注于诗歌和文学散文。该出版社旨在支持紧迫且反叛的写作。其",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T10:24:20.759Z"
     }
   }
 }
