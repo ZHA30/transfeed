@@ -1,6 +1,28 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "646cdfa6511a0f9013c4e549cc361d4358de6bf77d1d5d95a0d8243799b2cec3": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4618e57e935ba5bfb2da52482bfdfbab377638f13edad2dd50365f18d9bb6afa",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN: 幻觉两周 – 照片画廊",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:13.973Z"
+    },
+    "022bce04bc7611f4d1dcb5a2ceb1782fcd389b7d025b072fdb49c3da5545beaf": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fc6707015e2aad4559497a2802e0a35bda3f16da7506fbae8a623b4f76a87361",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Arch Linux 现在认为恶意软件事件已控制：超过1500个软件包",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:13.973Z"
+    },
     "d6c517749b85bf9417fb760569a65110b1bfaec9f91c80af73f14bf10686ccf6": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -31,17 +53,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "以色列公司BlackCore涉嫌干预纽约和苏格兰投票",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:27:52.829Z"
-    },
-    "d3fcd79871002993576d6eb4f237c74773bd164b624d0cd48dddbaa33daaf098": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "295af118670bf0ea559151e06f0cd69bc1b17af19d889d3a01abe270d262897d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Show HN: 让你的代理可视化你的gbrain和Obsidian的技能",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:27:52.829Z"
     },
@@ -144,17 +155,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:16.608Z"
     },
-    "0339110ac1684bec4416829799909879848058cbfd8931ba387f283fd000d11f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5d73ef6323533366b3d314530eba503c594c2ef2c7d02b4d8b0371700fe856e9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Palantir 在针对瑞士调查杂志的法律挑战中败诉",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:43.696Z"
-    },
     "0ccd5a23d23f8586b0cf9589cd926753812c5438088dac21679fca0fa1b356d7": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -243,17 +243,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:27:52.829Z"
     },
-    "5f9bf79fa851d5cc104c9c160c2051e34536576c86510e2c95186f0a0cab8d25": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "96eeac15bb3589412325c69c20f0a6bc7bab9f2a3f3d80a3978dfff4a914fdc9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在Ubuntu上使用爱普生Perfection V39 II扫描仪",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:27:52.829Z"
-    },
     "95e572028263b6ff05f8ec844c880a428ce5023d51c4241af09ad8ebf1c18f3c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -276,16 +265,104 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:16.608Z"
     },
-    "6097f1a2d9a2c12e1405673140b81fe489c5e12fb9618572ee310231f4692212": {
+    "35813668724cdb13764a17977fdd08ca53784f025da165ef62cb622f7af15ab9": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7e50912ee92400954007d942e19d548dc670cf9a4871a8d6cb16b40849716d8a",
+      "sourceHash": "28cb0ac99644c9c3f2ead686f817256d2063a2639129fec0a31e1d5de8783f72",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "14岁男孩在男子被刺死后被捕",
+      "translated": "在Rust中构建用户界面的现状",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:28:00.081Z"
+      "createdAt": "2026-06-13T12:25:13.973Z"
+    },
+    "2d3b2b660a90eaf678a485e52becb4930913a11ea2c1d9a2b2ed201e8ed2d95f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a7a78aeb6ba04ab597f52a89037dd298bd9d1c06ba6cca7f1967a2f6e73d0958",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "唐宁街的多米诺骨牌即将倒下吗？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:31.695Z"
+    },
+    "debe9e3020ea65a3cf9c78db325670e4fb69d249f49c46f06ee5ce7544f5f213": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8fe0b65d1e251317e3a4fbc3627df68db177ed09b095227410fef23480235c77",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "西汉姆联股东回应Sullivan指控并达成所有权协议",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:31.695Z"
+    },
+    "f174b0deabc0c3291ad3eca71083d6c2f0be55adb60469869b78cc8cfa0e8d54": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2d16a5cc78b56886a84089672ef633641d7642a2a112c4952ea823bb91214218",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "图片：皇家军队阅兵庆祝国王官方生日",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:31.695Z"
+    },
+    "b3132c83046187d870d59b73ff100c8c366fd0cbdf5ac29729b48ad59d9ab91c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3c7e3a6777b7a5b20c857f5cbec5095ac58b213ce03ab767b71c570bc0882324",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "瑞士将就限制人口至1000万的计划进行投票",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T23:16:42.190Z"
+    },
+    "bccf44f167e4dea95955e60509eef8af9b56fe2ef64e3299a99b863734c69c76": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6bb2eaf743641add3c09a0a7562ef26f87adc8e358526eab9ff4664c559d276c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "“帮派头目是足球爱好者”——海地踢球寄托和平希望",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:31.695Z"
+    },
+    "9c0fc5a425bc663adf045206a773d063835db4b00fc5679fc3e1329b44015bc7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "963d6b8e036703b0002bcc2d5e2b4b1eba9bb3fd32f3690dff5335a41c98a0bd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列对黎巴嫩发动空袭，官方媒体称伊朗声称与美协议接近达成",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:31.695Z"
+    },
+    "64f80c2493ceccf85fad90ad7868da2b74026430863e07ba88b58079857795b5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ebb311c9666f458cf37d0594e9aa4557de7bc111f4936349d66a0fea5b49062f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "警官被指控使用人工智能“制造证据”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:31.695Z"
+    },
+    "75b082452676c9f276b02266e183d9ad7334fdd496df9317a76994c881829416": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c33051e4d51ce70bb47bd7e5312248e93ad7b2de6521b7718263ead808430dca",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "14岁男孩是男子被杀案中的谋杀嫌疑人之一",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:31.695Z"
     },
     "e9c4d85951176d9b1ecfb62c9d452645f6a378a719ac8d1be0c21fd4ae194946": {
       "targetLanguage": "zh-CN",
@@ -353,17 +430,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:31.352Z"
     },
-    "ffac9a78daa2bd0f280a46d3199c26d3a860718104c6d781cc46c7485565b839": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "24925ac5ee5bf1619b400b1ce4cf3af04351a915ac33e5be7bf9eebfb61ad0d0",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "克里斯·梅森：斯塔默在国防开支争议后态度强硬",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:31.352Z"
-    },
     "7ed9dc61861f50506761c6d06f7198c77df9488d64ea86fad5288b645660647e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -374,6 +440,17 @@
       "translated": "店员因制服疑似偷培根者被解雇",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:28:00.081Z"
+    },
+    "9c1c21a6afef29484f3859502ffb47ff6a42416dd90abed313369d2571a85442": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1831b53d79ad2f53485a47c24cce03b1c3687aa7817552bd2125aa164df5ec18",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "2026年世界杯面临的成本与挑战",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:31.695Z"
     },
     "d92263246a317cd19241de608f6ad66bbab7b8477d59a54bd37bc72ebaacd7af": {
       "targetLanguage": "zh-CN",
@@ -408,17 +485,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:31.352Z"
     },
-    "ef5af365c4a197fa83dfedb0f4c5cbc2ad8321fef00de5279920d6cf2e41ca72": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9f67cb136e083a849d490e0c24ead3ff4061a8b8fb93d7ee22f87eb2eb096ccb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "特朗普称美国空袭击毙委内瑞拉阿拉瓜火车帮头目",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:28:00.081Z"
-    },
     "975fdb2ec7e594e13dbc5e9d21f2e4c21f29f1016a5dda614b86052485b3db90": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -429,17 +495,6 @@
       "translated": "Anthropic因美国政府安全担忧暂停新AI工具",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:28:00.081Z"
-    },
-    "fce823fc39d4e7d3b6db881492f06336f49246b1009254e59df1ec33d234ee3e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "285d2c6fb209fcd017572860369b43dd7d48099d97c218092781173610de43d3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "世界杯在美国开幕，凯蒂·佩里、Future和Tyla进行表演",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:31.352Z"
     },
     "ea8800c6e7e9e408ff98b64dbf3282341daed00c828c2aadc175a6df61999e54": {
       "targetLanguage": "zh-CN",
@@ -484,72 +539,6 @@
       "translated": "巴勒斯坦行动活动人士因工厂袭击被判入狱",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T19:04:53.597Z"
-    },
-    "ea04438859b180733c7b95148cb31978a6c4c142496e812be6d5d52938e1b300": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "926c8d233e42d5acd830d25414b8a03c52d1e23d7adc3bb50b0f5b4842f8314f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "大卫·霍克尼在同性恋仍属犯罪时描绘了一个‘和平的同性恋天堂’",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T03:37:52.098Z"
-    },
-    "a00e1c92b7c8b3ba339a7c1a4ed3974cec9b4a0d5f51569a549d740c709143a0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0d85c33b33f93e8153e9319d366095d41e44069b86dde59d6663a8e7eab806a9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "观看：特朗普为何不在世界杯现场？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T03:37:52.098Z"
-    },
-    "e5cd9782f65eb7b749fda96f5d1a493a9357511ba5b54108a42767a5d5edcdcf": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "4bacae8c62bd7443d1907fc73cf588a3fcde8f757f0e273f4ffd02fdcd647472",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伊朗称结束战斗的协议将导致霍尔木兹海峡重新开放",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:57.689Z"
-    },
-    "597c2cdb3ded3c90e04d4a07ad27164b8b3aeda22ebfb62e313331feb4abf8d6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c8dbbb8a80271b5fe5d0b4927ef5a6c4b18e07f4767e331ef0236cb83122e470",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "埃隆·马斯克跻身万亿富豪的惊人崛起——图解",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T03:37:52.098Z"
-    },
-    "b3132c83046187d870d59b73ff100c8c366fd0cbdf5ac29729b48ad59d9ab91c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3c7e3a6777b7a5b20c857f5cbec5095ac58b213ce03ab767b71c570bc0882324",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "瑞士将就限制人口至1000万的计划进行投票",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T23:16:42.190Z"
-    },
-    "1b1da27acb1f813ab5070939554d8c8c0e5769ddfcc451ba89c2a1de16f41b90": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "acb8a9f4480f75a43b3c6353cbb5febe625407f1e3d9cd27b35e5e440b3685c1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "贝尔法斯特民众因种族主义暴力连夜逃离家园",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T03:37:52.098Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2938,16 +2927,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
-    "a9b530a1902a8789932833d7f9ab1e3da5515765717ec63fd7da3dfa28240a21": {
+    "603a7f99d6530a3e3fb9fcba492c31b194c50197f4d4216560196a3ebf437636": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "1ef18ad4399dffc4279277d1e6ff130493369457718fe69d1b5adb50ed534bb0",
+      "sourceHash": "252ed7fca91ae764b52a0512b02807e5f094528feec8e1c3d6bfae7ed3b920e7",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "官员称停火协议似乎即将达成",
+      "translated": "伊朗战争实时更新：调解人称和平协议可能在24小时内敲定",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:36.536Z"
+      "createdAt": "2026-06-13T12:25:36.421Z"
+    },
+    "dbc3447df176de5e227b942815d6be33dd11702097e8bc40e80fdcdabbae0c90": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9ccc27a255fab3e1c42779a8a32aa7d1e3010aa28f46392fa601d59a61da97bd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "科学追求完美世界杯球场",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
     },
     "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
       "targetLanguage": "zh-CN",
@@ -2959,6 +2959,17 @@
       "translated": "这是最新消息。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T22:03:51.783Z"
+    },
+    "8555b5e22b35a1321042f17e94292cab80fd77dcbab7bed9899ec97858d2549c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3b8517ea52c7dd09c29fe14e3d979bf2615a381348b17fb2a99d2f3a9801ef45",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在加拿大银幕奖上，业界走出好莱坞的阴影",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
     },
     "c762be27192e49f8735b1c2babab9de0996713c7d6e45f96c3ab5503903d672a": {
       "targetLanguage": "zh-CN",
@@ -3015,17 +3026,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:28:10.091Z"
     },
-    "dbc3447df176de5e227b942815d6be33dd11702097e8bc40e80fdcdabbae0c90": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9ccc27a255fab3e1c42779a8a32aa7d1e3010aa28f46392fa601d59a61da97bd",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "科学追求完美世界杯球场",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:28:10.091Z"
-    },
     "8a65da90aa2881b499e475c8262e74b555a40cd7427ae9553dcce44a01426906": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3056,17 +3056,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "俄罗斯拥有丰富的弹道导弹。乌克兰缺乏阻止它们的方法。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:28:10.091Z"
-    },
-    "8555b5e22b35a1321042f17e94292cab80fd77dcbab7bed9899ec97858d2549c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3b8517ea52c7dd09c29fe14e3d979bf2615a381348b17fb2a99d2f3a9801ef45",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在加拿大银幕奖上，业界走出好莱坞的阴影",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:28:10.091Z"
     },
@@ -3113,17 +3102,6 @@
       "translated": "中国以间谍罪逮捕美国学者",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T16:17:59.449Z"
-    },
-    "f941f24849909a78b9f5f2bff5dd066ebc7d64ac354d97a165fb2c1d6382bf50": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "12e8351f08f7f3415cba28299404f2cf8cd36dc26ef1a9d86da269914337884a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "墨西哥城世界杯门票价格对大多数球迷来说太贵",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T12:19:33.131Z"
     },
     "e31d018621bb62178f2af7074d376353684de342a05ba5fe0c0e5f8755d0bdca": {
       "targetLanguage": "zh-CN",
@@ -3201,6 +3179,17 @@
       "translated": "关于伊朗核协议的猜测甚嚣尘上，这是我们目前所知的情况",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T19:05:05.900Z"
+    },
+    "7562dd096bfc1a1d4e33419da1723b1026d4e37e343a59a99e7d23509404636f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "11d29bdfca4f6274fcdc134065935ba2c389e360e469f9c0a726bf42e367de7c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "西班牙教会希望教皇访问能遏制世俗化浪潮",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:36.421Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
@@ -3300,6 +3289,17 @@
       "translated": "2001太空漫游",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:40:44.419Z"
+    },
+    "1554fc42206802d7e04d2c9f1cea9f64ebda21b23076c21e1f4945faa18ba7c8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d16ef3940084677817fe07402b8adad2158bfae4e1602f576a1b1ebacc8f7e9b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "阅读清单 2026年6月13日",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:25:41.339Z"
     },
     "a5c4f63d2b8f773871f11d6857ac6f87aafec714ed2e7584af447de6366ad653": {
       "targetLanguage": "zh-CN",
@@ -3510,16 +3510,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-05T03:41:15.849Z"
     },
-    "1b2263c5522138fb1f01327127c01afa708d85e840d1560b9ee5897222f61913": {
+    "5c88e6439fb48cbda2d2bd0f25a01a6946d250cfeb17c70d8fdda7b384a62760": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "84b5e8c78db994fc446d72111e035b610408f8c3e61c53c03c813fa6049b8548",
+      "sourceHash": "9f1e8f229239b7d206a0f05cba6e6cf5b1f5b205175a5dcd2e006e7fe2f57fcb",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "阅读清单 2026年3月28日",
+      "translated": "Lit Hub 周刊：2026年6月8日至12日",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-05T03:41:15.849Z"
+      "createdAt": "2026-06-13T12:26:09.116Z"
+    },
+    "2cbe3923a7a3965dfd5c974f2384b4b6259e213d270e2424eeaea59c791ef8a3": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "description",
+      "sourceHash": "8bef555902b7b4ed49880d12ac71192a1d4823e35d7e31f246218f4ac02b9ede",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我们的 Best of the Best Books Reading Challenge 第二轮正在进行中，包含有史以来最伟大的50部夏季小说！| Lit Hub 海伦·贝恩沿着西尔维亚·普拉斯的足迹从巴黎到韦尔斯利。| Lit Hub 传记",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T12:26:09.116Z"
     },
     "5db8b8289498c3179165ceaffaecd9a13121f736b499689b2fc744f2e5850acd": {
       "targetLanguage": "zh-CN",
@@ -3718,28 +3729,6 @@
       "translated": "自从他带走他的爱人以来，已经过去了七小时零三十五天。约瑟芬知道世界上挤满了像她一样的人，她的处境从根本上说是平凡的，但她仍然感到一种令人疲惫的、新奇的孤独。什么",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T12:20:03.661Z"
-    },
-    "44f5f6dbc473cb1022b56dfc74dd50ced3f5f2b29f61c4c098fa7be6fcfed005": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5bf2cfcd6c687e2d9e111415f67af1c8b8101ee7c1d4aa68401e52ec967ef0c7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "以下是2026年女性小说奖和非小说奖的获奖者。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T21:20:38.668Z"
-    },
-    "2d3196a46aecdde7dc1896d1dabea627528bf3bd92778ddde696f5c84c65c80b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "description",
-      "sourceHash": "8376612f9c248c4c1ae69d9773cd0d14641f2183b90f9a6d2954bbf011ecd09e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "今天，英国女性奖信托基金宣布了2026年女性小说奖的得主，该奖项“倡导女性写作中的卓越、原创性和可读性”，每年颁发给用英文撰写并出版的最佳小说。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-11T21:20:38.668Z"
     }
   }
 }
