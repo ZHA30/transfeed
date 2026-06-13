@@ -1,6 +1,50 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "d6c517749b85bf9417fb760569a65110b1bfaec9f91c80af73f14bf10686ccf6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b450fd17d183e59a5ac180565ded033124a65fad57426ca7cafdcac189e03738",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN: Paca – 用于人机协作的轻量级Jira替代品",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:27:52.828Z"
+    },
+    "c88fe9f5c5fe2e934a16289381ca4e2b37aabb70b133489dcc782d2883ffecdf": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e5a865cd1f90eb5fcf7281c9e5e79342d34b9ad4e39af622fe97b08509b2a15f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "利用您退役手机的低碳计算平台",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:27:52.829Z"
+    },
+    "5e37e6166b78c7283b1d9d7a492d2fc3577b4396dd44e720952f263f99363b45": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5ce8a30f38da55f692731fdd04733424f0df8777220cc25c29a06be575aa38bb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列公司BlackCore涉嫌干预纽约和苏格兰投票",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:27:52.829Z"
+    },
+    "d3fcd79871002993576d6eb4f237c74773bd164b624d0cd48dddbaa33daaf098": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "295af118670bf0ea559151e06f0cd69bc1b17af19d889d3a01abe270d262897d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN: 让你的代理可视化你的gbrain和Obsidian的技能",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:27:52.829Z"
+    },
     "654b47c21c01d006d6110536e4a79b5d7608f2332d94d83b208585ba50cbce83": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -45,17 +89,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:16.608Z"
     },
-    "7b048a16731c48f70f9c9f125f318f4dbbd877480bf904106fd0872a4c8292c3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7128e4e67d67a9e20c3b22b65a65b9b9d845fb71ec72b344cf5b5880b30d6e30",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "一个不存储容量且无需结构体的C语言通用动态数组",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:16.608Z"
-    },
     "bc3dcce684f190b98910f0131bc83d9febb3befc474571559c5831f2c8172c5a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -64,17 +97,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "开源AI必须胜利",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:16.608Z"
-    },
-    "ad7b6cd87e20406b6d0c0dc79b420e511ddd0e8feff58ffe691515b56aa440ef": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3c53488ac2386baebe8d73bee3521b89270c9d9a674113eb85a04bbcc950f57b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "TycoonLE：一个用于长期规划的Jax强化学习环境",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:16.608Z"
     },
@@ -121,17 +143,6 @@
       "translated": "不含稀土的电动机",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:16.608Z"
-    },
-    "3bfdfa054d569086fb8b5cb364038424348903005214ee41c6a4af93020ce26d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ce77524536efed48e35acb70042c27f728d73a0a62234ecc5126f266be7837de",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "SkillSpector",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T03:37:37.926Z"
     },
     "0339110ac1684bec4416829799909879848058cbfd8931ba387f283fd000d11f": {
       "targetLanguage": "zh-CN",
@@ -199,17 +210,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T19:04:32.055Z"
     },
-    "7ba0731a7d7641e60abe820f3f5a91d048799c180074b93ee5a2d85261b5143b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "030d5152b53d4f7fe40256a8fb82172e8276bff8c13a81b1562dc115af2776c5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "使用QEMU/OVMF进行UEFI HTTP(s)引导介绍",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:27.110Z"
-    },
     "ee8ab10f15456fc9a2f521a7770f379144b22ab85bacf401e3df22f50f58000e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -221,17 +221,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T16:17:27.110Z"
     },
-    "15ed7cec4d955fd41c8503b034bb77c8bdd8f825a888b061b5fe5ea2766cb773": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3d62a69587c6fe6da418228399a654c45c7e62d27ac4e5c4fb92f43bd537896a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "如果你在寻求人类的关注，请展现人类的努力",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T03:37:37.926Z"
-    },
     "68a15b38345508ccddec9a595e39ceaeaa4b0de2875a214d28bf8c9e30dea4f2": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -242,6 +231,28 @@
       "translated": "恶意软件开发者在其间谍软件中加入了核武器和生物武器文本",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T03:37:37.926Z"
+    },
+    "2af42ca74e31c14dce45ae64ac84551061dcb5564611e3600682bd76e01abe43": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "55c77e2c773111750f306cca416e4ddb3089f2c046415d788c0195952de9d1e4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Fudgetown, 美国 (2024)",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:27:52.829Z"
+    },
+    "5f9bf79fa851d5cc104c9c160c2051e34536576c86510e2c95186f0a0cab8d25": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "96eeac15bb3589412325c69c20f0a6bc7bab9f2a3f3d80a3978dfff4a914fdc9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在Ubuntu上使用爱普生Perfection V39 II扫描仪",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:27:52.829Z"
     },
     "95e572028263b6ff05f8ec844c880a428ce5023d51c4241af09ad8ebf1c18f3c": {
       "targetLanguage": "zh-CN",
@@ -265,16 +276,60 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:16.608Z"
     },
-    "73c27973847efd5d32e7338d4a7ccc14d4d2049c1efa118aeb08378187095bf6": {
+    "6097f1a2d9a2c12e1405673140b81fe489c5e12fb9618572ee310231f4692212": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "984ddc790e12d43ee46b2e0301f68668ac5eccb121e355e1946b5cccf8a8cd50",
+      "sourceHash": "7e50912ee92400954007d942e19d548dc670cf9a4871a8d6cb16b40849716d8a",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "一个用于Linux的按键重映射守护进程",
+      "translated": "14岁男孩在男子被刺死后被捕",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:16.608Z"
+      "createdAt": "2026-06-13T10:28:00.081Z"
+    },
+    "e9c4d85951176d9b1ecfb62c9d452645f6a378a719ac8d1be0c21fd4ae194946": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cbced55cfd34939ac881516edc48fc79b08d35aa8ec52cdbf78e160143060d7f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "橄榄球明星辛菲尔与作家布莱克曼、唐纳森领衔荣誉名单",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-12T21:43:57.689Z"
+    },
+    "ec560d5f132a189780f20317a37e120adf70b184adfc07f21b6fc2645b59cc57": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "634530fb38c09a343d381c57086790445241c25be234882bb040049b1e99e336",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "林肯公园将在英国最大摇滚音乐节上创造历史",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:00.081Z"
+    },
+    "b3708ee4b0d7c6aee2c328c66cc4a1a830e3bb523f54ff8e8443507728e3568d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "574fa63063c09212b18b155c894d16a5f3ca510f64fd9b4c755aa9e54e89d8eb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "BBC获悉：希利希望英国加入全球防务银行",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:00.081Z"
+    },
+    "3eae203aba30aa753ef63f89ecc4bf81146c9c709b6a75b560d99fb2363cefaf": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "730281f7e9917cd37e2ceddcb9d49352f9feec3fdcc01e6d971f9fa3e2aa34bb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "慈善机构警告：16岁以下青少年社交媒体禁令将无法执行",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:00.081Z"
     },
     "9c738bd267d98b4c6bd66556d5f1c0020eb6400725a11fd401e2314d2e94eea3": {
       "targetLanguage": "zh-CN",
@@ -309,16 +364,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:31.352Z"
     },
-    "e9c4d85951176d9b1ecfb62c9d452645f6a378a719ac8d1be0c21fd4ae194946": {
+    "7ed9dc61861f50506761c6d06f7198c77df9488d64ea86fad5288b645660647e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "cbced55cfd34939ac881516edc48fc79b08d35aa8ec52cdbf78e160143060d7f",
+      "sourceHash": "484374a5e76feb511abe28cccb89c217352c4f277747c94027dab43cf752f473",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "橄榄球明星辛菲尔与作家布莱克曼、唐纳森领衔荣誉名单",
+      "translated": "店员因制服疑似偷培根者被解雇",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:57.689Z"
+      "createdAt": "2026-06-13T10:28:00.081Z"
     },
     "d92263246a317cd19241de608f6ad66bbab7b8477d59a54bd37bc72ebaacd7af": {
       "targetLanguage": "zh-CN",
@@ -353,27 +408,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:31.352Z"
     },
-    "7dbf792651a260566f28a5d766b0fac92e28c16970d7181bb179c3230ce15003": {
+    "ef5af365c4a197fa83dfedb0f4c5cbc2ad8321fef00de5279920d6cf2e41ca72": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "a7f196f5025b10907507c838bdd4043a2d3f7c5d8db833b431fdfa60327b925f",
+      "sourceHash": "9f67cb136e083a849d490e0c24ead3ff4061a8b8fb93d7ee22f87eb2eb096ccb",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "巴洛贡在美国队令人印象深刻的战胜巴拉圭的比赛中大放异彩",
+      "translated": "特朗普称美国空袭击毙委内瑞拉阿拉瓜火车帮头目",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:31.352Z"
+      "createdAt": "2026-06-13T10:28:00.081Z"
     },
-    "46d2c1005ac2aac6ca0a65a66ce0599fe2383610b947eb5a0aab80b9a6cd091c": {
+    "975fdb2ec7e594e13dbc5e9d21f2e4c21f29f1016a5dda614b86052485b3db90": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "5e5d7062df148a6c1c3fd0bdc7a5299b15abd3374e7c5ba462fedcf1a0199296",
+      "sourceHash": "b2bc1b1f7c4a9b1db5c624411ad3ac1234fed63bb7760cd91d87942f1e07c842",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "报章摘要：‘斯塔默准备应对离职潮’和‘艺术巨匠’",
+      "translated": "Anthropic因美国政府安全担忧暂停新AI工具",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T03:37:52.098Z"
+      "createdAt": "2026-06-13T10:28:00.081Z"
     },
     "fce823fc39d4e7d3b6db881492f06336f49246b1009254e59df1ec33d234ee3e": {
       "targetLanguage": "zh-CN",
@@ -495,61 +550,6 @@
       "translated": "贝尔法斯特民众因种族主义暴力连夜逃离家园",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T03:37:52.098Z"
-    },
-    "98804fad50015308ce56bb8cd52d3978a1bbfaab081bb9956020c96d66a12bfa": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "35400bbf02b234e7507f36b50f0d34f96b2da2e4cab5d9ea0a60e2ea1736c38c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "艾德·希兰在一家二手店发现了这张唱片——现在它终于受到关注",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T23:16:42.190Z"
-    },
-    "79e41a2b401c661886b96ffd3e68e093fb01365385bcab14cc99533114786c2c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fa30f37b2135859ed879e838f16c1861df1cb32c43dc1584f8d6aa022e11dc18",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "俱乐部因指控撤销米克尔森会员资格",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:31.352Z"
-    },
-    "b4124d63ab6f98961ce816b315542e66c54ebf06a6c0302052215d8808a0f16b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "889c7c1d14bdb246d23159842881a960b2d3e6142d95a28ae277ffa5ad54536c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "埃隆·马斯克成为世界首位万亿富翁，SpaceX上市首日股价飙升",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T21:43:57.689Z"
-    },
-    "b09e30091b759c1619fef58829e679ac87d5c97071349fc37dbba6eb7368d1a0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f4358905721e431b21a414eed769ee134f3be60d8bafbe0ae482e6e4cb95effe",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "卡伦·布雷迪明知沙利文女队禁令仍留在西汉姆联",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T23:16:42.190Z"
-    },
-    "41220f651783a629db741282ffa89b22454c6aabe630d59a60086458dfde3ff3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b576609f515f73760886019d0e7e75e105a9d5f6a3a4140704796823cefdd9ba",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "《凯尔·斯塔默专访：分析》",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:31.352Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2949,16 +2949,126 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:36.536Z"
     },
-    "207bfb891b8c363d3e57e47fe89d1cc915e33c9237eebe85720f9c764a2069f6": {
+    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "dcde0677df4cb9aaa942052d26b3f9e45c530428bf8a4c0be4b81464766d16e8",
+      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "缅甸一个因地雷而支离破碎的家庭",
+      "translated": "这是最新消息。",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:36.536Z"
+      "createdAt": "2026-06-07T22:03:51.783Z"
+    },
+    "c762be27192e49f8735b1c2babab9de0996713c7d6e45f96c3ab5503903d672a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "adfd805dc48d230be276295ec96fcb3151bfae4ecd8e1aded9882a537dc6e50c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "未竟之事",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "fed75b5614f3050cefeecb1136b6d9aacd846c7c0ffeb5f52158c7059e74c51d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1bc36aba9ab3358cb2898aacd112d70d9c22405b3dbcea430567dc098d3ad436",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "美国和委内瑞拉称，联合打击中一名Tren de Aragua头目被击毙",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "bafb787b411c63aa751d8a3d1de15770d0f4901593c6360f07d38bfcd99a562f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8a8824e28e7f9f2ea56264fdfa7184d2502269e3919b8ce30ac42dd57e42f21e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "一位备受尊敬的加拿大记者谈调查报道的重要性",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "9edab3824c15fa8b0d2b64a70e1293d80831580cc772f085213ef590b4bb59de": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f44d0bfad367832b7cffbb67ef9742ce347977551c7c5a3ae65fac083a905ee5",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "关于埃博拉疫情需要了解什么",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "b2d238739a2215b6335fdcc832a32bb1b0965f2e49e7593b0a56399a9b4a344e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f8dc7dcfd6997f82c74af8b75dfc66e98455fbe749090566c7068e9782201748",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "巴西人重拾世界杯仪式为国家队助威",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "dbc3447df176de5e227b942815d6be33dd11702097e8bc40e80fdcdabbae0c90": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9ccc27a255fab3e1c42779a8a32aa7d1e3010aa28f46392fa601d59a61da97bd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "科学追求完美世界杯球场",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "8a65da90aa2881b499e475c8262e74b555a40cd7427ae9553dcce44a01426906": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5bcaf60fcc05aa2b82e131e60695c50c7240cd1f05740f482125ad9a56dc395f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "协议似乎接近达成，美国面对一个更愿承受压力的伊朗",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "7d3663b5db65f2af414b9f135ef61f97f89779b2e889d649643cb0c3b7f859b0": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3cf5afe5c061d795af8a4fbc489110f77ad5e1a0953c4352bd9df4db8e5d22a4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "埃博拉侵袭刚果最脆弱的儿童",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "0e1177af31c26a6d1902f47488559b4499c6edca176864d8e37d14b7928d6971": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "bf75214a4a844ae6e704a1693c56cc8117f28c62a196202f55135d18980b3016",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "俄罗斯拥有丰富的弹道导弹。乌克兰缺乏阻止它们的方法。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
+    },
+    "8555b5e22b35a1321042f17e94292cab80fd77dcbab7bed9899ec97858d2549c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "3b8517ea52c7dd09c29fe14e3d979bf2615a381348b17fb2a99d2f3a9801ef45",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在加拿大银幕奖上，业界走出好莱坞的阴影",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T10:28:10.091Z"
     },
     "a6ed15a33087f50fd8117277f775e7b8b83a174a6c519ee0a32ebfcd481fe250": {
       "targetLanguage": "zh-CN",
@@ -2968,6 +3078,17 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "瑞士应该将人口限制在1000万吗？由选民决定。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T07:46:36.536Z"
+    },
+    "207bfb891b8c363d3e57e47fe89d1cc915e33c9237eebe85720f9c764a2069f6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "dcde0677df4cb9aaa942052d26b3f9e45c530428bf8a4c0be4b81464766d16e8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "缅甸一个因地雷而支离破碎的家庭",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:36.536Z"
     },
@@ -3026,17 +3147,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T23:16:54.987Z"
     },
-    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "这是最新消息。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T22:03:51.783Z"
-    },
     "93f20e2396dbd671e61b9f0d06f5ae319b6080b792781d9106dbb3f95ff712b1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -3091,127 +3201,6 @@
       "translated": "关于伊朗核协议的猜测甚嚣尘上，这是我们目前所知的情况",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-12T19:05:05.900Z"
-    },
-    "7562dd096bfc1a1d4e33419da1723b1026d4e37e343a59a99e7d23509404636f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "11d29bdfca4f6274fcdc134065935ba2c389e360e469f9c0a726bf42e367de7c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "西班牙教会希望教皇之行能遏制世俗化趋势",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T19:05:05.900Z"
-    },
-    "e914734678a01e4ee6b56a29de92fdcbd08e4cf4a4e4f48dcd237658067297e0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d26350a684ba4fba29a0063ba1f742f3f02c1c0fdfd641bdab0eb39eb101af59",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "以色列在杰宁建设军事基地，违反1990年代与巴勒斯坦人的协议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T19:05:05.900Z"
-    },
-    "0ce54383491c9a02d70e5b204174ef7da9d055d9435b09b925ec52e0eb98b6e0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "20d72f7534d580f436ab53d0365c9536df11f8c25ecefb0beef57029af6e62b8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "贝尔法斯特刺伤事件后反移民骚乱使城市紧张不安",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:59.449Z"
-    },
-    "d890fe1784b4f67bcacdf768ee2eafd754e502ef73f610a7fc308f852283323b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9cbfdd0c3f6c2ea6a48250dd3ff3a6db673a946a4cf7605492ab629911a7d02b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "JR在巴黎新桥上营造出山峦错觉",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:59.449Z"
-    },
-    "ed521e8c4cd58d1822d9cdfa349d993093a49255f29d3c3c7953de96ea7f566e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "51894cc55cfefcc2e27bed8b249dbfebcfb5687e3237fc978dba5fc3ebc8fbc7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "印度航空空难一周年，遇难者家属追寻答案",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T19:05:05.900Z"
-    },
-    "6f480a1bb6dbd2c7e6b01bbb1f5ba1e3898704f35fed7639504dc50830d6af1d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "51e7f3150189d6529748a7e6bb97e18663a0a18be9a4328142479e5f53717c71",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "尽管伊朗和平协议在谈，黎巴嫩战争仍在继续",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:59.449Z"
-    },
-    "461094b00a4a6081972a4993dd2d8073b984bf78be30f5ad7253b3abf75f11d8": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f50da20426249406c493488527f8d54ad0bd4d91199bd6489b44487bdb9f8cf8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "无人机飞越朝鲜是前韩国总统戒严阴谋的一部分",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T03:53:36.184Z"
-    },
-    "9e72f4fef808edbfe01f07a9dbd91b130c0bef803ecd19e0ef05c436deba767d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "3f26a9ed286461735aa15c926c78985b8ae819475cf5ae9193715d71d76654de",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "科学家测量地球庞大的地下真菌网络",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:59.449Z"
-    },
-    "12724300fce3f94df1fbf952834af2f54d7bc8648dc74df3ec78f124185ff18c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c30144b385903908f01fdff2d60d52669858ae776c1477bd01673e4c64bc60dc",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "日本反驳特朗普的动漫帖子",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:59.449Z"
-    },
-    "925be948e47f2bd9ceeba6aeb30e8c2321bd5727a78c8c6b37ddbf6d7f66eb49": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "132804752d909660c403e950a7e025d81e3d5e1e82d789b16856ed6d0de928e4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "危险的停滞状态让伊朗和世界处于和平与战争之间",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T16:17:59.449Z"
-    },
-    "ca041a4810cb07244b6c949d241ea91eaefc9975455588f6b3f47b146caeb00a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2db67dda7219194c0b86d8f932ea4f46976ff1fc82fb42e6b2396790da321a7f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "带上孩子吃点烧烤：乌克兰无人机比赛的一天",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-12T12:19:33.131Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
