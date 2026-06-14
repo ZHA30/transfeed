@@ -12,17 +12,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:32:47.817Z"
     },
-    "9a8772889dbc53e9334b3c13e3c1667847916e14439643d7341a280b45738782": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "1c97b6e3cd79b3eb6ef8f04ce0866fb7977d8cf164b561ad43939748a320ce5e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "论文称意识可能并非地球人独有",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:32:47.817Z"
-    },
     "a3b30a1704a430347ed31207aa477105035133f47e4196755afb62fbf5fcd4f8": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -34,16 +23,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:32:47.817Z"
     },
-    "694ad69307d29dd5d0ed9a92f0a82ba1aae9d35c306c72a8a89d3a07a5572824": {
+    "aa01ac124e7bdcfd2d6af6b5a0c393064760c2c00a472a17ca38e8a0e5125f3d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "8ca136d206cd8b8326264c51c54a3e48dd6092f7eedd297af57060e29621f74e",
+      "sourceHash": "28ad48d9ed04dd73610a8204c1e06ba7b7d8b0a03fbada590bf5dae21c85409d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Phoenix LiveView 1.2 发布",
+      "translated": "Phoenix LiveView 1.2",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:32:47.817Z"
+      "createdAt": "2026-06-14T11:57:20.121Z"
     },
     "1c13d193a11399491b2ef846721bea238c72e24e20a03ee5df9a4a4b546b4c76": {
       "targetLanguage": "zh-CN",
@@ -56,17 +45,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:32:47.817Z"
     },
-    "d5edd14c15ed9557f8d02e8404b685bf173772d633ae924a7f70877bd2462e0c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b0b301020762190308e8edace3ca91e19b8e4eaf6b7e7adb3e4a05a1a704c357",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "软件架构指南（2019）",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:32:47.817Z"
-    },
     "3ed3e9a282954bf02904ac69de99b64c521a612e34e590a4390904298336b27a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -75,17 +53,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "免费的SQL→ER图表工具，在浏览器中运行，不上传任何内容",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T05:48:32.776Z"
-    },
-    "8c9f66e008120d41de22e9c823764e34d32935b834316068a38887e72b39224f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "748bb55b16030844991e9ac883b77a7c454e46e273d18c39615e124551cef413",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "让Claude成为化学家",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T05:48:32.776Z"
     },
@@ -133,6 +100,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T05:48:32.776Z"
     },
+    "2aee516bab62c692dcaba1ad51a2e9084df3a58b32734b6b028cb9b7a5a51cf7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "794f3255c7789ebef3b61b713239e2aa0eb0000e05f9457ef42d5f72819bd1ee",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "警官因在多个案件中使用AI“制造证据”被调查",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:20.121Z"
+    },
     "d59a4be2840fc3721446621ff8f96842f1d63bd7282c58546931fefe10e39f13": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -165,6 +143,17 @@
       "translated": "亚马逊CEO与美国官员的会谈引发了对Anthropic模型的打压",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T20:16:03.381Z"
+    },
+    "374e13319dbe6f5f62748742cd3ce7932b3c1645bb79f385438c30aa49ce699b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d706fd7871af42b2c368e3d380d1b7f4c6ed47654c9afd97778a26a637a96eb1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在家进行AI编码，无需破产",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:20.121Z"
     },
     "bbe3015479231e08a954f72a878ff7bf282739570eecc43eba00a23b52081815": {
       "targetLanguage": "zh-CN",
@@ -199,6 +188,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T16:24:03.306Z"
     },
+    "3d12d877ed67a55f1ec8e780d9faee0271a371c2a8128f6a04629307bec04e8e": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "05143258533fab31a8b01a1204f791248ce98af46cd41b556a84b4a8343cf45b",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "渲染阿拉伯语排版的体验及其技术债务",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:20.121Z"
+    },
     "82b1a4ce651addf1de703db085bb35df5ab35bef2b95f24d7021297360aa3872": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -232,17 +232,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:27:52.829Z"
     },
-    "eb2e53cc7853a9ada9e4164066f043914bf86e32fa00bc7e36aaf43c3f5e8653": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "287d49fa0cad2739de5d77fc05dd47a2e24e0bd1db3b18cb2cf20985140bc74c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Python 3.14 垃圾回收的繁琐流程",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T05:48:32.776Z"
-    },
     "c6bf95758adc3060d40660aca939a85c9a0e61009559732f454ec36024cd4687": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -253,6 +242,17 @@
       "translated": "500年历史的修道院在数字化转型中表现更佳（苏黎世大学）",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:32:47.817Z"
+    },
+    "cd36ec1bfd536d3b3e603f4c830906fd9fe4c3c40fcf6dd7671254f14c128570": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "66c738044dca7a2e9d8888d52297c05da3e2fd334df5d2050d27ae2efcfe75c4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos编码器",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:20.121Z"
     },
     "6e96d35af817623e8569a0e4c08ce9085b9d7a5c0c3d1d798f8c6e1008f36099": {
       "targetLanguage": "zh-CN",
@@ -276,16 +276,104 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:32:47.817Z"
     },
-    "0e8775361d270257c6467342f18c841337919a8788a871583dc029b02fc12467": {
+    "cce49991d07679c4a13ffc260dfb7dd53f816113d8892b411bb3b24218c569dc": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "3f7291c47ad890fa9d37bc84dd949d8691d9040d840052c4b07cb29bda0c0357",
+      "sourceHash": "9067ba17dc19233d02fadb7eae4f451921549b5f167b3e5fb80fd8c1a0f9e1dd",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "英国武装部队在英吉利海峡登上俄罗斯影子舰队油轮，首相称",
+      "translated": "苏格兰球迷欢欣鼓舞庆祝胜利",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:33:11.936Z"
+    },
+    "7349860b697ab5b8c73a2dd470c6f29dfd1d98a4866c01cc8cdd2f462aeef105": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "06c917d5f95727d222fbbe920f179d705354ca1f8b32179bee2b59746152d31f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "瑞士选民否决1000万人口上限，初步预测显示",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:31.558Z"
+    },
+    "f8616b399e7672bd63d537ac046ece9b1b67f578ffbe3fad92214f9e6cc6db8f": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7fcf9e49be8fbd1542dd35ab6514fd0b4e2a73e8013d9e98bdfa150a3cc3fec9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普称美伊协议将于周日签署，德黑兰对时间表存疑",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-13T20:16:13.207Z"
+    },
+    "2a6e628415004ae0a346edcdb2d8c14a24c798c212d77e5a64c9bcb9b336e189": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "135dc5b120049e6a29692a51a3361278eaac60fbda3e31896a9af7a0e10dbf75",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "BBC体育评论员选择英格兰世界杯阵容——你会选谁？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:31.558Z"
+    },
+    "c0c3d33659ed7a70260f15ffb4c1552d91cb3bbc7ee704608733f8068de01735": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b9fa0ba250557c0b5bb80eb280eee80df845becb87075f8d11ddc5c3b85ec6c7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "皇家海军陆战队在英吉利海峡登检俄罗斯影子舰队油轮",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:31.558Z"
+    },
+    "f12bf6ffe85c26ea4cd4f5f26bf4b74b1a461a9375e22775c1a03ffd00d21544": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "dfdd7f61090c9de66132a83babad86d3b892d4c8a8dee659c1aaa293a40df628",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "南迪表示科技公司‘已有足够时间’，社交媒体公告前夕",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:31.558Z"
+    },
+    "67b3c7b9f29e307a0ca378a06ba7be7eebd1b531b26e40dba5957d34a5201c3a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0447ba8346ddb04d052f80daba139d7d7de12dbc41a1f43be0b96102a9d170c1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "观看：国防部视频展示俄罗斯影子舰队油轮拦截",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:31.558Z"
+    },
+    "252ba1cd621b39fc638992333cb7ebbe37f08876c32198e4ab0bc1b177fe1ef4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d1c0e76575db28fa41218a81c5b4a1ebb85a2883d44c5cadfc8460cca6042348",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "消息称索马里裁判被拒绝入境美国以领取全额世界杯报酬",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:31.558Z"
+    },
+    "51e2c7df2d06f576f1e710994cacdbe68f625e51206be54227c19918f427c086": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "72689cc48e6b0664f511ede871394a629fe6ed7a4162561c54eb0c9447d3d3bf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "国际足联将向索马里裁判阿尔坦支付全额世界杯费用",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:31.558Z"
     },
     "9011a6a4ffb76bfba5bc0a422e7b584383fcf65ece90253212ff349ff57187dc": {
       "targetLanguage": "zh-CN",
@@ -298,38 +386,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:33:11.936Z"
     },
-    "cce49991d07679c4a13ffc260dfb7dd53f816113d8892b411bb3b24218c569dc": {
+    "dd0a57fa182848b3230c2830005b5d76630cc2463ff677a3c2175fc05de30239": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "9067ba17dc19233d02fadb7eae4f451921549b5f167b3e5fb80fd8c1a0f9e1dd",
+      "sourceHash": "d97a378294db29bc3b400174fc6756a2d937d1af6b5d49ab14966711d05d7045",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "苏格兰球迷欢欣鼓舞庆祝胜利",
+      "translated": "让世界杯黯然失色的美国体育胜利",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:11.936Z"
-    },
-    "e38bad79f7d73192e866b0166b87699b2f625bb8ccb95d19b4325e9f2d62999e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0458c8652289e65c6964ea924452c71bae8bc875a7e793867f0c36c7e6bdfebb",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "武装分子在海地绑架一名高级安全官员",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:11.936Z"
-    },
-    "f8616b399e7672bd63d537ac046ece9b1b67f578ffbe3fad92214f9e6cc6db8f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7fcf9e49be8fbd1542dd35ab6514fd0b4e2a73e8013d9e98bdfa150a3cc3fec9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "特朗普称美伊协议将于周日签署，德黑兰对时间表存疑",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T20:16:13.207Z"
+      "createdAt": "2026-06-14T11:57:31.558Z"
     },
     "68841f26a8d3b030447772df2e8a67c0ef8b7223da7b7fec787d3a06d1dae0bc": {
       "targetLanguage": "zh-CN",
@@ -364,16 +430,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T05:48:50.368Z"
     },
-    "b51cc1e27c29a1f747df0259c535e0e5c1c3436867f9a0cd7ed125a2b9cd4f36": {
+    "304b42dda2d2a7add02913cf86cb56d35ad7046afd20386f1521e7a8258b58df": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "d81b32200c8dc5e8abf7f9b6ee4fb54dd832d8d12cb08780d5f24f677bb94631",
+      "sourceHash": "013a554c9ed0873851f70493c275c566055dd44aa0e13fb5a1dba4656d2fb097",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "尼克斯结束53年等待，夺得NBA总冠军",
+      "translated": "家人称女子死前担心‘捕食者’",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:11.936Z"
+      "createdAt": "2026-06-14T11:57:31.558Z"
     },
     "d15b52ce795f449ccb0850abc0df07203ed36527f491bc6d70ab9e25dd072a21": {
       "targetLanguage": "zh-CN",
@@ -385,17 +451,6 @@
       "translated": "两名男子因盗窃英格兰世界杯球衣被起诉",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:33:11.936Z"
-    },
-    "20357279bce7ac5ec69c02e90b7d087335684c5b1b4762736049843efeb34ef0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "eb066cbd434b8ec5dd87f0d9d87bd692f6770f30b160a5085082c17e3bdbc2e4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "瑞士就限制人口在1000万以内的计划进行投票",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T05:48:50.368Z"
     },
     "7b198d278cbc5cf2d8081a6b5b1c5c8b8b7db20457504d66479c01ff7219e3c2": {
       "targetLanguage": "zh-CN",
@@ -430,28 +485,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T05:48:50.368Z"
     },
-    "2d1b6469f68ddb59c4731744a0efd1144d9fafb0fd00478ef02c9b4377322210": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "dc14ffb0c1f7b84d5eddd9bf7aa68e9070d002319941fad99a57a9666c2027a6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "麦金助苏格兰36年来首次世界杯胜利",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T05:48:50.369Z"
-    },
-    "dae05476ba09eff84837316bc1498af078ff4df01816204db02772e58678009c": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "74cba7007b23078ec64cd73f595ba22a9a57c19df5582991afccee7d863b40f4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "报纸摘要：“首相否决米利班德”和“我们被抢劫了！”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T00:06:23.891Z"
-    },
     "a4b1d23793cfa61091460f72e700ba4b1c0c247a7fed0b7a8fc10698cae1aa97": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -462,17 +495,6 @@
       "translated": "维尼修斯·儒尼奥尔的才华是否只是掩盖了巴西队的问题？",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T05:48:50.369Z"
-    },
-    "7cc9569c97bdabc47258bd32db228fd7d3cf655ad9fbf4c7313f56be67b71b90": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bc4d09f8c2387fcc88cf83e6a6d721448791122f9676ef60dc6d22d7193573ef",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "作者奇马曼达·恩戈齐·阿迪奇指控医院拖延对其儿子死亡的审查",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:11.936Z"
     },
     "3440d8b43c6156d6bd5ed821275f905301cacab55a2db666ba23e62b82d2da22": {
       "targetLanguage": "zh-CN",
@@ -496,27 +518,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T00:06:23.891Z"
     },
-    "48ccb4b8c5614d04b824a21ae9b3284eba6b78fb0182626bc14a580861e9a95d": {
+    "ee9c4f0eaabd872b26df03ba686b07efa537e19b81a9d3b4cefb218c08ecd3e9": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2a202bb310f4644249ad4e551046db8f07b4263292763b6a37ddbbfe38d00887",
+      "sourceHash": "a2f69dc1b5f67582673a49ffa75e239d4b7e83a28c6bff4d8320710b8aa7eb8d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "只为你耳朵：音乐如何赋予新詹姆斯·邦德游戏生命",
+      "translated": "艾比路幕后：新詹姆斯·邦德游戏原声带制作",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T00:06:23.891Z"
-    },
-    "e3608e0db5f95fb4ab13b60f65d6fb0d53baf16b988e8386b1ec09eba6422282": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ca78208ffc7e0b54f11732a138f89dbe702382e47801d9e93d666b10b20f725f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "随着特朗普年届80，作为一名八旬老人工作到底是什么感觉？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T05:48:50.369Z"
+      "createdAt": "2026-06-14T11:57:31.558Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2905,16 +2916,49 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
-    "9fb34081f57091f72b3a0f90eca673b80b69660f03a7e1cf5b9208fc743608f8": {
+    "b487bcede16e430fe6177e1de231937984db1bbb4352e223114771c47e4921af": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "287eb43a219b80b64d038d85930e3e1e199e701a268855c600e299ce37d0e3d3",
+      "sourceHash": "d78c21b672de04ca509add487740c9c72b89f5746c53959748b1579b75beb74a",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "伊朗战争实时更新：美国与德黑兰对即将达成的和平协议释放矛盾信号",
+      "translated": "伊朗战争实时更新：以色列和真主党互相打击，使可能的伊朗和平协议复杂化",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:29.221Z"
+      "createdAt": "2026-06-14T11:57:37.811Z"
+    },
+    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "这是最新消息。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-07T22:03:51.783Z"
+    },
+    "169991b1806112c04b2cb75ee06f1c692569408ff7c688f4ef2a648bd8034539": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "9f6f26a6bc5c4e2f467f699053b5df394d9d50c0745b227378297b0a6fdc6fa0",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "净收益",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:37.811Z"
+    },
+    "5c296d953596e4baf9ac8adde77d39483a5986366d8c3c1d4fc42c8d35b3d66b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f468a749a504fe34722b8fa86557c5b9b7432cafd6ffdf187e6812f734bb2e14",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "英国军队扣押俄罗斯影子舰队油轮",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:37.811Z"
     },
     "5684490a214643d9e4bf479daf9f51c42f2c12316dbdcca6396b89865df86a18": {
       "targetLanguage": "zh-CN",
@@ -2949,27 +2993,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:33:29.221Z"
     },
-    "c49131f072f7eb981e6640bba983e038b194bcb4230c17c6f615a6333a3a29d4": {
+    "cfa5a81d327170277556306b945ac19bf3d48a6297989119c9a31c9652e468a2": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "019d98e63d812c1f5413cb24ad4657c6b95064dea6f7ed6fc416dcc3a9a297df",
+      "sourceHash": "61698a6922fe088e4a175802548b0ea5de78e0ef8f91ef12f47251a25d755aa8",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "认识有史以来进入世界杯的最小国家",
+      "translated": "库拉索是有史以来进入世界杯的最小国家",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:29.221Z"
-    },
-    "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f59d204c248e5c80dd3980d1f9528aaf3fba7d4cabfdce0732134ec484061662",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "这是最新消息。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-07T22:03:51.783Z"
+      "createdAt": "2026-06-14T11:57:37.811Z"
     },
     "208f6e4f692c4cbc3385ab5701c9d6f7d897064fb292e6155f48171c1512097e": {
       "targetLanguage": "zh-CN",
@@ -3146,28 +3179,6 @@
       "translated": "巴西人重拾世界杯仪式为国家队助威",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:28:10.091Z"
-    },
-    "0e1177af31c26a6d1902f47488559b4499c6edca176864d8e37d14b7928d6971": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "bf75214a4a844ae6e704a1693c56cc8117f28c62a196202f55135d18980b3016",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "俄罗斯拥有丰富的弹道导弹。乌克兰缺乏阻止它们的方法。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:28:10.091Z"
-    },
-    "207bfb891b8c363d3e57e47fe89d1cc915e33c9237eebe85720f9c764a2069f6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "dcde0677df4cb9aaa942052d26b3f9e45c530428bf8a4c0be4b81464766d16e8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "缅甸一个因地雷而支离破碎的家庭",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:36.536Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
