@@ -1,16 +1,38 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "e6b61df275e50ea77ddc7b34354613f29ff20c7b52b941d48a566e0e1bf24349": {
+    "d81682c5de31163c68d2732b0eb277f05f3b96a314d8231e387ea5c8e19c5e06": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "44eb24235852a4fb21f3f469ac197ca93d45ac4102f96ab6be14a464965914ef",
+      "sourceHash": "0d19827ce9946881954dce8902bfcd171680d5a7f9f5e68dd459f29165b8f88d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "安全地将 Siri AI 带给欧盟 iPhone 用户",
+      "translated": "阿布·法努斯",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:16:55.288Z"
+      "createdAt": "2026-06-14T22:08:43.837Z"
+    },
+    "22c4fff13c1fa7a28091ce5863bea825a1bbe66fb2830484d9f615a81e456e27": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "2f50607fed99ce18cfc2c5988c0f81a95741762d78b36b88e621e1c718ca7252",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Zinnia：一个用Rust编写的模块化64位类Unix内核",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:08:43.837Z"
+    },
+    "a71a28c994de6a9b4b334b6f7d068c499e5f73e6c7731ac0e23a9b42d17ac599": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6130c1679639b89cbf5a39dead235caef35759faf03b048a09ec9cb36623620f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Vibe Coder vs. 软件工程师",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:08:43.837Z"
     },
     "fb4b58b850540a9ea8140c73fac75ccb0fb4c6687f3f975c20da4bd190a7e7d2": {
       "targetLanguage": "zh-CN",
@@ -23,16 +45,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:16:55.288Z"
     },
-    "7c9105249bd75eeab652e75e42680ccbb1ca2c0f812a32e14aafa0812409f9ac": {
+    "e1a9f1b2d19ea348f67c4c617366e25c028c08af0ec5a315624cd1a6461a20e0": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7cae180e63400e96121239511ea63d91790a8cb3259a03248964d49e9ba315cb",
+      "sourceHash": "fdbddbad2ab870995c9ec2f5da5e447dd0fba3222257d703692561b9afee2f08",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "罗马沦陷，无人察觉",
+      "translated": "Yserver：一个用Rust编写的现代X11服务器",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:16:55.288Z"
+      "createdAt": "2026-06-14T22:08:43.838Z"
+    },
+    "b7cccc768fb56e74f2447cc28e8f886ad894f19971c6b424b3e5da16b7161cf1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "1518637749e92882228759951ba068a50e6430f424d2e22f96ba819fee0418bd",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN：发现Hacker News上受欢迎的维基百科文章",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:08:43.838Z"
     },
     "aff963b734b73d211c6c521a837561f6553a69da6a5ecab678abf928c31af789": {
       "targetLanguage": "zh-CN",
@@ -42,17 +75,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Show HN: Kage – 将任何网站镜像为单个二进制文件以供离线查看",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:07.697Z"
-    },
-    "685493837649128c31876c6a7001f64eae6e4a31c3e8d1a632ebf6acbb1450fa": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "0d4783bbdb8ada00c59861a231b2bd62fb35c7dc6e8e604f099e28e7a0020ff1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Dillo目录 – 在Dillo上运行良好的有用网站目录",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T18:12:07.697Z"
     },
@@ -100,38 +122,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
     },
-    "fb2006aef4e8916403fbe50bbe44596b1f158fe36252343839998cba4a144e70": {
+    "db8ea4add114136df523ceb8df9622c15cb1a6cb20c8e657b240e565fbe2b9a6": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "16abd3daf50ac8e7d6581d40bf4710d95fd23c3696449f19fe771b1e4fc2383d",
+      "sourceHash": "b5de75877e45b69c750bb3393d37ca17ea7f839d5ea7b7c5a7ea229a6ce263bd",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Perlisisms",
+      "translated": "Perlisisms (1982)",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
+      "createdAt": "2026-06-14T22:08:43.838Z"
     },
-    "624e1b10176c27317953b069366dfde9103c6aab43539c83b360f4ff61d02d98": {
+    "1d6ebab055a8c3773cdebb245fa5595e29504dd23639d413ab3c9fe6be02aa2e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "da3b57cb9933808e1fe02ad658aef416c3cebd6ae5ee456fecbf06399a3cf90e",
+      "sourceHash": "c3f611fbfe80ddf4ab111f2cdcc6820c27ce47834b69c26f6d4c386f5cd1c785",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "里约热内卢市政府模型Rio3.5在近期基准测试中击败了Qwen3.7",
+      "translated": "并非所有人都在事事使用AI",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "64f73883d6f16b895543f1fbd219816249f71ccf70e0bbcf308097d0b882d3e0": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d4426e4cd3f963858b07e80a6d346472768a811a57feac6e54d1ea25bd1e17e2",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Show HN: 在RK3588S上使用NPU实现双YOLOv8n无人机检测，帧率达42 FPS",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
+      "createdAt": "2026-06-14T22:08:43.838Z"
     },
     "18d825229e51e91b6299ce7ffe38ca71f3e3e1710dce180b2ee6d2b0701a3b4f": {
       "targetLanguage": "zh-CN",
@@ -154,17 +165,6 @@
       "translated": "zeroserve 的 Caddy 兼容性：3倍吞吐量和70%更低延迟",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "af55831c01902a3365c0cbdaaa9d17dd9265c9569ee60532e24cfdeb06402ac7": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c1cbbfe77a314da919b115ff27c65cd49fdbda4844908a4060ddcf997a259b16",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "雅达利是如何将侧边艺术应用到街机柜上的？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T14:11:54.503Z"
     },
     "67b7cb83bcfbd409af0b4cfa4e03e992d29dad750011ce61f3a8660197336241": {
       "targetLanguage": "zh-CN",
@@ -199,28 +199,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:16:55.288Z"
     },
-    "3ed3e9a282954bf02904ac69de99b64c521a612e34e590a4390904298336b27a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e4f6a71ef81a2afe3923588df85a0d7a2ad183b1ef2d2e10fdf4a969550a9bb6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "免费的SQL→ER图表工具，在浏览器中运行，不上传任何内容",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T05:48:32.776Z"
-    },
-    "b4eda1681a73089a54191519c9d70859c4fcb3ba3520e3710da2ea0fb71958fb": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "62211d858853d48744c96352c35834a13bc0301eebadd6b86fd7751310ac28de",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本田思域与邪恶代客",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:32:47.817Z"
-    },
     "c1c871ff9c70d02d8ce3d13ff4315cb7ca951452962aa38cd93156c70d9e06e7": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -242,6 +220,17 @@
       "translated": "全球丛枝菌根真菌网络的密度和生物量",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
+    },
+    "06142fa555a923b1f004e017cd9c3c4d610a423578d68d6eb78fc9a11798c8a8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6ecd946b06ddb90e0f82d9f43a78a2ded8b1062b428c93433127eb416435900a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "第一个用于机器人技术的游戏引擎",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:08:43.838Z"
     },
     "949d80278d3ad9e082f183e7143d3f87566aa50d0d320fd6001e168199bd6858": {
       "targetLanguage": "zh-CN",
@@ -276,6 +265,28 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:16:55.288Z"
     },
+    "e31cc8aff326ac87be267c21159b4cad1351c4e2face21fa3a8cb05e390100dc": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "07a1fb06ae679833c7c6516c16ece71978fb67e6bdbe2d4d206a747a9335092f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "逆准则优化：主体科学的测试平台",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:08:43.838Z"
+    },
+    "40cc856b29f091e5b2641a2029048e679321d885cd5e22d3459bb71ccbb64ef8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4665c955b90db9f99c41b0e9dd2d8271ccda8c01b6cd002ad16bfb751cecb738",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "萨默维尔打入‘精彩进球’，荷兰队重夺领先",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:09:15.797Z"
+    },
     "8d8dc0bb666dc8e011186c2890e543590c114504b79dfd9e59348fdf6e5d9121": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -287,16 +298,60 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:17:14.251Z"
     },
-    "def81e63bb73946593659ea59fe284950876754ab176de9e55251b73e44fabf5": {
+    "1622bd90bab086a64fc03391b05ca361aa7b67ee906dc6f1568d1eaa0d0768d2": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7a09487fdd66b95b7db6b1b966e39c2be8f10490e8a351d41851afd86d01d622",
+      "sourceHash": "2c7d1be4c66ae3b00ec6e4e9fbcb800699b1ab585b5960e4b1892ba4af885f98",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "哈弗茨梅开二度，德国大胜库拉索",
+      "translated": "罗伊·哈特斯利，前工党副领袖，去世，享年93岁",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:09:15.797Z"
+    },
+    "573474be75308ae74995cdfd797eb2caf9e1da57c893a908564d6f89dca46069": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5cc23c4b1d6d139b34dcff2969421afafe5112bf8fa42372e547d3ddc5b13450",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "首相称新的社交媒体限制将结束‘系统辜负我们的孩子’",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:09:15.797Z"
+    },
+    "1b8f55cee4a270d0cf9e9dcdf59ed50f835f345f9bfdcb43d77c9e8dc52e51b2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "889f8b844657c5160f574dd3469acd38e50f4d13438e973c0fb19249ad7ee9c8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "罗伊·哈特斯利：帮助启动工党现代化的工党政治家",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:09:15.797Z"
+    },
+    "53ec7e4f81358e32785b57a3e15314996fc928b6d4c6f35b10e9774fe3a8b5b1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "91169138290fcf0e26401e8fa9c2db4a49cd834e1c8c6fc02e028f124492894e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "11名跳伞者和飞行员在美国飞机坠毁中遇难",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "34f306d96e31c23ecdd486ff4db7fc8ea9455a931ac63c2de86ae1f1503b19c9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b96ced9f3506334dd0e0a1cced7df28a8ab376e99b45743e83f2273a21aedd44",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "英国与日本达成180亿英镑投资协议",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T16:21:07.428Z"
     },
     "b7eb123a0dec99d6d66b607793230ed9eefff07727b74c541b75bf771a976323": {
       "targetLanguage": "zh-CN",
@@ -317,17 +372,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "观看：抗议者在G7峰会前于日内瓦与警方发生冲突",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:17:14.251Z"
-    },
-    "53ec7e4f81358e32785b57a3e15314996fc928b6d4c6f35b10e9774fe3a8b5b1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "91169138290fcf0e26401e8fa9c2db4a49cd834e1c8c6fc02e028f124492894e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "11名跳伞者和飞行员在美国飞机坠毁中遇难",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:17:14.251Z"
     },
@@ -474,17 +518,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:07.428Z"
     },
-    "34f306d96e31c23ecdd486ff4db7fc8ea9455a931ac63c2de86ae1f1503b19c9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b96ced9f3506334dd0e0a1cced7df28a8ab376e99b45743e83f2273a21aedd44",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英国与日本达成180亿英镑投资协议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
-    },
     "1cfc268d98f565bcd29842975de6e25fc08fe2db70fbacdcc2891706d4db691c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -506,39 +539,6 @@
       "translated": "青少年被枪击，公交车在曼哈顿被烧毁，尼克斯队取得历史性NBA胜利后",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T14:12:04.073Z"
-    },
-    "d0058aa0788c40285970db3a286e008226318abd1a61316a47a615df9dd53fee": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "feefc687aa999134433d2f4d5165099dbb55a664f05caacb04346a5e986e1d9a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英国皇家海军陆战队控制俄罗斯影子舰队油轮",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
-    },
-    "321da865856b07500ee908da2a47f741238e7f274e4227e307bfed8f56928918": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "826e9217d12f7a5fc465686d357ec44b6b22e5247b6c239f804b85a6e8b0431b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "前英格兰橄榄球队队长刘易斯·穆迪在确诊MND后开始500英里骑行",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:17:14.251Z"
-    },
-    "832b51215b23b126596ce453d8b5d6f44c7d7205de23abd00105d1807aa4ae54": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "eec0d897e0a96d2bd14c86347c572653c6ecf7ba41a82b19b8dc2977fe57c8e7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "观光火车侧翻致17人受伤，事发卡尔塔马小吃节",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:17:14.251Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2927,27 +2927,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
-    "0d4d5a155cd6a9c8b08b816e6683e99ae95e7549c76767e0fd1bca075e73690f": {
+    "47e81c99d2b47d75bdeb973c23ac08baed1526c5dba1dfda41502bb68bc7c9c2": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "5048ed297b2bb66c424426b795a76df625a74c86404d3aa3a141fc82c0442bbb",
+      "sourceHash": "ecf9f58d5f69d573452482f4b156b5f3c3d78e4b4b7e6aba8a857adb4b134803",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "伊朗战争实时更新：特朗普呼吁在以色列袭击贝鲁特郊区后保持克制",
+      "translated": "伊朗战争实时更新：特朗普宣布停火协议",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:18.550Z"
-    },
-    "99fd09d83b6a10fd1f5c6dda75d01a428f1b89230e27cb1b15bfcde1bf7933f5": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5dfffa6d326a153298dae8907582fc98c4f03424bc2cb2626f85fbf23ce9e742",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在以色列，对正在形成的美国与伊朗协议存在广泛不满。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:17:26.698Z"
+      "createdAt": "2026-06-14T22:09:28.793Z"
     },
     "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
       "targetLanguage": "zh-CN",
@@ -2959,6 +2948,28 @@
       "translated": "这是最新消息。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T22:03:51.783Z"
+    },
+    "302f901a78113e7b5cef798ea3198be78e4f5846210bdf6ef82b91c4a877e937": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "36ec24082e96b76348f36959b2a0b9cf64cb40d85164b019ba9708a706e378db",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "战争与世界杯",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T22:09:31.929Z"
+    },
+    "99fd09d83b6a10fd1f5c6dda75d01a428f1b89230e27cb1b15bfcde1bf7933f5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5dfffa6d326a153298dae8907582fc98c4f03424bc2cb2626f85fbf23ce9e742",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在以色列，对正在形成的美国与伊朗协议存在广泛不满。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:26.698Z"
     },
     "eea07c2b86a3b1bd1da6a7691b830e39042e543ad02d547a73adb62356bd8577": {
       "targetLanguage": "zh-CN",
@@ -3179,17 +3190,6 @@
       "translated": "关于埃博拉疫情需要了解什么",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:28:10.091Z"
-    },
-    "a6ed15a33087f50fd8117277f775e7b8b83a174a6c519ee0a32ebfcd481fe250": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a00e6e885b9583d84dc6c2098b56c72f972527ae684f04a2a218ab207515e837",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "瑞士应该将人口限制在1000万吗？由选民决定。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T07:46:36.536Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
