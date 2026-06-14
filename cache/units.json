@@ -1,6 +1,83 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "06231e171b6b706ec3dc5e9a593723c2140f5add348a6fbede2f7e633c072823": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "beb367991f973043e70452132c751289ea0c319650886e800185c28e4822f2a2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "一根透明的钓鱼线系在曼哈顿岛的周围。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:07.697Z"
+    },
+    "aff963b734b73d211c6c521a837561f6553a69da6a5ecab678abf928c31af789": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "92ec16b4a38294851c138d3b1be6f4c5d2250788a0da028901f6f9cf05749f94",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN: Kage – 将任何网站镜像为单个二进制文件以供离线查看",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:07.697Z"
+    },
+    "685493837649128c31876c6a7001f64eae6e4a31c3e8d1a632ebf6acbb1450fa": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0d4783bbdb8ada00c59861a231b2bd62fb35c7dc6e8e604f099e28e7a0020ff1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Dillo目录 – 在Dillo上运行良好的有用网站目录",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:07.697Z"
+    },
+    "26da593013cb609d185886b3dec3608617cc4c2bd3b24c5cf91f0d6fed9e4336": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "018dea45092c2e1686f0120823bfd776126c2597be759653ebc6da10f56723f1",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "FTX之前对Anthropic的持股按今天的估值价值约750亿美元",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:07.697Z"
+    },
+    "12b887da62606f1096cec6a1978d99be89c4b336fe7400f680150374b84ed32d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "736c277540afee4f14b7ad03fff7dd6bd286014b98785a050a20f5ebc0672dce",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "瑞士选民否决了将人口上限设为一千万的提案",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:07.697Z"
+    },
+    "29b67d18f9e2165b7ad0fbc2dab54b8ae8f2194a4529c3e35761b81e4dfc5df4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a6a261d09ccee28ab2c478b6e6d591b7bf6997d01447f61af8645bafc8e047cf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Ask HN: 你在做什么？（2026年6月）",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:07.697Z"
+    },
+    "e61ec53209768e39d7050fe2d41c3a9bca5bfc8a652da868f1035b877d2ec424": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "22857562a63aa819d140b007b58bd7e34dc8ef4e69704c62b6b3fd2f837bcb94",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Linux 7.1",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:07.697Z"
+    },
     "216921ca21e5439d75dc7bf7e13cf7ffedd76238684b8d444a92f7ee145602b0": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -23,17 +100,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
     },
-    "90944771ceeb215707ffa77d1bfe4a2b76e91be72037d4e35831f6170824c57f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "38263b500f21b3c38f27e781f62abfdf61b59fda0e560dde8fe027792901fb5c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "麻疹在犹他州激增，引发美国可能倒退数十年进步的担忧",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
     "fb2006aef4e8916403fbe50bbe44596b1f158fe36252343839998cba4a144e70": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -42,39 +108,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Perlisisms",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "792b3e9d96ab5327d5b08757a2ccc101c7116d9eb060bad92e785b3912f51309": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b410caaa62f6d34162cfbfd807ed54c408dd7b8a2be145482d48a8eee0f1e964",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "基于云的LLM淘金热即将结束",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "6303cf32c466f79da548b945cfce00b95ab8123e0794d73dd5104904dc2405a9": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9a80918579c922ee922d63b6b6b18df5b0b6540e69e0540c99f68bf3b74554c5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英国即将宣布对16岁以下青少年实施社交媒体禁令",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "2bff124d5647614953dd41461916b55bbb7d182d64ad1c4dae610adb00882bfb": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7cc147235fccccae75edce58ccaca42088a5e848a77dd4690f45057a2e2d79ad",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "美国母乳样本中发现危险的激素干扰化学物质",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
     },
@@ -89,16 +122,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
     },
-    "4afee7f7b34a503b540cebdea0f089c412bd9c3ea7955757bbd6235896264cb7": {
+    "943dfa59d76a87b8a35d95a82d563f18ca7853b1c2f8bfbfa3d85e9d24f4dbb7": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "6b225581a57417083d07b880f5a74eac754112632baeafcead4d8e6d2d803a7d",
+      "sourceHash": "2004b71546f9dc03a5b5decc8f2c29dae46d723d3b898aeacccbfc14b1e2c658",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "大西洋中的“冷斑”可能是AMOC关闭的征兆——CNN",
+      "translated": "大西洋的一个'cold blob'可能是AMOC关闭的迹象",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
+      "createdAt": "2026-06-14T18:12:07.697Z"
     },
     "624e1b10176c27317953b069366dfde9103c6aab43539c83b360f4ff61d02d98": {
       "targetLanguage": "zh-CN",
@@ -119,39 +152,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Show HN: 在RK3588S上使用NPU实现双YOLOv8n无人机检测，帧率达42 FPS",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "12429a14367e473cbd8ded2ea2e5f60df22c95993cd59547455120bb6c292aae": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e194f0a09b5e72b6f35491af5ef5e916fb963bf34f49465b24d8cee867fb583c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "欧盟委员会正在研究Anthropic裁决的实际影响",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "ed553d9e20297822338ac240fa0a593272bc08bfaa06292e616e7180598a662b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "446f600716b35672b1eece86b65cb88a6bcf68290bd731624de003dbbe12fa5e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "灭绝级资本主义",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "51727493ee40bbc3f0858ca3476e2c255b86b18166f116a12122a645063d76c5": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7b0d8409b05818d7a3d3737af300ec4895cddc3e654052832d0f1d9c58a2359b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "与一个六岁孩子关于函数式编程的对话（2018）",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
     },
@@ -232,17 +232,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T14:11:54.503Z"
     },
-    "43b4a6aa6779e500d1bad75a0c93e389eef365b3064bc42005478de7d7ed364f": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "95172649560900d4dd9c41354becf5fbebe5d77049f9fce1c2b30520b282445b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "不要相信大的上下文窗口",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:32:47.817Z"
-    },
     "3ed3e9a282954bf02904ac69de99b64c521a612e34e590a4390904298336b27a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -276,6 +265,83 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
     },
+    "949d80278d3ad9e082f183e7143d3f87566aa50d0d320fd6001e168199bd6858": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8278206078ddff23c83a4abfc9fb033b77704a133fb269071493448727d425de",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Postgres中唯一可扩展的删除操作是DROP TABLE",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:07.697Z"
+    },
+    "91ef1b3581c37f88b520f1488a29b589f250cc6a108058106511f8749ce1be9b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "732c13655dcfa405bad35c9b99a2bd075bcfa33c050143ab7c5c8b9d16576f55",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "英国电动汽车销售目标将减弱",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:14.460Z"
+    },
+    "07761ea415e6d79316fa2fdfe8e8e60902011da5e80cd8b734c600c92735f4f4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c5cf2dfd00f0fe34bc96afbc15e8602ff4bd8f7e04cf244a666901bf20ed458f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Mandhana和Deepti闪耀，印度击败巴基斯坦",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:14.460Z"
+    },
+    "c0c3d33659ed7a70260f15ffb4c1552d91cb3bbc7ee704608733f8068de01735": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b9fa0ba250557c0b5bb80eb280eee80df845becb87075f8d11ddc5c3b85ec6c7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "皇家海军陆战队在英吉利海峡登检俄罗斯影子舰队油轮",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:31.558Z"
+    },
+    "0c739673a7aadb69512a73383d1ab1c7bf79f1224f3eb81be6c138bf963a61ed": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "10b529d803780ed5293f50b0c4aa5ae56f100d73876bf28c1d537fe39427692c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "珀利桥附近天坑导致盖特威克列车停运",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T16:21:07.428Z"
+    },
+    "d50d1b8eb32d39559967accc55c162418657d1f01b886a82e410c1adfbe7d096": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "47d4619641b2f4330b8e63a548ffc89f9865d17b7d8d650dfd55532bb8c38067",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "皇马同意以5180万英镑收购切尔西的库库雷利亚",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:14.460Z"
+    },
+    "104e35b1ec11b672c31bac52722bacf44916b3ac454cc863738f9df7b47432e1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "93f63667f64625a41b6f251036a8418287cac1289eb0ebe0dc302af3e561054d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "格伦费尔九周年“特别艰难”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T18:12:14.460Z"
+    },
     "40d57499ad597900b697e5168bee4bea388fa2c0ee9fc1710acedacbecad6aa5": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -295,17 +361,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "法拉奇誓言禁止外国公民入住社会住房",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
-    },
-    "0c739673a7aadb69512a73383d1ab1c7bf79f1224f3eb81be6c138bf963a61ed": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "10b529d803780ed5293f50b0c4aa5ae56f100d73876bf28c1d537fe39427692c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "珀利桥附近天坑导致盖特威克列车停运",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:07.428Z"
     },
@@ -375,17 +430,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T14:12:04.073Z"
     },
-    "c0c3d33659ed7a70260f15ffb4c1552d91cb3bbc7ee704608733f8068de01735": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "b9fa0ba250557c0b5bb80eb280eee80df845becb87075f8d11ddc5c3b85ec6c7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "皇家海军陆战队在英吉利海峡登检俄罗斯影子舰队油轮",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T11:57:31.558Z"
-    },
     "d0058aa0788c40285970db3a286e008226318abd1a61316a47a615df9dd53fee": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -419,16 +463,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T14:12:04.073Z"
     },
-    "71f454fe1fd612830574a266c1ba41e3341044b430288a1aa27f596b65bdbe4f": {
+    "cf81e54f1d2ae37106a7df5f8bfc6745485f515e34ceb9432b51568297a0addb": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "54dd0d9173d9526cdc9abb01ab13a74ea23f67ffd699834c718829dd98f27f05",
+      "sourceHash": "ac1d11deb42337055f19f4b21be73a2ae268ffb5c2aef46b888fd219c7f4c221",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "日本能否成为世界杯黑马？",
+      "translated": "日本能否成为赛事黑马？",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
+      "createdAt": "2026-06-14T18:12:14.460Z"
     },
     "cce49991d07679c4a13ffc260dfb7dd53f816113d8892b411bb3b24218c569dc": {
       "targetLanguage": "zh-CN",
@@ -452,17 +496,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T11:57:31.558Z"
     },
-    "3fdcbe08e41bb031b158307ce6033c432b089f826c4838b3cf8bd76b9325303d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9856eeeeeb6d47f5dfb8ac27fb99dca2525a9fc399ea9ecc6c73525b727c831b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "男子因汽车冲撞保龄球馆被指控",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T14:12:04.073Z"
-    },
     "f12bf6ffe85c26ea4cd4f5f26bf4b74b1a461a9375e22775c1a03ffd00d21544": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -471,17 +504,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "南迪表示科技公司‘已有足够时间’，社交媒体公告前夕",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T11:57:31.558Z"
-    },
-    "252ba1cd621b39fc638992333cb7ebbe37f08876c32198e4ab0bc1b177fe1ef4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d1c0e76575db28fa41218a81c5b4a1ebb85a2883d44c5cadfc8460cca6042348",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "消息称索马里裁判被拒绝入境美国以领取全额世界杯报酬",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T11:57:31.558Z"
     },
@@ -506,17 +528,6 @@
       "translated": "让世界杯黯然失色的美国体育胜利",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T11:57:31.558Z"
-    },
-    "68841f26a8d3b030447772df2e8a67c0ef8b7223da7b7fec787d3a06d1dae0bc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a10610fa8da157449e8aade6197b66acc8fbb1c499b42ce1e86622c234eaecec",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "难民退出拜仁成为澳大利亚纪录保持者的传奇故事",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:11.936Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2927,6 +2938,39 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T22:03:51.783Z"
     },
+    "fdef4a02ab39c2ac4f20bec6cba1f2f81a01749a7ad6172a71fcf7660f4887e6": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "fd91b94c2adb6f25ed34af726d50bb0408a9b558d9f742e448110c58162a4407",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "以色列袭击贝鲁特郊区，与真主党战斗升级",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T14:12:10.766Z"
+    },
+    "eea07c2b86a3b1bd1da6a7691b830e39042e543ad02d547a73adb62356bd8577": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7d878f935f360f819c135db8deab312f0cabfed10bfe6342daaa8068766e8fea",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "僵持的战争：大国如何误读其攻击的地区",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T09:33:29.221Z"
+    },
+    "cfa5a81d327170277556306b945ac19bf3d48a6297989119c9a31c9652e468a2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "61698a6922fe088e4a175802548b0ea5de78e0ef8f91ef12f47251a25d755aa8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "库拉索是有史以来进入世界杯的最小国家",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T11:57:37.811Z"
+    },
     "bd29d8d297351c5825d04b3a1503fd986e58a8a30e3cb6f51c694d7b69c05a0e": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2948,17 +2992,6 @@
       "translated": "科学追求完美世界杯球场",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:28:10.091Z"
-    },
-    "fdef4a02ab39c2ac4f20bec6cba1f2f81a01749a7ad6172a71fcf7660f4887e6": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fd91b94c2adb6f25ed34af726d50bb0408a9b558d9f742e448110c58162a4407",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "以色列袭击贝鲁特郊区，与真主党战斗升级",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T14:12:10.766Z"
     },
     "5c296d953596e4baf9ac8adde77d39483a5986366d8c3c1d4fc42c8d35b3d66b": {
       "targetLanguage": "zh-CN",
@@ -3014,28 +3047,6 @@
       "translated": "足球草坪大师的秘诀",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:33:29.221Z"
-    },
-    "eea07c2b86a3b1bd1da6a7691b830e39042e543ad02d547a73adb62356bd8577": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "7d878f935f360f819c135db8deab312f0cabfed10bfe6342daaa8068766e8fea",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "僵持的战争：大国如何误读其攻击的地区",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:29.221Z"
-    },
-    "cfa5a81d327170277556306b945ac19bf3d48a6297989119c9a31c9652e468a2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "61698a6922fe088e4a175802548b0ea5de78e0ef8f91ef12f47251a25d755aa8",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "库拉索是有史以来进入世界杯的最小国家",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T11:57:37.811Z"
     },
     "208f6e4f692c4cbc3385ab5701c9d6f7d897064fb292e6155f48171c1512097e": {
       "targetLanguage": "zh-CN",
