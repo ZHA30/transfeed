@@ -1,16 +1,38 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "06231e171b6b706ec3dc5e9a593723c2140f5add348a6fbede2f7e633c072823": {
+    "e6b61df275e50ea77ddc7b34354613f29ff20c7b52b941d48a566e0e1bf24349": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "beb367991f973043e70452132c751289ea0c319650886e800185c28e4822f2a2",
+      "sourceHash": "44eb24235852a4fb21f3f469ac197ca93d45ac4102f96ab6be14a464965914ef",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "一根透明的钓鱼线系在曼哈顿岛的周围。",
+      "translated": "安全地将 Siri AI 带给欧盟 iPhone 用户",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:07.697Z"
+      "createdAt": "2026-06-14T20:16:55.288Z"
+    },
+    "fb4b58b850540a9ea8140c73fac75ccb0fb4c6687f3f975c20da4bd190a7e7d2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0500179f51a35803776a4a923d18c2624c3ed668185ffc213bbb0697612b5080",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Chaosnet（1981）",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:16:55.288Z"
+    },
+    "7c9105249bd75eeab652e75e42680ccbb1ca2c0f812a32e14aafa0812409f9ac": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7cae180e63400e96121239511ea63d91790a8cb3259a03248964d49e9ba315cb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "罗马沦陷，无人察觉",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:16:55.288Z"
     },
     "aff963b734b73d211c6c521a837561f6553a69da6a5ecab678abf928c31af789": {
       "targetLanguage": "zh-CN",
@@ -31,28 +53,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "Dillo目录 – 在Dillo上运行良好的有用网站目录",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:07.697Z"
-    },
-    "26da593013cb609d185886b3dec3608617cc4c2bd3b24c5cf91f0d6fed9e4336": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "018dea45092c2e1686f0120823bfd776126c2597be759653ebc6da10f56723f1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "FTX之前对Anthropic的持股按今天的估值价值约750亿美元",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:07.697Z"
-    },
-    "12b887da62606f1096cec6a1978d99be89c4b336fe7400f680150374b84ed32d": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "736c277540afee4f14b7ad03fff7dd6bd286014b98785a050a20f5ebc0672dce",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "瑞士选民否决了将人口上限设为一千万的提案",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T18:12:07.697Z"
     },
@@ -111,28 +111,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
     },
-    "e0eaec7ca565986c5ccc556ac500aa60848f344186474ce3ba3e19ae9b52bf17": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "73ec5e31e1d2e054dc8f13fbd146bf057cecabef359036360a9d016b53d82ace",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "不，并不是所有人都在用AI做所有事",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "943dfa59d76a87b8a35d95a82d563f18ca7853b1c2f8bfbfa3d85e9d24f4dbb7": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2004b71546f9dc03a5b5decc8f2c29dae46d723d3b898aeacccbfc14b1e2c658",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "大西洋的一个'cold blob'可能是AMOC关闭的迹象",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:07.697Z"
-    },
     "624e1b10176c27317953b069366dfde9103c6aab43539c83b360f4ff61d02d98": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -163,17 +141,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "FarOutCompany",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "3b1cc61e53cfdd6623789b4a0f74a91268af622fa590dc0ef2b1586f39512bc3": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "654b84f0e84300d4832574cdb45ba95bb4b7b9064aa249ec54716a7a06e36445",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "毕马威因明显幻觉撤回关于人工智能使用的报告",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:20:54.607Z"
     },
@@ -210,27 +177,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T14:11:54.503Z"
     },
-    "076829260eed2840ff3e5a4edb5646c350c232023e223840e6515f876ecc36f8": {
+    "7df3408e380d5edd849e26df41be4bbf527436fc0ba3a981d45bedc3c9b7f06f": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7a628f156711d263600e40b54de2515f4b671eeb0c153afdd4a16702fbd43d91",
+      "sourceHash": "561364b53b30ba9dcac5547db446e2292e09eb8c60edbaaf8cf82bf1a8caa51d",
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "形式化方法与编程的未来",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
+      "createdAt": "2026-06-14T20:16:55.288Z"
     },
-    "00e45738815ce97177e9bbb1bdad94ba28becb788583a23afd2aea41fc5e74ff": {
+    "975e906ef4bb9bc11930dbc5954ed1496a31509f5d5aa96d81f6583abcb73e87": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "ad859a3ce898def2278b840d0f935a56976b274f71c55119e4000621664b0904",
+      "sourceHash": "ad97b32fc4d9f24b24785cb866c94e3b8e2fce730e558096071095d3f231cd13",
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "如何赚取十亿美元",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T14:11:54.503Z"
+      "createdAt": "2026-06-14T20:16:55.288Z"
     },
     "3ed3e9a282954bf02904ac69de99b64c521a612e34e590a4390904298336b27a": {
       "targetLanguage": "zh-CN",
@@ -254,6 +221,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:32:47.817Z"
     },
+    "c1c871ff9c70d02d8ce3d13ff4315cb7ca951452962aa38cd93156c70d9e06e7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8f7bea9a23e74f4f8b3abe4bb7a2b069035ed7515967caa2b79e4bc7e039018f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Show HN：Trace——离线 Mac 会议记录，通话中可标记",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:16:55.288Z"
+    },
     "ccb4c01b06d85e3244717e20c3ecf9d186e56e8964a338b672a64c8d4f304d19": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -276,6 +254,138 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T18:12:07.697Z"
     },
+    "f08399b8a7e665fbfec2ffbb08cebeadbfef29d8a8afd9e33b27a944892e8b91": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d7844f98a842e35d5426c18a3bea8928bbac65c6da838816d8967ae6f1fb7857",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Lisp 对 Ruby 的影响",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:16:55.288Z"
+    },
+    "31c5c3f4228446046726cc3b8316f6b470b8940392093654e366d711d8b2f440": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8203479ccf6922b98049cdfae05a194de4bbe5e37d890fee62b99287f097fa5d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "分段类型欣赏角（2018）",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:16:55.288Z"
+    },
+    "8d8dc0bb666dc8e011186c2890e543590c114504b79dfd9e59348fdf6e5d9121": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7f4c8e16ed60e5df66a8ec7a22a427604e1a0e8da3c61bb60041490be14554b7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "辅助死亡议题重返议会，议员敦促同行'完成任务'",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "def81e63bb73946593659ea59fe284950876754ab176de9e55251b73e44fabf5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7a09487fdd66b95b7db6b1b966e39c2be8f10490e8a351d41851afd86d01d622",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "哈弗茨梅开二度，德国大胜库拉索",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "b7eb123a0dec99d6d66b607793230ed9eefff07727b74c541b75bf771a976323": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "ea321f7425146f21cecd473535c632a77890321290037a1d01d8099b50e7aa4f",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "法拉奇誓言禁止外国公民入住社会住房",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T16:21:07.428Z"
+    },
+    "5710b7c40799fb36d4d597da9e01d5dc0aec5f5993182f87f1359bf948770324": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "c1a4fa6b21f5cee6cecba782f583e5abfd92d62de56518bb3115d515b03e2e4a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "观看：抗议者在G7峰会前于日内瓦与警方发生冲突",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "53ec7e4f81358e32785b57a3e15314996fc928b6d4c6f35b10e9774fe3a8b5b1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "91169138290fcf0e26401e8fa9c2db4a49cd834e1c8c6fc02e028f124492894e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "11名跳伞者和飞行员在美国飞机坠毁中遇难",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "e61cb962d29f45db09f90f807531122ffdf1e59a1b6de27beceaaf5e72631cc5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d0d6d3ccb4385db7fecfead32ae38ed82c3869c2f22408ca2e13b7a069749513",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "英格兰投球手罗宾逊无缘第二次测试赛",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "c4003143bd2dec0c3a5644067f2bf0398fd42aa934664bf6890d2a3b44daa424": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5ec2ccbc810ef5fee15602ab7f99518946ab6c29a8a8c904f33065232ed12ffb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "汉密尔顿在法拉利的首胜是对自己和F1其他车手的宣言",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "9fcc1947c0613c43a49460ff78bd3e654903cbb1af57fe01c18b13e361af1cfe": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d5e7d25384e52c301ee4337ef68b9e9c2a9cd89845a3f4d9580bb00c22aa976a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "'新艾玛'——拉杜卡努从女王杯到温网可获得的积极因素",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "057f8872e333a78de24b8f7a3b930ca4c4a945ed9d3302e102ff5a1dd2f1b90b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "d9f37c24f990aedf1f55e07beb6e1c8ec2d4f5399d6e07a44dcb938bb8ae4dc4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "瑞士选民拒绝1000万人口上限",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
+    "102040fda61e4240dc40f1c073ef0159b12b851862f6b63f2fa713e7906ed173": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "6a3877bf6d9c35d5844b88a522be8aa21fea6834838585cb1359f05d6c72d555",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "雷暴威胁特朗普在白宫草坪的UFC笼斗",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
     "91ef1b3581c37f88b520f1488a29b589f250cc6a108058106511f8749ce1be9b": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -284,17 +394,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "英国电动汽车销售目标将减弱",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:14.460Z"
-    },
-    "07761ea415e6d79316fa2fdfe8e8e60902011da5e80cd8b734c600c92735f4f4": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c5cf2dfd00f0fe34bc96afbc15e8602ff4bd8f7e04cf244a666901bf20ed458f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Mandhana和Deepti闪耀，印度击败巴基斯坦",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T18:12:14.460Z"
     },
@@ -320,6 +419,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:07.428Z"
     },
+    "306d436462b7cf5b765f5fbd3e3233f8ca4ad5b80cd6326dad7a1b6884dbad85": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "aef1ed1c324e44f9cb5d05e77850558acaf5ff8b056c0df88197fb761fd655ac",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "苏格兰在首胜后将如何应对摩洛哥比赛？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:14.251Z"
+    },
     "d50d1b8eb32d39559967accc55c162418657d1f01b886a82e410c1adfbe7d096": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -342,27 +452,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T18:12:14.460Z"
     },
-    "40d57499ad597900b697e5168bee4bea388fa2c0ee9fc1710acedacbecad6aa5": {
+    "7247f22648f1d0e9858061626232bcc73a971ca975852ce809deac192308ba98": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2361a696d5d6bbebcd4ccc8f2409f3c2ab7ec2ecced24901e8027a5cf14e91b6",
+      "sourceHash": "201e82eb83aafc918c78eb1c6fcd74ae172205fbe15aaaa195cf343c0b1da5aa",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "2026年下载音乐节混乱场面：18张照片",
+      "translated": "议员坦诚讲述30年来的经期医疗保健斗争",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
-    },
-    "b7eb123a0dec99d6d66b607793230ed9eefff07727b74c541b75bf771a976323": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ea321f7425146f21cecd473535c632a77890321290037a1d01d8099b50e7aa4f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "法拉奇誓言禁止外国公民入住社会住房",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
+      "createdAt": "2026-06-14T20:17:14.251Z"
     },
     "c0c458fe57fedc440753055f13e164dab833fa51791cfead758927c2a2f27787": {
       "targetLanguage": "zh-CN",
@@ -372,17 +471,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "刘易斯·汉密尔顿为法拉利赢得首个大奖赛冠军",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
-    },
-    "e8f816410c84b73cd98ca926f64cfd01d39b9474a10eb29ebac79cdfed52978a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f99954b86f6081dcdc39e142cc6289c577138005abe284f9e6a1dd518dcedb14",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "汉密尔顿为法拉利赢得首个大奖赛冠军",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:07.428Z"
     },
@@ -408,17 +496,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:07.428Z"
     },
-    "b42e14e6d1c59d5cf3d503b56425687bfd796368a39bb640e044aa9de4d70d1e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "2703926367a31fc671bde0e2ebf5305437707e53f63952c0d0b90de692f1b6a0",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "拉杜卡努女王俱乐部决赛失利，冠军荒延续",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
-    },
     "f92c2c85e2433722a9679ffcbe0a73587cdba71c69d3de85761bea2d68cf6001": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -441,93 +518,27 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:07.428Z"
     },
-    "3ac3872843b66e54236835db10306a9479155e648768eca8008341b17f8cb3a1": {
+    "321da865856b07500ee908da2a47f741238e7f274e4227e307bfed8f56928918": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "38b25e6df578084d68f10462205829ce5ad226d42cf65e37c4d3257143088303",
+      "sourceHash": "826e9217d12f7a5fc465686d357ec44b6b22e5247b6c239f804b85a6e8b0431b",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "前英格兰队长刘易斯·穆迪确诊运动神经元病后开始500英里骑行",
+      "translated": "前英格兰橄榄球队队长刘易斯·穆迪在确诊MND后开始500英里骑行",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
+      "createdAt": "2026-06-14T20:17:14.251Z"
     },
-    "09974adb738d7286620fb17f1f34d8c965c18b951d83223b0f91480abe3812f9": {
+    "832b51215b23b126596ce453d8b5d6f44c7d7205de23abd00105d1807aa4ae54": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "d083ddbe5fea604719a15da68af3a96eac4aef9ccd3f7309ab58c563dd90ae15",
+      "sourceHash": "eec0d897e0a96d2bd14c86347c572653c6ecf7ba41a82b19b8dc2977fe57c8e7",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "在苏格兰重返世界杯时抢尽风头的20岁年轻人",
+      "translated": "观光火车侧翻致17人受伤，事发卡尔塔马小吃节",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T14:12:04.073Z"
-    },
-    "cf81e54f1d2ae37106a7df5f8bfc6745485f515e34ceb9432b51568297a0addb": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ac1d11deb42337055f19f4b21be73a2ae268ffb5c2aef46b888fd219c7f4c221",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "日本能否成为赛事黑马？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:14.460Z"
-    },
-    "cce49991d07679c4a13ffc260dfb7dd53f816113d8892b411bb3b24218c569dc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "9067ba17dc19233d02fadb7eae4f451921549b5f167b3e5fb80fd8c1a0f9e1dd",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "苏格兰球迷欢欣鼓舞庆祝胜利",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:11.936Z"
-    },
-    "7349860b697ab5b8c73a2dd470c6f29dfd1d98a4866c01cc8cdd2f462aeef105": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "06c917d5f95727d222fbbe920f179d705354ca1f8b32179bee2b59746152d31f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "瑞士选民否决1000万人口上限，初步预测显示",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T11:57:31.558Z"
-    },
-    "f12bf6ffe85c26ea4cd4f5f26bf4b74b1a461a9375e22775c1a03ffd00d21544": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "dfdd7f61090c9de66132a83babad86d3b892d4c8a8dee659c1aaa293a40df628",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "南迪表示科技公司‘已有足够时间’，社交媒体公告前夕",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T11:57:31.558Z"
-    },
-    "9011a6a4ffb76bfba5bc0a422e7b584383fcf65ece90253212ff349ff57187dc": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "a53b654f78ddde98ffe837c3afb38f9cabe17f578bfc2252d876e697c16f5ed1",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "比马恩岛还小 & 巨大的荷兰影响：库拉索创造历史",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:11.936Z"
-    },
-    "dd0a57fa182848b3230c2830005b5d76630cc2463ff677a3c2175fc05de30239": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d97a378294db29bc3b400174fc6756a2d937d1af6b5d49ab14966711d05d7045",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "让世界杯黯然失色的美国体育胜利",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T11:57:31.558Z"
+      "createdAt": "2026-06-14T20:17:14.251Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -2927,6 +2938,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:18.550Z"
     },
+    "99fd09d83b6a10fd1f5c6dda75d01a428f1b89230e27cb1b15bfcde1bf7933f5": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "5dfffa6d326a153298dae8907582fc98c4f03424bc2cb2626f85fbf23ce9e742",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在以色列，对正在形成的美国与伊朗协议存在广泛不满。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T20:17:26.698Z"
+    },
     "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2937,6 +2959,17 @@
       "translated": "这是最新消息。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T22:03:51.783Z"
+    },
+    "eea07c2b86a3b1bd1da6a7691b830e39042e543ad02d547a73adb62356bd8577": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "7d878f935f360f819c135db8deab312f0cabfed10bfe6342daaa8068766e8fea",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "僵持的战争：大国如何误读其攻击的地区",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-14T09:33:29.221Z"
     },
     "fdef4a02ab39c2ac4f20bec6cba1f2f81a01749a7ad6172a71fcf7660f4887e6": {
       "targetLanguage": "zh-CN",
@@ -2949,14 +2982,14 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T14:12:10.766Z"
     },
-    "eea07c2b86a3b1bd1da6a7691b830e39042e543ad02d547a73adb62356bd8577": {
+    "a5ff1eeba6dfb76984ec3b110db2f8e2b147701ca6dd5c9798cafb34f914aac1": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "7d878f935f360f819c135db8deab312f0cabfed10bfe6342daaa8068766e8fea",
+      "sourceHash": "e81a5bd0f6be718667fcebad89366236b024d3941cab1f3c1e9f78fca43db51b",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "僵持的战争：大国如何误读其攻击的地区",
+      "translated": "足球草坪大师的秘诀",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:33:29.221Z"
     },
@@ -3034,17 +3067,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "七国集团峰会受混乱困扰且因特朗普而分裂",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T09:33:29.221Z"
-    },
-    "a5ff1eeba6dfb76984ec3b110db2f8e2b147701ca6dd5c9798cafb34f914aac1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "e81a5bd0f6be718667fcebad89366236b024d3941cab1f3c1e9f78fca43db51b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "足球草坪大师的秘诀",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T09:33:29.221Z"
     },
@@ -3168,17 +3190,6 @@
       "translated": "瑞士应该将人口限制在1000万吗？由选民决定。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T07:46:36.536Z"
-    },
-    "c762be27192e49f8735b1c2babab9de0996713c7d6e45f96c3ab5503903d672a": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "adfd805dc48d230be276295ec96fcb3151bfae4ecd8e1aded9882a537dc6e50c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "未竟之事",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:28:10.091Z"
     },
     "2b00c5663ec74ed2fa4a2ee6095fc759c009e6328cff2149b05c3af5f6b7d29f": {
       "targetLanguage": "zh-CN",
