@@ -227,7 +227,7 @@ function formatDuration(ms: number): string {
 }
 
 function resolveBatchConcurrency(): number {
-  const raw = process.env.FEED_BATCH_CONCURRENCY;
+  const raw = process.env.LLM_BATCH_CONCURRENCY;
   if (!raw) {
     return DEFAULT_BATCH_CONCURRENCY;
   }
