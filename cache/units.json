@@ -1,6 +1,61 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "c3c8b846a5d56353b111537f86d3382deed94e616b593721a463334a6fab72a4": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "cfab1a35d2c7221aff0283cf970144ad007e002cacf412a4eb2894c676b59604",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "你的ePub没问题。Kobo有异议。都怪Adobe",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:07:57.598Z"
+    },
+    "0d846a2a49a9e3b204d2ce95f48bc9b28c4a5aa73ccafe184b723a1c5b7eb17b": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "4a7424f52ca8a77fe16360eeb95aecb08d5115c1805bc100c5e1920bf039e292",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "到底什么是食物的正宗？我们为何守护carbonara，却拍扁鸡饭",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:07:57.598Z"
+    },
+    "80da19b3e2b91e24b0ffc10c64eeaab23a19ab90abc0769729f1ececa8224cc3": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "e8f63179b138a8f02f5a5634bc55ebee44666b95bb7736793602cbbef382dcaf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "斯坦福毕业生在Google CEO Sundar Pichai演讲时退场",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:07:57.598Z"
+    },
+    "37f6aaf469c73804f27b4fa21d721608ac29f17996cae4c0aee6b812f7d1e679": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "a99ed70be0b7371fed22958304441bc52d6383feda5d86b7efbd314fa59b852c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Jqwik反AI事件",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:07:57.598Z"
+    },
+    "7ff49d2c138c573ab655e22b0a1d55b56ea180bd0c13e9fab27c33c93d41a06c": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "8b495ffb17032bf60d52133a8f4bd5bda752303edb329081e0428a42bcca68fa",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Anthropic难道要求这样吗？",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:07:57.598Z"
+    },
     "d81682c5de31163c68d2732b0eb277f05f3b96a314d8231e387ea5c8e19c5e06": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -12,27 +67,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T22:08:43.837Z"
     },
-    "22c4fff13c1fa7a28091ce5863bea825a1bbe66fb2830484d9f615a81e456e27": {
+    "020e28278db0178b27cad298c29e9e1810a4011da2a17ba86d946229ad1f982d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2f50607fed99ce18cfc2c5988c0f81a95741762d78b36b88e621e1c718ca7252",
+      "sourceHash": "4f903918e60af96729cae25d58222d99c3710b012dce1d5755225a458661e265",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Zinnia：一个用Rust编写的模块化64位类Unix内核",
+      "translated": "AI是代码——无法通过提示变得更智能",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T22:08:43.837Z"
-    },
-    "a71a28c994de6a9b4b334b6f7d068c499e5f73e6c7731ac0e23a9b42d17ac599": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6130c1679639b89cbf5a39dead235caef35759faf03b048a09ec9cb36623620f",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Vibe Coder vs. 软件工程师",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T22:08:43.837Z"
+      "createdAt": "2026-06-15T00:07:57.598Z"
     },
     "fb4b58b850540a9ea8140c73fac75ccb0fb4c6687f3f975c20da4bd190a7e7d2": {
       "targetLanguage": "zh-CN",
@@ -133,17 +177,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T22:08:43.838Z"
     },
-    "1d6ebab055a8c3773cdebb245fa5595e29504dd23639d413ab3c9fe6be02aa2e": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "c3f611fbfe80ddf4ab111f2cdcc6820c27ce47834b69c26f6d4c386f5cd1c785",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "并非所有人都在事事使用AI",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T22:08:43.838Z"
-    },
     "18d825229e51e91b6299ce7ffe38ca71f3e3e1710dce180b2ee6d2b0701a3b4f": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -210,27 +243,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:16:55.288Z"
     },
-    "ccb4c01b06d85e3244717e20c3ecf9d186e56e8964a338b672a64c8d4f304d19": {
+    "c59cac9cb36e457708c2a64ef508b3de47207f3e69661847da1763bc1ba0e754": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "743cdb455d0f31863acc3478b77d7e123f3d1f8cc785e1e5e5fbc5df405e7484",
+      "sourceHash": "67da5497100734b5feec3fe4af864bd090d66e15e171e8f638c4cdf903024261",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "全球丛枝菌根真菌网络的密度和生物量",
+      "translated": "为一个人写作",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:20:54.607Z"
-    },
-    "06142fa555a923b1f004e017cd9c3c4d610a423578d68d6eb78fc9a11798c8a8": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "6ecd946b06ddb90e0f82d9f43a78a2ded8b1062b428c93433127eb416435900a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "第一个用于机器人技术的游戏引擎",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T22:08:43.838Z"
+      "createdAt": "2026-06-15T00:07:57.599Z"
     },
     "949d80278d3ad9e082f183e7143d3f87566aa50d0d320fd6001e168199bd6858": {
       "targetLanguage": "zh-CN",
@@ -254,38 +276,93 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:16:55.288Z"
     },
-    "31c5c3f4228446046726cc3b8316f6b470b8940392093654e366d711d8b2f440": {
+    "bccf34dce895b53fd3c7c4eb557ab07a9cafe13abb85276fcc3a290df702c256": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "8203479ccf6922b98049cdfae05a194de4bbe5e37d890fee62b99287f097fa5d",
+      "sourceHash": "6d95b7fa764e919db7ec930b2ef1a6f3ef26ef138a8dd7aa66ba5e743e5d0e33",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "分段类型欣赏角（2018）",
+      "translated": "巴基斯坦宣布美国和伊朗达成协议后油价下跌",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:16:55.288Z"
+      "createdAt": "2026-06-15T00:08:15.955Z"
     },
-    "e31cc8aff326ac87be267c21159b4cad1351c4e2face21fa3a8cb05e390100dc": {
+    "94ea2892ed833a19384e0ae20350e96db03c88126ac1e02c47fe889df959865c": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "07a1fb06ae679833c7c6516c16ece71978fb67e6bdbe2d4d206a747a9335092f",
+      "sourceHash": "980b17605913a482b6c93edd705c696dd91bf24bc926800ae57b8a5d3d298c05",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "逆准则优化：主体科学的测试平台",
+      "translated": "本周夏日暖意回归，但部分地区仍有降雨",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T22:08:43.838Z"
+      "createdAt": "2026-06-15T00:08:15.955Z"
     },
-    "40cc856b29f091e5b2641a2029048e679321d885cd5e22d3459bb71ccbb64ef8": {
+    "0daa32859337d43b8e63322b13609a43b5784374e23972eae18d0bbabdad3ab0": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "4665c955b90db9f99c41b0e9dd2d8271ccda8c01b6cd002ad16bfb751cecb738",
+      "sourceHash": "f411ae59e8055bb25b3aff188b2c6660f538ab2630d5c3c204202ca4a0a4a412",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "萨默维尔打入‘精彩进球’，荷兰队重夺领先",
+      "translated": "陪审员、律师和社会工作者在无法进入的法院面临“韧性考验”",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T22:09:15.797Z"
+      "createdAt": "2026-06-15T00:08:15.955Z"
+    },
+    "2967a8dd3fcd9f4eaa83c222db07cd674c72e10c97dac5de25e4792fd5063af2": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "0939864c98ff713c8e6e452e04e0bf47a1d7385bd051edd380c5f7420d2825b7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "随着越来越多的美国企业主退休，许多人将企业出售给员工",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:15.955Z"
+    },
+    "1988dcc8e32bbb5f5826d7731b2e28f1446eb17eedcc313dcde8a6b6fd9618e7": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "322a9fa953720ffe89b7d408b613b304adb51a974cd5d9f811b01994dbfcccaf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "数百万人可以获得账单折扣 - 方法如下",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:15.955Z"
+    },
+    "45a1ced77dc5ad9fefeac6aa767471e8a598f8cc0ba13dd8c664b5fd6c62844d": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "56d08bc1ead3b3da98a412f9ae90a9a53b642abbc4fd4f4faa94555aee2eef9a",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "为什么你可能买错了痛经止痛药",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:15.955Z"
+    },
+    "8d93a7a18ee3073a2a4b65693213d47d19dd96c0cd1b625b2cd197e3526c92f9": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "737ab517ec1407bd787e2cc27462afe65c9ca80f76b621926c89103e76c7e121",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "日本两度落后两度扳平，最终战平荷兰",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:15.955Z"
+    },
+    "b987f9b0796fa1041d8820241e9f3fb3d2a1739959d85cc28c0818980ee2b1f1": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "859956f77b48c804dd30df05ba59a2c1f8aeada9f91f951e80d6772a54d648bb",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "斯塔默计划禁止16岁以下儿童使用主要社交媒体平台",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:15.955Z"
     },
     "8d8dc0bb666dc8e011186c2890e543590c114504b79dfd9e59348fdf6e5d9121": {
       "targetLanguage": "zh-CN",
@@ -306,17 +383,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "罗伊·哈特斯利，前工党副领袖，去世，享年93岁",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T22:09:15.797Z"
-    },
-    "573474be75308ae74995cdfd797eb2caf9e1da57c893a908564d6f89dca46069": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5cc23c4b1d6d139b34dcff2969421afafe5112bf8fa42372e547d3ddc5b13450",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "首相称新的社交媒体限制将结束‘系统辜负我们的孩子’",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T22:09:15.797Z"
     },
@@ -364,6 +430,17 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:07.428Z"
     },
+    "8f249be1fe571305947647e079606a8f59f7a12d671b42c21fd6a2787f9be879": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "b23da105d247024ee538afe761ff2fd69a3a4743fe472953573bd165c5e798d7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我们新生婴儿四年前夭折，至今仍不知原因",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:15.955Z"
+    },
     "5710b7c40799fb36d4d597da9e01d5dc0aec5f5993182f87f1359bf948770324": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -372,17 +449,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "观看：抗议者在G7峰会前于日内瓦与警方发生冲突",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:17:14.251Z"
-    },
-    "e61cb962d29f45db09f90f807531122ffdf1e59a1b6de27beceaaf5e72631cc5": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d0d6d3ccb4385db7fecfead32ae38ed82c3869c2f22408ca2e13b7a069749513",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "英格兰投球手罗宾逊无缘第二次测试赛",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:17:14.251Z"
     },
@@ -405,17 +471,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "'新艾玛'——拉杜卡努从女王杯到温网可获得的积极因素",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:17:14.251Z"
-    },
-    "057f8872e333a78de24b8f7a3b930ca4c4a945ed9d3302e102ff5a1dd2f1b90b": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "d9f37c24f990aedf1f55e07beb6e1c8ec2d4f5399d6e07a44dcb938bb8ae4dc4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "瑞士选民拒绝1000万人口上限",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:17:14.251Z"
     },
@@ -452,17 +507,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T11:57:31.558Z"
     },
-    "0c739673a7aadb69512a73383d1ab1c7bf79f1224f3eb81be6c138bf963a61ed": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "10b529d803780ed5293f50b0c4aa5ae56f100d73876bf28c1d537fe39427692c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "珀利桥附近天坑导致盖特威克列车停运",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
-    },
     "306d436462b7cf5b765f5fbd3e3233f8ca4ad5b80cd6326dad7a1b6884dbad85": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -471,39 +515,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "苏格兰在首胜后将如何应对摩洛哥比赛？",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:17:14.251Z"
-    },
-    "d50d1b8eb32d39559967accc55c162418657d1f01b886a82e410c1adfbe7d096": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "47d4619641b2f4330b8e63a548ffc89f9865d17b7d8d650dfd55532bb8c38067",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "皇马同意以5180万英镑收购切尔西的库库雷利亚",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:14.460Z"
-    },
-    "104e35b1ec11b672c31bac52722bacf44916b3ac454cc863738f9df7b47432e1": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "93f63667f64625a41b6f251036a8418287cac1289eb0ebe0dc302af3e561054d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "格伦费尔九周年“特别艰难”",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T18:12:14.460Z"
-    },
-    "7247f22648f1d0e9858061626232bcc73a971ca975852ce809deac192308ba98": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "201e82eb83aafc918c78eb1c6fcd74ae172205fbe15aaaa195cf343c0b1da5aa",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "议员坦诚讲述30年来的经期医疗保健斗争",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T20:17:14.251Z"
     },
@@ -518,27 +529,313 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T16:21:07.428Z"
     },
-    "1cfc268d98f565bcd29842975de6e25fc08fe2db70fbacdcc2891706d4db691c": {
+    "21a076311e8d5af6a59733ee34f874557c18f7bf8cb4435b590b2b7439e8fa1d": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "3fdcb7fe971d4957edfb9e066c9d9958a93191e35f0f726a8adafa47a07897f3",
+      "sourceHash": "a7630e97c1d0525430f458b14160fbb874727096970d6a916666b4bb89ee1015",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "特鲁多跳过加拿大比赛观看佩里表演，称“男友责任在召唤”",
+      "translated": "Wisereads 第147期——安吉拉·达克沃斯的《坚毅》、彼得·斯坦伯格和鲍里斯·切尔尼论循环，以及更多内容",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T16:21:07.428Z"
+      "createdAt": "2026-06-15T00:08:49.694Z"
     },
-    "f92c2c85e2433722a9679ffcbe0a73587cdba71c69d3de85761bea2d68cf6001": {
+    "adb0d15e1b09f6b90fb8b363916babf472e005740267451561c64cde58fd7267": {
       "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "fbf6eba624972c00d2364f264d113c9d47f13144a6cca9eaf7a0b326d7d2ee18",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "a7630e97c1d0525430f458b14160fbb874727096970d6a916666b4bb89ee1015",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "青少年被枪击，公交车在曼哈顿被烧毁，尼克斯队取得历史性NBA胜利后",
+      "translated": "Wisereads 第147期——安吉拉·达克沃斯的《坚毅》、彼得·斯坦伯格和鲍里斯·切尔尼论循环，以及更多内容",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T14:12:04.073Z"
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "503f381065e2ae01f65001686f5259b6846acc92d2e8b0c7f3bbce6c84d1cb11": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "45a78c4ab43cf13f3e361aaca39a2b5f5f6568c9c5e36200c8155eceaa059c98",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "上周，我们分享了史蒂芬·M·R·柯维的现代领导力指南《信任与激励》的预览。本周，我们将分享安吉拉·达克沃斯经久不衰的自助经典《坚毅：激情与毅力的力量》的预览。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "9dff7a19a2e9f386eb2396198de4d103f341f92161a0889f8c43d3176f125e07": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "5bd84601a2a843828cb6b314aa54419ca8e662b3b6309f879f9f97337df6d2f4",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "继续阅读，添加到您的Reader账户👇",
+      "model": "deepseek-v4-flash",
+      "createdAt": "2026-06-03T15:12:17.645Z"
+    },
+    "abf1010095cd403652797a74482802ffab9c47ca8f957ecb01c874b3654bf7c6": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "4e7ff0c7c913db10bafeb9ac439e562680ca9d811ce825863b17815c239e31bf",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "本周最受关注的文章",
+      "model": "deepseek-v4-flash",
+      "createdAt": "2026-06-03T15:12:17.645Z"
+    },
+    "454cd8b7e84b35ff98f628e685203434104b8d287b133873a7f107fa9f39a54b": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "d8ef469516bb3c0c9b59a984fa3a2df1c636caa12f0d5d894583014a3f95a7c0",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "当人工智能自我构建时",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "4d2f3b6468badc4c5b2ff1ab901679e7758554ba781455478eca1921eeeb4c4b": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "257e1ce4ec1eba15f8f830cff8f357130b53686c07ee919ec5aa8e6aaf942ec8",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Anthropic论证递归自我改进即将到来，并以自身代码库为例证：“截至2026年5月，我们合并到Anthropic代码库中的代码有超过80%是由Claude编写的。在2025年2月Claude Code以研究预览形式发布之前，这个数字还只是个位数。”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "949c09e0555687826371ae9b4f4d4dfcfa84bbf48d53856ec3f7f105dba634c2": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "ff8df8d4a836646f07a1fd54103df9b3ccff2dd15904901b4a88b5efec7c6622",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "大语言模型实际上是如何工作的",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "e90b2f0405e5334c1e3d7ed2d324e0df832c5a84ecb4f14fecfa8d4a9cd50b21": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "1d5702f8ea7b5cfa867161968e96b859b1cd4c802e53cfb3b871fcdba10f38b9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "0xkato在这份面向初学者的基于Transformer的大语言模型指南中跳过了数学部分，从分词开始：“经典例子：问一个LLM‘strawberry’中有多少个字母R。LLM过去常常答错。这不是模型计数能力的问题，而是模型不直接操作字母，只操作恰好拼出一个人类会逐字母拆分的单词的token ID。”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "f83bfb9fd1958cc2fa289128f76905e0ec32e0297a09c6f8a96b9f4e20780163": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "26e30e60e0aeb2fd71ca1d7f744dec19b91aff836dbca0d270ee48d882ed1a6c",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "不，人工智能并不具备意识",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "1648e4838bdf286e10f3b5a2f6578c2d1bfa1662c24430d81e192fee2c8e81e6": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "24fbb6214617ca4dc75f813cf99e49df1b2d3509bc6b32a61bbd7336e0e09966",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "科幻作家特德·姜（他的故事启发了《降临》）认为LLM是否具有意识的问题是在浪费时间。“对LLM具有意识的可能性持开放态度，相当于对Microsoft Word具有意识的可能性持开放态度，或者更准确地说，每个包含对话记录的Word文档中都潜伏着多个不同的意识，每次加载文档时它们都会被唤醒。”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "9c9a6a985b9dfdda63f503688d75d3a53a0041803ea819ddc8b9f890690fc5ca": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "28fa4e86d6fe7345bf5f363faff1b3cd5406e2d9c90b1417ab404854810050f0",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "本周最受关注的YouTube视频",
+      "model": "deepseek-v4-flash",
+      "createdAt": "2026-06-03T15:12:17.645Z"
+    },
+    "00db54a3f7c822c0bf93f9bdb9e057fd26c963fb94fee8a89910fc14f0dbf260": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "003439422a000895abf5e0b7af42c04b0fd8cad57b3d5eb52cf6b88329d251d9",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "我如何使用Obsidian + Claude Cowork来管理我的生活",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "3d4e1de16cfee206e4941bca58a690adb7052feaf2e7c31d65bf25ea78ee54fe": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "0bfaf433b17ae280b43d2a024b5b04b610088bf096529332e5a855d3adf68515",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Linking Your Thinking创始人Nick Milo介绍了他便携式的Obsidian + Claude工作流程，旨在避免工具锁定。“真正的目标是，你想拥有自己的想法、思维和AI工作流程，而只是租用实际的AI工具本身。不久前ChatGPT还是默认选择。如今是Claude。两年后还会是它们中的一个吗？”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "a7d2a2f2941f5bc844bb366db31cf05c05d04da5d76e8399b14010fdd19a6e29": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "a994632d4d905b5b10ee367260fa540501e2e5a199dcb715eb0211cba2500ffc",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "本周最受关注的Twitter话题串",
+      "model": "deepseek-v4-flash",
+      "createdAt": "2026-06-03T15:12:17.645Z"
+    },
+    "2a97edad4089928b83e62fc82006620da232a646715c1bbb2259f655df907bea": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "f91e64c460e45f3409032dc94674b7b28c6499c37b0d2786c9903c902ef70c43",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "循环到底是什么？彼得·斯坦伯格 vs 鲍里斯·切尔尼",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "cb7459194cd71d93cc3bca1c6cab7a91163d5875527fe7fc4b9e67f8ae4bb53b": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "bcd653e316f296b248cbdfc55c329ba08d6c1428f3f8d70e37e3b83f8edf3a7e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "Matt Van Horn解读了本周关于AI编码中“循环”真正含义的热议。“诚实的框架是，循环既不是新魔法，也不仅仅是cron。而是cron加上主体中的决策者，而有趣的工程在于围绕该决策的所有封装，使其不会失控。”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "fb2444d01ea91d42755c657eadd1cfef9126b3c57662d00563475970afe92150": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "fff518e3f1ee4b0d5243d87ff8d3658dbc7f90d2972a8d71e94433f8a876f78e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "本周最受关注的PDF",
+      "model": "deepseek-v4-flash",
+      "createdAt": "2026-06-03T15:12:17.645Z"
+    },
+    "945c73355a1a057f8446d1eccecb4c512aab2cfa83ef4180f53793286c2a5495": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "65bdaa5557433d22fe019bec65696d39039a7c159d81a933fabd1fe5281d6d01",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "如果大语言模型具有类人属性，那么《帝国时代II》也具有",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "eec3926297ffef1a0273561d22fd722b04cb4ef1494768da70edb1b0b42cfc93": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "b5b1b48738a6a3ac24c9fdc312aecc5d62cd437f626083d319aaad8eaa66726e",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "关于意识主题，微软研究员Adrian de Wynter解释了LLM意识的论点同样适用于策略视频游戏。“我们在视频游戏《帝国时代II》上构建并训练了一个简单的神经网络，并指出任何在足够强大的基质上的实体，例如乐高或大波士顿地区，也可以呈现这些属性。因此，LLM声称的拟人化属性在经验上并不独特。”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "5168f2ae808eaca88ee987d63c302ba6c5b87b07267aa35013ab0cc9acdddce9": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "bcb305bf58fc15d7caca4bac3cc0fe1eb31f7b4020e37e262f7a6628bd111bf2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "本周精选书籍",
+      "model": "deepseek-v4-flash",
+      "createdAt": "2026-06-03T15:12:17.645Z"
+    },
+    "ccd52ccc024b357914c433dcda61026c1e45738d5a68c51907b8cd2197131e6c": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "8c0b6ccead6cd1000919186160d7199f5a9394c6aeef399341fa612453dfcb26",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "《坚毅》",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "c9c66efe9b5807ab13b4458b548783e9fbe610a62ef9fa425eb3e7eea2ce6208": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "eeeadb4785406efb7b84d9e87c8ec7517b5d7a15bf4451addf2552c173a5f999",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "安吉拉·达克沃斯，麦克阿瑟研究员和宾夕法尼亚大学心理学家，聚焦于区分卓越成就者与普通人的心态。在《坚毅》中，她揭穿了天赋神话，并表明持续的努力才是通往精通的要素。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "ea62a7cee794f923b2ff42134ae0ae5d27ce1d1dd437f3e7a54f124079755c55": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "e988d69d65b778a514ec996aa63d92c4c8ff83728131f531053138266f0675e3",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "\"天赋 × 努力 = 技能。技能 × 努力 = 成就。没有努力，你的天赋只是未实现的潜力。没有努力，你的技能只是你本可以做到却没有做到的事。\"",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "23423d7392a52b37e4de6841fa344d1bb39f3b072d320dcdd94910a4e7498955": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "db9a9e746620da7b229227ba9900d4f12e7b114c97ec96128c27149d891a6823",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "如果你喜欢这个预览，你可以以2.99美元的价格购买完整电子书，限时在美国和加拿大各电子书销售平台有售。",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "983b22bf5cbaaedf063abfa50ac8bafd8c3f55e41b425999797650a271f3aedb": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "a4b1de81d4d27e8e2699b263cddc4490b7085f608ccc481c61615d3232a651d7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "本周精选RSS订阅源",
+      "model": "deepseek-v4-flash",
+      "createdAt": "2026-06-03T15:12:17.645Z"
+    },
+    "85873bac40cff3a957664657a62c032a11e1984c0f8a3e3007a4354670e248fc": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "8c0de3e336b6a0bb4b9e245f61ea08a0086c856df4343c4efe0999733ca264c2",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "小心，这位德国人！",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
+    },
+    "109dbed705742f68aeaabbfe229206000ccd8dd8007559a9a715bc60ebd9c0a8": {
+      "targetLanguage": "zh-CN",
+      "kind": "html-block",
+      "field": "content:encoded",
+      "sourceHash": "eab629854583799d018127e5898a9676347c7ff3266c98f304771c415c6bc34d",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "German的博客涵盖了从隐私、大语言模型到文化和媒体的一切。他最新的文章走红网络，几乎进入前三名。来自《多巴胺压裂》：“这是一个隐喻，因为就像实际的压裂一样，它对任何应用对象的长期健康和可持续性都非常有害，但在短期内，它可以产生非常强烈且集中的多巴胺（或石油）冲击。”",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:08:49.694Z"
     },
     "59f1ccef1005dd4560dbfc84365a4669c829c12dfe93f68bac49bccbe736d9e4": {
       "targetLanguage": "zh-CN",
@@ -572,28 +869,6 @@
       "translated": "上周，我们分享了《图书馆之书》的预览，这是苏珊·奥尔良对至今未破的1986年洛杉矶公共图书馆火灾的记录，也是她写给图书馆的一封情书。本周，我们将分享斯蒂芬·M·R·柯维的现代领导力永恒指南《信任与激励》的预览。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T05:50:37.499Z"
-    },
-    "9dff7a19a2e9f386eb2396198de4d103f341f92161a0889f8c43d3176f125e07": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "5bd84601a2a843828cb6b314aa54419ca8e662b3b6309f879f9f97337df6d2f4",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "继续阅读，添加到您的Reader账户👇",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:17.645Z"
-    },
-    "abf1010095cd403652797a74482802ffab9c47ca8f957ecb01c874b3654bf7c6": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "4e7ff0c7c913db10bafeb9ac439e562680ca9d811ce825863b17815c239e31bf",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本周最受关注的文章",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:17.645Z"
     },
     "3c17924bde14d03f274f7b591e9033543d972563fe7fc4167d00cbd3aafdf946": {
       "targetLanguage": "zh-CN",
@@ -661,17 +936,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T05:50:37.499Z"
     },
-    "9c9a6a985b9dfdda63f503688d75d3a53a0041803ea819ddc8b9f890690fc5ca": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "28fa4e86d6fe7345bf5f363faff1b3cd5406e2d9c90b1417ab404854810050f0",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本周最受关注的YouTube视频",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:17.645Z"
-    },
     "ac322d6cf82213344da72a7e32b32765d14758937c958e32bc34dcca32cfdcf7": {
       "targetLanguage": "zh-CN",
       "kind": "html-block",
@@ -693,17 +957,6 @@
       "translated": "喜剧演员柯南·奥布莱恩在哈佛毕业典礼上的演讲融合了对常春藤盟校的调侃以及关于成功与谦逊的智慧。\"我努力时刻提醒自己，我绝非独自完成任何事。沃尔特·惠特曼写道“我包罗万象”。好吧，我包罗了一个来自Tatte的早餐三明治和一杯好咖啡。但我所取得的一切成就，都得益于一辆满载无数人的小丑车。\"",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T05:50:37.499Z"
-    },
-    "a7d2a2f2941f5bc844bb366db31cf05c05d04da5d76e8399b14010fdd19a6e29": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "a994632d4d905b5b10ee367260fa540501e2e5a199dcb715eb0211cba2500ffc",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本周最受关注的Twitter话题串",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:17.645Z"
     },
     "365276935e33cdb9001682ba75dd8b561a9c32579746ebd348260aadb6b8efaa": {
       "targetLanguage": "zh-CN",
@@ -727,17 +980,6 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T05:50:37.499Z"
     },
-    "fb2444d01ea91d42755c657eadd1cfef9126b3c57662d00563475970afe92150": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "fff518e3f1ee4b0d5243d87ff8d3658dbc7f90d2972a8d71e94433f8a876f78e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本周最受关注的PDF",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:17.645Z"
-    },
     "e4df7b2c6f789b1f173d062b5e44fa77346f1916d88aed78989e5f640a7fbaf3": {
       "targetLanguage": "zh-CN",
       "kind": "html-block",
@@ -759,17 +1001,6 @@
       "translated": "Anthropic的手册阐述了AI原生初创公司的速度如何重塑创始人的角色。\"过去需要数月的验证周期现在只需一个下午。工作原型不再需要具备合适技术栈的联合创始人；它需要一个清晰的问题和几次与编码代理的专注会话。瓶颈不再是你能构建什么，而是你选择构建什么。\"",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T05:50:37.499Z"
-    },
-    "5168f2ae808eaca88ee987d63c302ba6c5b87b07267aa35013ab0cc9acdddce9": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "bcb305bf58fc15d7caca4bac3cc0fe1eb31f7b4020e37e262f7a6628bd111bf2",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本周精选书籍",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:17.645Z"
     },
     "1fb3e4169af0dcaa967e2fd7a3134e713e1ba73ca9302eac396fc48a6a3b8320": {
       "targetLanguage": "zh-CN",
@@ -814,17 +1045,6 @@
       "translated": "如果你喜欢这个预览，可以在美国和加拿大的电子书销售渠道以1.99美元的价格购买完整电子书，优惠持续到6月底。",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-08T05:50:37.499Z"
-    },
-    "983b22bf5cbaaedf063abfa50ac8bafd8c3f55e41b425999797650a271f3aedb": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "a4b1de81d4d27e8e2699b263cddc4490b7085f608ccc481c61615d3232a651d7",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "本周精选RSS订阅源",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:17.645Z"
     },
     "5e3496b3d03abf0948b1266b36cb3026fa354f47d12e0076a91740bacb02eeb2": {
       "targetLanguage": "zh-CN",
@@ -2696,247 +2916,16 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-03T17:10:16.192Z"
     },
-    "607418ac34b14ac7c4227e9e1a5e135f0f8103c3e78b1219b2a1602fae1af221": {
+    "b0a387c3246889875f2a6ade74633af805c4f2946f0b94399cbc95358136cc4f": {
       "targetLanguage": "zh-CN",
       "kind": "text",
       "field": "title",
-      "sourceHash": "2389a388a13de6488a1a2e34de780a1517222457c814dfd5e4568d9854b66552",
+      "sourceHash": "a1c5aa2cbf14a957218a7fa0844b8b42bac2535f7d584919389eb7c48ce96378",
       "promptVersion": "v1",
       "extractionVersion": "v1",
-      "translated": "Wisereads第137期——马尔科姆·格拉德威尔的《大卫与歌利亚》、卡尔·纽波特谈浅层思维危机，以及更多",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:00.212Z"
-    },
-    "51187ed816d54404e17fbd8cca84cc7d3685d8864ebce3a3b764a99d6d59bf65": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "2389a388a13de6488a1a2e34de780a1517222457c814dfd5e4568d9854b66552",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Wisereads第137期——马尔科姆·格拉德威尔的《大卫与歌利亚》、卡尔·纽波特谈浅层思维危机，以及更多",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:00.212Z"
-    },
-    "2be6afeb1f96b83c138d87927aa985d20223ac0c1592a811d5fff957c57cc9c3": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "a85cea2bcf512dfba57f4209d6e835087c7c9d843969fb85e8d26c450946cb09",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "上周，我们分享了埃里克·乔根森《埃隆之书》的预览。本周，我们将分享马尔科姆·格拉德威尔《大卫与歌利亚》的预览。",
+      "translated": "伊朗战争实时更新：美国和伊朗达成停火协议",
       "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "9bd03007105a50fb05ad0008bdf5ba7dc1a98e5c3af2f70e066bebf583bbca79": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "bff9811d008bcdf86f83f5eb7587e362a288f9790b6b79de19b9f52eaeef779d",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "技术削弱了我们的心智。我们可以解决这个问题。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "453b1bc7e2907acba5d2ec08edc46fa3aed119c01019fbe99d15858355c4d795": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "96033f3f38bc9404b460caa992f3dfdf03c1c665195cdb4619f99e5d8c11e767",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "乔治城大学计算机科学教授、《深度工作》作者卡尔·纽波特主张采取协同行动，在智能手机、社交媒体和 AI 的时代保护我们的思考能力。\"我受够了将我的大脑——构成我之所以为我的一切核心——拱手让给少数科技亿万富翁的金钱利益，或是过度活跃的沟通方式的短视便利。是时候摆脱对滑入认知浅滩的担忧，并决定采取实际行动了。\"",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "af8c10958ff1e200a0b6a2769504fd29b1fdd5a2508f8e12e6e144901cbb6077": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "434077520a8e8da66aaef5ea54e5be3c87043c6e95e6e000164f863046a45df2",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "关于慢他妈的下来的思考",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "bf3598b98b8766a7821c3ea523d2403b32ca5096e75b41945852e3962b36e158": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "0f18b61a0e9fec27f0095872191dfb6de42fdd4c9b7af02015fc10cace87163e",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "libGDX的创建者、资深软件工程师Mario Zechner敦促在使用AI编码代理时保持谨慎，警告无约束的自主性会创建脆弱、不可维护的系统。“在有编排的代理大军中，没有瓶颈，没有人类痛苦。你将自身从循环中移除，甚至不知道所有天真的小错误已经形成了一个怪物般的代码库。”",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:00.212Z"
-    },
-    "d608a64459dd566d41c8b71d4ce7dbce4defae270485da9d57b0b1fffa9cbc3b": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "d5e133068c715163a13447e1ab2af162be24b9775512cbe7c9a5cfba4d1b4d1c",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "我在旧金山看到了新事物",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "425b754f57ac5dd4711169aa476d15be92c08a1cbd610ae1fc8994eefe9dabd9": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "7245e9a1823b57e669c94443fa314e6458772231c1a128b6932fff64e59d9c62",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "《纽约时报》观点专栏作家、《我们为何两极分化》作者 Ezra Klein 思考了为 AI 写作这一日益增长的趋势，以及亲密且时刻关注的系统可能如何重塑个人思想和身份。\"让 AI 真正有说服力的不是它赞美我们的观点或见解，而是它以比我们最初提供的更有说服力的形式重新表述并扩展它们，同时将我们自身的精炼形象反射给我们。\"",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "a7bc9ab1d3c274343572f24285f1d8abb225ee2dc41745a2cbf81d24c573f730": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "5c902d6370acc6d3a5d1b4457d20e302a5e364891f2cac19f4a8a2ca9b913f14",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "走进 Claude Code：与创作者 Boris Cherny 对话",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "3fee140d4600c6d0fa9603b79ab02c36d4bf6d66137186af1d9057398d47168b": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "56b4ca0da96e872e571bbafda8ba2f24670a625cc7cd2a02bc9052de33842d23",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在 Y Combinator 的 Lightcone 播客中，与 Anthropic 工程师 Boris Cherny 的坦诚访谈回顾了 Claude Code 如何从快速迭代、内部使用和观察真实用户中诞生。\"说实话，看到人们如何使用 Claude Code 令人既兴奋又谦卑。我只是想创建一个酷玩意儿，结果它变得非常有用。\"",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "e1ddd7fc5513d64e601c2a5d850b2f7489718013a8fecafaa0580f57d0b3994a": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "0eed0b23c1a46a8896c60191478029b4dab16c8134efc7ec336c476a2ecb87be",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "从层级到智能",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "6d96fab3852b6b2a386596e5d1f3d6a104d6c6888a7cec453f076ee8748c1329": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "da1355c5d7a4ce9f0ed52d80d5ffbf1ad076b81278e924264a97c71b5d2e57ab",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "Block联合创始人Jack Dorsey概述了AI如何取代层级协调以加快公司速度。“一个系统首次可以维护整个业务的持续更新模型，并以前需要人类通过管理层传递信息的方式协调工作。”",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:00.212Z"
-    },
-    "cda939b6f859c39b83f720f17d09c7d7059a61bf6cd1fe2d77a0e87de5ccd9cc": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "79bfa3971d0aef642d5fe3b3eabd9ed53a5737cfb40186e6b2527920d1acffc2",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "幻觉站：关于基于 Transformer 的语言模型的一些基本限制",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "e1927fe78e8dad777cf225db19aa1297a9804b6c0d0a1379b49445832b73cf36": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "b75f25081d4f290b00717a0ef29dcc446f2740aa721031f41b2bf6b43e225006",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "斯坦福大学的 Varin Sikka 和 VianAI Systems 的 Vishal Sikka 通过计算复杂度分析了 LLM 的限制。\"我们的论点本质上是：如果给 LLM 的提示指定了一个计算（或计算任务），其复杂度高于 LLM 核心操作的复杂度，那么 LLM 通常会做出错误的回应。\"",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "44e80c03747af6f1b654515d754d8991e8a72e491bdd23d4a783c8750e9c390d": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "d9b485dceaf4c1a81e0926166044688b00cd541d881bef9418edfb04b5d954d3",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "大卫与歌利亚",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "528963a88c9d4a06a0514234f6630144b675de3e1e5cab7dd27e001252b401a4": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "41d090e0b01d710b2822c2717a2e215351a513b5499cfd615a0e368cdfb1f78b",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "《引爆点》和《异类》的畅销书作者马尔科姆·格拉德威尔重新构架了经典的弱者故事，展示了感知到的弱点如何成为决定性的优势。将圣经中的决斗与现代案例研究（从青年篮球到游击战）相结合，《大卫与歌利亚》挑战了我们对权力和优势的假设。",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:00.212Z"
-    },
-    "2cd83305c7e574c4afa0b34aa72a3f62e0209f4623d49b3f4a1f72e224f5d254": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "81c00e54cfd62d43a7ea90132200c99c18d8127e28c60227705771eb3501c8a9",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "\"我们将弱者的胜利视为不可能的事件：这就是为什么大卫与歌利亚的故事多年来引起如此强烈共鸣的原因。那么，为什么每当大卫打败歌利亚时，我们都会如此震惊？\"",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "1860c9e0aa2370934e4be312c51ec4e23046085cf72860c0d52cbd9f81a84fdc": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "5c825c047c6c8f497bd1ae71af5e420c8b27e3cd850965bc3e9190d446a31a3a",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "如果您喜欢预览版，可以在4月底前以1.99美元的价格在北美任何销售电子书的地方购买完整电子书。",
-      "model": "deepseek-v4-flash",
-      "createdAt": "2026-06-03T15:12:17.645Z"
-    },
-    "212dfdeedf28c2b4ce9fcecdb6c792fcdd3a1cb01430516ff994e7901683d377": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "af4660e5c6a4e20bea7a944173f498c0b3def90139dbe3141a1b384e800fe2af",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "无侧边栏",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "e8c65fa568865c32eda5bf7fa5466dc1574c9864b47a5258a4f338be9d53380e": {
-      "targetLanguage": "zh-CN",
-      "kind": "html-block",
-      "field": "content:encoded",
-      "sourceHash": "97bb06b712f7359ff4480534ca45336998f867c09017c45ab8e0bee0051fdab6",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "由 Brian Gardner 创立、Becoming Minimalist 的 Joshua Becker 管理的 No Sidebar 是一个协作博客，将简单和极简生活提炼为实用文章。来自《无所事事的理由》：\"休息不是进步的对立面。它是进步的一部分。它是你大脑重置、身体修复和创造力流动的方式。你现在能做的最有生产力的事情可能根本就是什么都不做。\"",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-03T17:10:16.192Z"
-    },
-    "47e81c99d2b47d75bdeb973c23ac08baed1526c5dba1dfda41502bb68bc7c9c2": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "ecf9f58d5f69d573452482f4b156b5f3c3d78e4b4b7e6aba8a857adb4b134803",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "伊朗战争实时更新：特朗普宣布停火协议",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T22:09:28.793Z"
+      "createdAt": "2026-06-15T00:09:02.873Z"
     },
     "e00886a03ab7db36266ade94b010d2edbdb427a9b5a04ebf5848b2596a86c55a": {
       "targetLanguage": "zh-CN",
@@ -2949,6 +2938,28 @@
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-07T22:03:51.783Z"
     },
+    "a29dce248c97d6e27ba3eae6e70acd6f49a725ac18fb50c8488d8b980c014ac8": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "f11e463812f2defae17074dbfd91a738bd0037f84a0b99defbb6e01a921bfcf5",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "在以色列，即使协议细节未公布，广泛的不满已存在",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:09:02.873Z"
+    },
+    "6a9988dfa0958a12df2aa67f77cf1e882be6f3161fdbb8438406527bacad9d36": {
+      "targetLanguage": "zh-CN",
+      "kind": "text",
+      "field": "title",
+      "sourceHash": "68633dbdeb9f3595d9413619a9dea353eb9d2c74cdd701e434e2a9ad927350a7",
+      "promptVersion": "v1",
+      "extractionVersion": "v1",
+      "translated": "特朗普声称根据与伊朗的协议，海峡将‘永久免费通行’",
+      "model": "deepseek-v4-flash-free",
+      "createdAt": "2026-06-15T00:09:02.873Z"
+    },
     "302f901a78113e7b5cef798ea3198be78e4f5846210bdf6ef82b91c4a877e937": {
       "targetLanguage": "zh-CN",
       "kind": "text",
@@ -2959,17 +2970,6 @@
       "translated": "战争与世界杯",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-14T22:09:31.929Z"
-    },
-    "99fd09d83b6a10fd1f5c6dda75d01a428f1b89230e27cb1b15bfcde1bf7933f5": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "5dfffa6d326a153298dae8907582fc98c4f03424bc2cb2626f85fbf23ce9e742",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "在以色列，对正在形成的美国与伊朗协议存在广泛不满。",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-14T20:17:26.698Z"
     },
     "eea07c2b86a3b1bd1da6a7691b830e39042e543ad02d547a73adb62356bd8577": {
       "targetLanguage": "zh-CN",
@@ -3177,17 +3177,6 @@
       "promptVersion": "v1",
       "extractionVersion": "v1",
       "translated": "埃博拉侵袭刚果最脆弱的儿童",
-      "model": "deepseek-v4-flash-free",
-      "createdAt": "2026-06-13T10:28:10.091Z"
-    },
-    "9edab3824c15fa8b0d2b64a70e1293d80831580cc772f085213ef590b4bb59de": {
-      "targetLanguage": "zh-CN",
-      "kind": "text",
-      "field": "title",
-      "sourceHash": "f44d0bfad367832b7cffbb67ef9742ce347977551c7c5a3ae65fac083a905ee5",
-      "promptVersion": "v1",
-      "extractionVersion": "v1",
-      "translated": "关于埃博拉疫情需要了解什么",
       "model": "deepseek-v4-flash-free",
       "createdAt": "2026-06-13T10:28:10.091Z"
     },
