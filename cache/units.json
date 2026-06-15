@@ -1,126 +1,6 @@
 {
   "schemaVersion": 1,
   "entries": {
-    "04b86fecf7083be6b76f597f60d47ef152e25be234cc3dca61a12fb5ea1e7b1c": {
-      "feature": "translate",
-      "sourceHash": "7e5cd0e2a9ef3dcf19f611dd4a2d39bec7b68ffa9f10a67a7b1ebce4e8d252f8",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Openrouter Fusion API",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T10:22:30.881Z"
-    },
-    "2949bf2be9b54b772f60c7c0f8a01714ae5aaaccd0829a6f4ab9b96619c6a70d": {
-      "feature": "translate",
-      "sourceHash": "29c180d23a79c1ae805819ae941bca6afb7ada7605e193ecf6b1fa01c85dde5d",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Dalus (YC W25) 正在德国招聘一名高级软件工程师",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T10:22:30.881Z"
-    },
-    "41faea5586eac323ea444935d1a1d3a7873e870cfc24ea824899711904252a61": {
-      "feature": "translate",
-      "sourceHash": "8627010ab9bec4a5c505da6adccd174ac7281304047a2ca7a9ebb5b2b9ece23e",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Curl 将在 2026 年 7 月期间不接受漏洞报告",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T10:22:30.881Z"
-    },
-    "99ec05a95d00a6113c8afd5e364d997b0b4073beedc7ecc41c9a559e15016890": {
-      "feature": "translate",
-      "sourceHash": "f4163651b83654091936cdcdf5ed9d6e80e753e72453e4c86ae7d7fa1b434371",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Apple 基础模型",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T10:22:30.881Z"
-    },
-    "cf68a8bb8d9a675e0522c4ab7d7890649ba0a548e908cd4c7b6470ed258f1f1a": {
-      "feature": "translate",
-      "sourceHash": "680f1a4f47ee2ca2b003beab88a392b818961f477a64070a127b03eb1bcb40d7",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Emacs 附带了更多内置功能",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T04:23:50.768Z"
-    },
-    "7a97b7b8a7c0cf4ba791d55f46a7af8a8f161a33a9a5f3aad4eb799705e85bbd": {
-      "feature": "translate",
-      "sourceHash": "04d6d97947a63b09bab20a8bc7fee8067b66cc6f9bbe1f8a7da9334548406c71",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "'分布式计算的八大谬误'发布21周年（2025）",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T02:49:11.340Z"
-    },
-    "12ed533329b0c98c36e47fbf0f3645850e5df2f425967f0629839a7219f1a945": {
-      "feature": "translate",
-      "sourceHash": "998985bbbcd0faff9bead10a205c8755a0581514daaa69330df25a497b42167c",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "您的 ePub 没问题",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T04:23:50.768Z"
-    },
-    "d9b8f31d2cb378c7a7db3e81598f901aed44d4ade5fc80a8075973750ff0df25": {
-      "feature": "translate",
-      "sourceHash": "92ec16b4a38294851c138d3b1be6f4c5d2250788a0da028901f6f9cf05749f94",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Show HN: Kage – 将任何网站镜像为单个二进制文件以供离线查看",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T02:49:11.340Z"
-    },
-    "89417d7f5b9a9a4d14444986963c2d02ff9d97f4c2e21e81393c8d5c39cf8ffb": {
-      "feature": "translate",
-      "sourceHash": "5c52c111dfa4f8c9d1c2710e1dfa2694ef1a6971c11f749a261c9635fc770284",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "里约热内卢的“本土”LLM似乎是现有模型的合并",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T02:49:11.340Z"
-    },
-    "e74f0a4990d8a6115719905524c42ea8883cf798c2d6384682554649717d4ca8": {
-      "feature": "translate",
-      "sourceHash": "762ecd13368e54494da98386536c0fe6e49ac863ecc844279fa7e1b7819617e5",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "探索构建一个微型的 FUSE 文件系统",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T10:22:30.881Z"
-    },
     "a012e30ab058b6a07d07a6143fa54740dad2986d7ed77c1cd7e6cd65a0953ea8": {
       "feature": "translate",
       "sourceHash": "b95e2f8fe09799a8592ff6b43e9770a83d86f977bdce989daeea40ceefcb0784",
@@ -157,59 +37,11 @@
       },
       "createdAt": "2026-06-15T16:16:44.377Z"
     },
-    "b6ba26af87795763fb4de9dd80bfbc3cd556e6010dce319a2144dea192ed776b": {
-      "feature": "translate",
-      "sourceHash": "adf8c760ec9aa4c566b8679bce69197c2b5e5cef4057c7edbb38c05001f25888",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "福克斯收购Roku",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:16:44.377Z"
-    },
     "3706eed07e920c398b1bba1fefafaa3d055bdb23406101ab6d53fc7b8bf01850": {
       "feature": "translate",
       "sourceHash": "1d07bd647ca8e658bd29dfe25a31787431d35a85fe43bc29292af6e969265cdb",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
       "output": "铜转运药物恢复记忆并清除有毒的阿尔茨海默蛋白",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:16:44.377Z"
-    },
-    "8b9847666070ce86396dfd78622bcf242585847b5f384c464142442d0672a56f": {
-      "feature": "translate",
-      "sourceHash": "10ce2dce7bbea8ac1b171b5eaa7f7a4919ce5810fcade8e257fd94b43780d3fb",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Hetzner将专用服务器价格提高3-4倍",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:16:44.377Z"
-    },
-    "d2952783bfeedc43841f196a62f357b7657003e713e908bf3c519424b4cfd8a9": {
-      "feature": "translate",
-      "sourceHash": "430bfebf42ad3e8637bacb6a890db921f28f4d69983956cd6710adfe20f0af2f",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Show HN：欧洲能否利用其拥有的计算资源训练前沿AI模型？",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:16:44.377Z"
-    },
-    "1607d0a10a8c561fb35b068b38312b286d97a6024e626ccbb912f12003bac174": {
-      "feature": "translate",
-      "sourceHash": "2b67b4ab30eb6f575f378e68aea74517ff43183f6fe66d01465f84a1a9ba44b1",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Google飞行模拟器",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
@@ -229,41 +61,41 @@
       },
       "createdAt": "2026-06-15T16:16:44.377Z"
     },
-    "e504757890d399f04ef91cbb4080769b63241a888babae7979d4d0d31af3ae32": {
+    "04b86fecf7083be6b76f597f60d47ef152e25be234cc3dca61a12fb5ea1e7b1c": {
       "feature": "translate",
-      "sourceHash": "44cc65714e8862c1bc49a919e813afc17b0e2dfe4184b21fc5a6050ced6d606d",
+      "sourceHash": "7e5cd0e2a9ef3dcf19f611dd4a2d39bec7b68ffa9f10a67a7b1ebce4e8d252f8",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Salesforce以36亿美元收购Fin（前Intercom）",
+      "output": "Openrouter Fusion API",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:16:44.377Z"
+      "createdAt": "2026-06-15T10:22:30.881Z"
     },
-    "86509bf8bb24c975d0d201d682c24713d4b0e5ca77abea464cd4911d4e90ea3a": {
+    "99ec05a95d00a6113c8afd5e364d997b0b4073beedc7ecc41c9a559e15016890": {
       "feature": "translate",
-      "sourceHash": "fa082590b58cb73e37a0a9b0decae1f1f0813e9520b71e4fcd834378ebf2e586",
+      "sourceHash": "f4163651b83654091936cdcdf5ed9d6e80e753e72453e4c86ae7d7fa1b434371",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Show HN：我纯手工用C++编写了光线追踪器，未使用AI",
+      "output": "Apple 基础模型",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:16:44.378Z"
+      "createdAt": "2026-06-15T10:22:30.881Z"
     },
-    "4cad640c265e00dacff8a459b5f5b2cfef1dde7f48847fc6daf9001b39551c03": {
+    "cf68a8bb8d9a675e0522c4ab7d7890649ba0a548e908cd4c7b6470ed258f1f1a": {
       "feature": "translate",
-      "sourceHash": "977bb9700cc36496b621fa73b1310e0b882397593cce47abf8253ce8a1b98640",
+      "sourceHash": "680f1a4f47ee2ca2b003beab88a392b818961f477a64070a127b03eb1bcb40d7",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "裸盖菇素成功治疗阿尔茨海默病",
+      "output": "Emacs 附带了更多内置功能",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:16:44.378Z"
+      "createdAt": "2026-06-15T04:23:50.768Z"
     },
     "c5cd463702941c2922f0473f637d9ed8dd071fa4ac33026efc696832a4b956fc": {
       "feature": "translate",
@@ -277,29 +109,209 @@
       },
       "createdAt": "2026-06-15T16:16:44.378Z"
     },
-    "f8c6d0437bf96566ddb182f68b6b06047907c268d5c43b0331541fda3b7df357": {
+    "1e7b1de1214b381d423bfe4be10502098f6f3f8396c4e7f6fa29a73e7fa12fca": {
       "feature": "translate",
-      "sourceHash": "654110e72884c20915853a96b52c5681c41a16d9efd0b9f8ff26b8be25087b2a",
+      "sourceHash": "fef8318ac40cf1dad94c3f11a83d7183c08de53a8090547b4fe05f373f30a872",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "如何构建虚拟细胞及生物学缩放定律",
+      "output": "美国政府据报道允许联邦数据中心规则到期",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:16:44.378Z"
+      "createdAt": "2026-06-15T20:25:48.433Z"
     },
-    "96e37cd6d4b550ba8892135f782ee30c5fd66d97352b0036fbfbd50998950228": {
+    "1f2bbccfe00515995964574f0d79c8de9a880197250848778ef49f99de566efe": {
       "feature": "translate",
-      "sourceHash": "22dc1c2e07401d110c23e7b5b9298197d4be1d75d8f1b5ed7ef7aff64025c2ad",
+      "sourceHash": "6f24e0b174838ce742b0957e21f3cb52863630577ef98799e04405feb724b75f",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "将我的C游戏移植到WASM，这里是我遇到的所有bug",
+      "output": "LinkedIn招聘信息中的后门",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:16:44.378Z"
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "82f0132c11c5aa62d5346b348922afbc00863c39af8fb252d8977fca8fa3eea8": {
+      "feature": "translate",
+      "sourceHash": "d27a2f37425706b3397d709d6b152354438999a947d6907dafb35a0839fe3210",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "阿拉斯加服务器",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "479bb55ef8bc77e7db6680f38bc34a3de6c18aead65ce2bb6a920741b2415ae3": {
+      "feature": "translate",
+      "sourceHash": "4d3d3642c62f6071d0db41d09f81badd1dfd48bbfec5a07953d898ac69f89333",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "游戏引擎白皮书：指挥官基恩",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "5bf9452de9efc456889daa494bf339e0144d9e651fd069de9542620cc01c3ff0": {
+      "feature": "translate",
+      "sourceHash": "d8439f98ee0bdd1a23a55da4239d66f19148191dd2e1116e3ac7dfc1f9b69910",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "TimescaleDB如何压缩时间序列数据",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "18d782c5083ed86f4ba3eaa6c1cef54e7312ff7ced667c3124b3717a69c9ea6a": {
+      "feature": "translate",
+      "sourceHash": "ce04aafafed8ad5cae1711085f1b7b39ecbd4cbf10481b5b924353aabad270c0",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "Typst 0.15.0",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "0a52fc055f9523a59c49eeaa9ee3a888226a20677f45e49a97c7c7081a77f1f1": {
+      "feature": "translate",
+      "sourceHash": "18cdaa8ad279873a5b17c66de06591525c0637e60c26d96c0b27a8003429af86",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "发布HN：Drafted (YC P26) – 住宅建筑模型",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "57ae1ea46ecb03758121d7ea00ade39ee3d1c98e28006c834e46e2b662e5089f": {
+      "feature": "translate",
+      "sourceHash": "f22acb27959d04931b70026ad902cdba9a79aae6bfa31f1831f6fbca1cc10064",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "TinyWind：一款具有真实风力物理的像素海盗航行游戏（已航行超过38万公里）",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "259d1598f86cf6f3e4b29d076dd202fa7b035eecf12d8c0b4613be274964c1ca": {
+      "feature": "translate",
+      "sourceHash": "4e5c4d00b866770ebbecbcaf023fe6067c7cd9f75235fb49b8cfd88715837f08",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "Rust与C/C++之间的内存安全CVE有何不同",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "0b5b90640721accd2de30f3698cf1604326f577fbd8619daef89fe666c16bdf3": {
+      "feature": "translate",
+      "sourceHash": "73d9beb369948fd789a6cc2ec8f05bd2b93f59ae14ac0a172cb1d6607d8049d2",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "裸启动Linux",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "87590201d75a929a005b50e139c126588f3b11ca6252863363520121d73bfc74": {
+      "feature": "translate",
+      "sourceHash": "57971be77e2aea0112a489e66f4660cfa3d532440d0a104b5176b4df0ce42f83",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "展示HN：machine0 – 可通过CLI控制的持久化NixOS虚拟机",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "6ef09a11676f17ad205ced1015ee0e9bb4865689c3b30d3f6842ecc029d2f3b3": {
+      "feature": "translate",
+      "sourceHash": "ad8b9b4ac64b052168cc456cad4c7d74c87c0e6eb06a5c732f2f53e97e93d432",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "询问HN：有人用本地模型替代Claude/GPT进行日常编程吗？",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "b83a9c0fdb115de0e83f5cc6e8c3fcac2df78289b2ba5aa8080338e2f1889703": {
+      "feature": "translate",
+      "sourceHash": "5c29c3140b65778b0f86440ebc091960d83d285e8dcba8d833963c11c7d4e8ea",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "欧洲能否用其拥有的算力训练前沿AI模型？",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "418cca27049ee360d8265d00aeb39c2932ce65f4accb207fdb8c0585d72f36ba": {
+      "feature": "translate",
+      "sourceHash": "24c13eaca3d737ca14b85367e86bcde5882ecd650d8d0f0e188e364df52920e1",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "Hetzner价格调整",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "d0561e12b72df5fbbcf60d78d95c54fdd5851a17245be2b17d5baa7a83b4dde5": {
+      "feature": "translate",
+      "sourceHash": "396c4598491c0a772adc3e3148171533e98ce51f2f4011b02177fe7991964828",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "Fox将收购Roku",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "536603fd12e83f33a99150f9b825646f20871eeef835eddfa3e8ef75cc33d6e1": {
+      "feature": "translate",
+      "sourceHash": "fd447236efbd779340bcbc24948ac5edaf5419e61f999dabf39214d305f150f0",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "高剂量裸盖菇素后晚期阿尔茨海默病的改善",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:25:48.433Z"
+    },
+    "c9cdb4c46cd9c26fd1061c1aa32869a72439b8dc93b3dba0d52b030de7a7b96a": {
+      "feature": "translate",
+      "sourceHash": "882b88fe98c053b1294f73ddbfb5e94288e48377fc481944fb47bcbd4cd8dd14",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "社交媒体禁令——大胆直接，但非灵丹妙药",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T16:17:00.406Z"
     },
     "527f2b9b0b4e9a0ebad887d9da21aa221c1f251c5b1ab36d811046794d37d8ec": {
       "feature": "translate",
@@ -318,42 +330,6 @@
       "sourceHash": "8280c318e40795230f33e470f94c5b3a4e6124c588d7a1793982afc6eea97344",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
       "output": "教师因性侵和谋杀收养婴儿被判有罪",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:17:00.406Z"
-    },
-    "f5a99b9e718272d4d1e05e802e05b5d9da3c2e261a65fdb578580749b5ba6f51": {
-      "feature": "translate",
-      "sourceHash": "be5d4f2a15f34d30de418955b094b0959170e0b9136a083930599fff691b2d60",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "狼队任命葡萄牙人佩肖托为新主帅",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:17:00.406Z"
-    },
-    "18334374b5a41406b5d932b85360a38e1f664bd93fe2aa2db06355e6a804f9c1": {
-      "feature": "translate",
-      "sourceHash": "19751523beef56143090b0910016f44f15f469e1f700d7d1bb550da8c48ddd0b",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "小测验：说出这些顶级国家的主要得分手",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:17:00.406Z"
-    },
-    "7340c066cc9fe124d3252082d69165cb3ea44b7afc520cb253482ce42d7454e6": {
-      "feature": "translate",
-      "sourceHash": "ef22533fd0885c1a16e4a4ef363815e93c86f439ee4aa99b2c16b6d2b0f967bb",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "美伊协议如何影响油价和食品成本？",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
@@ -421,30 +397,6 @@
       },
       "createdAt": "2026-06-15T16:17:00.406Z"
     },
-    "2c285737ca97060f2b028297db35bedcb41cf6a908c8a4238c23e0feeb5b8fe7": {
-      "feature": "translate",
-      "sourceHash": "51e7d1b940d7106338e3e635b73c0a359c532f87296272423e23c782ac2648b9",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "假九号？4-4-2？截至目前定义世界杯的战术趋势",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:17:00.406Z"
-    },
-    "c82833de378aa6f6de0253d5baeebdc2810c45e3773763f9e00dd45527d478bb": {
-      "feature": "translate",
-      "sourceHash": "8b3628956979917be5a978de9c23c3467db9daba55c12d2905a596fc7f589316",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "改革党承诺对雇佣外国工人征收新税",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:17:00.406Z"
-    },
     "2a5addb118ed6c990db1c6269e677b9620264a5253d42da0551d5ca4e2e6c000": {
       "feature": "translate",
       "sourceHash": "e198f6667cecc9a0e6b108748df83f7a4d29c04d13fe1d2cb3fe00d504fd63a5",
@@ -493,101 +445,149 @@
       },
       "createdAt": "2026-06-15T16:17:00.406Z"
     },
-    "c08af32a795593c452b19bf73c79b8f60bc54c29e7a7cdaf39b5d55a894fda39": {
+    "e0a75cb53db3af4c555eef6d98396827aee9c5bc426562f1d7e0b40e150d3e1a": {
       "feature": "translate",
-      "sourceHash": "d89f28a7a323bea1067f92fa2e86cf9d47b36fdf127a6a4b27dc0f084b340b20",
+      "sourceHash": "d0a34f7a325986bfa1d6b988e065b998ccc50e3eeb8e378e99c7a5979b22e64a",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "上诉法院裁定，禁止巴勒斯坦行动合法",
+      "output": "美国空军B-52轰炸机在加州起飞后坠毁",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:00.406Z"
+      "createdAt": "2026-06-15T20:26:17.914Z"
     },
-    "c9cdb4c46cd9c26fd1061c1aa32869a72439b8dc93b3dba0d52b030de7a7b96a": {
+    "852a01d05db413cb77a0f6245e1819abf5f87348e56bb1e9827248c93970f365": {
       "feature": "translate",
-      "sourceHash": "882b88fe98c053b1294f73ddbfb5e94288e48377fc481944fb47bcbd4cd8dd14",
+      "sourceHash": "8847ba6b37c6d50dbd9ec5d5b176afc07514b5429766e6d3ca372b950ecbe1b7",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "社交媒体禁令——大胆直接，但非灵丹妙药",
+      "output": "俄罗斯影子舰队油轮船长在英吉利海峡被拦截并遭起诉",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:00.406Z"
+      "createdAt": "2026-06-15T20:26:17.914Z"
     },
-    "62af2f4780ce466af2101be663d7bbe8671ffe1efa1f8021e5d8491d90cca118": {
+    "569743530cd1a1841da5775ea036e4408d377b4b24d653307d0d7ce9a983f22a": {
       "feature": "translate",
-      "sourceHash": "bc9c191e0de88830bc79fe3a546b0c2cc629915891ff93273661288f32881cd3",
+      "sourceHash": "578e9cb7603cea6035b9f7dbcbe20b44de18e4f556cbf60fbb5112cf8b573f98",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "英国宣布16岁以下社交媒体禁令",
+      "output": "Americanswers……在5 Live上！特朗普80岁生日时是否还适合担任职务？",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:00.406Z"
+      "createdAt": "2026-06-15T20:26:17.914Z"
     },
-    "1ca99ae145941304d7b2e8d4e3274f77b49e8f1396a7c2f7d03cf17e11d35469": {
+    "772a679c2611abb14a18603c01800821af18d05b15ab5f44cf4b04ac19bed58f": {
       "feature": "translate",
-      "sourceHash": "a6cd773bc2c67e1f7a52b8e3eaadede253b165aa0d13222d3a5aba3e530c6cf0",
+      "sourceHash": "bf8f4cf8c8563c856f839e99e48c5e977d0feb01444bd36510c51adb7015c28b",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "斯通斯从退役边缘到世界杯“纯粹的快乐”",
+      "output": "SpaceX IPO筹集资金比预期多100亿美元",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:00.406Z"
+      "createdAt": "2026-06-15T20:26:17.914Z"
     },
-    "bf6de8f18b07a1ef94e22374b6909c4dd188c7b2ba1b35a86dcf62aae6887b6c": {
+    "f26912fda43bf7c0200b0a58329c6b6c4542250931a058a966c784a9818408c5": {
       "feature": "translate",
-      "sourceHash": "df3afb3bc55578ca2d353d27ca7027e8388416f67cfba3ba470ba868c02b66d5",
+      "sourceHash": "385f7bbcc868a83a3f263491a83562f7e71aa5fb4bbeb2a42af9276c95fda10a",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "法国球星姆巴佩在批评后誓言加强防守工作",
+      "output": "沃兹尼亚神勇发挥帮助佛得角零封西班牙",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:00.406Z"
+      "createdAt": "2026-06-15T20:26:17.914Z"
     },
-    "d0b4860f09e87b7b9602710006c920511c472640e207b308b1cf460d07b2ff0e": {
+    "4a7659a0450ba6a2ea754a9acbc3f824f9e6310d4439fec1c5daae304a9002cc": {
       "feature": "translate",
-      "sourceHash": "b7ff0e42caf175ac0550b6e742e0e89079107d6d15f979efe4b1329d15198f7f",
+      "sourceHash": "7b4c4b48cfc071613cdceecd169ae79373cf607ec90799b1b33cea53bbd0a719",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "男子因涉嫌2017年将女子推至公交车前被捕",
+      "output": "Anthropic将与白宫会面讨论AI工具暂停事宜",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:00.406Z"
+      "createdAt": "2026-06-15T20:26:17.914Z"
     },
-    "a0016d7d4035d1274e44a0cb3b3a387962e7c2966a14c0a4ba163dc9b8e44848": {
+    "6841e2269a340a7e493fd24461461ad8792fb5069c34b4efd92b09375ed494a4": {
       "feature": "translate",
-      "sourceHash": "b375480265ae512efcf7ce3c146ad8ef1ae3eba8789f2338bc157c2a5a3a13d8",
+      "sourceHash": "fcde4267e3a39992cb7d1e1025f6100e29d22ecda19e877910a5a802fd3d5d92",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "社交媒体禁令将如何实施，何时开始？",
+      "output": "威廉森：伊朗协议给内塔尼亚胡带来政治噩梦",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:00.406Z"
+      "createdAt": "2026-06-15T20:26:17.914Z"
     },
-    "a66a82da07e3e840a15b91a523efed205f0c9e3b799540850d1c524c6437eba0": {
+    "7bd7674d8730b449a31935738ff076bf1cc46ff21da80d1c287b83e9cad17784": {
       "feature": "translate",
-      "sourceHash": "3d4d6b0005f8905d238a4fb8f4ffa83416ad73b2abdb72f251c8c53dcd1c40f9",
+      "sourceHash": "e088fbaf5347ef2eeacab4ca6d8aa8f42f0611c90a75eb22eecc447bb560829a",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "巴西女子因跳绳教练未系好绳索而死亡",
+      "output": "水晶宫任命塞奇为主教练，合同为期三年",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:00.406Z"
+      "createdAt": "2026-06-15T20:26:17.914Z"
+    },
+    "c69427601ad9c0b78e35357a749e7ed85b8d2f2a5796621d9028beafdb651278": {
+      "feature": "translate",
+      "sourceHash": "6ec5d6e7e66b8b1160bd6a10736730d28015e63399bc131d52dd5b16f6a03b09",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "斯塔默：明年春季前将禁止16岁以下青少年使用TikTok、YouTube等社交媒体",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:26:17.914Z"
+    },
+    "1f39a1f340981fe9c76025409c56f399dac016998f56e92cfc17b22caca06507": {
+      "feature": "translate",
+      "sourceHash": "21ffab125e38fdb4107e8285be9147a80feee9034bcbce154d1dd39d2bd7ade8",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "邦妮·泰勒已脱离昏迷，但紧急手术后‘非常不适’",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:26:17.914Z"
+    },
+    "4f262d5e29da3949ecaef8d49dbd564e1f15954d934561e57aca31bab0ee7eca": {
+      "feature": "translate",
+      "sourceHash": "eb708328af15d0e62e63b3bb51b243f4e60ae29ebac7282607534bc45edef99a",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "锦标赛为被监禁的法国体育记者留空座",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:26:17.914Z"
+    },
+    "61c24e0ce6de4c17b36a94061a2768656c568bb1623a5f101bc7ba2db749ad21": {
+      "feature": "translate",
+      "sourceHash": "b03badc184c2e19173cc5fcf4bf39eeb4b65b368880ad25a42ba1d55fd2aa881",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "法庭获悉，男孩在致命刺杀前曾‘打闹嬉戏’",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:26:17.914Z"
     },
     "fb6bc584b850b0613f1d98ba98a5da9f1481346ca993818859355b76f2890219": {
       "feature": "translate",
@@ -3325,6 +3325,66 @@
       },
       "createdAt": "2026-06-15T03:05:54.731Z"
     },
+    "fe438884f2e42753e1e6f105c20ff9896dfb92dcbd2929d2d3d9841995e3aa8c": {
+      "feature": "translate",
+      "sourceHash": "0ae50074626cdb33ef297475addfd06235abbd847fab8770585bd62848a8d75f",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "在法国，11岁女孩被杀后司法系统面临公众愤怒",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T16:17:15.966Z"
+    },
+    "8f00dd24f94f9e0423c4ba0856648dae29dc383a8f09f4a0cc9bea5d78ebd2fc": {
+      "feature": "translate",
+      "sourceHash": "ce4bb781eaf48e5b4644c5e0d099f3eefe9a8e47f6812b9cbab85f3a0fb24c85",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "随着最大欧盟对手的离去，乌克兰加入欧盟的进程推进",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T16:17:15.966Z"
+    },
+    "adb6232360e6efedcf1044100351be5b43794efe8ad49d9b8766a5ab16059cc7": {
+      "feature": "translate",
+      "sourceHash": "7b118c0ba1e87ba1e3b09d1707ed479beb1358257213c40c21853fca4b25a3dc",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "以色列盘点内塔尼亚胡伊朗战略的失败之处",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T16:17:15.966Z"
+    },
+    "cebbca426a13d9340e048d8758e620eb99cb6cf2ce45645a895c4cc5904d98c5": {
+      "feature": "translate",
+      "sourceHash": "1cc93519b2c79b55d5ed45232fb29ddce0d2f918295fce296985613050c4fad1",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "美伊协议使黎巴嫩命运不明",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T16:17:15.966Z"
+    },
+    "c9e2185472d732bad600f70025ccfc8b68e9dc9c03fc9ab6c34e049082deffe1": {
+      "feature": "translate",
+      "sourceHash": "9e0b88c6b82a986fea818fb8a9cfe6f23537e3f46502cf24dd3dca3fb3ae9410",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "英国宣布禁止16岁以下儿童使用社交媒体",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T16:17:15.966Z"
+    },
     "c3dc9132982f3fc95fd5a808b47de201e73ec2caf9aaf42bf004a7aea6c32ff6": {
       "feature": "translate",
       "sourceHash": "4bdcaae38a199896af0097cfac8262b886b84d90b96911bc57914da3fe0c6c9b",
@@ -3336,66 +3396,6 @@
         "extractionVersion": "v2"
       },
       "createdAt": "2026-06-15T10:23:09.456Z"
-    },
-    "b2bb07bb19fe070ac54ed7df496dd001079c11b1febb56faad39b23d60936775": {
-      "feature": "translate",
-      "sourceHash": "936a76fcfc115a9e25371a26488ae8764955abf38d7354fc911a5233525b63dc",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "逐个商标打击新纳粹分子",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T10:23:09.456Z"
-    },
-    "c32e4731013973e2f8569a43b627ec2c1ad9598238c0250d1042905c2a72de92": {
-      "feature": "translate",
-      "sourceHash": "e3d7907c6793b6c6053987ec368d2e3ad045376a9f7b8fd45ce68bad756df4fb",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "挪威王储妃之子被判强奸罪",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T10:23:09.456Z"
-    },
-    "4daed4344ff90fbd14082389755166e9003b50a71ddcda6ea7261b9d73af282f": {
-      "feature": "translate",
-      "sourceHash": "4dbc7e08b26275fd4c95f6648c2c2d3d1afb0250439f7d3ae9a0cb3d0dc13d7d",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "特朗普声称根据与伊朗的协议，海峡将‘永久免费通行’",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T03:05:54.731Z"
-    },
-    "e1511a1820edcf99868ae44c3fca121ba1bd25a71325592a226f2d82363df9e7": {
-      "feature": "translate",
-      "sourceHash": "c73ac88081f0574cf834913beb8f735e444a6987e4b06bf1b74f7ded0fa7fe65",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "世界领导人欢迎霍尔木兹海峡可能很快重新开放的消息。",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T10:23:09.456Z"
-    },
-    "4574be4004604b19c3f58791075b1b359ab8e5f6ff07f0f03805aca6dff27ef8": {
-      "feature": "translate",
-      "sourceHash": "d17614bf68a61ad1f6e843808238ef7a4483d52ec70cea852e485baee09bed7d",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "伊朗战争最新消息：协议带来缓解，但未解决重大问题",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:17:15.966Z"
     },
     "f9195d60fedab3f52aef4bdd22a3243b9c77124dff4f86729c21d8995d9bdbc5": {
       "feature": "translate",
@@ -3445,29 +3445,17 @@
       },
       "createdAt": "2026-06-15T16:17:15.966Z"
     },
-    "fe438884f2e42753e1e6f105c20ff9896dfb92dcbd2929d2d3d9841995e3aa8c": {
+    "b2bb07bb19fe070ac54ed7df496dd001079c11b1febb56faad39b23d60936775": {
       "feature": "translate",
-      "sourceHash": "0ae50074626cdb33ef297475addfd06235abbd847fab8770585bd62848a8d75f",
+      "sourceHash": "936a76fcfc115a9e25371a26488ae8764955abf38d7354fc911a5233525b63dc",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "在法国，11岁女孩被杀后司法系统面临公众愤怒",
+      "output": "逐个商标打击新纳粹分子",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
-    },
-    "93bf1664187b9bd4457d012b3aff49974ca55415e0f0281e735aa7c0ac5844f9": {
-      "feature": "translate",
-      "sourceHash": "52621239bdeba5e047c31e9c18d7b3bc82fa4bd20de3b5f5ec208386e68183d4",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "海湾国家面临依赖美国保护的新问题",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T10:23:09.456Z"
     },
     "a72ff91471687f8772a3e2bd3bc70a717fa09fb2344dfa03744c91c562302c5c": {
       "feature": "translate",
@@ -3493,18 +3481,6 @@
       },
       "createdAt": "2026-06-15T16:17:15.966Z"
     },
-    "8f00dd24f94f9e0423c4ba0856648dae29dc383a8f09f4a0cc9bea5d78ebd2fc": {
-      "feature": "translate",
-      "sourceHash": "ce4bb781eaf48e5b4644c5e0d099f3eefe9a8e47f6812b9cbab85f3a0fb24c85",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "随着最大欧盟对手的离去，乌克兰加入欧盟的进程推进",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T16:17:15.966Z"
-    },
     "d45c92bfee662be59b2053612072e28801a94675dc5f790f69b1d4679ea61b37": {
       "feature": "translate",
       "sourceHash": "131f369e0cc48776479c114aa75896863dbf23264606bd5b60a1a902d8a58f66",
@@ -3517,101 +3493,113 @@
       },
       "createdAt": "2026-06-15T16:17:15.966Z"
     },
-    "531796354af82ebc302fa8d10f075bcb5ced7222bddddde41ef5c52baa394596": {
+    "f21d50f0973abeda0a2ce215a76364a6ab13c07fccdc7eb6b629c3e04faad118": {
       "feature": "translate",
-      "sourceHash": "df725a038eb56e3989ee4d44c90ad39bfc0305f8a4fd36691dc75af44cb72f07",
+      "sourceHash": "64a54218f56d13a7626ef3de7fe6718a414ff5d823d27f55c7582d85d6741c29",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "美伊协议：须知事项",
+      "output": "随着俄罗斯袭击乌克兰，一个文化象征起火",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T20:26:38.469Z"
     },
-    "adb6232360e6efedcf1044100351be5b43794efe8ad49d9b8766a5ab16059cc7": {
+    "5a609a4b281dd8a75bbea65b1c7103c925b8b762a7a252a2fbed7cfceb8e9950": {
       "feature": "translate",
-      "sourceHash": "7b118c0ba1e87ba1e3b09d1707ed479beb1358257213c40c21853fca4b25a3dc",
+      "sourceHash": "09c21744c914201ccb19407eb84f4cf5b6f9e79adc7a55e7ea26be294e282320",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "以色列盘点内塔尼亚胡伊朗战略的失败之处",
+      "output": "伊朗战争实时更新：美国与伊朗签署初步协议，但条款保密",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T20:26:38.469Z"
     },
-    "cebbca426a13d9340e048d8758e620eb99cb6cf2ce45645a895c4cc5904d98c5": {
+    "cc2ade194f50c018cff90fb8341a09d9abe80dd0d40233ddf194cc38da9aa7fe": {
       "feature": "translate",
-      "sourceHash": "1cc93519b2c79b55d5ed45232fb29ddce0d2f918295fce296985613050c4fad1",
+      "sourceHash": "50fe5b4755a2e5143c0756b1956f96eb7ca729a987c73a556d718234f75b1b28",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "美伊协议使黎巴嫩命运不明",
+      "output": "希腊激进组织被判刑的领导人被命令重返监狱",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T20:26:38.469Z"
     },
-    "2a0c001e8768b5b61f4a49e1a4f059b8985a73a1ab47c41561a2487a450b82ed": {
+    "224099cd899f5590cf10a98dc141ef698e759e334664bf38bf516134371f5ee6": {
       "feature": "translate",
-      "sourceHash": "fa408d042f6ad423f626963665dff1a1d8552336a97f8e7fadc195ea42ed8721",
+      "sourceHash": "1afbd541e78cf43475125042da8fa433ae482c34617165c2aa2cd6afd12742c3",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "中国即使减少购买也能影响油价",
+      "output": "歌手奥利弗·特里在巴西直升机坠毁后推定死亡",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T20:26:38.469Z"
     },
-    "78d82d5b37ba8a0c22673d6675d750d423d5288ca72d1baadc836c7d328f9980": {
+    "ddef7e30bb7b1c902ede1fec7b81b26a048e2fe2f120a671e5c192fe208cfafa": {
       "feature": "translate",
-      "sourceHash": "d838af2824b63363c321dc60bfeef75e9eeadab366a5677ddb5a3d751f422ad9",
+      "sourceHash": "b0b0eb5b482294e3334a8e643952cf9409b720e1a8661c61a84af8b705cb4faf",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "在最新攻击中，俄罗斯正利用乌克兰的一个重大弱点",
+      "output": "涉嫌2017年将伦敦女子推入公交车道的男子被捕",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T20:26:38.469Z"
     },
-    "9a2b7aed1a686deaa77b3782cc8a9971a7635916225c5f1802e9471f1ce8bea0": {
+    "d7ed76d123c95e0a4a3f05b754ded3a6b9e57f34b6ec861e52e919b3b5d08e6f": {
       "feature": "translate",
-      "sourceHash": "79acb835c3ab8199b463e641ff1302ca24107bf984e0e34276dd87895715baa8",
+      "sourceHash": "0eeab8b7c3bad69088a61446e6e0f18ad608e671f6ce54490507a69650b55d98",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "俄罗斯用导弹和无人机袭击基辅后，历史悠久的东正教大教堂被烧毁",
+      "output": "乌克兰如何利用人工智能将致命的俄罗斯无人机击落",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T20:26:38.469Z"
     },
-    "d6e8aed64fa42b8200b4e6ff563d24fb9099f5c97967832df0f21e7cee434677": {
+    "e5231060157e9c8cf1b8928e0ecc4acbeeba0ff83e52983f9ccd4f79511f1c67": {
       "feature": "translate",
-      "sourceHash": "62db9283eced808dbaf6dec6692c510be56f406e9100bf0175ea0c07978c8c3f",
+      "sourceHash": "fd2e3a95b0498adef9277cdb7ffb726c0ca6e1c858e46af42071a0049df1297f",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "关于澳大利亚、英国等计划中的社交媒体禁令须知",
+      "output": "一个人的大脑如何说两种语言？",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T20:26:38.469Z"
     },
-    "c9e2185472d732bad600f70025ccfc8b68e9dc9c03fc9ab6c34e049082deffe1": {
+    "e4adfe15b8710f97038aa54a87130e9abb378b6fc01a71ceb63239654c2b2d28": {
       "feature": "translate",
-      "sourceHash": "9e0b88c6b82a986fea818fb8a9cfe6f23537e3f46502cf24dd3dca3fb3ae9410",
+      "sourceHash": "76e64a4397e5cde6e18bd5c88b8c6553fa4639643f1142a2337e68923100c55b",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "英国宣布禁止16岁以下儿童使用社交媒体",
+      "output": "海湾国家面临关于依赖美国保护的问题",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-15T16:17:15.966Z"
+      "createdAt": "2026-06-15T20:26:38.469Z"
+    },
+    "af6af9ed8ad0b0abfdb542bc2ce6338ce5edd3e63d97961b2fb5079759294bde": {
+      "feature": "translate",
+      "sourceHash": "fd91b94c2adb6f25ed34af726d50bb0408a9b558d9f742e448110c58162a4407",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "以色列袭击贝鲁特郊区，与真主党的战斗升级",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T20:26:38.469Z"
     },
     "5eb725607e5e4541966ed719b8ffdf5c1b860e27b66e4df71f0daf72cd1b8099": {
       "feature": "translate",
