@@ -1,7 +1,7 @@
 {
-  "runId": "27516438555",
-  "startedAt": "2026-06-15T00:07:38.140Z",
-  "finishedAt": "2026-06-15T00:09:03.728Z",
+  "runId": "local-1781491714981",
+  "startedAt": "2026-06-15T02:48:34.980Z",
+  "finishedAt": "2026-06-15T03:07:35.402Z",
   "status": "success",
   "feeds": [
     {
@@ -11,10 +11,15 @@
       "limit": 25,
       "inputItems": 25,
       "outputItems": 25,
-      "units": 25,
-      "cacheHits": 18,
-      "translated": 7,
-      "failedUnits": 0,
+      "featureStats": [
+        {
+          "kind": "translate",
+          "units": 25,
+          "cacheHits": 0,
+          "generated": 25,
+          "failed": 0
+        }
+      ],
       "issues": []
     },
     {
@@ -24,10 +29,15 @@
       "limit": 25,
       "inputItems": 25,
       "outputItems": 25,
-      "units": 25,
-      "cacheHits": 15,
-      "translated": 10,
-      "failedUnits": 0,
+      "featureStats": [
+        {
+          "kind": "translate",
+          "units": 25,
+          "cacheHits": 0,
+          "generated": 25,
+          "failed": 0
+        }
+      ],
       "issues": []
     },
     {
@@ -37,11 +47,32 @@
       "limit": 10,
       "inputItems": 10,
       "outputItems": 10,
-      "units": 280,
-      "cacheHits": 259,
-      "translated": 21,
-      "failedUnits": 0,
-      "issues": []
+      "featureStats": [
+        {
+          "kind": "translate",
+          "units": 280,
+          "cacheHits": 0,
+          "generated": 280,
+          "failed": 0
+        },
+        {
+          "kind": "summary",
+          "units": 10,
+          "cacheHits": 0,
+          "generated": 10,
+          "failed": 0
+        }
+      ],
+      "issues": [
+        {
+          "stage": "feature",
+          "severity": "warning",
+          "code": "batch_retry",
+          "message": "llm response contains unknown id: 7e42f1f703bbdebf9de3613da675776043cdc096c54d7d9ecf9b6f9167f73fb51",
+          "path": "/readwise",
+          "feature": "translate"
+        }
+      ]
     },
     {
       "path": "/nytimes/world",
@@ -50,10 +81,15 @@
       "limit": 25,
       "inputItems": 25,
       "outputItems": 25,
-      "units": 25,
-      "cacheHits": 22,
-      "translated": 3,
-      "failedUnits": 0,
+      "featureStats": [
+        {
+          "kind": "translate",
+          "units": 25,
+          "cacheHits": 0,
+          "generated": 25,
+          "failed": 0
+        }
+      ],
       "issues": []
     },
     {
@@ -63,10 +99,15 @@
       "limit": 25,
       "inputItems": 9,
       "outputItems": 9,
-      "units": 9,
-      "cacheHits": 9,
-      "translated": 0,
-      "failedUnits": 0,
+      "featureStats": [
+        {
+          "kind": "translate",
+          "units": 9,
+          "cacheHits": 0,
+          "generated": 9,
+          "failed": 0
+        }
+      ],
       "issues": []
     },
     {
@@ -76,10 +117,15 @@
       "limit": 25,
       "inputItems": 20,
       "outputItems": 20,
-      "units": 20,
-      "cacheHits": 20,
-      "translated": 0,
-      "failedUnits": 0,
+      "featureStats": [
+        {
+          "kind": "translate",
+          "units": 20,
+          "cacheHits": 0,
+          "generated": 20,
+          "failed": 0
+        }
+      ],
       "issues": []
     },
     {
@@ -89,10 +135,15 @@
       "limit": 25,
       "inputItems": 10,
       "outputItems": 10,
-      "units": 20,
-      "cacheHits": 20,
-      "translated": 0,
-      "failedUnits": 0,
+      "featureStats": [
+        {
+          "kind": "translate",
+          "units": 20,
+          "cacheHits": 0,
+          "generated": 20,
+          "failed": 0
+        }
+      ],
       "issues": []
     }
   ],
@@ -101,10 +152,31 @@
     "renderedFeeds": 7,
     "inputItems": 124,
     "outputItems": 124,
-    "units": 404,
-    "cacheHits": 363,
-    "translated": 41,
-    "failedUnits": 0
+    "featureStats": [
+      {
+        "kind": "translate",
+        "units": 404,
+        "cacheHits": 0,
+        "generated": 404,
+        "failed": 0
+      },
+      {
+        "kind": "summary",
+        "units": 10,
+        "cacheHits": 0,
+        "generated": 10,
+        "failed": 0
+      }
+    ]
   },
-  "issues": []
+  "issues": [
+    {
+      "stage": "feature",
+      "severity": "warning",
+      "code": "batch_retry",
+      "message": "llm response contains unknown id: 7e42f1f703bbdebf9de3613da675776043cdc096c54d7d9ecf9b6f9167f73fb51",
+      "path": "/readwise",
+      "feature": "translate"
+    }
+  ]
 }

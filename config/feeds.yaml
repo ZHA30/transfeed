@@ -35,7 +35,7 @@ feeds:
         - title
         - content:encoded
     summary:
-      sourceField: description
+      sourceField: content:encoded
       prompt: |
         提炼这期内容的核心主题、重点推荐和整体价值，控制在 2-4 句。
     limit: 10
