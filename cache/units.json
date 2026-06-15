@@ -157,18 +157,6 @@
       },
       "createdAt": "2026-06-15T02:49:11.340Z"
     },
-    "7688eccd90e99e12ea1511d2dab97546e63c873ca35f8e76bce647c4dc9e5dfb": {
-      "feature": "translate",
-      "sourceHash": "c3f611fbfe80ddf4ab111f2cdcc6820c27ce47834b69c26f6d4c386f5cd1c785",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "并非所有人都事事使用AI",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T02:49:11.340Z"
-    },
     "832d8d6e16befa18fa9cdd988d64724e33874dfa2911a1a9b37b695653060638": {
       "feature": "translate",
       "sourceHash": "35ffb21ca0d7254dde0e35e9993eb86c70afcdab59829f8e16165b8d47d80b0a",
@@ -301,6 +289,18 @@
       },
       "createdAt": "2026-06-15T02:49:11.340Z"
     },
+    "241256c40da91e68a70453858a48fd6617acc34429847e4743487772b90ece91": {
+      "feature": "translate",
+      "sourceHash": "8203479ccf6922b98049cdfae05a194de4bbe5e37d890fee62b99287f097fa5d",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "分段式欣赏角（2018）",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T03:17:21.532Z"
+    },
     "e571e64a91e66243660dbfcdb838fa5375b6feef495dd1db3e1ebf423302b778": {
       "feature": "translate",
       "sourceHash": "89285086d9e0abc110ddc2f94889988114713d9f908cf02c6555973a5aeaa53a",
@@ -330,18 +330,6 @@
       "sourceHash": "6d95b7fa764e919db7ec930b2ef1a6f3ef26ef138a8dd7aa66ba5e743e5d0e33",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
       "output": "巴基斯坦宣布美伊协议后油价下跌",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-15T02:49:34.531Z"
-    },
-    "bec4d0992ba46bf49c65bb137bdd22b2550e99ae70eebd3a74f49b52e51dad9e": {
-      "feature": "translate",
-      "sourceHash": "b9fa0ba250557c0b5bb80eb280eee80df845becb87075f8d11ddc5c3b85ec6c7",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "皇家海军在英吉利海峡登上俄罗斯影子舰队油轮",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
@@ -588,6 +576,18 @@
         "extractionVersion": "v2"
       },
       "createdAt": "2026-06-15T02:49:34.531Z"
+    },
+    "75e041cb8574820aeaf93f04b45c6c8e6d790480b46c7b1395cf99e56b19d129": {
+      "feature": "translate",
+      "sourceHash": "61ad83201dc00f173db37a819ee29c9823fce9a7bef31b71af4c45ec8f4f7bc4",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "英吉利海峡扣押俄罗斯油轮后逮捕一名嫌疑人",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-15T03:17:26.407Z"
     },
     "fb6bc584b850b0613f1d98ba98a5da9f1481346ca993818859355b76f2890219": {
       "feature": "translate",
@@ -3193,125 +3193,125 @@
       },
       "createdAt": "2026-06-15T03:04:35.221Z"
     },
-    "0342ce333537ab1aa44d91eb6208501996e281b47dc415514b5ccc61108ac44a": {
+    "41a301fb26e8dbbd1becac1409aface5a17c94c60db58f36d364ee8157d54cfe": {
       "feature": "summary",
-      "sourceHash": "c7833f6bb5812cf44a96a9491adbd05f062a30d0f6bb2825f60f7ab1e2c2e603",
+      "sourceHash": "e8f7b4bdaa81fd30e578741dc06fd3b58270d9af646144b086923b0e256d68ec",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本周重点推荐安吉拉·达克沃斯的经典之作《坚毅：激情与毅力的力量》，深入探讨了成功中激情与毅力的重要性。核心主题围绕每周分享前沿或经典书籍预览，帮助读者高效获取知识精华。整体价值在于通过精炼预览激发阅读兴趣，促进个人成长。",
+      "output": "本期Wisereads以Angela Duckworth的《Grit》为核心，强调毅力与努力的重要性，同时聚焦AI自我构建、LLM工作原理及意识争议等热门话题。文章涵盖工具锁定风险的解决方案（Obsidian+Claude）及“AI循环”工程实践，为读者提供技术与个人成长的深度洞察。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:17:35.203Z"
     },
-    "ca6d0d3742aeeb10b0d9c3d2ca73e8f2e5d2eef51fc3382466bddca1dce294f7": {
+    "54ebda27e12c642f7697fa3c75cbe8ab05d35c06ef06200463b7272954b5fa2c": {
       "feature": "summary",
-      "sourceHash": "9fcb85e71914239c649ba6b815f694104cd800ba9e1c7ad1cb592d2c8ecda85a",
+      "sourceHash": "2df7a9cdbd366a8b088468a91fc1673c96dad5dea03bc7af2d68595e59ae51e8",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本期重点推荐斯蒂芬·M·R·柯维的《信任与激励》，一本现代领导力指南。核心主题是持续分享高质量书籍预览，整体价值在于为读者提供领导力洞察，拓展阅读视野。",
+      "output": "本期Wisereads聚焦于AI时代人类独特价值与领导力变革，重点推荐Stephen M. R. Covey的《Trust and Inspire》和Anthropic的《The Founder’s Playbook》，强调信任、专业知识与专注在技术浪潮中的核心作用。内容涵盖从工作伦理到个人成长的多维洞见，启发读者重新审视自身优势与选择。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:17:40.388Z"
     },
-    "6d7a1029653e2fbb0328759c5f92231364c63b97d0e5abdcf1c1ed10339b0dec": {
+    "d006da05c521dca562a55d87da11bef0f80328507edf66fc89907972c5b5d487": {
       "feature": "summary",
-      "sourceHash": "bb2ca2713e1343b462e93db0372aab996b022cea490d79f8355e965411bec7c2",
+      "sourceHash": "5dfaee6dc32f266948673389d2ae2bb3120c691b2ebb5991b85522edbb47af29",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本周推荐苏珊·奥良的《图书馆之书》，回顾1986年洛杉矶图书馆火灾并献上对图书馆的深情情书。核心主题是每周分享各式书籍预览，整体价值在于带领读者探索不同领域的思想精髓。",
+      "output": "本期Wisereads围绕人工智能时代展开，探讨技术伦理、自动化悖论与人类独特价值。重点推荐了Pope Leo XIV的首道AI通谕、Packy McCormick的《骑豹》及Susan Orlean的《图书馆之书》。整体价值在于提供跨领域视角，引导读者在自动化浪潮中反思个体差异与人文精神。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:17:41.168Z"
     },
-    "c1eb867dce4c9b22c6705e4df576c834c283c792aa475f684f730e7a8840c976": {
+    "e09b28bd9dfd4a883cba0116d067338c14b0caf367fb884e16ee4ef35da88a1e": {
       "feature": "summary",
-      "sourceHash": "621453d96067f9394c16cdac60441c97dfc64be13813f3c333f213594d8826ee",
+      "sourceHash": "0700821a08da4c0e4f888abadcaa641144d84c386c7f23a7247e6b5632b11a88",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本期重点推荐布拉德·斯图尔伯格的《卓越之道》，探索在混乱世界中实现真正伟大与深层满足的路径。核心主题是每周分享涵盖小说与自助的多样书籍预览，整体价值在于帮助读者获取不同领域的智慧。",
+      "output": "本期Wisereads以“单任务处理”为主题，强调深度专注的价值，同时探讨AI时代硅谷的恐惧与焦虑，并反思过度优化的弊端。重点推荐David Epstein关于成功的文章、Jasmine Sun对硅谷底层阶级的分析，以及Thoughtworks的技术雷达。整体价值在于帮助读者在信息过载中找回专注力，并理性看待技术变革与个人优化。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:17:49.591Z"
     },
-    "e8499bbfdf2ee6c1cd79fa2967585c6da82535a582099b71d0d3ae2c79358904": {
+    "d2cd971d6aa7307d9a59c0b50d3b61a6f58ba3ffedd7bc8ac3d4a966ab933092": {
       "feature": "summary",
-      "sourceHash": "05c6393cb5983d071cb654770b088d385004634807941df579cfbd4067286d90",
+      "sourceHash": "6e1dfe7be1aaa05fd57b692c10ba9e6f90969a216ed13879ccc0c960a8743627",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本周推荐丹尼尔·克劳斯的《天使坠落》，一部荣获2026年普利策奖的深刻小说。核心主题是每周交替分享经典文学与当代获奖作品预览，整体价值在于让读者预览当代文学佳作，紧跟阅读潮流。",
+      "output": "本期Wisereads以AI时代的技能与学习为主线，重点推荐了关于AI编码陷阱、降低维护成本的文章，以及Shopify CEO公开使用AI代理的洞见。同时推荐了普利策获奖小说《天使坠落》和金钱与幸福的研究。整体价值在于启发读者在AI发展中保持批判性学习态度。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:17:52.495Z"
     },
-    "24296ed209b67840fde3d4029c0216aa87e108622b5ba27976fdf87734ed3fc3": {
+    "d8c6b6813bdc54486ad73f73a7b799c988c3743205d9bc621e3c6af4621110f4": {
       "feature": "summary",
-      "sourceHash": "22cde308d45b5f91797d0bd6a973178725b7d7687f285764a384dc68f28e9ad8",
+      "sourceHash": "27ebd1b612e573cf8058333b8f2c0e0401f90e7be5f664001d052c63bdd4468d",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本期重点推荐路易莎·梅·奥尔科特的经典小说《小妇人》，讲述马奇四姐妹的成长故事。核心主题是每周分享从心理学到文学的多类型书籍预览，整体价值在于通过预览回顾经典，感受永恒魅力。",
+      "output": "本期Wisereads的核心主题是通过实践卓越之道来应对现代人的异化与疲惫，重点推荐了Brad Stulberg的新书《卓越之道》，并探讨了信息流造假、友谊悲伤、AI使用鸿沟等话题。整体价值在于提供深度内容和实用智慧，帮助读者在混乱世界中找到方向与满足。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:17:53.617Z"
     },
-    "c578f60a7b6562031dabc401ea899a41898177e9822305180be3224ba31822ea": {
+    "8dbee7a5575e7311dc553382d740f47bf7fbac9e80647e62f694d2871d833a1c": {
       "feature": "summary",
-      "sourceHash": "48aea52a37711673cc1ad4120385dfb08403c8d920d8e3b400c6e8fe942b914e",
+      "sourceHash": "00674cd81beb94db5b3d8793960b37f2f4cde286a5810153c14dc28199408c86",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本周推荐乔纳·伯杰的《无形的影响》，揭示塑造行为的隐藏力量。核心主题是每周分享关于成功与影响力的心理学书籍预览，整体价值在于帮助读者理解社会影响背后的科学。",
+      "output": "本期以Jonah Berger的《隐形影响》为主线，揭示社会影响如何无形中塑造我们的选择。重点推荐包括Nilay Patel批判科技精英“软件大脑”世界观的文章、微软高管关于AI应提升思维而非替代的见解、以及神经科学对梦的新理论。整体价值在于帮助读者识别隐藏的影响力量，重新审视科技与人文的关系，并在智能时代保持独立思考。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:17:58.558Z"
     },
-    "b66062aa883604cb5883d203b48d5be9e2bda185600190aeacd2c256cae7a279": {
+    "864da4a33b075c566a9efad0c5e03a6139c0a624d732557649b9bbaf94a6353f": {
       "feature": "summary",
-      "sourceHash": "d26c0a0295e63fb2555680f43a3d29d5c1cb19226bfb991da134828c0a1c8052",
+      "sourceHash": "53a969aeeffb22cfa7929eab034d3a3a82fa44c0013151c2693a5e51e0b1c269",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "近期重点推荐罗恩·弗里德曼的《解码卓越》，一部关于逆向工程成功的心理学指南。核心主题是每周交替分享自传与科学研究预览，整体价值在于提供实用的成功策略，激发卓越表现。",
+      "output": "本期Wisereads以Ron Friedman的《解码伟大》为核心，强调逆向工程在创意与高效工作中的驱动力，同时探讨Notion的企业文化与AI代理OpenClaw的创新理念。通过精选文章、视频和PDF，提供多维度洞察，启发读者重新审视成功、工具与学习方式的本质。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:18:00.356Z"
     },
-    "cea733c2207ad93a3706e11c3bac69d35b483ad995d762ea36f919fa9f826807": {
+    "61809c0387569d3b58fe390fb1ac09f88ac174de0bf5f3e5d16d213231814b52": {
       "feature": "summary",
-      "sourceHash": "c6cc7ba86bfa1f4d9e64123e03eb6c11804eab90a255bff7cae2dfb1915b1f24",
+      "sourceHash": "4a7ee1e9ec8417245f3fd79cd0dafccabf687def7703ef7f8e7d858c5ff878de",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本期推荐查尔斯·林德伯格的自传，航空传奇的亲身故事。核心主题是每周分享从随笔到自传的多样书籍预览，整体价值在于通过预览让读者亲近历史人物，汲取勇气与智慧。",
+      "output": "本期Wisereads围绕AI、效率与人性展开，核心主题包括计算的机会成本、程序员“懒惰”美德的价值以及AGI的安全与未来。重点推荐Ben Thompson分析超大规模企业面临的机遇成本、Bryan Cantrill警示LLM可能侵蚀懒惰美德，以及Sam Altman在遭遇纵火后呼吁理性辩论。整体价值在于通过多样内容引发读者对技术发展深层影响的思考。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:18:03.809Z"
     },
-    "d8573dcb08a704f0467eb49d36e815ad8a7451abe204288c8b6f2fbd4f5e5c8f": {
+    "ad73293602d936fd618d5015772d637d2345d7cfa129a19af0793d75bf6fb854": {
       "feature": "summary",
-      "sourceHash": "e80104f04be3df194690d01d83f80ff140b77b29bb45dab93630d7d733a44ce6",
+      "sourceHash": "dc1e34983d8b6fce16a5b5ee9fadc5cd3bf09668f112525904fff3c146560293",
       "promptHash": "e1a91c89003a602220782cc46182203bada52488938f748bfc2b2cc7840c5233",
-      "output": "本周重点推荐罗斯·盖的《欢愉之书》，一系列在平凡中寻找美好的随笔。核心主题是每周分享关于逆境与喜悦的书籍预览，整体价值在于引导读者关注日常生活的美好，提升幸福感。",
+      "output": "本期Wisereads 138以Ross Gay的《愉悦之书》为引，强调日常观察与愉悦的价值；重点文章探讨AI对学习与创造的侵蚀风险、AI开发的真实经验及Sam Altman的可信度问题。整体价值在于警示AI扩展中保持人类好奇心与人性，推荐关注写作中的人类特质。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
-        "sourceField": "description",
+        "sourceField": "content:encoded",
         "extractionVersion": "v1"
       },
-      "createdAt": "2026-06-15T03:05:24.434Z"
+      "createdAt": "2026-06-15T03:18:12.577Z"
     },
     "c1346848d51657551663dff6eff2d9050a785e472eed30ce4ec1cd102e8de426": {
       "feature": "translate",
