@@ -1,12 +1,14 @@
 import { execFile } from "node:child_process";
 import { promisify } from "node:util";
+import { writeConfigJsonSchema } from "../state/config-schema.js";
 import { getStateDir } from "../state/paths.js";
 
 const exec = promisify(execFile);
-const ALLOWED_PATHS = new Set(["README.md", "config/feeds.yaml", "cache/manifest.json", "cache/units.json", "reports/latest.json"]);
+const ALLOWED_PATHS = new Set(["README.md", "config/feeds.yaml", "config/feeds.schema.json", "cache/manifest.json", "cache/units.json", "reports/latest.json"]);
 
 async function main(): Promise<void> {
   const stateDir = getStateDir();
+  await writeConfigJsonSchema();
   await exec("git", ["add", "-A", "."], { cwd: stateDir });
   const staged = await stagedFiles();
   if (staged.length === 0) {

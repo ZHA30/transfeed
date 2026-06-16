@@ -6,6 +6,7 @@
   "scripts": {
     "build": "tsc",
     "feed:build": "tsx src/cli/build.ts",
+    "feed:generate-schema": "tsx src/cli/generate-config-schema.ts",
     "feed:update-readme": "tsx src/cli/update-readme.ts",
     "feed:commit-state": "tsx src/cli/commit-state.ts",
     "check": "tsc --noEmit"

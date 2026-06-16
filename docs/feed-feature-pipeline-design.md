@@ -14,6 +14,8 @@ Current first-class features:
 
 Global feature settings define shared system prompts.
 Each feed enables zero or more feed-level features with its own arguments.
+The runtime config schema is maintained in `src/config/schema.ts`.
+`src/cli/commit-state.ts` generates `config/feeds.schema.json` into the state directory before committing state changes.
 
 ```yaml
 translate:

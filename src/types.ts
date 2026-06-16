@@ -1,8 +1,9 @@
 export const ITEM_FIELDS = ["title", "description", "content:encoded", "summary", "content"] as const;
+export const TRANSLATE_MODES = ["translation", "bilingual"] as const;
 
 export type ItemField = (typeof ITEM_FIELDS)[number];
 export type FeatureKind = "translate" | "summary";
-export type TranslateMode = "translation" | "bilingual";
+export type TranslateMode = (typeof TRANSLATE_MODES)[number];
 export type PipelineStage =
   | "config"
   | "fetch"

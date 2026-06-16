@@ -1,62 +1,10 @@
 import { readFile } from "node:fs/promises";
 import { parse } from "yaml";
-import { z } from "zod";
-import { ITEM_FIELDS, type AppConfig, type FeedConfig, type FeedFeatureConfig, type ItemField } from "../types.js";
+import type { AppConfig, FeedConfig, FeedFeatureConfig, ItemField } from "../types.js";
 import { shortHash } from "../lib/hash.js";
 import { stateFilePath } from "../state/paths.js";
 import { expandEnvTokens } from "./secrets.js";
-
-const DEFAULT_FEED_LIMIT = 25;
-
-const translateSystemSchema = z.object({
-  systemPrompt: z.string().trim().min(1),
-});
-
-const summarySystemSchema = z.object({
-  systemPrompt: z.string().trim().min(1),
-});
-
-const feedTranslateSchema = z.object({
-  targetLanguage: z.string().trim().min(1),
-  mode: z.enum(["translation", "bilingual"]).default("bilingual"),
-  fields: z.array(z.enum(ITEM_FIELDS)).nonempty(),
-});
-
-const feedSummarySchema = z.object({
-  sourceField: z.enum(ITEM_FIELDS),
-  prompt: z.string().trim().min(1),
-});
-
-const rawFeedSchema = z.object({
-  path: z.string(),
-  url: z.string().trim().min(1),
-  limit: z.number().int().positive().optional(),
-  translate: feedTranslateSchema.optional(),
-  summary: feedSummarySchema.optional(),
-}).refine((feed) => !!feed.translate || !!feed.summary, {
-  message: "feed must enable at least one feature",
-});
-
-const rawConfigSchema = z.object({
-  translate: translateSystemSchema.optional(),
-  summary: summarySystemSchema.optional(),
-  feeds: z.array(rawFeedSchema).nonempty(),
-}).superRefine((config, ctx) => {
-  if (config.feeds.some((feed) => !!feed.translate) && !config.translate) {
-    ctx.addIssue({
-      code: z.ZodIssueCode.custom,
-      message: "global translate.systemPrompt is required when any feed enables translate",
-      path: ["translate", "systemPrompt"],
-    });
-  }
-  if (config.feeds.some((feed) => !!feed.summary) && !config.summary) {
-    ctx.addIssue({
-      code: z.ZodIssueCode.custom,
-      message: "global summary.systemPrompt is required when any feed enables summary",
-      path: ["summary", "systemPrompt"],
-    });
-  }
-});
+import { rawConfigSchema } from "./schema.js";
 
 export async function loadConfig(path = stateFilePath("config/feeds.yaml")): Promise<AppConfig> {
   const content = await readConfigFile(path);
@@ -91,7 +39,7 @@ export async function loadConfig(path = stateFilePath("config/feeds.yaml")): Pro
         });
       }
 
-      return makeFeedConfig(pathKey, url, feed.limit ?? DEFAULT_FEED_LIMIT, features);
+      return makeFeedConfig(pathKey, url, feed.limit, features);
     }),
   };
 }
