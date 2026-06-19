@@ -1,23 +1,23 @@
 import { rm } from "node:fs/promises";
 import { loadConfig } from "../config/load.js";
-import { writeJsonFile, writeTextFile } from "../lib/files.js";
+import { writeJsonFile } from "../lib/files.js";
 import { appendStepSummary, logGroup, logGroupEnd, logKeyValue, logNotice } from "../lib/logger.js";
-import { redactUrl } from "../lib/url.js";
-import { fetchText } from "../feed/fetch.js";
-import { parseFeedXml, windowFeed } from "../feed/normalize.js";
-import { runFeature } from "../features/index.js";
-import { renderRss } from "../output/rss.js";
 import { loadOperationCache, pruneCache, saveOperationCache } from "../state/cache.js";
 import { stateFilePath } from "../state/paths.js";
-import type { FeatureRunStatsReport, PipelineIssue, RunReport } from "../types.js";
-
-const FETCH_TIMEOUT_SECONDS = 30;
+import { describeFetchSource, runFetchStage } from "../pipeline/fetch-stage.js";
+import { runProcessStage } from "../pipeline/process-stage.js";
+import type {
+  FeatureRunStatsReport,
+  FetchedFeedResult,
+  FetchedFeedSuccess,
+  PipelineIssue,
+  ProcessedFeedResult,
+  RunReport,
+} from "../types.js";
 
 async function main(): Promise<void> {
   const startedAt = new Date().toISOString();
   const runId = process.env.GITHUB_RUN_ID ?? `local-${Date.now()}`;
-  const issues: PipelineIssue[] = [];
-  const feedReports: RunReport["feeds"] = [];
   const usedCacheKeys = new Set<string>();
 
   await rm("dist", { recursive: true, force: true });
@@ -29,81 +29,26 @@ async function main(): Promise<void> {
   logKeyValue("cache entries", Object.keys(cache.entries).length);
   logGroupEnd();
 
-  for (const feedConfig of appConfig.feeds) {
-    const feedStartedAt = Date.now();
-    logGroup(`Feed ${feedConfig.path}`);
-    try {
-      logKeyValue("source", redactUrl(feedConfig.url));
-      logKeyValue("limit", feedConfig.limit);
-      logKeyValue("features", feedConfig.features.map((feature) => feature.kind).join(", "));
-
-      const fetched = await fetchText(feedConfig.url, FETCH_TIMEOUT_SECONDS);
-      const normalized = windowFeed(parseFeedXml(fetched.body, feedConfig, fetched.finalUrl));
-      logKeyValue("items", normalized.channel.items.length);
-
-      let currentItems = normalized.channel.items;
-      const featureStats: FeatureRunStatsReport[] = [];
-      const feedIssues: PipelineIssue[] = [...normalized.issues];
-
-      for (const feature of feedConfig.features) {
-        const result = await runFeature(currentItems, feature, { feed: feedConfig, cache });
-        currentItems = result.items;
-        feedIssues.push(...result.issues);
-        featureStats.push({
-          kind: result.stats.kind,
-          units: result.stats.units,
-          cacheHits: result.stats.cacheHits,
-          generated: result.stats.generated,
-          failed: result.stats.failed,
-        });
-        for (const cacheKey of result.stats.usedCacheKeys) {
-          usedCacheKeys.add(cacheKey);
-        }
-      }
-
-      const rendered = renderRss(normalized, feedConfig, currentItems);
-      await writeTextFile(rendered.outputPath, rendered.xml);
-
-      logKeyValue("output", rendered.outputPath);
-      logKeyValue("duration", formatDuration(Date.now() - feedStartedAt));
-
-      issues.push(...feedIssues);
-      feedReports.push({
-        path: feedConfig.path,
-        sourceUrl: redactUrl(feedConfig.url),
-        outputPath: rendered.outputPath,
-        limit: feedConfig.limit,
-        inputItems: normalized.channel.items.length,
-        outputItems: rendered.itemCount,
-        featureStats,
-        issues: feedIssues,
-      });
-    }
-    catch (error) {
-      const issue: PipelineIssue = {
-        stage: "fetch",
-        severity: "error",
-        code: "feed_failed",
-        message: errorToMessage(error),
-        path: feedConfig.path,
-      };
-      issues.push(issue);
-      logKeyValue("error", issue.message);
-      logKeyValue("duration", formatDuration(Date.now() - feedStartedAt));
-      feedReports.push({
-        path: feedConfig.path,
-        sourceUrl: redactUrl(feedConfig.url),
-        limit: feedConfig.limit,
-        inputItems: 0,
-        outputItems: 0,
-        featureStats: [],
-        issues: [issue],
-      });
-    }
-    finally {
-      logGroupEnd();
-    }
+  logGroup("Fetch stage");
+  const fetchedFeeds = await runFetchStage(appConfig.feeds);
+  for (const fetchedFeed of fetchedFeeds) {
+    logFetchResult(fetchedFeed);
   }
+  logGroupEnd();
+
+  logGroup("Process stage");
+  const processedFeeds = await runProcessStage(
+    fetchedFeeds.filter((feed): feed is FetchedFeedSuccess => feed.kind === "success"),
+    cache,
+    usedCacheKeys,
+  );
+  for (const processedFeed of processedFeeds) {
+    logProcessResult(processedFeed);
+  }
+  logGroupEnd();
+
+  const feedReports = buildFeedReports(fetchedFeeds, processedFeeds);
+  const issues = collectIssues(feedReports);
 
   logGroup("State and report");
   const nextCache = pruneCache(cache, usedCacheKeys);
@@ -120,6 +65,80 @@ async function main(): Promise<void> {
   if (report.status === "failed") {
     process.exitCode = 1;
   }
+}
+
+function logFetchResult(result: FetchedFeedResult): void {
+  logGroup(`Fetch ${result.feed.path}`);
+  logKeyValue("source", describeFetchSource(result.feed));
+  logKeyValue("limit", result.feed.limit);
+  logKeyValue("features", result.feed.features.map((feature) => feature.kind).join(", "));
+  if (result.kind === "success") {
+    logKeyValue("items", result.normalized.channel.items.length);
+  } else {
+    logKeyValue("error", result.issues[0]?.message ?? "feed failed");
+  }
+  logKeyValue("duration", formatDuration(result.finishedAt - result.startedAt));
+  logGroupEnd();
+}
+
+function logProcessResult(result: ProcessedFeedResult): void {
+  logGroup(`Process ${result.feed.path}`);
+  logKeyValue("input items", result.normalized.channel.items.length);
+  if (result.kind === "success") {
+    logKeyValue("output", result.rendered.outputPath);
+    logKeyValue("output items", result.rendered.itemCount);
+  } else {
+    const latestIssue = result.issues[result.issues.length - 1];
+    logKeyValue("error", latestIssue?.message ?? "feed processing failed");
+  }
+  logKeyValue("duration", formatDuration(result.finishedAt - result.startedAt));
+  logGroupEnd();
+}
+
+function collectIssues(feedReports: RunReport["feeds"]): PipelineIssue[] {
+  return feedReports.flatMap((feed) => feed.issues);
+}
+
+function buildFeedReports(fetchedFeeds: FetchedFeedResult[], processedFeeds: ProcessedFeedResult[]): RunReport["feeds"] {
+  const processedByPath = new Map(processedFeeds.map((feed) => [feed.feed.path, feed]));
+
+  return fetchedFeeds.map((fetchedFeed) => {
+    const processedFeed = processedByPath.get(fetchedFeed.feed.path);
+    if (fetchedFeed.kind === "failure") {
+      return {
+        path: fetchedFeed.feed.path,
+        sourceUrl: describeFetchSource(fetchedFeed.feed),
+        limit: fetchedFeed.feed.limit,
+        inputItems: 0,
+        outputItems: 0,
+        featureStats: [],
+        issues: fetchedFeed.issues,
+      };
+    }
+
+    if (!processedFeed || processedFeed.kind === "failure") {
+      return {
+        path: fetchedFeed.feed.path,
+        sourceUrl: describeFetchSource(fetchedFeed.feed),
+        limit: fetchedFeed.feed.limit,
+        inputItems: fetchedFeed.normalized.channel.items.length,
+        outputItems: 0,
+        featureStats: processedFeed?.featureStats ?? [],
+        issues: processedFeed?.issues ?? fetchedFeed.issues,
+      };
+    }
+
+    return {
+      path: fetchedFeed.feed.path,
+      sourceUrl: describeFetchSource(fetchedFeed.feed),
+      outputPath: processedFeed.rendered.outputPath,
+      limit: fetchedFeed.feed.limit,
+      inputItems: fetchedFeed.normalized.channel.items.length,
+      outputItems: processedFeed.rendered.itemCount,
+      featureStats: processedFeed.featureStats,
+      issues: processedFeed.issues,
+    };
+  });
 }
 
 function makeReport(runId: string, startedAt: string, finishedAt: string, feeds: RunReport["feeds"], issues: PipelineIssue[]): RunReport {
@@ -153,8 +172,7 @@ function summarizeFeatureStats(feeds: RunReport["feeds"]): FeatureRunStatsReport
         existing.cacheHits += feature.cacheHits;
         existing.generated += feature.generated;
         existing.failed += feature.failed;
-      }
-      else {
+      } else {
         stats.set(feature.kind, { ...feature });
       }
     }
@@ -203,14 +221,6 @@ ${feeds || "| - | 0 | - |"}
 
 function formatDuration(ms: number): string {
   return `${(ms / 1000).toFixed(1)}s`;
-}
-
-function errorToMessage(error: unknown): string {
-  if (error instanceof Error) {
-    const cause = error.cause instanceof Error ? `: ${error.cause.message}` : "";
-    return `${error.message}${cause}`;
-  }
-  return "feed failed";
 }
 
 await main();

@@ -188,6 +188,48 @@ export interface FeatureRunStatsReport {
   failed: number;
 }
 
+export interface FetchedFeedSuccess {
+  kind: "success";
+  feed: FeedConfig;
+  normalized: NormalizedFeed;
+  issues: PipelineIssue[];
+  startedAt: number;
+  finishedAt: number;
+}
+
+export interface FetchedFeedFailure {
+  kind: "failure";
+  feed: FeedConfig;
+  issues: PipelineIssue[];
+  startedAt: number;
+  finishedAt: number;
+}
+
+export type FetchedFeedResult = FetchedFeedSuccess | FetchedFeedFailure;
+
+export interface ProcessedFeedSuccess {
+  kind: "success";
+  feed: FeedConfig;
+  normalized: NormalizedFeed;
+  rendered: RenderedFeed;
+  featureStats: FeatureRunStatsReport[];
+  issues: PipelineIssue[];
+  startedAt: number;
+  finishedAt: number;
+}
+
+export interface ProcessedFeedFailure {
+  kind: "failure";
+  feed: FeedConfig;
+  normalized: NormalizedFeed;
+  featureStats: FeatureRunStatsReport[];
+  issues: PipelineIssue[];
+  startedAt: number;
+  finishedAt: number;
+}
+
+export type ProcessedFeedResult = ProcessedFeedSuccess | ProcessedFeedFailure;
+
 export interface RenderedFeed {
   path: string;
   pathKey: string;
