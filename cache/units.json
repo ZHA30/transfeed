@@ -1,6 +1,54 @@
 {
   "schemaVersion": 1,
   "entries": {
+    "2767ad1da4c90afd5707d437d4c6f7ef42b7cbf69ce78b12ce336fe8031eb97b": {
+      "feature": "translate",
+      "sourceHash": "19a2353f218f2044bb603cdc5834dd60fbaa0975d953a5553a78238346cd6c52",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "Show HN：你在权重中吗？",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:05:42.899Z"
+    },
+    "2736d01da9e45e4c01a4d1793014f49736679fd7edc015f0ec4d1993a962324c": {
+      "feature": "translate",
+      "sourceHash": "863faa0eb0978a0695644a39370f626231a53cb45c330433aa4b727d23bdfd7d",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "Zork名称来源在维基百科上有了更新",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:05:42.899Z"
+    },
+    "f6270b10c327c60926344e10112736febd83bb4ad08ba5494a9a06bb2a8ea53d": {
+      "feature": "translate",
+      "sourceHash": "cb86472e68215f26c2262ea97e0ba70cabe544458283a897ecad64daa4185cf0",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "我告诉他们强制同意是非法的。5年后，这让Elkjop付出了180万欧元的代价",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:05:42.899Z"
+    },
+    "d6f73d484b0ab9ac887bfa5992d3e1349b933a9b316b87d3134f747269b4de4f": {
+      "feature": "translate",
+      "sourceHash": "91c778eab993b4ced8d0daeb6455e912a4085badeac5d1032e1312d797b13bc9",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "令牌压缩幻觉：为什么我对RTK持怀疑态度",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:05:42.899Z"
+    },
     "b0cedea424fbfc55dc71c5ee08947d6d5feae9c5d9811b73dcb3866d1e26a8d6": {
       "feature": "translate",
       "sourceHash": "cf03e36ede42cd668e51bc2debac8432f26825d571b33f434903aeeb0a523d39",
@@ -24,18 +72,6 @@
         "extractionVersion": "v2"
       },
       "createdAt": "2026-06-18T19:26:21.104Z"
-    },
-    "e79871ae388ab35a9d9558b0761afe9dd6a5aed837d33b231449cde5def28933": {
-      "feature": "translate",
-      "sourceHash": "1e13c67778a5b3c3983036df3fb9cc0a6a77556727d9d5c35537768a3bb36d00",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "一个列出可提交网站的网站",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T16:29:46.145Z"
     },
     "715492d0a38c64db135125eb33ce93a702dffd767be19bc81db8728c01b78f62": {
       "feature": "translate",
@@ -97,6 +133,18 @@
       },
       "createdAt": "2026-06-18T16:29:46.145Z"
     },
+    "f700cee014f6756a7231be890567bf8c76fbca682c88bab8ef4a558f256d289a": {
+      "feature": "translate",
+      "sourceHash": "91f17befd52887acc9d776cf32158037ca2eb81ad271451fdc72835b4bf6b695",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "W Social、公共机构与欧洲数字主权的舞台",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:05:42.899Z"
+    },
     "ba7ee15392d02078207de2e665ea8d668f427336a6e33c5b79c17e1ab8d681d6": {
       "feature": "translate",
       "sourceHash": "0be5bec807ca24bbb2101a16ac4b6234f8c472da2b051c0b67bd293000a4bdb4",
@@ -156,90 +204,6 @@
         "extractionVersion": "v2"
       },
       "createdAt": "2026-06-18T16:29:46.145Z"
-    },
-    "b0d01642d391598c6202d88cbdf072ac78b3dddd1cc60d80418339c4275232fa": {
-      "feature": "translate",
-      "sourceHash": "21c0369087cf3f1288e407fd30e8777069fbf90329fbf94c1e075991eaf4cd3c",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "DeepSeek 推出 Vision",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T08:44:35.734Z"
-    },
-    "294ed75b65e0282bc9e9cca5a9639be70912d5b022509731bd3f10fa3281b7fc": {
-      "feature": "translate",
-      "sourceHash": "b0bbeffd361814122839a7903a68a18bf0c099c72c04c33bb130d173271a2916",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "万物皆BOM：物料清单百科全书",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:05:42.899Z"
-    },
-    "2767ad1da4c90afd5707d437d4c6f7ef42b7cbf69ce78b12ce336fe8031eb97b": {
-      "feature": "translate",
-      "sourceHash": "19a2353f218f2044bb603cdc5834dd60fbaa0975d953a5553a78238346cd6c52",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Show HN：你在权重中吗？",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:05:42.899Z"
-    },
-    "2736d01da9e45e4c01a4d1793014f49736679fd7edc015f0ec4d1993a962324c": {
-      "feature": "translate",
-      "sourceHash": "863faa0eb0978a0695644a39370f626231a53cb45c330433aa4b727d23bdfd7d",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "Zork名称来源在维基百科上有了更新",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:05:42.899Z"
-    },
-    "f6270b10c327c60926344e10112736febd83bb4ad08ba5494a9a06bb2a8ea53d": {
-      "feature": "translate",
-      "sourceHash": "cb86472e68215f26c2262ea97e0ba70cabe544458283a897ecad64daa4185cf0",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "我告诉他们强制同意是非法的。5年后，这让Elkjop付出了180万欧元的代价",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:05:42.899Z"
-    },
-    "d6f73d484b0ab9ac887bfa5992d3e1349b933a9b316b87d3134f747269b4de4f": {
-      "feature": "translate",
-      "sourceHash": "91c778eab993b4ced8d0daeb6455e912a4085badeac5d1032e1312d797b13bc9",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "令牌压缩幻觉：为什么我对RTK持怀疑态度",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:05:42.899Z"
-    },
-    "f700cee014f6756a7231be890567bf8c76fbca682c88bab8ef4a558f256d289a": {
-      "feature": "translate",
-      "sourceHash": "91f17befd52887acc9d776cf32158037ca2eb81ad271451fdc72835b4bf6b695",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "W Social、公共机构与欧洲数字主权的舞台",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:05:42.899Z"
     },
     "072ea847a24d0759ade18dc445ddb89c2e8a8478a91a6e3ce7325c0972f72139": {
       "feature": "translate",
@@ -301,6 +265,78 @@
       },
       "createdAt": "2026-06-18T22:05:42.899Z"
     },
+    "dfe0c7683797055b2f672681b540f4af529294a519bf2f4fb33860a6540c00e7": {
+      "feature": "translate",
+      "sourceHash": "665c92b7ec7eeccfa2559f86ae4ff85acc501c375427dc6cc1510f8900703f09",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "Ocean Observatories Initiative 更新",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-19T00:24:58.651Z"
+    },
+    "ed15c0e3e00120b6612afafc41e1115b37b4c1c99d5fbb4ae7d389feb8440dd6": {
+      "feature": "translate",
+      "sourceHash": "bb8dff028dcedf084b91cd6346fd2e8481c5b23d672b168d2e8e189e477f419b",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "AirPods 效应",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-19T00:24:58.651Z"
+    },
+    "ee2cffdec2dfca2a15f953bd5c1c6ab7861e991a51436c738b1ec378f2013226": {
+      "feature": "translate",
+      "sourceHash": "e7adca310b0914fe2bbcc3ef6c9bca19f3d778a3620535fa46cd3082f89e8bb2",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "MCP 的零接触 OAuth",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-19T00:24:58.651Z"
+    },
+    "549b8e38efe847740c94c6c4283f847b96d947603d041d8621c4b27216e1cc0d": {
+      "feature": "translate",
+      "sourceHash": "7bfaba174f7a189376df99c8eb7213d2e86818616a1193821a6f75582c5d0b85",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "奥巴马夫妇主持芝加哥总统中心众星云集的开业典礼",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:06:08.893Z"
+    },
+    "49466a9c435ea6d6415e5f57b1d6428e20ab951753d824a0ebfda582c4343d65": {
+      "feature": "translate",
+      "sourceHash": "af86738b95bc37f3476d28ae989c8fe884bdf2192ae495a4cd6c9f761ebb755a",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "美国解除海军封锁 伊朗最高领袖称特朗普‘出于绝望’达成协议",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:06:08.893Z"
+    },
+    "5004944a5912a31e60b40c03cddb85231b77cb179274462225a3580ee353b534": {
+      "feature": "translate",
+      "sourceHash": "7874e307784d9d076e138623e762c3fd797da7a633b0da194c053594bc1ec590",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "苏格兰未能取得对西印度群岛的著名胜利",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:06:08.893Z"
+    },
     "4856d8e5a9030f65baf7f00b04914fae67afb2d881009995dba013538be56a30": {
       "feature": "translate",
       "sourceHash": "1225d5f08113ea1f40406544a4e09df9741369b96490a19c926eaf9865387027",
@@ -312,6 +348,18 @@
         "extractionVersion": "v2"
       },
       "createdAt": "2026-06-18T16:30:03.327Z"
+    },
+    "6d2fefad8424c11f63b739bfd177adf1681ff275297620e27bbab48e9f164829": {
+      "feature": "translate",
+      "sourceHash": "c35f1b27366d973fb6f954091217a91caeae779682e4a0ed589bea301005444d",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "乌西克-费尔霍恩的裁判在铃响前已判定比赛结束",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:06:08.893Z"
     },
     "73762e9e4bd79d09d522878c99a9a383b0a979eb5425b081964af7999bdbe602": {
       "feature": "translate",
@@ -337,6 +385,18 @@
       },
       "createdAt": "2026-06-18T19:26:38.237Z"
     },
+    "63fb0f665d3974a75a86ddb7d440818055e98a5b31874e504c8f37f42fbc9fe4": {
+      "feature": "translate",
+      "sourceHash": "57572c801dc2b82ffc54f5f562b7a925d278d1a04c9bda5bd6cd5592e310aa15",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "议员卡梅伦·托马斯在警方调查期间被停职",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:06:08.893Z"
+    },
     "508f6974a73c956beb0db4baf7dfde8d4ca8839808fcaef6216c0904e24773d4": {
       "feature": "translate",
       "sourceHash": "4d297c432689b3a68d3a82741a7dee76f271df7c1706d5a03cfbbf40bd8c97f1",
@@ -348,6 +408,18 @@
         "extractionVersion": "v2"
       },
       "createdAt": "2026-06-18T19:26:38.237Z"
+    },
+    "b683908226bfb4e610700a877992887d10548474aff45d5e4a898188218040f1": {
+      "feature": "translate",
+      "sourceHash": "e62f96fc726bda689d61fc9bfade1d4bae4d403850f0062ad4c42b3966173396",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "图赫尔对国歌的抱怨导致国际足联移动摄影师",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:06:08.893Z"
     },
     "20cafee769833dac2ff10787ea611556dce5b63aa7a923d6f781690ae49a319c": {
       "feature": "translate",
@@ -469,137 +541,65 @@
       },
       "createdAt": "2026-06-18T16:30:03.327Z"
     },
-    "b13293c54cda98cdb0fcec64cbf2430f9f5574df04080dba9cc72de991d39594": {
+    "d65f7e04252803f3cb185b32700de959d532770f251046bcc9ebb5516672e07d": {
       "feature": "translate",
-      "sourceHash": "b53d1c71a4751ebdbe0f12a0ac6649b8623b5d6b3342abfe8eee657a246aca2b",
+      "sourceHash": "a3ea47e4e724770fbbd903fbe1601758c7a36f2a9a6f2678deb29ae266ac6a52",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "杀害养子的教师扭曲的人生",
+      "output": "'幼儿危急'与'生活成本希望'",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T16:30:03.327Z"
+      "createdAt": "2026-06-19T00:25:04.442Z"
     },
-    "cce98fd1aaef44862f85d141c258443f3a48906720bbdf39363d066307ba720e": {
+    "1d49afd7364fcbf0ea44125bffd1acc711bcdedd06d0bea1f323a1972bdfda3a": {
       "feature": "translate",
-      "sourceHash": "d8a86fc8399031e0fa934fb6f476e7b4b3b15de8e560e865f364b254a56c2385",
+      "sourceHash": "2bccba8676cd9c955c83468417e5c9eea00a6e1175280df55eb84f679db6a5bb",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "英国学生平均毕业时负债47,700英镑——学位值得吗？",
+      "output": "BBC因性别歧视语言指控撤下Ashley Cain新剧",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T16:30:03.327Z"
+      "createdAt": "2026-06-19T00:25:04.442Z"
     },
-    "b9afede0190e7ae6ce43e1e8827beb986be8ef9140828e5dec24527f31393eaf": {
+    "ad74de70b13199a3844bc437f2571cd78a7241a9d74ef2362a30ac4d627ccd0b": {
       "feature": "translate",
-      "sourceHash": "a50bbfeb7f7617d9e54476f2c0b7472cefc27143b69d9b027013f26e140fcf0b",
+      "sourceHash": "e9d0962bd7064404cb8b2b021e66f3695f3d5eac90170758b3395d4cad698208",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "威尔士海滩出现“惊艳绝伦”的蓝色海洋生物",
+      "output": "'他藏起了单点菜单'：首次约会谁该买单？",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T16:30:03.327Z"
+      "createdAt": "2026-06-19T00:25:04.442Z"
     },
-    "8f5eb2d7295d96fc638a25c40b79a4021867309c78278a6f616b9cb583bf2b67": {
+    "2061bb0915b222f6cd53c0d67b1bb334515e9204188ab4de31d0891fabb9869c": {
       "feature": "translate",
-      "sourceHash": "a4cf5a0b932e42777d67850d79231e98f376d7fdb91644b6449c6b03a87bb463",
+      "sourceHash": "99a258c943cc49416605dc8f67c2c4fbf8cb2af4c9bdf0c618c2ea31d32381c8",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "英国央行维持利率不变，并警告高能源价格的影响",
+      "output": "伊朗和平协议影响你和你的钱包的五种方式",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T16:30:03.327Z"
+      "createdAt": "2026-06-19T00:25:04.442Z"
     },
-    "49466a9c435ea6d6415e5f57b1d6428e20ab951753d824a0ebfda582c4343d65": {
+    "8d82bf09947a670f588d89b4aac0c77d0dd962d7ed99f033ac48eca41db5c62e": {
       "feature": "translate",
-      "sourceHash": "af86738b95bc37f3476d28ae989c8fe884bdf2192ae495a4cd6c9f761ebb755a",
+      "sourceHash": "d8d4e0a6da1d05d249e1d67b645cef2b65881eec9abab09b5d1c68a140b84968",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "美国解除海军封锁 伊朗最高领袖称特朗普‘出于绝望’达成协议",
+      "output": "每周问答：有多少SpaceX员工刚刚成为百万富翁？",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T22:06:08.893Z"
-    },
-    "5004944a5912a31e60b40c03cddb85231b77cb179274462225a3580ee353b534": {
-      "feature": "translate",
-      "sourceHash": "7874e307784d9d076e138623e762c3fd797da7a633b0da194c053594bc1ec590",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "苏格兰未能取得对西印度群岛的著名胜利",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:06:08.893Z"
-    },
-    "549b8e38efe847740c94c6c4283f847b96d947603d041d8621c4b27216e1cc0d": {
-      "feature": "translate",
-      "sourceHash": "7bfaba174f7a189376df99c8eb7213d2e86818616a1193821a6f75582c5d0b85",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "奥巴马夫妇主持芝加哥总统中心众星云集的开业典礼",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:06:08.893Z"
-    },
-    "27a74ad18ab98530bfa7dfc8ad4a810352742e8d4b90892d71355a67c6b72f2d": {
-      "feature": "translate",
-      "sourceHash": "bb06933e84041e4507f4d40656a496c3927a6818f7aac7427a7b882c974aa153",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "伊朗和美国从协议中得到什么以及为何双方都难以遵守",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:06:08.893Z"
-    },
-    "6d2fefad8424c11f63b739bfd177adf1681ff275297620e27bbab48e9f164829": {
-      "feature": "translate",
-      "sourceHash": "c35f1b27366d973fb6f954091217a91caeae779682e4a0ed589bea301005444d",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "乌西克-费尔霍恩的裁判在铃响前已判定比赛结束",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:06:08.893Z"
-    },
-    "63fb0f665d3974a75a86ddb7d440818055e98a5b31874e504c8f37f42fbc9fe4": {
-      "feature": "translate",
-      "sourceHash": "57572c801dc2b82ffc54f5f562b7a925d278d1a04c9bda5bd6cd5592e310aa15",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "议员卡梅伦·托马斯在警方调查期间被停职",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:06:08.893Z"
-    },
-    "b683908226bfb4e610700a877992887d10548474aff45d5e4a898188218040f1": {
-      "feature": "translate",
-      "sourceHash": "e62f96fc726bda689d61fc9bfade1d4bae4d403850f0062ad4c42b3966173396",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "图赫尔对国歌的抱怨导致国际足联移动摄影师",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:06:08.893Z"
+      "createdAt": "2026-06-19T00:25:04.442Z"
     },
     "fb6bc584b850b0613f1d98ba98a5da9f1481346ca993818859355b76f2890219": {
       "feature": "translate",
@@ -3205,17 +3205,29 @@
       },
       "createdAt": "2026-06-15T03:04:35.221Z"
     },
-    "a1d79ad3f2468ad49c76aab217366dc39daf72d955795d1147ba6cde95555e38": {
+    "973788432b571dcac8f399a8706c0e39eb14ec737cc48962a31527028d713f75": {
       "feature": "translate",
-      "sourceHash": "1503cb1d73e47aa1ca7d981a6917ed98d173f349026e43da7dd7716dbc8f7944",
+      "sourceHash": "f319f8740089cc49593cc21088e1647263f121af718102a1e286930e92f26d8e",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "伊朗战争实时更新：万斯在捍卫特朗普的交易时向以色列发出直率警告",
+      "output": "俄罗斯的批评者称这位批评者不够批判",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T19:26:45.865Z"
+      "createdAt": "2026-06-18T12:24:37.311Z"
+    },
+    "568585f114fb5c803f9439a18012acd363c6540f0468c69269aa659a31315eb9": {
+      "feature": "translate",
+      "sourceHash": "9f1b91173ff2eef46f43a2372d4eb5cf34ff9e5f6c68c1f40353ae39bdef5a33",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "伊朗核协议的余波",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:06:19.637Z"
     },
     "03a45c4d99a80ac0cfd018e5903c3173416b5e82c388311f2f81ca097db976ef": {
       "feature": "translate",
@@ -3229,6 +3241,18 @@
       },
       "createdAt": "2026-06-18T19:26:45.865Z"
     },
+    "de058170da559962c62341069a3697069d728d8fd06063e4e7387144f55f9bd1": {
+      "feature": "translate",
+      "sourceHash": "1133cf063c91f41dc12e97fbb64923280fb0dfa7477161dfa0fdc4fe1d989b3e",
+      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
+      "output": "万斯猛烈抨击批评美伊结束战争协议的以色列人",
+      "model": "deepseek-v4-flash-free",
+      "metadata": {
+        "targetLanguage": "zh-CN",
+        "extractionVersion": "v2"
+      },
+      "createdAt": "2026-06-18T22:06:19.637Z"
+    },
     "5568e703b1b94f537b6d49e05bfb68cb6cd2a16edbfa186372bc45ea2ddbc954": {
       "feature": "translate",
       "sourceHash": "ef4aff765f5039701f4d8acb87f6aa5f58d7080bbaea83780095c5ed7f42fac7",
@@ -3241,17 +3265,17 @@
       },
       "createdAt": "2026-06-18T08:44:56.680Z"
     },
-    "973788432b571dcac8f399a8706c0e39eb14ec737cc48962a31527028d713f75": {
+    "a4c8c4daac582edc3f3e9d1b80e9da54955c88461297c525545ccf98a93e374c": {
       "feature": "translate",
-      "sourceHash": "f319f8740089cc49593cc21088e1647263f121af718102a1e286930e92f26d8e",
+      "sourceHash": "408320579c364cd8276b7d9c4d21855a235d0c6a9d15b2b5cf80ddab03f28655",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "俄罗斯的批评者称这位批评者不够批判",
+      "output": "在达成协议前，特朗普要求伊朗投降。他得到了一个意外。",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T12:24:37.311Z"
+      "createdAt": "2026-06-18T22:06:19.637Z"
     },
     "1301f639cf336f17f48f82b70f9d8c5c3fcd04f8119cf7cf4ae7471cd0494419": {
       "feature": "translate",
@@ -3445,65 +3469,41 @@
       },
       "createdAt": "2026-06-18T12:24:37.311Z"
     },
-    "a82f827837237529e18fb5d4adb74ba2dd268e22cfc0ef716428878cc0d38ec1": {
+    "d401d4c4f324730afff3232ecb434338b4e8f75e654858ae082de8689411a746": {
       "feature": "translate",
-      "sourceHash": "cba9140a9042cab9982a6064aaa34f3505b13468b2b5083ae74b71ea3efdb6fd",
+      "sourceHash": "29bb5af11aadde24b8e1bb09a08ca1dc1a417ce3e351df790ab663025e589ce1",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "在东南亚，转向太阳能可缓解伊朗战争造成的能源危机",
+      "output": "万斯在捍卫特朗普协议时向以色列发出直率警告",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T08:44:56.680Z"
+      "createdAt": "2026-06-19T00:25:12.435Z"
     },
-    "d5617c25fb9dbcf275e0523d75d53cbbb3ac3795f1655cb5072434734c9e8b5f": {
+    "e855e88d1204fdd0e2910d969a5301e264ca3f0f422dda217f520d2a234c7eee": {
       "feature": "translate",
-      "sourceHash": "cb8faeefc1e08f9a74f8fc780a316ab99fe579b8bce869c87943ac1bbbde17b2",
+      "sourceHash": "b45c1428227599bd2264f564d859b66197b97f30a95d8ec29c00d209084a9084",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "阿富汗发布禁令，禁止公务员和军人使用智能手机",
+      "output": "万斯对伊朗协议的辩护基于模糊且误导性的说法",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T16:30:17.849Z"
+      "createdAt": "2026-06-19T00:25:12.435Z"
     },
-    "568585f114fb5c803f9439a18012acd363c6540f0468c69269aa659a31315eb9": {
+    "53d6af854bba740ce191dda2ae08f950709f01c43c959ce5c803a1cf391199ab": {
       "feature": "translate",
-      "sourceHash": "9f1b91173ff2eef46f43a2372d4eb5cf34ff9e5f6c68c1f40353ae39bdef5a33",
+      "sourceHash": "9d46ee5433d89f00907ec18054f77f25f26cda046dc488e3909e5a9e50c307aa",
       "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "伊朗核协议的余波",
+      "output": "警方称男子迫使3岁男孩进入英国动物园鳄鱼池",
       "model": "deepseek-v4-flash-free",
       "metadata": {
         "targetLanguage": "zh-CN",
         "extractionVersion": "v2"
       },
-      "createdAt": "2026-06-18T22:06:19.637Z"
-    },
-    "de058170da559962c62341069a3697069d728d8fd06063e4e7387144f55f9bd1": {
-      "feature": "translate",
-      "sourceHash": "1133cf063c91f41dc12e97fbb64923280fb0dfa7477161dfa0fdc4fe1d989b3e",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "万斯猛烈抨击批评美伊结束战争协议的以色列人",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:06:19.637Z"
-    },
-    "a4c8c4daac582edc3f3e9d1b80e9da54955c88461297c525545ccf98a93e374c": {
-      "feature": "translate",
-      "sourceHash": "408320579c364cd8276b7d9c4d21855a235d0c6a9d15b2b5cf80ddab03f28655",
-      "promptHash": "51cb275d5cdc951735262f3c08bb289ac2d8561831d916ee27a9b944bd01a95f",
-      "output": "在达成协议前，特朗普要求伊朗投降。他得到了一个意外。",
-      "model": "deepseek-v4-flash-free",
-      "metadata": {
-        "targetLanguage": "zh-CN",
-        "extractionVersion": "v2"
-      },
-      "createdAt": "2026-06-18T22:06:19.637Z"
+      "createdAt": "2026-06-19T00:25:12.435Z"
     },
     "5eb725607e5e4541966ed719b8ffdf5c1b860e27b66e4df71f0daf72cd1b8099": {
       "feature": "translate",
