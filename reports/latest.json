@@ -1,7 +1,7 @@
 {
-  "runId": "27861135747",
-  "startedAt": "2026-06-20T05:11:11.597Z",
-  "finishedAt": "2026-06-20T05:28:52.528Z",
+  "runId": "27866165869",
+  "startedAt": "2026-06-20T08:51:51.200Z",
+  "finishedAt": "2026-06-20T09:22:00.944Z",
   "status": "partial",
   "feeds": [
     {
@@ -15,8 +15,8 @@
         {
           "kind": "translate",
           "units": 25,
-          "cacheHits": 12,
-          "generated": 13,
+          "cacheHits": 16,
+          "generated": 9,
           "failed": 0
         }
       ],
@@ -33,8 +33,8 @@
         {
           "kind": "translate",
           "units": 25,
-          "cacheHits": 7,
-          "generated": 18,
+          "cacheHits": 18,
+          "generated": 7,
           "failed": 0
         }
       ],
@@ -69,8 +69,8 @@
         {
           "kind": "translate",
           "units": 25,
-          "cacheHits": 21,
-          "generated": 4,
+          "cacheHits": 24,
+          "generated": 1,
           "failed": 0
         }
       ],
@@ -157,9 +157,9 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 127,
-          "cacheHits": 68,
-          "generated": 59,
+          "units": 119,
+          "cacheHits": 106,
+          "generated": 13,
           "failed": 0
         }
       ],
@@ -175,9 +175,9 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 171,
-          "cacheHits": 13,
-          "generated": 158,
+          "units": 140,
+          "cacheHits": 20,
+          "generated": 120,
           "failed": 0
         }
       ],
@@ -188,6 +188,21 @@
           "code": "fetch_retry",
           "message": "retry 1/2 after fetch failed: 503 Service Unavailable",
           "path": "/yna/latest"
+        },
+        {
+          "stage": "fetch",
+          "severity": "warning",
+          "code": "fetch_retry",
+          "message": "retry 2/2 after fetch failed: 503 Service Unavailable",
+          "path": "/yna/latest"
+        },
+        {
+          "stage": "feature",
+          "severity": "warning",
+          "code": "batch_retry",
+          "message": "llm response contains unknown id: c6071d0334d65feced8706d7ce0e837ce9e815c5e87bf34791c22691862dcba25",
+          "path": "/yna/latest",
+          "feature": "translate"
         }
       ]
     },
@@ -201,9 +216,9 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 121,
-          "cacheHits": 51,
-          "generated": 70,
+          "units": 122,
+          "cacheHits": 82,
+          "generated": 40,
           "failed": 0
         }
       ],
@@ -227,13 +242,21 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 249,
-          "cacheHits": 26,
-          "generated": 223,
+          "units": 214,
+          "cacheHits": 64,
+          "generated": 150,
           "failed": 0
         }
       ],
-      "issues": []
+      "issues": [
+        {
+          "stage": "fetch",
+          "severity": "warning",
+          "code": "fetch_retry",
+          "message": "retry 1/2 after fetch failed: 503 Service Unavailable",
+          "path": "/yomiuri/news"
+        }
+      ]
     },
     {
       "path": "/nhk/news_web/latest",
@@ -245,9 +268,9 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 352,
-          "cacheHits": 39,
-          "generated": 313,
+          "units": 442,
+          "cacheHits": 120,
+          "generated": 322,
           "failed": 0
         }
       ],
@@ -256,7 +279,15 @@
           "stage": "feature",
           "severity": "warning",
           "code": "batch_retry",
-          "message": "llm response contains unknown id: 4485cf3e32fa527763efad7fb19d081345abaafd73936d47f4f886d27db3dec",
+          "message": "llm response missing ids",
+          "path": "/nhk/news_web/latest",
+          "feature": "translate"
+        },
+        {
+          "stage": "feature",
+          "severity": "warning",
+          "code": "batch_retry",
+          "message": "llm response contains unknown id: 36cddc8929c3033b177da8507e07d4bef02e168c76a7497fc26c4155581fe67c",
           "path": "/nhk/news_web/latest",
           "feature": "translate"
         }
@@ -271,9 +302,9 @@
     "featureStats": [
       {
         "kind": "translate",
-        "units": 1424,
-        "cacheHits": 566,
-        "generated": 858,
+        "units": 1441,
+        "cacheHits": 779,
+        "generated": 662,
         "failed": 0
       }
     ]
@@ -297,14 +328,44 @@
       "stage": "fetch",
       "severity": "warning",
       "code": "fetch_retry",
-      "message": "retry 1/2 after fetch failed: 503 Service Unavailable",
-      "path": "/nikkei/news"
+      "message": "retry 2/2 after fetch failed: 503 Service Unavailable",
+      "path": "/yna/latest"
     },
     {
       "stage": "feature",
       "severity": "warning",
       "code": "batch_retry",
-      "message": "llm response contains unknown id: 4485cf3e32fa527763efad7fb19d081345abaafd73936d47f4f886d27db3dec",
+      "message": "llm response contains unknown id: c6071d0334d65feced8706d7ce0e837ce9e815c5e87bf34791c22691862dcba25",
+      "path": "/yna/latest",
+      "feature": "translate"
+    },
+    {
+      "stage": "fetch",
+      "severity": "warning",
+      "code": "fetch_retry",
+      "message": "retry 1/2 after fetch failed: 503 Service Unavailable",
+      "path": "/nikkei/news"
+    },
+    {
+      "stage": "fetch",
+      "severity": "warning",
+      "code": "fetch_retry",
+      "message": "retry 1/2 after fetch failed: 503 Service Unavailable",
+      "path": "/yomiuri/news"
+    },
+    {
+      "stage": "feature",
+      "severity": "warning",
+      "code": "batch_retry",
+      "message": "llm response missing ids",
+      "path": "/nhk/news_web/latest",
+      "feature": "translate"
+    },
+    {
+      "stage": "feature",
+      "severity": "warning",
+      "code": "batch_retry",
+      "message": "llm response contains unknown id: 36cddc8929c3033b177da8507e07d4bef02e168c76a7497fc26c4155581fe67c",
       "path": "/nhk/news_web/latest",
       "feature": "translate"
     }
