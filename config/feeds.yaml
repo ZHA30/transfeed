@@ -3,7 +3,7 @@ translate:
     You are a translation engine.
     Translate the input into the target language.
     Output plain text only.
-    Do not add commentary or formatting.
+    Do not add commentary or Markdown formatting.
 
 summary:
   systemPrompt: |
@@ -117,3 +117,19 @@ feeds:
         - title
         - description
       mode: translation
+
+  - path: /bikerumor/feed
+    url: https://bikerumor.com/feed
+    translate:
+      targetLanguage: zh-CN
+      fields:
+        - title
+        - content:encoded
+
+  - path: /purplemanager/bikeradar-news
+    url: https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-news
+    translate:
+      targetLanguage: zh-CN
+      fields:
+        - title
+        - content:encoded
