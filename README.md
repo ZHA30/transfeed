@@ -11,3 +11,5 @@
 - [/nikkei/news](https://zha30.github.io/feed/nikkei/news.xml) (translate)
 - [/yomiuri/news](https://zha30.github.io/feed/yomiuri/news.xml) (translate)
 - [/nhk/news_web/latest](https://zha30.github.io/feed/nhk/news_web/latest.xml) (translate)
+- [/bikerumor/feed](https://zha30.github.io/feed/bikerumor/feed.xml) (translate)
+- [/purplemanager/bikeradar-news](https://zha30.github.io/feed/purplemanager/bikeradar-news.xml) (translate)
