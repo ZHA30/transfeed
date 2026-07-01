@@ -1,7 +1,7 @@
 {
-  "runId": "28543651516",
-  "startedAt": "2026-07-01T19:50:43.100Z",
-  "finishedAt": "2026-07-01T20:00:07.458Z",
+  "runId": "28548790320",
+  "startedAt": "2026-07-01T21:25:54.059Z",
+  "finishedAt": "2026-07-01T21:36:36.933Z",
   "status": "partial",
   "feeds": [
     {
@@ -15,8 +15,8 @@
         {
           "kind": "translate",
           "units": 25,
-          "cacheHits": 15,
-          "generated": 10,
+          "cacheHits": 18,
+          "generated": 7,
           "failed": 0
         }
       ],
@@ -33,8 +33,8 @@
         {
           "kind": "translate",
           "units": 25,
-          "cacheHits": 12,
-          "generated": 13,
+          "cacheHits": 22,
+          "generated": 3,
           "failed": 0
         }
       ],
@@ -69,8 +69,8 @@
         {
           "kind": "translate",
           "units": 25,
-          "cacheHits": 23,
-          "generated": 2,
+          "cacheHits": 24,
+          "generated": 1,
           "failed": 0
         }
       ],
@@ -166,18 +166,27 @@
       "sourceUrl": "https://rss.20260501.xyz/chosun/politics?key=***",
       "outputPath": "dist/chosun/politics.xml",
       "limit": 25,
-      "inputItems": 17,
-      "outputItems": 17,
+      "inputItems": 16,
+      "outputItems": 16,
       "featureStats": [
         {
           "kind": "translate",
-          "units": 220,
-          "cacheHits": 143,
-          "generated": 77,
+          "units": 210,
+          "cacheHits": 165,
+          "generated": 45,
           "failed": 0
         }
       ],
-      "issues": []
+      "issues": [
+        {
+          "stage": "feature",
+          "severity": "warning",
+          "code": "batch_retry",
+          "message": "llm response contains unknown id: 82f82114fb298ea2e0a35a01f8dcab51bd3ba6f55f676f1a7dd195d31ff94759",
+          "path": "/chosun/politics",
+          "feature": "translate"
+        }
+      ]
     },
     {
       "path": "/yna/latest",
@@ -189,9 +198,9 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 141,
-          "cacheHits": 12,
-          "generated": 129,
+          "units": 120,
+          "cacheHits": 7,
+          "generated": 113,
           "failed": 0
         }
       ],
@@ -215,21 +224,13 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 103,
-          "cacheHits": 88,
-          "generated": 15,
+          "units": 98,
+          "cacheHits": 0,
+          "generated": 98,
           "failed": 0
         }
       ],
-      "issues": [
-        {
-          "stage": "fetch",
-          "severity": "warning",
-          "code": "fetch_retry",
-          "message": "retry 1/2 after fetch failed: 503 Service Unavailable",
-          "path": "/nikkei/news"
-        }
-      ]
+      "issues": []
     },
     {
       "path": "/yomiuri/news",
@@ -241,9 +242,9 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 178,
-          "cacheHits": 166,
-          "generated": 12,
+          "units": 36,
+          "cacheHits": 1,
+          "generated": 35,
           "failed": 0
         }
       ],
@@ -259,9 +260,9 @@
       "featureStats": [
         {
           "kind": "translate",
-          "units": 218,
-          "cacheHits": 197,
-          "generated": 21,
+          "units": 160,
+          "cacheHits": 27,
+          "generated": 133,
           "failed": 0
         }
       ],
@@ -278,8 +279,8 @@
         {
           "kind": "translate",
           "units": 373,
-          "cacheHits": 291,
-          "generated": 82,
+          "cacheHits": 373,
+          "generated": 0,
           "failed": 0
         }
       ],
@@ -307,14 +308,14 @@
   "totals": {
     "feeds": 15,
     "renderedFeeds": 14,
-    "inputItems": 256,
-    "outputItems": 256,
+    "inputItems": 255,
+    "outputItems": 255,
     "featureStats": [
       {
         "kind": "translate",
-        "units": 2623,
-        "cacheHits": 2262,
-        "generated": 361,
+        "units": 2387,
+        "cacheHits": 1952,
+        "generated": 435,
         "failed": 0
       }
     ]
@@ -342,18 +343,19 @@
       "path": "/kcna/kp/latest-news"
     },
     {
-      "stage": "fetch",
+      "stage": "feature",
       "severity": "warning",
-      "code": "fetch_retry",
-      "message": "retry 1/2 after fetch failed: 503 Service Unavailable",
-      "path": "/yna/latest"
+      "code": "batch_retry",
+      "message": "llm response contains unknown id: 82f82114fb298ea2e0a35a01f8dcab51bd3ba6f55f676f1a7dd195d31ff94759",
+      "path": "/chosun/politics",
+      "feature": "translate"
     },
     {
       "stage": "fetch",
       "severity": "warning",
       "code": "fetch_retry",
       "message": "retry 1/2 after fetch failed: 503 Service Unavailable",
-      "path": "/nikkei/news"
+      "path": "/yna/latest"
     }
   ]
 }
